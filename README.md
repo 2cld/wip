@@ -1,3 +1,3 @@
 wip.2cld.net
 
-- [docs](./docs)
+- [docs](./wip.2cld.net/docs)
