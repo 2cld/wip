@@ -26,6 +26,9 @@ wip.2cld.net
 - [kiro.dev download](https://kiro.dev/downloads/) ai chat
   - [docs](https://kiro.dev/docs/getting-started/)
   - [.kiro/steering/*.md](https://kiro.dev/docs/steering/) steering docs <-- **trink note**
+- Warp [https://www.warp.dev/](https://www.warp.dev/)
+- Replit [https://replit.com/](https://replit.com/)
+- autonomai (like replit) [https://autonomyai.io/](https://autonomyai.io/)
 - Google stuff
   - [http://google.com/aimode](http://google.com/aimode)
   - [https://notebooklm.google.com/](https://notebooklm.google.com/)
