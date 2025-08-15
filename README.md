@@ -5,8 +5,15 @@ wip.2cld.net
 - ~~update calendar hwpc-test 7am-4pm~~
 - ~~Send trink kiro info~~ (see **trink note** below)
 - Cleanup [hwpc-bug](https://github.com/grasshorse/hwpc-bug) api test
-  - set api test data to special customers, tickets and routes
-  - rebuild db seed and check db structure
+  - ~~backup working test db~~ C:\Users\ghadmin\code\hwpc-gs\backend\database\zdbbackup\20250815-hwpc-bug-pass
+  - ~~rebuild db seed and check db structure~~
+  - looneyTunesTest C:\Users\ghadmin\code\hwpc-gs\backend\database\zdbbackup\looneyTunesTest
+    - ~~customers.json~~
+    - routes.json
+    - tickets.json
+    - users.json 
+  - manual looneyTunesTest update
+  - set api test data to special looneyTunesTest customers, tickets and routes
   - make api feature test work with new seed
   - retest db resets and db migration
 - Figure out hwpc old db data
