@@ -36,6 +36,7 @@ wip.2cld.net
 - Warp [https://www.warp.dev/](https://www.warp.dev/)
 - Replit [https://replit.com/](https://replit.com/)
 - autonomai (like replit) [https://autonomyai.io/](https://autonomyai.io/)
+- claude code [https://claude.ai/](https://claude.ai/)
 - Google stuff
   - [http://google.com/aimode](http://google.com/aimode)
   - [https://notebooklm.google.com/](https://notebooklm.google.com/)
