@@ -2,8 +2,11 @@ wip.2cld.net
 [edit](https://github.com/2cld/wip/edit/main/README.md)
 
 # Today
-- ~~update calendar hwpc-test 7am-4pm~~
-- ~~Send trink kiro info~~ (see **trink note** below)
+- Setup local n8n 
+  - View tutorial
+  - Create n8n service project on [netstack.com edit portals n8n](https://github.com/2cld/netstack/tree/master/docs/portals)
+  - Setup in sl and cf use and update [2cld.net](https://2cld.net/)
+  - create plex monitoring [netstack plex edit](https://github.com/2cld/netstack/tree/master/docs/portals/plex)
 - Cleanup [hwpc-bug](https://github.com/grasshorse/hwpc-bug) api test
   - ~~backup working test db~~ C:\Users\ghadmin\code\hwpc-gs\backend\database\zdbbackup\20250815-hwpc-bug-pass
   - ~~rebuild db seed and check db structure~~
@@ -20,8 +23,9 @@ wip.2cld.net
   - review old code on [https://hwpc.2cld.net/](https://hwpc.2cld.net/)
   - look for old dev vm ?
   - setup google sheet like old db and get import / export working
-- mow backyard
-- varmit trapline
+- Setup Steve Testing
+- Setup Candy Testing
+
 
 # Active
 - [https://github.com/grasshorse/hwpc-gs](https://github.com/grasshorse/hwpc-gs) Pest Control Service Management
