@@ -3,8 +3,9 @@ wip.2cld.net
 
 # Today
 - Setup local n8n 
-  - View tutorial
-  - Create n8n service project on [netstack.com edit portals n8n](https://github.com/2cld/netstack/tree/master/docs/portals)
+  - ~~View tutorial~~
+  - ~~Create n8n service project on [netstack.com edit portals n8n](https://github.com/2cld/netstack/tree/master/docs/portals)~~
+  - ~~Create n8n install~~
   - Setup in sl and cf use and update [2cld.net](https://2cld.net/)
   - create plex monitoring [netstack plex edit](https://github.com/2cld/netstack/tree/master/docs/portals/plex)
 - Cleanup [hwpc-bug](https://github.com/grasshorse/hwpc-bug) api test
@@ -26,6 +27,10 @@ wip.2cld.net
 - Setup Steve Testing
 - Setup Candy Testing
 
+# Tomorrow que
+- Cleanup Keep notes christrees
+- Cleanup Keep notes ghadmin
+- wip for me, steve, candy, brian, kenton
 
 # Active
 - [https://github.com/grasshorse/hwpc-gs](https://github.com/grasshorse/hwpc-gs) Pest Control Service Management
