@@ -2,35 +2,35 @@ wip.2cld.net
 [edit](https://github.com/2cld/wip/edit/main/README.md)
 
 # Today
+- ~~Cleanup Keep notes christrees~~
+- ~~Cleanup hwpc-gs and hwpc-bug looneyTunesTest-v1~~
+
 - Setup local n8n 
   - ~~View tutorial~~
-  - ~~Create n8n service project on [netstack.com edit portals n8n](https://github.com/2cld/netstack/tree/master/docs/portals)~~
-  - ~~Create n8n install~~
+  - ~~Create n8n service project~~ on [netstack.com edit portals n8n](https://github.com/2cld/netstack/tree/master/docs/portals)
+  - ~~Create n8n install~~ [https://netstack.org/docs/portals/n8n/](https://netstack.org/docs/portals/n8n/)
+  - get a test docker node running in cf and sl
+    - [https://sl.2cld.net/](https://sl.2cld.net/)
+    - [https://cf.2cld.net/](https://cf.2cld.net/)
+  - update n8n deployment document and service maps
+    - [https://sl.2cld.net/docs/services](https://sl.2cld.net/docs/services)
+    - [https://cf.2cld.net/docs/services](https://cf.2cld.net/docs/services)
   - Setup in sl and cf use and update [2cld.net](https://2cld.net/)
   - create plex monitoring [netstack plex edit](https://github.com/2cld/netstack/tree/master/docs/portals/plex)
-- Cleanup [hwpc-bug](https://github.com/grasshorse/hwpc-bug) api test
-  - ~~backup working test db~~ C:\Users\ghadmin\code\hwpc-gs\backend\database\zdbbackup\20250815-hwpc-bug-pass
-  - ~~rebuild db seed and check db structure~~
-  - looneyTunesTest C:\Users\ghadmin\code\hwpc-gs\backend\database\zdbbackup\looneyTunesTest
-    - ~~customers.json~~
-    - routes.json
-    - tickets.json
-    - users.json 
-  - manual looneyTunesTest update
-  - set api test data to special looneyTunesTest customers, tickets and routes
-  - make api feature test work with new seed
-  - retest db resets and db migration
+
 - Figure out hwpc old db data
   - review old code on [https://hwpc.2cld.net/](https://hwpc.2cld.net/)
   - look for old dev vm ?
   - setup google sheet like old db and get import / export working
+  - use n8n to export old hwpc data to google sheets ??
+
+- Cleanup Keep notes ghadmin
+- wip for me, steve, candy, brian, kenton
 - Setup Steve Testing
 - Setup Candy Testing
 
 # Tomorrow que
-- Cleanup Keep notes christrees
-- Cleanup Keep notes ghadmin
-- wip for me, steve, candy, brian, kenton
+
 
 # Active
 - [https://github.com/grasshorse/hwpc-gs](https://github.com/grasshorse/hwpc-gs) Pest Control Service Management
@@ -62,4 +62,18 @@ wip.2cld.net
 
 # wip doc
 - [docs](./docs/)
+
+# Done delete soon
+- ~~Cleanup [hwpc-bug](https://github.com/grasshorse/hwpc-bug) api test~~
+  - ~~backup working test db~~ C:\Users\ghadmin\code\hwpc-gs\backend\database\zdbbackup\20250815-hwpc-bug-pass
+  - ~~rebuild db seed and check db structure~~
+  - ~~looneyTunesTest C:\Users\ghadmin\code\hwpc-gs\backend\database\zdbbackup\looneyTunesTest~~
+    - ~~customers.json~~
+    - ~~routes.json~~
+    - ~~tickets.json~~
+    - ~~users.json~~ 
+  - ~~manual looneyTunesTest update~~
+  - ~~set api test data to special looneyTunesTest customers, tickets and routes~~
+  - ~~make api feature test work with new seed~~
+  - ~~retest db resets and db migration~~
 
