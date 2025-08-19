@@ -4,7 +4,7 @@ wip.2cld.net
 # Today
 - ~~Cleanup Keep notes christrees~~
 - ~~Cleanup hwpc-gs and hwpc-bug looneyTunesTest-v1~~
-
+-----
 - Setup local n8n 
   - ~~View tutorial~~
   - ~~Create n8n service project~~ on [netstack.com edit portals n8n](https://github.com/2cld/netstack/tree/master/docs/portals)
@@ -17,20 +17,21 @@ wip.2cld.net
     - [https://cf.2cld.net/docs/services](https://cf.2cld.net/docs/services)
   - Setup in sl and cf use and update [2cld.net](https://2cld.net/)
   - create plex monitoring [netstack plex edit](https://github.com/2cld/netstack/tree/master/docs/portals/plex)
-
+-----
 - Figure out hwpc old db data
   - review old code on [https://hwpc.2cld.net/](https://hwpc.2cld.net/)
   - look for old dev vm ?
   - setup google sheet like old db and get import / export working
   - use n8n to export old hwpc data to google sheets ??
-
+-----
 - Cleanup Keep notes ghadmin
 - wip for me, steve, candy, brian, kenton
 - Setup Steve Testing
 - Setup Candy Testing
 
-# Tomorrow que
-
+# SOON que
+- Land Tax
+- LLC Accounting
 
 # Active
 - [https://github.com/grasshorse/hwpc-gs](https://github.com/grasshorse/hwpc-gs) Pest Control Service Management
