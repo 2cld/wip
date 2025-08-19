@@ -4,6 +4,9 @@ wip.2cld.net
 # Today
 - ~~Cleanup Keep notes christrees~~
 - ~~Cleanup hwpc-gs and hwpc-bug looneyTunesTest-v1~~
+  - ~~hwpc-bug~~ [hwpc-bug main looneyTunesTest-vi commit f622](https://github.com/grasshorse/hwpc-bug/commit/a66fa91af593ce26cbf2c24f03f8c7fea5aff622)
+  - ~~hwpc-gs~~ [hwpc-gs hwpc-site-test-target looneyTunesTest-v1 commit 00f0b77](https://github.com/grasshorse/hwpc-gs/commit/00f0b773a25ea9a3684eac65b368bb0b27b8f614)
+  - out of kiro credits for the month
 -----
 - Setup local n8n 
   - ~~View tutorial~~
