@@ -2,11 +2,14 @@ wip.2cld.net
 [edit](https://github.com/2cld/wip/edit/main/README.md)
 
 # Today
-- ~~Cleanup Keep notes christrees~~
-- ~~Cleanup hwpc-gs and hwpc-bug looneyTunesTest-v1~~
-  - ~~hwpc-bug~~ [hwpc-bug main looneyTunesTest-vi commit f622](https://github.com/grasshorse/hwpc-bug/commit/a66fa91af593ce26cbf2c24f03f8c7fea5aff622)
-  - ~~hwpc-gs~~ [hwpc-gs hwpc-site-test-target looneyTunesTest-v1 commit 00f0b77](https://github.com/grasshorse/hwpc-gs/commit/00f0b773a25ea9a3684eac65b368bb0b27b8f614)
-  - out of kiro credits for the month
+
+- Network cleanup
+    - Update network docs [https://netstack.org/docs/portals/netbox/](https://netstack.org/docs/portals/netbox/)
+    - Install netbox in sl
+    - sort out [cf tunnels](https://one.dash.cloudflare.com/830c41d5976453f0c03f34d4f765b229/networks/tunnels)
+    - stand up netbox
+    - fix plex and sort out storage and backup
+    - sort out docs with gus
 - Setup local n8n 
   - ~~View tutorial~~
   - ~~Create n8n service project~~ on [netstack.com edit portals n8n](https://github.com/2cld/netstack/tree/master/docs/portals)
@@ -14,6 +17,8 @@ wip.2cld.net
   - get a test docker node running in cf and sl
     - [https://sl.2cld.net/](https://sl.2cld.net/)
     - [https://cf.2cld.net/](https://cf.2cld.net/)
+    - Update network docs [https://netstack.org/docs/portals/netbox/](https://netstack.org/docs/portals/netbox/)
+    - Document [zt cat-ghadmin-grid](https://my.zerotier.com/network/d5e5fb65371eb4a4)
   - update n8n deployment document and service maps
     - [https://sl.2cld.net/docs/services](https://sl.2cld.net/docs/services)
     - [https://cf.2cld.net/docs/services](https://cf.2cld.net/docs/services)
@@ -28,6 +33,8 @@ wip.2cld.net
 - wip for me, steve, candy, brian, kenton
 - Setup Steve Testing
 - Setup Candy Testing
+- [hwpc-bug](https://github.com/grasshorse/hwpc-bug)
+- [hwpc-gs](https://github.com/grasshorse/hwpc-gs)
 
 # SOON que
 - Land Tax
@@ -77,4 +84,9 @@ wip.2cld.net
   - ~~set api test data to special looneyTunesTest customers, tickets and routes~~
   - ~~make api feature test work with new seed~~
   - ~~retest db resets and db migration~~
+- ~~Cleanup Keep notes christrees~~
+- ~~Cleanup hwpc-gs and hwpc-bug looneyTunesTest-v1~~
+  - ~~hwpc-bug~~ [hwpc-bug main looneyTunesTest-vi commit f622](https://github.com/grasshorse/hwpc-bug/commit/a66fa91af593ce26cbf2c24f03f8c7fea5aff622)
+  - ~~hwpc-gs~~ [hwpc-gs hwpc-site-test-target looneyTunesTest-v1 commit 00f0b77](https://github.com/grasshorse/hwpc-gs/commit/00f0b773a25ea9a3684eac65b368bb0b27b8f614)
+  - out of kiro credits for the month
 
