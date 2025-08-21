@@ -10,6 +10,16 @@ wip.2cld.net
       - ssh ghadmin@10.147.17.126 -> ghadmin@cfub2204vm:~$ pwd /home/ghadmin
       - ssh ghadmin@10.147.17.223 -> ghadmin@mg2:~$ pwd /home/ghadmin
       - mg2 nsUb2404 on SLWIN11OPS Hyper-V vm 10.147.17.135
+    - sl site
+      - 10.147.17.94 SLWIN11OPS
+      - 10.147.17.135 mg2 nsUb2404 on SLWIN11OPS Hyper-V vm
+    - cf site
+      - 10.147.17.219 CyberTruck
+    - wf site
+      - 10.147.17.165 devwin10
+      - ?? proxmox
+      - ?? cfDVR
+      - ?? storage
     - Install netbox in sl
     - sort out [cf tunnels](https://one.dash.cloudflare.com/830c41d5976453f0c03f34d4f765b229/networks/tunnels)
     - stand up netbox
