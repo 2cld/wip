@@ -4,18 +4,25 @@ wip.2cld.net
 # Today
 
 - Network cleanup
-    - Update network docs [https://netstack.org/docs/portals/netbox/](https://netstack.org/docs/portals/netbox/)
+    - ~~Update network docs~~ [https://netstack.org/docs/portals/netbox/](https://netstack.org/docs/portals/netbox/)
     - ssh setups
       - cfub2204vm on CyberTruck Hyper-V vm cfub2204vm 10.147.17.126
       - ssh ghadmin@10.147.17.126 -> ghadmin@cfub2204vm:~$ pwd /home/ghadmin
       - ssh ghadmin@10.147.17.223 -> ghadmin@mg2:~$ pwd /home/ghadmin
       - mg2 nsUb2404 on SLWIN11OPS Hyper-V vm 10.147.17.135
-    - sl site
+    - sl site [https://sl.2cld.net/](https://sl.2cld.net/)
       - 10.147.17.94 SLWIN11OPS
-      - 10.147.17.135 mg2 nsUb2404 on SLWIN11OPS Hyper-V vm
-    - cf site
+      - ssh ghadmin@10.147.17.135 -> mg2 nsUb2404 on SLWIN11OPS Hyper-V vm
+      - [https://portainer.2cld.com/](https://portainer.2cld.com/) via [sl-2cld cloudflare](https://one.dash.cloudflare.com/830c41d5976453f0c03f34d4f765b229/networks/tunnels)
+      - access sl docker via remotedesktop.g in wsl
+        ```
+        ghadmin@slwin11ops:~/docker/docker-compose$ pwd
+        /home/ghadmin/docker/docker-compose
+        ghadmin@slwin11ops:~/docker/docker-compose$
+        ```
+    - cf site [https://cf.2cld.net/](https://cf.2cld.net/)
       - 10.147.17.219 CyberTruck
-    - wf site
+    - wf site [https://cf.2cld.net/docs/wf](https://cf.2cld.net/docs/wf)
       - 10.147.17.165 devwin10
       - ?? proxmox
       - ?? cfDVR
