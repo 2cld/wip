@@ -10,8 +10,9 @@ wip.2cld.net
       - ssh ghadmin@10.147.17.126 -> ghadmin@cfub2204vm:~$ pwd /home/ghadmin
       - ssh ghadmin@10.147.17.223 -> ghadmin@mg2:~$ pwd /home/ghadmin
       - mg2 nsUb2404 on SLWIN11OPS Hyper-V vm 10.147.17.135
+      - ssh -p 2222 ghadmin@10.147.17.94 -> 
     - sl site [https://sl.2cld.net/](https://sl.2cld.net/)
-      - 10.147.17.94 SLWIN11OPS
+      - ssh -p 2222 ghadmin@10.147.17.94 -> cf-wfw-proxy-wsl2 SLWIN11OPS into wsl
       - ssh ghadmin@10.147.17.135 -> mg2 nsUb2404 on SLWIN11OPS Hyper-V vm
       - [https://portainer.2cld.com/](https://portainer.2cld.com/) via [sl-2cld cloudflare](https://one.dash.cloudflare.com/830c41d5976453f0c03f34d4f765b229/networks/tunnels)
       - access sl docker via remotedesktop.g in wsl
