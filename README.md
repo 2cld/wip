@@ -2,7 +2,16 @@ wip.2cld.net
 [edit](https://github.com/2cld/wip/edit/main/README.md)
 
 # Today
-
+- having issues with sl network  ssl to wsl ssh -p 2222 ghadmin@10.147.17.94
+- currently portainer, gitea ha and traefik are running under wsl on slwin11ops
+- I have *.2cld.com [sl-2cld cftunnel](https://one.dash.cloudflare.com/830c41d5976453f0c03f34d4f765b229/networks/tunnels) running on slwinllops
+- Fired up wf-proxmox - power fail restart failure... need to figure out
+- need to put security crap back online in wf
+- gitea.2cld.com (slops) does seem to work
+- need to spin gus up on backups
+- thinking I should nuke wsl and go with docker on ubuntu vm with cockpit (that's what I had started on wf-proxmox)
+- [https://192.168.9.3:8006/](https://192.168.9.3:8006/) proxmox-wf
+- [https://192.168.9.102:9090/](https://192.168.9.102:9090/) cockpit 11scat-102-proxmox
 - Network cleanup
     - ~~Update network docs~~ [https://netstack.org/docs/portals/netbox/](https://netstack.org/docs/portals/netbox/)
     - ssh setups
