@@ -3,7 +3,8 @@ wip.2cld.net
 
 # Today
 - having issues with sl network  ssl to wsl ssh -p 2222 ghadmin@10.147.17.94
-- currently portainer, gitea ha and traefik are running under wsl on slwin11ops
+- currently [portainer](https://portainer.2cld.com/), [gitea](https://gitea.2cld.com/) [slcp - sl cockpit](https://slcp.2cld.com/) ha and traefik are running under wsl on slwin11ops
+- [slcp - sl cockpit](https://slcp.2cld.com/) is having issues with javascript over cf
 - I have *.2cld.com [sl-2cld cftunnel](https://one.dash.cloudflare.com/830c41d5976453f0c03f34d4f765b229/networks/tunnels) running on slwinllops
 - Fired up wf-proxmox - power fail restart failure... need to figure out
 - need to put security crap back online in wf
