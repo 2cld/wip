@@ -15,7 +15,7 @@ wip.2cld.net
   - [https://sl.2cld.net/docs/storage](https://sl.2cld.net/docs/storage)
 - Neet to cleanup [tv.2cld.net](https://tv.2cld.net)
 - tbd
-## wf stuff
+## wf stuff [cf.2cld.net/docs/wf](https://cf.2cld.net/docs/wf)
 - Fired up wf-proxmox - power fail restart failure... need to figure out
 - need to put security crap back online in wf
 - thinking I should nuke wsl and go with docker on ubuntu vm with cockpit (that's what I had started on wf-proxmox)
