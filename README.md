@@ -2,14 +2,22 @@ wip.2cld.net
 [edit](https://github.com/2cld/wip/edit/main/README.md)
 
 # Today
+## sl stuff [sl.2cld.net](https://sl.2cld.net/)
 - having issues with sl network  ssl to wsl ssh -p 2222 ghadmin@10.147.17.94
 - currently [portainer](https://portainer.2cld.com/), [gitea](https://gitea.2cld.com/) [slcp - sl cockpit](https://slcp.2cld.com/) ha and traefik are running under wsl on slwin11ops
-- [slcp - sl cockpit](https://slcp.2cld.com/) is having issues with javascript over cf
+- [slcp - sl cockpit](https://slcp.2cld.com/) is having issues with javascript over cf [googleai - fix](https://www.google.com/search?udm=50&aep=11&atvm=1&q=I%27m+a+network+admin+working+on+using+cockpit+to+access+a+vm+through+Traeffik+and+I%27m+getting+the+following+error%3A%0A%0APlease+enable+JavaScript+to+use+the+Web+Console.&mtid=GfetaNjwDv6qw8cP08fb0QE&mstk=AUtExfBwEopM_vL7eTWigtYwJCSYxBiWuHHqTiVd1K3eajOB7cTax4odN2D5-hsCtyv2HCVmY-9fbbUib3MryGieiQTKBQr_M_KnCGRLuArcBhR9M4d4JcgHQqhmmIt0IU-kNm8-JFUvK8CHo1ExS_iO_3hpLInkhpUoXQE6xCpJtA7BdT12ETfKm3o05B-p-1sBJW5Nlfw4Av5KOXKcAN6lPBta3eGjqafQSUP9O0Wx0j-N2OQYMu48D3CmG-TtUz3I1EV5v0VvpDbgBqIwrc7efymwOwK_kIW52CY&csuir=1)
 - I have *.2cld.com [sl-2cld cftunnel](https://one.dash.cloudflare.com/830c41d5976453f0c03f34d4f765b229/networks/tunnels) running on slwinllops
+- gitea.2cld.com (slops) does seem to work but I don't remember how I sync test works
+- need to spin gus up on backups
+- Need cleanup docs on [sl.2cld.net](https://sl.2cld.net/)
+  - [https://sl.2cld.net/docs/devices](https://sl.2cld.net/docs/devices)
+  - [https://sl.2cld.net/docs/services](https://sl.2cld.net/docs/services)
+  - [https://sl.2cld.net/docs/storage](https://sl.2cld.net/docs/storage)
+- Neet to cleanup [tv.2cld.net](https://tv.2cld.net)
+- tbd
+## wf stuff
 - Fired up wf-proxmox - power fail restart failure... need to figure out
 - need to put security crap back online in wf
-- gitea.2cld.com (slops) does seem to work
-- need to spin gus up on backups
 - thinking I should nuke wsl and go with docker on ubuntu vm with cockpit (that's what I had started on wf-proxmox)
 - [https://192.168.9.3:8006/](https://192.168.9.3:8006/) proxmox-wf
 - [https://192.168.9.102:9090/](https://192.168.9.102:9090/) cockpit 11scat-102-proxmox
