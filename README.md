@@ -2,9 +2,26 @@ wip.2cld.net
 [edit](https://github.com/2cld/wip/edit/main/README.md)
 
 # Today
-- Identify critial nodes verity documents
-- Verify manual monitor access
-- build monitor
+- ~~Identify critial nodes verity documents~~
+  - https://cf.2cld.net/docs/wf
+  - https://cf.2cld.net/docs/ng2
+  - https://sl.2cld.net/docs/devices issue with direct access
+- ~~map networks~~
+  - gh https://my.zerotier.com/
+  - ct https://dash.cloudflare.com/
+- ~~Verify manual monitor access~~
+  - https://traefik.2cld.com/
+  - https://gitea.2cld.com/
+  - https://portainer.2cld.com/
+  - https://gitea.klopfenstein.org/
+  - https://sg.klopfenstein.org/
+  - https://metube.klopfenstein.org/
+  - https://www.plex.tv/
+    - cfTV
+    - slPlex
+    - wfTube
+- ~~get doorbells back online~~
+- build monitor ??
 - tbd
 ## sl stuff [sl.2cld.net](https://sl.2cld.net/)
 - having issues with sl network  ssl to wsl ssh -p 2222 ghadmin@10.147.17.94
