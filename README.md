@@ -2,6 +2,10 @@ wip.2cld.net
 [edit](https://github.com/2cld/wip/edit/main/README.md)
 
 # Today
+- Identify critial nodes verity documents
+- Verify manual monitor access
+- build monitor
+- tbd
 ## sl stuff [sl.2cld.net](https://sl.2cld.net/)
 - having issues with sl network  ssl to wsl ssh -p 2222 ghadmin@10.147.17.94
 - currently [portainer](https://portainer.2cld.com/), [gitea](https://gitea.2cld.com/) [slcp - sl cockpit](https://slcp.2cld.com/) ha and traefik are running under wsl on slwin11ops
