@@ -3,20 +3,20 @@ wip.2cld.net
 
 # Today
 - ~~Identify critial nodes verity documents~~
-  - https://cf.2cld.net/docs/wf
-  - https://cf.2cld.net/docs/ng2
-  - https://sl.2cld.net/docs/devices issue with direct access
+  - [https://cf.2cld.net/docs/wf](https://cf.2cld.net/docs/wf)
+  - [https://cf.2cld.net/docs/ng2](https://cf.2cld.net/docs/ng2)
+  - [https://sl.2cld.net/docs/devices](https://sl.2cld.net/docs/devices) issue with direct access
 - ~~map networks~~
-  - gh https://my.zerotier.com/
-  - ct https://dash.cloudflare.com/
+  - gh [https://my.zerotier.com/](https://my.zerotier.com/)
+  - ct [https://dash.cloudflare.com/](https://dash.cloudflare.com/)
 - ~~Verify manual monitor access~~
-  - https://traefik.2cld.com/
-  - https://gitea.2cld.com/
-  - https://portainer.2cld.com/
-  - https://gitea.klopfenstein.org/
-  - https://sg.klopfenstein.org/
-  - https://metube.klopfenstein.org/
-  - https://www.plex.tv/
+  - [https://traefik.2cld.com/](https://traefik.2cld.com/)
+  - [https://gitea.2cld.com/](https://gitea.2cld.com/)
+  - [https://portainer.2cld.com/](https://portainer.2cld.com/)
+  - [https://gitea.klopfenstein.org/](https://gitea.klopfenstein.org/)
+  - [https://sg.klopfenstein.org/](https://sg.klopfenstein.org/)
+  - [https://metube.klopfenstein.org/](https://metube.klopfenstein.org/)
+  - [https://www.plex.tv/](https://www.plex.tv/)
     - cfTV
     - slPlex
     - wfTube
