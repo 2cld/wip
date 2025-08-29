@@ -1,6 +1,8 @@
 wip.2cld.net
 [edit](https://github.com/2cld/wip/edit/main/README.md)
 
+[Meeting Link](https://meet.google.com/dov-vkev-tzm)
+
 # Today
 - ~~Identify critial nodes verity documents~~
   - [https://cf.2cld.net/docs/wf](https://cf.2cld.net/docs/wf)
