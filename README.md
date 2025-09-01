@@ -10,8 +10,8 @@ wip.2cld.net
   - ~~Create n8n install~~ [https://netstack.org/docs/portals/n8n/](https://netstack.org/docs/portals/n8n/)
   - document docker service structure [https://netstack.org/docs/lan/compute/docker/](https://netstack.org/docs/lan/compute/docker/)
     - Detail dir and deployment
-    - install ubuntu into CyberTruck Hyper-V nsUb2404hv
-    - install traefik, portainer, gitea
+    - install ubuntu into CyberTruck Hyper-V [nsUb2404hv](https://netstack.org/docs/lan/compute/docker/docker-hyperv) with zt and [cockpit https://10.147.17.176:9090/](https://10.147.17.176:9090/)
+    - install [traefik](https://netstack.org/docs/lan/compute/docker/docker-compose-traefik), [portainer](https://netstack.org/docs/lan/compute/docker/portainer), [gitea](https://netstack.org/docs/lan/compute/docker/gitea)
     - document backup
   - get a test docker node running in cf and sl
     - [https://sl.2cld.net/](https://sl.2cld.net/)
