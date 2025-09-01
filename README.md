@@ -4,29 +4,25 @@ wip.2cld.net
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Today
-- ~~Identify critial nodes verity documents~~
-  - [https://cf.2cld.net/docs/wf](https://cf.2cld.net/docs/wf)
-  - [https://cf.2cld.net/docs/ng2](https://cf.2cld.net/docs/ng2)
-  - [https://sl.2cld.net/docs/devices](https://sl.2cld.net/docs/devices) issue with direct access
-- WAN ~~map networks~~
-  - gh [https://my.zerotier.com/](https://my.zerotier.com/)
-  - ct [https://dash.cloudflare.com/](https://dash.cloudflare.com/)
-- sl ~~Verify manual monitor access~~
-  - [https://traefik.2cld.com/](https://traefik.2cld.com/)
-  - [https://gitea.2cld.com/](https://gitea.2cld.com/)
-  - [https://portainer.2cld.com/](https://portainer.2cld.com/)
-  - slcp - sl cockpit [https://slcp.2cld.com/](https://slcp.2cld.com/)
-- wf ~~Verify manual monitor access~~
-  - [https://gitea.klopfenstein.org/](https://gitea.klopfenstein.org/)
-  - [https://sg.klopfenstein.org/](https://sg.klopfenstein.org/)
-  - [https://metube.klopfenstein.org/](https://metube.klopfenstein.org/)
-  - joplin wd [https://jp.klopfenstein.org/](https://jp.klopfenstein.org/)
-- plex [https://tv.2cld.net/](https://tv.2cld.net/) ~~Verify manual monitor access~~
-  - [https://www.plex.tv/](https://www.plex.tv/)
-    - cfTV
-    - slPlex
-    - wfTube
-- ~~get doorbells back online~~
+- Setup local n8n 
+  - ~~View tutorial~~
+  - ~~Create n8n service project~~ on [netstack.com edit portals n8n](https://github.com/2cld/netstack/tree/master/docs/portals)
+  - ~~Create n8n install~~ [https://netstack.org/docs/portals/n8n/](https://netstack.org/docs/portals/n8n/)
+  - document docker service structure [https://netstack.org/docs/lan/compute/docker/](https://netstack.org/docs/lan/compute/docker/)
+    - Detail dir and deployment
+    - install ubuntu into CyberTruck Hyper-V nsUb2404hv
+    - install traefik, portainer, gitea
+    - document backup
+  - get a test docker node running in cf and sl
+    - [https://sl.2cld.net/](https://sl.2cld.net/)
+    - [https://cf.2cld.net/](https://cf.2cld.net/)
+    - Update network docs [https://netstack.org/docs/portals/netbox/](https://netstack.org/docs/portals/netbox/)
+    - Document [zt cat-ghadmin-grid](https://my.zerotier.com/network/d5e5fb65371eb4a4)
+  - update n8n deployment document and service maps
+    - [https://sl.2cld.net/docs/services](https://sl.2cld.net/docs/services)
+    - [https://cf.2cld.net/docs/services](https://cf.2cld.net/docs/services)
+  - Setup in sl and cf use and update [2cld.net](https://2cld.net/)
+  - create plex monitoring [netstack plex edit](https://github.com/2cld/netstack/tree/master/docs/portals/plex)
 - build monitor ??
 - wireguard to trink vps ?
 - tbd
@@ -79,20 +75,6 @@ wip.2cld.net
     - stand up netbox
     - fix plex and sort out storage and backup
     - sort out docs with gus
-- Setup local n8n 
-  - ~~View tutorial~~
-  - ~~Create n8n service project~~ on [netstack.com edit portals n8n](https://github.com/2cld/netstack/tree/master/docs/portals)
-  - ~~Create n8n install~~ [https://netstack.org/docs/portals/n8n/](https://netstack.org/docs/portals/n8n/)
-  - get a test docker node running in cf and sl
-    - [https://sl.2cld.net/](https://sl.2cld.net/)
-    - [https://cf.2cld.net/](https://cf.2cld.net/)
-    - Update network docs [https://netstack.org/docs/portals/netbox/](https://netstack.org/docs/portals/netbox/)
-    - Document [zt cat-ghadmin-grid](https://my.zerotier.com/network/d5e5fb65371eb4a4)
-  - update n8n deployment document and service maps
-    - [https://sl.2cld.net/docs/services](https://sl.2cld.net/docs/services)
-    - [https://cf.2cld.net/docs/services](https://cf.2cld.net/docs/services)
-  - Setup in sl and cf use and update [2cld.net](https://2cld.net/)
-  - create plex monitoring [netstack plex edit](https://github.com/2cld/netstack/tree/master/docs/portals/plex)
 - Figure out hwpc old db data
   - review old code on [https://hwpc.2cld.net/](https://hwpc.2cld.net/)
   - look for old dev vm ?
@@ -141,6 +123,29 @@ wip.2cld.net
 - [docs](./docs/)
 
 # Done delete soon
+- ~~Identify critial nodes verity documents~~
+  - [https://cf.2cld.net/docs/wf](https://cf.2cld.net/docs/wf)
+  - [https://cf.2cld.net/docs/ng2](https://cf.2cld.net/docs/ng2)
+  - [https://sl.2cld.net/docs/devices](https://sl.2cld.net/docs/devices) issue with direct access
+- WAN ~~map networks~~
+  - gh [https://my.zerotier.com/](https://my.zerotier.com/)
+  - ct [https://dash.cloudflare.com/](https://dash.cloudflare.com/)
+- sl ~~Verify manual monitor access~~
+  - [https://traefik.2cld.com/](https://traefik.2cld.com/)
+  - [https://gitea.2cld.com/](https://gitea.2cld.com/)
+  - [https://portainer.2cld.com/](https://portainer.2cld.com/)
+  - slcp - sl cockpit [https://slcp.2cld.com/](https://slcp.2cld.com/)
+- wf ~~Verify manual monitor access~~
+  - [https://gitea.klopfenstein.org/](https://gitea.klopfenstein.org/)
+  - [https://sg.klopfenstein.org/](https://sg.klopfenstein.org/)
+  - [https://metube.klopfenstein.org/](https://metube.klopfenstein.org/)
+  - joplin wd [https://jp.klopfenstein.org/](https://jp.klopfenstein.org/)
+- plex [https://tv.2cld.net/](https://tv.2cld.net/) ~~Verify manual monitor access~~
+  - [https://www.plex.tv/](https://www.plex.tv/)
+    - cfTV
+    - slPlex
+    - wfTube
+- ~~get doorbells back online~~
 - ~~Cleanup [hwpc-bug](https://github.com/grasshorse/hwpc-bug) api test~~
   - ~~backup working test db~~ C:\Users\ghadmin\code\hwpc-gs\backend\database\zdbbackup\20250815-hwpc-bug-pass
   - ~~rebuild db seed and check db structure~~
