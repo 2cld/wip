@@ -3,6 +3,17 @@ wip.2cld.net
 
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
+# Kenton
+- Bin pour
+- Volume (Cubic Feet) = π * (Radius)² * Height
+- Volume (Cubic Yards) = Volume (Cubic Feet) / 27
+- 3.14 * 15 * 15 * 0.25 = 176.6 / 2 = 88.3 cubic feet est
+- Volume by Bag Size 
+- 40-pound bag: Produces about 0.30 cubic feet of cured concrete.
+- 60-pound bag: Produces approximately 0.45 cubic feet of cured concrete.
+- 80-pound bag: Produces approximately 0.60 cubic feet of cured concrete.
+- 88.3 / 0.6 = 148 bags of 80
+  
 # Today
 - Setup local n8n 
   - ~~View tutorial~~
