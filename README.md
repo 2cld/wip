@@ -7,13 +7,21 @@ wip.2cld.net
 - Bin pour
 - Volume (Cubic Feet) = π * (Radius)² * Height
 - Volume (Cubic Yards) = Volume (Cubic Feet) / 27
-- 3.14 * 15 * 15 * 0.25 = 176.6 / 2 = 88.3 cubic feet est
+- 3.14 * 15 * 15 * 0.25 = 176.6 / 2 / 2 = 44.1 cubic feet est
 - Volume by Bag Size 
 - 40-pound bag: Produces about 0.30 cubic feet of cured concrete.
 - 60-pound bag: Produces approximately 0.45 cubic feet of cured concrete.
 - 80-pound bag: Produces approximately 0.60 cubic feet of cured concrete.
-- 88.3 / 0.6 = 148 bags of 80
-  
+- 44 / 0.6 = 73 bags of 80
+- 44/2 (half cone) 22 / 0.6 = 36.6 bags
+-  V≈44.24
+- r	Radius: 13
+- h	Height: 0.25 (3/12)
+- Solution
+- V=πr2h
+- 3=π·132·0.25
+- 3≈44.2441
+
 # Today
 - Setup local n8n 
   - ~~View tutorial~~
