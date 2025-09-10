@@ -13,6 +13,7 @@ wip.2cld.net
   - has issues with https DANGER (may be password)
   - document [ns-install-docker portainer](https://netstack.org/docs/lan/compute/docker/portainer)
 - ~~Setup~~ [gitea.cat9.me/](https://gitea.cat9.me/)
+  - push nsub2404vm /home/nsadmin/code/docker to gitea
   - ssh access not working need to test https git/push
   - document [ns-install-docker gitea](https://netstack.org/docs/lan/compute/docker/gitea)
 - Setup [nginx.cat9.me](https://nginx.cat9.me/)
