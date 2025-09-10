@@ -3,27 +3,25 @@ wip.2cld.net
 
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
-# Kenton
-- Bin pour
-- Volume (Cubic Feet) = π * (Radius)² * Height
-- Volume (Cubic Yards) = Volume (Cubic Feet) / 27
-- 3.14 * 15 * 15 * 0.25 = 176.6 / 2 / 2 = 44.1 cubic feet est
-- Volume by Bag Size 
-- 40-pound bag: Produces about 0.30 cubic feet of cured concrete.
-- 60-pound bag: Produces approximately 0.45 cubic feet of cured concrete.
-- 80-pound bag: Produces approximately 0.60 cubic feet of cured concrete.
-- 44 / 0.6 = 73 bags of 80
-- 44/2 (half cone) 22 / 0.6 = 36.6 bags
--  V≈44.24
-- r	Radius: 13
-- h	Height: 0.25 (3/12)
-- Solution
-- V=πr2h
-- 3=π·132·0.25
-- 3≈44.2441
 
 # Today
-- Setup local n8n 
+- ~~Document~~ [cat9.me](https://nginx.cat9.me/)
+- ~~Setup~~ [traefik-docker.cat9.me](https://traefik-docker.cat9.me/)
+  - document [ns-install traefik](https://netstack.org/docs/lan/compute/docker/docker-compose-traefik)
+  - ?? rename to traefik from traefik-docker ??
+- ~~Setup~~ [portainer.cat9.me/](https://portainer.cat9.me/)
+  - has issues with https DANGER (may be password)
+  - document [ns-install-docker portainer](https://netstack.org/docs/lan/compute/docker/portainer)
+- ~~Setup~~ [gitea.cat9.me/](https://gitea.cat9.me/)
+  - ssh access not working need to test https git/push
+  - document [ns-install-docker gitea](https://netstack.org/docs/lan/compute/docker/gitea)
+- Setup [nginx.cat9.me](https://nginx.cat9.me/)
+  - need to route cat9.me to nginx ? or create cat9.me html server ??
+- Setup [netbox.cat9.me](https://netbox.cat9.me/)
+  - has 404 error
+- Setup [tbd-immich](tbd)
+- Setup [n8n.cat9.me](https://n8n.cat9.me/)
+  - not working
   - ~~View tutorial~~
   - ~~Create n8n service project~~ on [netstack.com edit portals n8n](https://github.com/2cld/netstack/tree/master/docs/portals)
   - ~~Create n8n install~~ [https://netstack.org/docs/portals/n8n/](https://netstack.org/docs/portals/n8n/)
@@ -142,6 +140,25 @@ wip.2cld.net
 - [docs](./docs/)
 
 # Done delete soon
+## Kenton
+- Bin pour
+- Volume (Cubic Feet) = π * (Radius)² * Height
+- Volume (Cubic Yards) = Volume (Cubic Feet) / 27
+- 3.14 * 15 * 15 * 0.25 = 176.6 / 2 / 2 = 44.1 cubic feet est
+- Volume by Bag Size 
+- 40-pound bag: Produces about 0.30 cubic feet of cured concrete.
+- 60-pound bag: Produces approximately 0.45 cubic feet of cured concrete.
+- 80-pound bag: Produces approximately 0.60 cubic feet of cured concrete.
+- 44 / 0.6 = 73 bags of 80
+- 44/2 (half cone) 22 / 0.6 = 36.6 bags
+-  V≈44.24
+- r	Radius: 13
+- h	Height: 0.25 (3/12)
+- Solution
+- V=πr2h
+- 3=π·132·0.25
+- 3≈44.2441
+## older stuff
 - ~~Identify critial nodes verity documents~~
   - [https://cf.2cld.net/docs/wf](https://cf.2cld.net/docs/wf)
   - [https://cf.2cld.net/docs/ng2](https://cf.2cld.net/docs/ng2)
