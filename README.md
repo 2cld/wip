@@ -3,9 +3,26 @@ wip.2cld.net
 
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
+# for Trink notes
+## Refactor
+- https://ifp.org/the-great-refactor/
+- https://blitzy.com/
+- https://paper.blitzy.com/blitzy_system_2_ai_platform_topping_swe_bench_verified.pdf
+- https://www.linkventures.com/portfolio
+- [youtube talking about blitzy and white paper](https://www.youtube.com/watch?v=r4jGthLW8ZQ&t=3142s)
+  
+## Docker / Xen XCP-ng / proxmox
+- [LAWRENCESYSTEMS](https://www.youtube.com/@LAWRENCESYSTEMS) - [This Is How I Run my Docker Containers](https://www.youtube.com/watch?v=Z5aGH4XltP4)
+- The main reason I used proxmox is [https://tteck.github.io/Proxmox/](https://tteck.github.io/Proxmox/)
+- My proxmox notes [https://netstack.org/docs/lan/compute/proxmox/](https://netstack.org/docs/lan/compute/proxmox/)
+- The geek I use most proxmox [https://www.youtube.com/@ElectronicsWizardry](https://www.youtube.com/@ElectronicsWizardry)
 
-# Today
+---
+---
+
+# for cat Today
 - ~~Document~~ [cat9.me](https://nginx.cat9.me/)
+- ~~Document~~ [cf.2cld.net](https://cf.2cld.net)
 - ~~Setup~~ [traefik-docker.cat9.me](https://traefik-docker.cat9.me/)
   - document [ns-install traefik](https://netstack.org/docs/lan/compute/docker/docker-compose-traefik)
   - ?? rename to traefik from traefik-docker ??
