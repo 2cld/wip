@@ -21,6 +21,7 @@ wip.2cld.net
 ---
 
 # for cat Today
+- ssh -N -L localhost:8889:172.18.0.9:80 nsadmin@10.147.17.176
 - ~~Document~~ [cat9.me](https://nginx.cat9.me/)
 - ~~Document~~ [cf.2cld.net](https://cf.2cld.net)
 - ~~Setup~~ [traefik-docker.cat9.me](https://traefik-docker.cat9.me/)
