@@ -37,7 +37,7 @@ wip.2cld.net
 - net traefik test
   - ~~review~~ yt [Techno Tim - Traefik 3 and FREE Wildcard Certificates with Docker](https://www.youtube.com/watch?v=n1vOfdz5Nm8)
   - ~~read~~ blog [traefik-3-docker-certificates](https://technotim.live/posts/traefik-3-docker-certificates/)
-  - testx.cat9.me site yt [nginx test site](https://youtu.be/n1vOfdz5Nm8?t=1879)
+  - FAIL testx.cat9.me site yt [nginx test site](https://youtu.be/n1vOfdz5Nm8?t=1879)
   - pm.cat9.me yt [proxmox site](https://youtu.be/n1vOfdz5Nm8?t=2103)
 - test wf remote access
   - cfDVR (synology)
