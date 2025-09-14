@@ -4,7 +4,8 @@ wip.2cld.net
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # for Trink notes
-- [https://www.geekompc.com/](https://www.geekompc.com/)
+- mini PC [https://www.geekompc.com/](https://www.geekompc.com/)
+- docker compose on TrueNAS scale [A Better Way to Run Docker Apps on TrueNAS](https://www.youtube.com/watch?v=gPL7_tzsJO8)
   
 ## AI datacenter
 - Job Distribution [https://salad.com/](https://salad.com/)
