@@ -4,6 +4,16 @@ wip.2cld.net
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # for Trink notes
+## AI datacenter
+- Job Distribution [https://salad.com/](https://salad.com/)
+- AI GPU [Modern Mining Hub](https://www.youtube.com/@ModernMiningHub/videos) - [RTX 4090 GPU build](https://www.youtube.com/watch?v=J2TOqfQIZgI)
+
+## AI Home Assistant
+- Add camera AI metrics monitoring using [ai.task action in Home Assistant 2025.8](https://www.youtube.com/watch?v=-bLVTHzfHyk)
+- Sound monitroing [https://gemmo.ai/product-apis/](https://gemmo.ai/product-apis/)
+- voice assist replacement [Network Chuck - alexa replacement](https://www.youtube.com/watch?v=XvbVePuP7NY)
+- HA rpi touch-panel [ha wall display - yt](https://www.youtube.com/watch?v=uTxURzmrVtA) - [ha wall display - blog](https://www.thestockpot.net/videos/home-assistant-wall-display) - [pritable files](https://www.printables.com/model/1405500-home-assistant-wall-display-raspberry-pi-touch-dis)
+
 ## Refactor
 - https://ifp.org/the-great-refactor/
 - https://blitzy.com/
@@ -21,7 +31,20 @@ wip.2cld.net
 ---
 
 # for cat Today
+- fire up tax shit
+  - FHKlopFarms LLC 1065
+  - TreesAES LLC 1065
+  - cat9LLC 1065 (or not... may sp)
+  - BHay 1040
+  - CTre 1040
+  - Review BFlet 1040
+  - Sale Tax crap
+- Review HWPC
+  - Review email setup
+  - Review google bus stuff
+  - write-up work plan
 - ssh -N -L localhost:8889:172.18.0.9:80 nsadmin@10.147.17.176
+- FAIL get cf->traefik->nginx to work
 - ~~Document~~ [cat9.me](https://nginx.cat9.me/)
 - ~~Document~~ [cf.2cld.net](https://cf.2cld.net)
 - ~~Setup~~ [traefik-docker.cat9.me](https://traefik-docker.cat9.me/)
