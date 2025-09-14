@@ -4,6 +4,8 @@ wip.2cld.net
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # for Trink notes
+- [https://www.geekompc.com/](https://www.geekompc.com/)
+  
 ## AI datacenter
 - Job Distribution [https://salad.com/](https://salad.com/)
 - AI GPU [Modern Mining Hub](https://www.youtube.com/@ModernMiningHub/videos) - [RTX 4090 GPU build](https://www.youtube.com/watch?v=J2TOqfQIZgI)
