@@ -4,7 +4,7 @@
 
 # Trink notes 
 - tbd new
-- [trinknotes202509](./trink/trinknotes202509/)
+- [trinknotes202509](./trink/trinknotes202509)
 
 # Gus notes
 - tbd new
