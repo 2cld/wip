@@ -20,6 +20,12 @@
 - tbd new
 
 # for cat Today
+- Verify banks for land tax payments
+  - login to state tax payment site
+  - verify / update LLC payment links
+  - login to LLC banks and verify balances
+  - verify transfer payments
+  - verify insurance payments
 - Create cat9.me work pattern
   - verify [https://cf.2cld.net/](https://cf.2cld.net/)
   - document [https://netstack.org/docs/lan/compute/docker/docker-portal-cloudflare-traefik-install/](https://netstack.org/docs/lan/compute/docker/docker-portal-cloudflare-traefik-install/)
