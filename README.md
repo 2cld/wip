@@ -20,6 +20,9 @@
 - tbd new
 
 # for cat Today
+- Create cat9.me work pattern
+  - verify [https://cf.2cld.net/](https://cf.2cld.net/)
+  - document [https://netstack.org/docs/lan/compute/docker/docker-portal-cloudflare-traefik-install/](https://netstack.org/docs/lan/compute/docker/docker-portal-cloudflare-traefik-install/)
 - net traefik test
   - ~~review~~ yt [Techno Tim - Traefik 3 and FREE Wildcard Certificates with Docker](https://www.youtube.com/watch?v=n1vOfdz5Nm8)
   - ~~read~~ blog [traefik-3-docker-certificates](https://technotim.live/posts/traefik-3-docker-certificates/)
@@ -29,10 +32,10 @@
   - cfDVR (synology)
   - bu (synology)
   - proxmox access
-- fire up tax shit
-  - FHKlopFarms LLC 1065
-  - TreesAES LLC 1065
-  - cat9LLC 1065 (or not... may sp)
+- ~~fire up tax shit~~
+  - ~~FHKlopFarms LLC 1065~~
+  - ~~TreesAES LLC 1065~~
+  - ~~cat9LLC 1065 (or not... may sp)~~
   - BHay 1040
   - CTre 1040
   - Review BFlet 1040
