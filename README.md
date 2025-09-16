@@ -28,7 +28,11 @@
   - verify insurance payments
 - Create cat9.me work pattern
   - verify [https://cf.2cld.net/](https://cf.2cld.net/)
-  - document [https://netstack.org/docs/lan/compute/docker/docker-portal-cloudflare-traefik-install/](https://netstack.org/docs/lan/compute/docker/docker-portal-cloudflare-traefik-install/)
+  - document [https://netstack.org/docs/lan/compute/docker/docker-portal-cloudflare-traefik-install](https://netstack.org/docs/lan/compute/docker/docker-portal-cloudflare-traefik-install)
+  - figure out network debug via logs
+  - figure out DNS routes via tools
+  - figure out network routes via tools
+  - figure out active monitoring
 - net traefik test
   - ~~review~~ yt [Techno Tim - Traefik 3 and FREE Wildcard Certificates with Docker](https://www.youtube.com/watch?v=n1vOfdz5Nm8)
   - ~~read~~ blog [traefik-3-docker-certificates](https://technotim.live/posts/traefik-3-docker-certificates/)
