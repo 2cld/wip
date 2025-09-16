@@ -3,7 +3,10 @@ wip.2cld.net
 
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
-# for Trink notes
+# Trink notes
+- tbd new
+- tbd new
+- Trink [older notes](./trink/trinknotes202509/)
 - mini PC [https://www.geekompc.com/](https://www.geekompc.com/)
 - docker compose on TrueNAS scale [A Better Way to Run Docker Apps on TrueNAS](https://www.youtube.com/watch?v=gPL7_tzsJO8)
   
