@@ -20,6 +20,14 @@
 - tbd new
 
 # for cat Today
+- Setup TreesAESpad [document https://netstack.org/docs/ops/users/user-win10-pad](https://netstack.org/docs/ops/users/user-win10-pad)
+  - ~~setup new NuVision win10 pad (cat) TreesAESpad~~
+  - ~~install zerotier 10.147.17.163 TreesAESpad~~
+  - ~~map z: to catops~~
+  - ~~install synergy~~
+  - ~~add external monitor~~
+  - install chrome
+  - add treesaes user
 - Verify banks for land tax payments
   - login to state tax payment site
   - verify / update LLC payment links
