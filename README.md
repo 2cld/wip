@@ -41,15 +41,11 @@
   - figure out DNS routes via tools
   - figure out network routes via tools
   - figure out active monitoring
-- net traefik test
-  - ~~review~~ yt [Techno Tim - Traefik 3 and FREE Wildcard Certificates with Docker](https://www.youtube.com/watch?v=n1vOfdz5Nm8)
-  - ~~read~~ blog [traefik-3-docker-certificates](https://technotim.live/posts/traefik-3-docker-certificates/)
-  - FAIL testx.cat9.me site yt [nginx test site](https://youtu.be/n1vOfdz5Nm8?t=1879)
-  - pm.cat9.me yt [proxmox site](https://youtu.be/n1vOfdz5Nm8?t=2103)
 - test wf remote access
   - cfDVR (synology)
   - bu (synology)
   - proxmox access
+  - pm.klopfenstein.org in winfield yt [proxmox site](https://youtu.be/n1vOfdz5Nm8?t=2103)
 - ~~fire up tax shit~~
   - ~~FHKlopFarms LLC 1065~~
   - ~~TreesAES LLC 1065~~
@@ -63,8 +59,13 @@
   - Review google bus stuff
   - write-up work plan
 - ssh -N -L localhost:8889:172.18.0.9:80 nsadmin@10.147.17.176
-- FAIL get cf->traefik->nginx to work
-- ~~Document~~ [cat9.me](https://nginx.cat9.me/)
+- ~~FAIL get cf->traefik->nginx to work~~
+- ~~net traefik test~~
+  - ~~review~~ yt [Techno Tim - Traefik 3 and FREE Wildcard Certificates with Docker](https://www.youtube.com/watch?v=n1vOfdz5Nm8)
+  - ~~read~~ blog [traefik-3-docker-certificates](https://technotim.live/posts/traefik-3-docker-certificates/)
+  - ~~[nginx.cat9.me](https://nginx.cat9.me/) FAIL retry testx.cat9.me site~~ yt [nginx test site](https://youtu.be/n1vOfdz5Nm8?t=1879)- ~~Document~~ [cat9.me](https://nginx.cat9.me/)
+- ~~Setup~~ [nginx.cat9.me](https://nginx.cat9.me/)
+  - ~~need to route cat9.me to nginx ? or create cat9.me html server ??~~
 - ~~Document~~ [cf.2cld.net](https://cf.2cld.net)
 - ~~Setup~~ [traefik-docker.cat9.me](https://traefik-docker.cat9.me/)
   - document [ns-install traefik](https://netstack.org/docs/lan/compute/docker/docker-compose-traefik)
@@ -73,11 +74,9 @@
   - has issues with https DANGER (may be password)
   - document [ns-install-docker portainer](https://netstack.org/docs/lan/compute/docker/portainer)
 - ~~Setup~~ [gitea.cat9.me/](https://gitea.cat9.me/)
-  - push nsub2404vm /home/nsadmin/code/docker to gitea
+  - backup nsub2404vm /home/nsadmin/code/docker to ???
   - ssh access not working need to test https git/push
   - document [ns-install-docker gitea](https://netstack.org/docs/lan/compute/docker/gitea)
-- Setup [nginx.cat9.me](https://nginx.cat9.me/)
-  - need to route cat9.me to nginx ? or create cat9.me html server ??
 - Setup [netbox.cat9.me](https://netbox.cat9.me/)
   - has 404 error
 - Setup [tbd-immich](tbd)
