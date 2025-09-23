@@ -4,6 +4,7 @@
 
 # Trink notes 
 - tbd new
+- [VoiceNotes](https://voicenotes.com/app)
 - [trinknotes202509](./trink/trinknotes202509)
 
 # Gus notes
