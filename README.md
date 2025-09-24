@@ -4,6 +4,7 @@
 
 # Trink notes 
 - tbd new
+- [Site Reliablity Engineering - Books](https://sre.google/books/)
 - [VoiceNotes](https://voicenotes.com/app)
 - [trinknotes202509](./trink/trinknotes202509)
 
