@@ -4,6 +4,11 @@
 
 # Trink notes 
 - tbd new
+- [Grafana Alloy replaces promtail](https://grafana.com/docs/alloy/latest/)
+  - Christian Lempa [Grafana Alloy - install](https://www.youtube.com/watch?v=E654LPrkCjo) - [boilerplates](https://github.com/christianlempa/boilerplates)
+- [Grafana Loki](https://grafana.com/docs/loki/latest/)
+  - Techno Tim [Grafana Loki - install](https://technotim.live/posts/grafana-loki/)
+  - Christian Lempa [Grafana Loki with Traefik](https://www.youtube.com/watch?v=KK9FI4OfPUY) - [boilerplates](https://github.com/christianlempa/boilerplates)
 - [Site Reliablity Engineering - Books](https://sre.google/books/)
 - [VoiceNotes](https://voicenotes.com/app)
 - [trinknotes202509](./trink/trinknotes202509)
