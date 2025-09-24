@@ -29,12 +29,6 @@
   - ~~add external monitor~~
   - install chrome
   - add treesaes user
-- Verify banks for land tax payments
-  - login to state tax payment site
-  - verify / update LLC payment links
-  - login to LLC banks and verify balances
-  - verify transfer payments
-  - verify insurance payments
 - Create cat9.me work pattern
   - verify [https://cf.2cld.net/](https://cf.2cld.net/)
   - document [https://netstack.org/docs/lan/compute/docker/docker-portal-cloudflare-traefik-install](https://netstack.org/docs/lan/compute/docker/docker-portal-cloudflare-traefik-install)
@@ -47,6 +41,10 @@
   - bu (synology)
   - proxmox access
   - pm.klopfenstein.org in winfield yt [proxmox site](https://youtu.be/n1vOfdz5Nm8?t=2103)
+- Review HWPC
+  - Review email setup
+  - Review google bus stuff
+  - write-up work plan
 - ~~fire up tax shit~~
   - ~~FHKlopFarms LLC 1065~~
   - ~~TreesAES LLC 1065~~
@@ -55,10 +53,12 @@
   - CTre 1040
   - Review BFlet 1040
   - Sale Tax crap
-- Review HWPC
-  - Review email setup
-  - Review google bus stuff
-  - write-up work plan
+- Verify banks for land tax payments
+  - ~~login to state tax payment site~~
+  - ~~verify / update LLC payment links~~
+  - ~~login to LLC banks and verify balances~~
+  - ~~verify transfer payments~~
+  - ~~verify insurance payments~~
 - ssh -N -L localhost:8889:172.18.0.9:80 nsadmin@10.147.17.176
 - ~~FAIL get cf->traefik->nginx to work~~
 - ~~net traefik test~~
