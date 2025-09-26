@@ -48,10 +48,15 @@
   - dual monitors
   - cat user
   - nsadmin user ? (start to clean up ghadmin)
-- Create cat9.me work pattern
+- Create cat9.me work pattern 
   - ~~verify~~ [https://cf.2cld.net/](https://cf.2cld.net/)
-  - document [https://netstack.org/docs/lan/compute/docker/docker-portal-cloudflare-traefik-install](https://netstack.org/docs/lan/compute/docker/docker-portal-cloudflare-traefik-install)
-  - Create 2cld.net doc?
+  - ~~Create 2cld.net doc~~ [https://2cld.net/](https://2cld.net/)
+  - ~~quicklink~~ [https://2cld.net/docs/quick](https://2cld.net/docs/quick)
+  - document links in [https://2cld.net/docs/quick](https://2cld.net/docs/quick)
+    - traefik [__traefik__](https://netstack.org/docs/lan/compute/docker/docker-portal-cloudflare-traefik-install) portal
+    - portainer [__portainer__](https://netstack.org/docs/lan/compute/docker/docker-portal-portainer) portal
+    - gitea [__gitea__](https://netstack.org/docs/lan/compute/docker/docker-portal-gitea) portal
+    - nginx [__nginx__](https://netstack.org/docs/lan/compute/docker/docker-portal-nginx) portal
   - figure out network debug via logs
   - figure out DNS routes via tools
   - figure out network routes via tools
