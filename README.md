@@ -4,6 +4,7 @@
 
 # Trink notes 
 - tbd new
+- [squeeze computational space into time](https://www.youtube.com/watch?v=8JuWdXrCmWg)
 - [Grafana Alloy replaces promtail](https://grafana.com/docs/alloy/latest/)
   - Christian Lempa [Grafana Alloy - install](https://www.youtube.com/watch?v=E654LPrkCjo) - [boilerplates](https://github.com/christianlempa/boilerplates)
 - [Grafana Loki](https://grafana.com/docs/loki/latest/)
