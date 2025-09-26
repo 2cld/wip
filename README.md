@@ -34,6 +34,7 @@
 - [Christian Lempa - Kestra #1](https://www.youtube.com/watch?v=D4cixQ_Ek4Y) - [boilerplate](https://github.com/ChristianLempa/boilerplates/blob/main/kestra/inputs.yaml) - [videos](https://github.com/ChristianLempa/videos)
 - [Christian Lempa - Kestra #2](https://www.youtube.com/watch?v=PJG1-7hMHsE) - [docs](https://github.com/christianlempa)
 - [Christian Lempa - Kestra #3](https://www.youtube.com/watch?v=hpAJjtUjZOE)
+- Try [https://excalidraw.com/](https://excalidraw.com/)
 
 
 # for cat Today
