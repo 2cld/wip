@@ -4,6 +4,7 @@
 
 # Trink notes 
 - tbd new
+- Pretty good [Craft Computing 321 backup](https://youtu.be/Frjwmb6QZps)
 - [3d fixed point printable](https://youtu.be/ZKz0_kSFSP0?t=129)
 - [squeeze computational space into time](https://www.youtube.com/watch?v=8JuWdXrCmWg)
 - [Grafana Alloy replaces promtail](https://grafana.com/docs/alloy/latest/)
