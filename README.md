@@ -50,10 +50,12 @@
   - dual monitors
   - cat user
   - nsadmin user ? (start to clean up ghadmin)
-- Create cat9.me work pattern 
+- Create cat9.me work pattern
+  - ~~user code workflow~~ [https://netstack.org/docs/ops/users/dev-workflow-code](https://netstack.org/docs/ops/users/dev-workflow-code)
   - ~~verify~~ [https://cf.2cld.net/](https://cf.2cld.net/)
   - ~~Create 2cld.net doc~~ [https://2cld.net/](https://2cld.net/)
   - ~~quicklink~~ [https://2cld.net/docs/quick](https://2cld.net/docs/quick)
+  - ~~docker workflow~~ [https://netstack.org/docs/lan/compute/docker/docker-workflow](https://netstack.org/docs/lan/compute/docker/docker-workflow)
   - document links in [https://2cld.net/docs/quick](https://2cld.net/docs/quick)
     - traefik [__traefik__](https://netstack.org/docs/lan/compute/docker/docker-portal-cloudflare-traefik-install) portal
     - portainer [__portainer__](https://netstack.org/docs/lan/compute/docker/docker-portal-portainer) portal
