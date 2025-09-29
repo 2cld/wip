@@ -2,6 +2,19 @@
 
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
+# cat now
+- remote cf.zt.218-CyberTruck
+- kiro hwpc-gs
+  - note C:\Users\ghadmin\code\hwpc-gs\__cat9Notes_WIP.md
+- kiro hwpc-bug
+  - C:\Users\ghadmin\code\hwpc-bug
+  - npm test
+  - PASSED feature test results file:///C:/Users/ghadmin/code/hwpc-bug/test-results/reports/cucumber.html
+- Website http://localhost:3000/
+- need to rebuot cybertruck (updates)
+- thinking about creating a simple pwa app for contacts, maps, messages ?
+- tbd
+  
 # Trink notes 
 - tbd new
 - Markov predition chains [Veritasium yt](https://www.youtube.com/watch?v=KZeIEiBrT_w)
