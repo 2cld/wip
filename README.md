@@ -62,6 +62,7 @@
     - portainer [__portainer__](https://netstack.org/docs/lan/compute/docker/docker-portal-portainer) portal
     - gitea [__gitea__](https://netstack.org/docs/lan/compute/docker/docker-portal-gitea) portal
     - nginx [__nginx__](https://netstack.org/docs/lan/compute/docker/docker-portal-nginx) portal
+    - n8n [__n8n__](https://netstack.org/docs/lan/compute/docker/docker-portal-n8n) portal
   - figure out network debug via logs
   - figure out DNS routes via tools
   - figure out network routes via tools
