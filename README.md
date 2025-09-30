@@ -3,6 +3,14 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # cat now
+- cat9do simple pwa with calendar ?? on nsdockerhv need to put in gitea.cat9.me
+  - [google/aimode simple pwa svelite](https://www.google.com/search?udm=50&aep=11&q=I%27m+a+dev+starting+a+mobile+first+project+for+a+Pest+Control+company.++I%27m+looking+to+do+a+PWA+that+uses+tailwinds+css+and+an+sqlite+server+side+back-end+that+the+mobile+apps+can+sync+to+but+work+offline.++I%27m+looking+at+svelte+as+a+possible+framework%2C+can+you+suggest+or+generate+a+template+with+basic+CRUD+and+css%3F&mtid=RY3aaNawCMy8ptQPrd-Y0Qc&mstk=AUtExfC39cwVHTrgodPbpG5Km4Xuhg1wYJbNzRiLdEHvMEdb7C7zJrCy4cO-WLev0ml3QvDWTP1W12NEBEuVCEJ5o0A6QEYuEW0VyzV4FHRJBRoU2hK9DI_Vfbn9DOpv-yC90zjmZ9ErH78vU1eAU-_gwTcSs-3RLKzUiSkjNjYFCOBwIGB6P-TosFFSNpK7arsEWWBEqrkX-KW9fmAYfyW4s01-nrC9rM_JVISo2gV5C92pskbRqYqzL4f-Nb8zwaJgSbgOmVTtMaeOeSNp4eCfAtktqkpnM1XJ-oRstTG0J4upn9NrJC1KauPx-s_h5uFSZfMPODZ0YVqMfw&csuir=1)
+- ICS on [CAT9-TimeSheet](https://docs.google.com/spreadsheets/d/13J7sXSwUnMzZElgEAnDN1p5x-nMsJe13yQDOE27rnSc/edit?gid=0#gid=0) doc in cat9do
+- need to clean up google drive
+  - [https://one.google.com/storage](https://one.google.com/storage)
+  - [google storage large files](https://photos.google.com/quotamanagement/large)
+  - pull off google photos and delete
+  - ?? setup immich ??
 - remote cf.zt.218-CyberTruck
 - kiro hwpc-gs
   - note C:\Users\ghadmin\code\hwpc-gs\__cat9Notes_WIP.md
@@ -11,8 +19,8 @@
   - npm test
   - PASSED feature test results file:///C:/Users/ghadmin/code/hwpc-bug/test-results/reports/cucumber.html
 - Website http://localhost:3000/
-- need to rebuot cybertruck (updates)
-- thinking about creating a simple pwa app for contacts, maps, messages ?
+- ~~need to reboot cybertruck (updates)~~
+- ~~thinking about creating a simple pwa app for contacts, maps, messages ?~~
 - tbd
   
 # Trink notes 
