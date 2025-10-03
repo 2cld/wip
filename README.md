@@ -3,6 +3,19 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # cat now
+
+- ~~fire up tax shit~~
+  - ~~FHKlopFarms LLC 1065~~
+  - ~~TreesAES LLC 1065~~
+  - ~~cat9LLC 1065 (or not... may sp)~~
+  - CTre 1040
+  - Review BFlet 1040
+  - BHay 1040
+  - Sale Tax crap
+- Review HWPC
+  - Review email setup
+  - Review google bus stuff
+  - write-up work plan
 - cat9do simple pwa with calendar ?? on nsdockerhv need to put in gitea.cat9.me
   - [hwpc bookmarks](chrome://bookmarks/?id=1473)
   - [google/aimode simple pwa svelite](https://www.google.com/search?udm=50&aep=11&q=I%27m+a+dev+starting+a+mobile+first+project+for+a+Pest+Control+company.++I%27m+looking+to+do+a+PWA+that+uses+tailwinds+css+and+an+sqlite+server+side+back-end+that+the+mobile+apps+can+sync+to+but+work+offline.++I%27m+looking+at+svelte+as+a+possible+framework%2C+can+you+suggest+or+generate+a+template+with+basic+CRUD+and+css%3F&mtid=RY3aaNawCMy8ptQPrd-Y0Qc&mstk=AUtExfC39cwVHTrgodPbpG5Km4Xuhg1wYJbNzRiLdEHvMEdb7C7zJrCy4cO-WLev0ml3QvDWTP1W12NEBEuVCEJ5o0A6QEYuEW0VyzV4FHRJBRoU2hK9DI_Vfbn9DOpv-yC90zjmZ9ErH78vU1eAU-_gwTcSs-3RLKzUiSkjNjYFCOBwIGB6P-TosFFSNpK7arsEWWBEqrkX-KW9fmAYfyW4s01-nrC9rM_JVISo2gV5C92pskbRqYqzL4f-Nb8zwaJgSbgOmVTtMaeOeSNp4eCfAtktqkpnM1XJ-oRstTG0J4upn9NrJC1KauPx-s_h5uFSZfMPODZ0YVqMfw&csuir=1)
@@ -61,7 +74,7 @@
 - Try [https://excalidraw.com/](https://excalidraw.com/)
 
 
-# for cat Today
+# cat
 - Setup TreesAESpad [document https://netstack.org/docs/ops/users/user-win10-pad](https://netstack.org/docs/ops/users/user-win10-pad)
   - ~~setup new NuVision win10 pad (cat) TreesAESpad~~
   - ~~install zerotier 10.147.17.163 TreesAESpad~~
@@ -95,18 +108,6 @@
   - ~~bu (synology)~~
   - proxmox access
   - pm.klopfenstein.org in winfield yt [proxmox site](https://youtu.be/n1vOfdz5Nm8?t=2103)
-- Review HWPC
-  - Review email setup
-  - Review google bus stuff
-  - write-up work plan
-- ~~fire up tax shit~~
-  - ~~FHKlopFarms LLC 1065~~
-  - ~~TreesAES LLC 1065~~
-  - ~~cat9LLC 1065 (or not... may sp)~~
-  - BHay 1040
-  - CTre 1040
-  - Review BFlet 1040
-  - Sale Tax crap
 - Verify banks for land tax payments
   - ~~login to state tax payment site~~
   - ~~verify / update LLC payment links~~
