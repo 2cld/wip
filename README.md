@@ -40,6 +40,7 @@
   
 # Trink notes 
 - tbd new
+- [eos](https://e.foundation/eos-phone-welcome/)
 - Markov predition chains [Veritasium yt](https://www.youtube.com/watch?v=KZeIEiBrT_w)
 - Pretty good [Craft Computing 321 backup](https://youtu.be/Frjwmb6QZps)
 - [3d fixed point printable](https://youtu.be/ZKz0_kSFSP0?t=129)
