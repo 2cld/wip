@@ -8,10 +8,20 @@
   - ~~FHKlopFarms LLC 1065~~
   - ~~TreesAES LLC 1065~~
   - ~~cat9LLC 1065 (or not... may sp)~~
+  - ~~Update~~ FHKlopFarms LLC 2024 accounting with final links
+  - ~~Update~~ TreesAES LLC 2024 accounting with final links
+  - Update TH Twig LLC 2024 accounting with final links
+  - Update FletcherMC LLC 2024 accounting with final links
+  - Update CAT9 LLC 2024 accounting with final links
   - CTre 1040
   - Review BFlet 1040
   - BHay 1040
-  - Sale Tax crap
+  - IA Sale Tax registraion
+  - Update FHKlopFarms LLC 2025 accounting
+  - Update TreesAES LLC 2025 accounting
+  - Update TH Twig LLC 2025 accounting
+  - Update FletcherMC LLC 2025 accounting
+  - Update CAT9 LLC 2025 accounting
 - Review HWPC
   - Review email setup
   - Review google bus stuff
@@ -40,6 +50,7 @@
   
 # Trink notes 
 - tbd new
+- [https://github.com/ArgeliusLabs/Chasing-Your-Tail-NG](https://github.com/ArgeliusLabs/Chasing-Your-Tail-NG) - [yt](https://www.youtube.com/watch?v=cjXp3bBd2h8)
 - [eos](https://e.foundation/eos-phone-welcome/)
 - Markov predition chains [Veritasium yt](https://www.youtube.com/watch?v=KZeIEiBrT_w)
 - Pretty good [Craft Computing 321 backup](https://youtu.be/Frjwmb6QZps)
