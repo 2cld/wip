@@ -2,26 +2,11 @@
 
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
-# cat now
+# cat note
+- youtube [Docker Compose template toolkit: Boilerplates v2](https://www.youtube.com/watch?v=rpOz0heQPGA)
+- github Boilerplates v2 [repo](https://github.com/christianlempa/boilerplates)
 
-- ~~fire up tax shit~~
-  - ~~FHKlopFarms LLC 1065~~
-  - ~~TreesAES LLC 1065~~
-  - ~~cat9LLC 1065 (or not... may sp)~~
-  - ~~Update~~ FHKlopFarms LLC 2024 accounting with final links
-  - ~~Update~~ TreesAES LLC 2024 accounting with final links
-  - Update TH Twig LLC 2024 accounting with final links
-  - Update FletcherMC LLC 2024 accounting with final links
-  - Update CAT9 LLC 2024 accounting with final links
-  - CTre 1040
-  - Review BFlet 1040
-  - BHay 1040
-  - IA Sale Tax registraion
-  - Update FHKlopFarms LLC 2025 accounting
-  - Update TreesAES LLC 2025 accounting
-  - Update TH Twig LLC 2025 accounting
-  - Update FletcherMC LLC 2025 accounting
-  - Update CAT9 LLC 2025 accounting
+## hwpc
 - Review HWPC
   - Review email setup
   - Review google bus stuff
@@ -31,6 +16,8 @@
   - [google/aimode simple pwa svelite](https://www.google.com/search?udm=50&aep=11&q=I%27m+a+dev+starting+a+mobile+first+project+for+a+Pest+Control+company.++I%27m+looking+to+do+a+PWA+that+uses+tailwinds+css+and+an+sqlite+server+side+back-end+that+the+mobile+apps+can+sync+to+but+work+offline.++I%27m+looking+at+svelte+as+a+possible+framework%2C+can+you+suggest+or+generate+a+template+with+basic+CRUD+and+css%3F&mtid=RY3aaNawCMy8ptQPrd-Y0Qc&mstk=AUtExfC39cwVHTrgodPbpG5Km4Xuhg1wYJbNzRiLdEHvMEdb7C7zJrCy4cO-WLev0ml3QvDWTP1W12NEBEuVCEJ5o0A6QEYuEW0VyzV4FHRJBRoU2hK9DI_Vfbn9DOpv-yC90zjmZ9ErH78vU1eAU-_gwTcSs-3RLKzUiSkjNjYFCOBwIGB6P-TosFFSNpK7arsEWWBEqrkX-KW9fmAYfyW4s01-nrC9rM_JVISo2gV5C92pskbRqYqzL4f-Nb8zwaJgSbgOmVTtMaeOeSNp4eCfAtktqkpnM1XJ-oRstTG0J4upn9NrJC1KauPx-s_h5uFSZfMPODZ0YVqMfw&csuir=1)
   - [google/aimode n8n calendar](https://www.google.com/search?udm=50&aep=11&q=I%27m+a+dev+using+n8n+and+I+want+to+pull+my+google+calendar+events+and+put+them+in+a+table%2C+filter+by+the+title%2C+then+put+them+back+in+a+google+sheet+to+generate+an+invoice+for+time+on+various+projects.++Can+you+help+me+with+step+by+step+instructions+%3F&mtid=SdfbaIKJLZugw8cPouLs4QE&mstk=AUtExfCa_Jd7WCIIaqje_fyYwe1GMaC83Lp54WRc86MDK_qYS319Yp4V4F9SnMvCtZrLaPN_noK_4Z3kgsm6gkUSkv0RRZa5w68ZGQNmTNa2_kHbhar5db_Cnz5gcQIhUOlXRANZww_stkt-Ic50VT5B8jtPF8VzMpaGB595MdO1dLoN6urwaFf7n2yaxqeVAMsunba69G1c7KUqaOzVzpFp00TWKMhqcgqiwh5KDrao0qm8COvSsBp8UZxTy6hl6nH7PdP6N-aauzKLt9mwdhhn_yA_DRpWN-YWpmQ&csuir=1)
 - ICS on [CAT9-TimeSheet](https://docs.google.com/spreadsheets/d/13J7sXSwUnMzZElgEAnDN1p5x-nMsJe13yQDOE27rnSc/edit?gid=0#gid=0) doc in cat9do
+
+## cleanup
 - need to clean up google drive
   - [https://one.google.com/storage](https://one.google.com/storage)
   - [google storage large files](https://photos.google.com/quotamanagement/large)
@@ -87,6 +74,24 @@
 
 
 # cat
+- ~~fire up tax shit~~
+  - ~~FHKlopFarms LLC 1065~~
+  - ~~TreesAES LLC 1065~~
+  - ~~cat9LLC 1065 (or not... may sp)~~
+  - ~~Update~~ FHKlopFarms LLC 2024 accounting with final links
+  - ~~Update~~ TreesAES LLC 2024 accounting with final links
+  - ~~Update~~ TH Twig LLC 2024 accounting with final links
+  - ~~Update~~ FletcherMC LLC 2024 accounting with final links
+  - ~~Update~~ CAT9 LLC 2024 accounting with final links
+  - ~~CTre 1040~~
+  - ~~Review BFlet 1040~~
+  - ~~BHay 1040~~
+  - IA Sale Tax registraion
+  - Update FHKlopFarms LLC 2025 accounting
+  - Update TreesAES LLC 2025 accounting
+  - Update TH Twig LLC 2025 accounting
+  - Update FletcherMC LLC 2025 accounting
+  - Update CAT9 LLC 2025 accounting
 - Setup TreesAESpad [document https://netstack.org/docs/ops/users/user-win10-pad](https://netstack.org/docs/ops/users/user-win10-pad)
   - ~~setup new NuVision win10 pad (cat) TreesAESpad~~
   - ~~install zerotier 10.147.17.163 TreesAESpad~~
