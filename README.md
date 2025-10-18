@@ -2,9 +2,12 @@
 
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
-# cat note
+# cat note - sort and remove
 - youtube [Docker Compose template toolkit: Boilerplates v2](https://www.youtube.com/watch?v=rpOz0heQPGA)
 - github Boilerplates v2 [repo](https://github.com/christianlempa/boilerplates)
+- loop vent for Kathy [youtube tc 1:13](https://youtu.be/EtDO-Aq1mIY?t=73)
+- new tax stuff [yt](https://www.youtube.com/watch?v=y0M582xkM28)
+- [water table podcast](https://www.youtube.com/playlist?list=PLxStyCN3l4woecKrXkSfuALVR55G5IMu_)
 
 ## hwpc
 - Review HWPC
