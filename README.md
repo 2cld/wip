@@ -8,17 +8,51 @@
 - loop vent for Kathy [youtube tc 1:13](https://youtu.be/EtDO-Aq1mIY?t=73)
 - new tax stuff [yt](https://www.youtube.com/watch?v=y0M582xkM28)
 - [water table podcast](https://www.youtube.com/playlist?list=PLxStyCN3l4woecKrXkSfuALVR55G5IMu_)
+- [Local AI App with Docker Model Runner](https://www.youtube.com/watch?v=4YA1n2zs6XA)
+- Christian Lempa [Docker Compose template toolkit: Boilerplates v2](https://www.youtube.com/watch?v=rpOz0heQPGA)
+- Zubair Trabzada | AI Workshop [AI Voice Agent](https://www.youtube.com/watch?v=0-P-Fr94ryU)
+- hip streatch [yt](https://www.youtube.com/watch?v=nWuapzlzmBM)
+- n8n [quickbooks](https://youtu.be/mprQ4CY3yn0) and [tutorial site](https://www.reddit.com/r/n8n/comments/1ncceu3/automate_your_accounting_quickbooks_n8n_tutorial/)
+- n8n [pdf to gsheets](https://www.youtube.com/watch?v=LfuPWIJGh44)
+- n8n [reciepts to gsheets](https://www.youtube.com/watch?v=oacdH5mykvI)
+- n8n [Extract Info From Impossible Docs in n8n With Mistral](https://www.youtube.com/watch?v=HPQEJXp9zCE)
+- n8n probably the most open [extract from pdf / images](https://www.youtube.com/watch?v=Hk1aBqLbFzU)
+- n8n doc processing [Extract PDF Content and Update to Google Sheet](https://www.youtube.com/watch?v=rWBJFYEDqYs)
+- n8n competitor [sim ai](https://www.sim.ai/)
+- n8n with [aistudio](https://aistudio.google.com/) to reverse engineer n8n tutorial [n8n tutorial to code](https://www.youtube.com/watch?v=o7zHl9gHhVM)
+- n8n replace quickbooks [tbd](https://www.youtube.com/watch?v=Hk0pqhw1AQs)
+- [ai voice agent yt](https://www.youtube.com/watch?v=HGBMr1RQliY)
+- [ai voice agent yt](https://www.youtube.com/watch?v=JinTKY1TJZY)
+- [ai voice agent multi-lingual](https://www.youtube.com/watch?v=n64lzhgld8M)
+- tbd
 
 ## hwpc
 - Review HWPC
   - Review email setup
-  - Review google bus stuff
+    - really only need to save candy@hawkeyewestpestcontrol.com
+    - Document how to get [https://business.google.com/add](https://business.google.com/add) google maps [claim business on google](https://www.google.com/search?q=get+my+business+on+google+maps&sca_esv=97f87ef5af16174d&rlz=1C1CHFX_enUS1166US1166&sxsrf=AE3TifN0-lmBWcnGGNLM3CL-SPc6RJUOlQ%3A1760819332216&ei=hPjzaPD-DOTMp84P-amcyQ0&ved=0ahUKEwjw0L2Wy66QAxVk5skDHfkUJ9kQ4dUDCBE&uact=5&oq=get+my+business+on+google+maps&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmdldCBteSBidXNpbmVzcyBvbiBnb29nbGUgbWFwczIFEAAYgAQyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB5I3dkBUIB5WOzMAXAFeAGQAQCYAasBoAG1E6oBBDI4LjS4AQPIAQD4AQGYAiWgAs0VwgIKEAAYsAMY1gQYR8ICChAjGIAEGCcYigXCAgQQIxgnwgILEAAYgAQYkQIYigXCAgoQABiABBhDGIoFwgINEAAYgAQYsQMYQxiKBcICEBAuGIAEGNEDGEMYxwEYigXCAggQABiABBixA8ICDhAuGIAEGLEDGIMBGIoFwgIOEC4YgAQYxwEYjgUYrwHCAgsQLhiABBixAxiDAcICCxAuGIAEGMcBGK8BwgILEAAYgAQYsQMYgwHCAgsQLhiABBjRAxjHAcICDhAuGIAEGLEDGNEDGMcBwgIIEAAYBRgNGB7CAggQABgIGA0YHsICCxAAGIAEGIYDGIoFwgIIEAAYFhgKGB6YAwCIBgGQBgiSBwQzMC43oAfJggKyBwQyNS43uAedFcIHBjItMzIuNcgH4QE&sclient=gws-wiz-serp)
+    - prepare to abandon google (backup and re-direct)
+  - Review google business stuff
+    - could use google voice attendance right now
+    - Extend what I'm doing with my LLC accounting to quickbooks?
   - write-up work plan
 - cat9do simple pwa with calendar ?? on nsdockerhv need to put in gitea.cat9.me
   - [hwpc bookmarks](chrome://bookmarks/?id=1473)
   - [google/aimode simple pwa svelite](https://www.google.com/search?udm=50&aep=11&q=I%27m+a+dev+starting+a+mobile+first+project+for+a+Pest+Control+company.++I%27m+looking+to+do+a+PWA+that+uses+tailwinds+css+and+an+sqlite+server+side+back-end+that+the+mobile+apps+can+sync+to+but+work+offline.++I%27m+looking+at+svelte+as+a+possible+framework%2C+can+you+suggest+or+generate+a+template+with+basic+CRUD+and+css%3F&mtid=RY3aaNawCMy8ptQPrd-Y0Qc&mstk=AUtExfC39cwVHTrgodPbpG5Km4Xuhg1wYJbNzRiLdEHvMEdb7C7zJrCy4cO-WLev0ml3QvDWTP1W12NEBEuVCEJ5o0A6QEYuEW0VyzV4FHRJBRoU2hK9DI_Vfbn9DOpv-yC90zjmZ9ErH78vU1eAU-_gwTcSs-3RLKzUiSkjNjYFCOBwIGB6P-TosFFSNpK7arsEWWBEqrkX-KW9fmAYfyW4s01-nrC9rM_JVISo2gV5C92pskbRqYqzL4f-Nb8zwaJgSbgOmVTtMaeOeSNp4eCfAtktqkpnM1XJ-oRstTG0J4upn9NrJC1KauPx-s_h5uFSZfMPODZ0YVqMfw&csuir=1)
   - [google/aimode n8n calendar](https://www.google.com/search?udm=50&aep=11&q=I%27m+a+dev+using+n8n+and+I+want+to+pull+my+google+calendar+events+and+put+them+in+a+table%2C+filter+by+the+title%2C+then+put+them+back+in+a+google+sheet+to+generate+an+invoice+for+time+on+various+projects.++Can+you+help+me+with+step+by+step+instructions+%3F&mtid=SdfbaIKJLZugw8cPouLs4QE&mstk=AUtExfCa_Jd7WCIIaqje_fyYwe1GMaC83Lp54WRc86MDK_qYS319Yp4V4F9SnMvCtZrLaPN_noK_4Z3kgsm6gkUSkv0RRZa5w68ZGQNmTNa2_kHbhar5db_Cnz5gcQIhUOlXRANZww_stkt-Ic50VT5B8jtPF8VzMpaGB595MdO1dLoN6urwaFf7n2yaxqeVAMsunba69G1c7KUqaOzVzpFp00TWKMhqcgqiwh5KDrao0qm8COvSsBp8UZxTy6hl6nH7PdP6N-aauzKLt9mwdhhn_yA_DRpWN-YWpmQ&csuir=1)
 - ICS on [CAT9-TimeSheet](https://docs.google.com/spreadsheets/d/13J7sXSwUnMzZElgEAnDN1p5x-nMsJe13yQDOE27rnSc/edit?gid=0#gid=0) doc in cat9do
+- Figure out hwpc old db data
+  - review old code on [https://hwpc.2cld.net/](https://hwpc.2cld.net/)
+  - look for old dev vm ?
+  - setup google sheet like old db and get import / export working
+  - use n8n to export old hwpc data to google sheets ??
+- Cleanup Keep notes ghadmin
+- wip for me, steve, candy, brian, kenton
+- Setup Steve Testing
+- Setup Candy Testing
+- [hwpc-bug](https://github.com/grasshorse/hwpc-bug)
+- [hwpc-gs](https://github.com/grasshorse/hwpc-gs)
+- tbd
 
 ## cleanup
 - need to clean up google drive
@@ -40,6 +74,7 @@
   
 # Trink notes 
 - tbd new
+- ai coder [kilo code](https://blog.kilocode.ai/p/code-supernova-new-stealth-frontier-model-free-in-kilo?kcgid=Cj0KCQjw9czHBhCyARIsAFZlN8Sb5qKgbXZHZWiee0bdr8c4tezdydMrXiOMJqC8gffoTbZ5uboLQFMaAjUUEALw_wcB&kcwbid=CkwKCAjw0sfHBhBgEjwAFTW3VyugFQ4uT08ujraHGfIz0CbC0N1hiEcManrRQjj8azGo8o5FvBu3FaGUpGA95O6dXeHBsng4tQAaAqPq&kcgbid=0AAAAA_Xn2vaDJCPaQXcbpSr73Xtth9pEq&gad_source=1&gad_campaignid=22709628719&gbraid=0AAAAA_Xn2vaDJCPaQXcbpSr73Xtth9pEq&gclid=Cj0KCQjw9czHBhCyARIsAFZlN8Sb5qKgbXZHZWiee0bdr8c4tezdydMrXiOMJqC8gffoTbZ5uboLQFMaAjUUEALw_wcB)
 - [https://github.com/ArgeliusLabs/Chasing-Your-Tail-NG](https://github.com/ArgeliusLabs/Chasing-Your-Tail-NG) - [yt](https://www.youtube.com/watch?v=cjXp3bBd2h8)
 - [eos](https://e.foundation/eos-phone-welcome/)
 - Markov predition chains [Veritasium yt](https://www.youtube.com/watch?v=KZeIEiBrT_w)
@@ -228,17 +263,7 @@
     - stand up netbox
     - fix plex and sort out storage and backup
     - sort out docs with gus
-- Figure out hwpc old db data
-  - review old code on [https://hwpc.2cld.net/](https://hwpc.2cld.net/)
-  - look for old dev vm ?
-  - setup google sheet like old db and get import / export working
-  - use n8n to export old hwpc data to google sheets ??
-- Cleanup Keep notes ghadmin
-- wip for me, steve, candy, brian, kenton
-- Setup Steve Testing
-- Setup Candy Testing
-- [hwpc-bug](https://github.com/grasshorse/hwpc-bug)
-- [hwpc-gs](https://github.com/grasshorse/hwpc-gs)
+
 
 # SOON que
 - Land Tax
