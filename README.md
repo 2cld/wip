@@ -2,8 +2,18 @@
 
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
-# hwpc wip - [https://hwpc.2cld.net/](https://hwpc.2cld.net/)
+# hwpc wip 
+- [https://hwpc.2cld.net/](https://hwpc.2cld.net/)
+- as ghadmin
+- [https://github.com/grasshorse/hwpc-gs](https://github.com/grasshorse/hwpc-gs)
+- [https://github.com/grasshorse/hwpc-bug](https://github.com/grasshorse/hwpc-bug)
 
+# netstack as nsadmin
+- [https://gitea.cat9.me/nsadmin/nspwa](https://gitea.cat9.me/nsadmin/nspwa)
+- [https://gitea.cat9.me/nsadmin/nspwa-test](https://gitea.cat9.me/nsadmin/nspwa-test)
+- [https://gitea.cat9.me/nsadmin/nscallbot](https://gitea.cat9.me/nsadmin/nscallbot)
+- tbd
+  
 # cat note - sort and remove
 - youtube [Docker Compose template toolkit: Boilerplates v2](https://www.youtube.com/watch?v=rpOz0heQPGA)
 - github Boilerplates v2 [repo](https://github.com/christianlempa/boilerplates)
@@ -64,6 +74,10 @@
 
 # Mark notes
 - tbd new
+
+# Cole notes
+- grain leg flow rates [googleai](https://www.google.com/search?udm=50&aep=11&q=I%27m+an+agriculture+engineer+working+on+an+auger+system+feeding+a+leg+from+a+dump+pit.++The+transfer+auger+from+the+pit+to+the+leg+keeps+burning+off+belts+and+I+want+to+debug+the+root+cause.++Can+you+help%3F&mtid=rfn0aPn_GqLIptQPgaDgeA&mstk=AUtExfAFYh5u-ADYXs-kJnCk1dhcnpaHKIfxs0RYQQ0uhiUg60fzwQJnG7L79DBtivd9rWf5meQ6MWHO9ViW8ku1FrrkqhlDQjjd9sFPvwp1FSqy2uQcw8yDLv-ftNzmlGQCQT1KtFtl42vmbEKKoStoy6oDkQaIvYxCwnWwXwN-WanPNYLHed1NFBj-w-g9rm7k4J21tu4VYSPcEOqqMgHqPwv5iozE0nGJVFKCAwGTx2i-woFezPffKKdJ_FDXjEp7_QL6vvjJwENiuFGAGXfyN271bjuNj_-lEq0&csuir=1)
+- tbd
 
 # cat notes
 - [Kestra automation](https://github.com/kestra-io/kestra)
