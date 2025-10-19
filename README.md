@@ -76,6 +76,7 @@
 - tbd new
 
 # Cole notes
+- tile [prinsco](https://www.prinsco.com/prinsco-markets/agriculture/) and [Ken Skinner](https://www.prinsco.com/find-a-sales-rep/skinner-ken/)
 - grain leg flow rates [googleai](https://www.google.com/search?udm=50&aep=11&q=I%27m+an+agriculture+engineer+working+on+an+auger+system+feeding+a+leg+from+a+dump+pit.++The+transfer+auger+from+the+pit+to+the+leg+keeps+burning+off+belts+and+I+want+to+debug+the+root+cause.++Can+you+help%3F&mtid=rfn0aPn_GqLIptQPgaDgeA&mstk=AUtExfAFYh5u-ADYXs-kJnCk1dhcnpaHKIfxs0RYQQ0uhiUg60fzwQJnG7L79DBtivd9rWf5meQ6MWHO9ViW8ku1FrrkqhlDQjjd9sFPvwp1FSqy2uQcw8yDLv-ftNzmlGQCQT1KtFtl42vmbEKKoStoy6oDkQaIvYxCwnWwXwN-WanPNYLHed1NFBj-w-g9rm7k4J21tu4VYSPcEOqqMgHqPwv5iozE0nGJVFKCAwGTx2i-woFezPffKKdJ_FDXjEp7_QL6vvjJwENiuFGAGXfyN271bjuNj_-lEq0&csuir=1)
 - screw gun trigger repair [googleai](https://www.google.com/search?udm=50&aep=11&q=I%27m+a+small+tool+repair+tech+working+on+an+intermittent+trigger+on+a+DEWALT-XR-20V-MAX-Lithium-Ion-Cordless-Brushless-Screw-Gun-Tool%2C+can+you+help+me+repair+the+issue%3F&mtid=AAv1aKyvF6jWptQPobmqqAY&mstk=AUtExfD1AG1lXUI6WcBghEFf-S6u7mS6g5DS-yBvEi0qrAv6OGSRJV-jsIXc9OJpesVpgCAi1iCVARMwAsDmjCD_p6aNZVRxQfmcB-R4BQujxifXQ-wsMpTBvNaAmf3hiajpcwMrnyonvF0incSqVK3WyUaRZr6QPG1d1YDsBRuHWPWct-powlV7_gR0SopgCarNvNd3d_VH0yxo3sjmwqCZenDNNRyLvgR58sCDgzY4_6oMOV0YoEkWABj17wsfVBFVyKmt_HSazouRUeB9XtWPlE038wteaIMPvng&csuir=1)
 - tbd
