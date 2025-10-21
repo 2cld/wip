@@ -76,6 +76,13 @@
 # Mark notes
 - tbd new
 
+# JandR notes
+- [Respect My Authoriti ! - SOUTH PARK](https://www.youtube.com/watch?v=KKJprZqU_oU) or [shorter](https://www.youtube.com/watch?v=ca3IQdfuWTQ)
+- [They took our yabs](https://youtu.be/APo2p4-WXsc?t=83) and [shorter](https://youtu.be/APo2p4-WXsc?t=123)
+- [Pickle RICK](https://youtu.be/woC1jzf0EDg?t=151) and [PR icon gen](https://imgflip.com/memegenerator/98597677/Pickle-rick)
+- [Rick and Morty](https://www.youtube.com/watch?v=VBZ-_ICc4dQ)
+- [Up - Dug the dog - Squirrle](https://youtu.be/cIJd1m2kXMQ?t=22) and [Alpha Dug](https://youtu.be/cIJd1m2kXMQ?t=288)
+
 # Cole notes
 - tile [prinsco](https://www.prinsco.com/prinsco-markets/agriculture/) and [Ken Skinner](https://www.prinsco.com/find-a-sales-rep/skinner-ken/)
 - grain leg flow rates [googleai](https://www.google.com/search?udm=50&aep=11&q=I%27m+an+agriculture+engineer+working+on+an+auger+system+feeding+a+leg+from+a+dump+pit.++The+transfer+auger+from+the+pit+to+the+leg+keeps+burning+off+belts+and+I+want+to+debug+the+root+cause.++Can+you+help%3F&mtid=rfn0aPn_GqLIptQPgaDgeA&mstk=AUtExfAFYh5u-ADYXs-kJnCk1dhcnpaHKIfxs0RYQQ0uhiUg60fzwQJnG7L79DBtivd9rWf5meQ6MWHO9ViW8ku1FrrkqhlDQjjd9sFPvwp1FSqy2uQcw8yDLv-ftNzmlGQCQT1KtFtl42vmbEKKoStoy6oDkQaIvYxCwnWwXwN-WanPNYLHed1NFBj-w-g9rm7k4J21tu4VYSPcEOqqMgHqPwv5iozE0nGJVFKCAwGTx2i-woFezPffKKdJ_FDXjEp7_QL6vvjJwENiuFGAGXfyN271bjuNj_-lEq0&csuir=1)
