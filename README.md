@@ -23,6 +23,7 @@
 - [Local AI App with Docker Model Runner](https://www.youtube.com/watch?v=4YA1n2zs6XA)
 - Christian Lempa [Docker Compose template toolkit: Boilerplates v2](https://www.youtube.com/watch?v=rpOz0heQPGA)
 - Zubair Trabzada | AI Workshop [AI Voice Agent](https://www.youtube.com/watch?v=0-P-Fr94ryU)
+- [NASA interview](https://www.youtube.com/watch?v=U7niXhUEC-I)
 - hip streatch [yt](https://www.youtube.com/watch?v=nWuapzlzmBM)
 - tbd
 
