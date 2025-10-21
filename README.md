@@ -15,6 +15,7 @@
 - tbd
   
 # cat note - sort and remove
+- Edgar's youtube [Half past square](https://www.youtube.com/@halfpastsquare/videos)
 - youtube [Docker Compose template toolkit: Boilerplates v2](https://www.youtube.com/watch?v=rpOz0heQPGA)
 - github Boilerplates v2 [repo](https://github.com/christianlempa/boilerplates)
 - loop vent for Kathy [youtube tc 1:13](https://youtu.be/EtDO-Aq1mIY?t=73)
