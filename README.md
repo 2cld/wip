@@ -20,6 +20,7 @@
 - new tax code [yt](https://www.youtube.com/watch?v=FcNlyopXPAU)
 - Harvest Lineup [Larson's yt](https://youtu.be/fFjreDnHdvM?t=1175)
 - Home Construction [yt](https://www.youtube.com/watch?v=FpZWUHFMTd0)
+- Event Center [yt](https://www.youtube.com/watch?v=YPDSiTgUgl4)
 - youtube [Docker Compose template toolkit: Boilerplates v2](https://www.youtube.com/watch?v=rpOz0heQPGA)
 - github Boilerplates v2 [repo](https://github.com/christianlempa/boilerplates)
 - loop vent for Kathy [youtube tc 1:13](https://youtu.be/EtDO-Aq1mIY?t=73)
