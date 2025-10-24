@@ -12,6 +12,7 @@
 - [https://gitea.cat9.me/nsadmin/nspwa](https://gitea.cat9.me/nsadmin/nspwa)
 - [https://gitea.cat9.me/nsadmin/nspwa-test](https://gitea.cat9.me/nsadmin/nspwa-test)
 - [https://gitea.cat9.me/nsadmin/nscallbot](https://gitea.cat9.me/nsadmin/nscallbot)
+- [yt-vapi-function-callback](https://youtu.be/6MLu3fbNsdY?t=972)
 - tbd
   
 # cat note - sort and remove
