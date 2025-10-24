@@ -17,6 +17,7 @@
   
 # cat note - sort and remove
 - Edgar's youtube [Half past square](https://www.youtube.com/@halfpastsquare/videos)
+- new tax code [yt](https://www.youtube.com/watch?v=FcNlyopXPAU)
 - Harvest Lineup [Larson's yt](https://youtu.be/fFjreDnHdvM?t=1175)
 - Home Construction [yt](https://www.youtube.com/watch?v=FpZWUHFMTd0)
 - youtube [Docker Compose template toolkit: Boilerplates v2](https://www.youtube.com/watch?v=rpOz0heQPGA)
