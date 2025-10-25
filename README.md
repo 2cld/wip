@@ -16,6 +16,7 @@
 - [n8n langchain node](https://www.youtube.com/watch?v=4o0AJYBEiBo) the key to ai in n8n
 - [n8n langchain node pt2](https://www.youtube.com/watch?v=YKUA1jAj4Fk) and [resources](https://bartslodyczka.gumroad.com/l/npkux)
 - [n8n node code breakdown](https://www.youtube.com/watch?v=lEz7ZNiyb04)
+- [n8n knowlege graphs](https://www.youtube.com/watch?v=MUN1eAlL0lc)
 - tbd
   
 # cat note - sort and remove
