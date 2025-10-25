@@ -18,6 +18,7 @@
 - [n8n langchain node pt2](https://www.youtube.com/watch?v=YKUA1jAj4Fk) and [resources](https://bartslodyczka.gumroad.com/l/npkux)
 - [n8n node code breakdown](https://www.youtube.com/watch?v=lEz7ZNiyb04)
 - [n8n knowlege graphs](https://www.youtube.com/watch?v=MUN1eAlL0lc)
+- [n8n record callback](https://www.youtube.com/watch?v=U0Qia_zeQFk)
 - tbd
   
 # cat note - sort and remove
