@@ -13,6 +13,7 @@
 - [https://gitea.cat9.me/nsadmin/nspwa-test](https://gitea.cat9.me/nsadmin/nspwa-test)
 - [https://gitea.cat9.me/nsadmin/nscallbot](https://gitea.cat9.me/nsadmin/nscallbot)
 - [yt-vapi-function-callback](https://youtu.be/6MLu3fbNsdY?t=972)
+- [n8n langchain node](https://www.youtube.com/watch?v=4o0AJYBEiBo) the key to ai in n8n
 - tbd
   
 # cat note - sort and remove
