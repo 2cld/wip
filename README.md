@@ -13,6 +13,7 @@
 - [https://gitea.cat9.me/nsadmin/nspwa-test](https://gitea.cat9.me/nsadmin/nspwa-test)
 - [https://gitea.cat9.me/nsadmin/nscallbot](https://gitea.cat9.me/nsadmin/nscallbot)
 - [yt-vapi-function-callback](https://youtu.be/6MLu3fbNsdY?t=972)
+- [yt-vapi-function-callback](https://youtu.be/s73j8e7YS8E?t=461)
 - [n8n langchain node](https://www.youtube.com/watch?v=4o0AJYBEiBo) the key to ai in n8n
 - [n8n langchain node pt2](https://www.youtube.com/watch?v=YKUA1jAj4Fk) and [resources](https://bartslodyczka.gumroad.com/l/npkux)
 - [n8n node code breakdown](https://www.youtube.com/watch?v=lEz7ZNiyb04)
@@ -108,8 +109,12 @@
 - [Christian Lempa - Kestra #1](https://www.youtube.com/watch?v=D4cixQ_Ek4Y) - [boilerplate](https://github.com/ChristianLempa/boilerplates/blob/main/kestra/inputs.yaml) - [videos](https://github.com/ChristianLempa/videos)
 - [Christian Lempa - Kestra #2](https://www.youtube.com/watch?v=PJG1-7hMHsE) - [docs](https://github.com/christianlempa)
 - [Christian Lempa - Kestra #3](https://www.youtube.com/watch?v=hpAJjtUjZOE)
+- [the ask](https://youtu.be/L8zq_i_gen4?t=1081) 9/16 - [email]() 9/16 - [callback]() 9/22 11am - [txtback]() 9/22 2pm - [txtctbackincf]() 10/7 - [clcall]() 10/9 - 10/10 Fru visit - 10/12 day1
+- rt [yt](https://youtu.be/eq3g4fdz0W8?t=805)
 - Try [https://excalidraw.com/](https://excalidraw.com/)
 
+# kenton
+- [yields](https://youtu.be/xns0pE4T2DE?t=469) - [yield guess](https://youtu.be/xns0pE4T2DE?t=492)
 
 # cat
 - ~~fire up tax shit~~
