@@ -2,9 +2,8 @@
 
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
-# hwpc wip 
+# hwpc wip as ghadmin
 - [https://hwpc.2cld.net/](https://hwpc.2cld.net/)
-- as ghadmin
 - [https://github.com/grasshorse/hwpc-gs](https://github.com/grasshorse/hwpc-gs)
 - [https://github.com/grasshorse/hwpc-bug](https://github.com/grasshorse/hwpc-bug)
 
@@ -12,14 +11,6 @@
 - [https://gitea.cat9.me/nsadmin/nspwa](https://gitea.cat9.me/nsadmin/nspwa)
 - [https://gitea.cat9.me/nsadmin/nspwa-test](https://gitea.cat9.me/nsadmin/nspwa-test)
 - [https://gitea.cat9.me/nsadmin/nscallbot](https://gitea.cat9.me/nsadmin/nscallbot)
-- [yt-vapi-function-callback](https://youtu.be/6MLu3fbNsdY?t=972)
-- [yt-vapi-function-callback](https://youtu.be/s73j8e7YS8E?t=461)
-- [n8n langchain node](https://www.youtube.com/watch?v=4o0AJYBEiBo) the key to ai in n8n
-- [n8n langchain node pt2](https://www.youtube.com/watch?v=YKUA1jAj4Fk) and [resources](https://bartslodyczka.gumroad.com/l/npkux)
-- [n8n node code breakdown](https://www.youtube.com/watch?v=lEz7ZNiyb04)
-- [n8n knowlege graphs](https://www.youtube.com/watch?v=MUN1eAlL0lc)
-- [n8n record callback](https://www.youtube.com/watch?v=U0Qia_zeQFk)
-- [n8n stripe payment link](https://www.youtube.com/watch?v=jtZbVZfIiZk)
 - tbd
   
 # cat note - sort and remove
@@ -282,16 +273,8 @@ Dlt1@cdc.gov
     - fix plex and sort out storage and backup
     - sort out docs with gus
 
-
 # SOON que
-- Land Tax
-- LLC Accounting
-
-# Active
-- [https://github.com/grasshorse/hwpc-gs](https://github.com/grasshorse/hwpc-gs) Pest Control Service Management
-  - [https://hwpc.2cld.net/](https://hwpc.2cld.net/) 
-- [https://github.com/grasshorse/hwpc-bug](https://github.com/grasshorse/hwpc-bug) cuke testing for hwpc-gs
-- [https://drive.google.com/drive/home](https://drive.google.com/drive/home) start clearing
+- 2025 LLC Accounting
 
 # Testing
 - [kiro.dev download](https://kiro.dev/downloads/) ai chat
