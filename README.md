@@ -19,6 +19,7 @@
 - [n8n node code breakdown](https://www.youtube.com/watch?v=lEz7ZNiyb04)
 - [n8n knowlege graphs](https://www.youtube.com/watch?v=MUN1eAlL0lc)
 - [n8n record callback](https://www.youtube.com/watch?v=U0Qia_zeQFk)
+- [n8n stripe payment link](https://www.youtube.com/watch?v=jtZbVZfIiZk)
 - tbd
   
 # cat note - sort and remove
