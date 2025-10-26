@@ -113,6 +113,16 @@
 - [the ask](https://youtu.be/L8zq_i_gen4?t=1081) 9/16 - [email]() 9/16 - [callback]() 9/22 11am - [txtback]() 9/22 2pm - [txtctbackincf]() 10/7 - [clcall]() 10/9 - 10/10 Fru visit - 10/12 day1
 - rt [yt](https://youtu.be/eq3g4fdz0W8?t=805)
 - Try [https://excalidraw.com/](https://excalidraw.com/)
+- David [lookup](https://cdc.confex.com/cdc/std2016/webprogram/Person39183.html#:~:text=Biographical%20Sketch:,and%20combinations%20of%20mutations%2C%20Dr.)
+```
+David Trees, PhD
+Centers for Disease Control and Prevention
+Division of STD Prevention
+1600 Clifton Road, A-12
+Atlanta, GA
+USA 30333
+Dlt1@cdc.gov
+```
 
 # kenton
 - [yields](https://youtu.be/xns0pE4T2DE?t=469) - [yield guess](https://youtu.be/xns0pE4T2DE?t=492)
