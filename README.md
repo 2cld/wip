@@ -60,7 +60,7 @@
   
 # Trink notes 
 - tbd new
-- Computer Use Agent [https://github.com/trycua/cua](https://github.com/trycua/cua)
+- Computer Use Agent [https://github.com/trycua/cua](https://github.com/trycua/cua) is it this [https://cua.ai/](https://cua.ai/)
 - impact crater in Iowa [Manson Crater](https://www.youtube.com/watch?v=HDPFK3Gc31U)
 - ai coder [kilo code](https://blog.kilocode.ai/p/code-supernova-new-stealth-frontier-model-free-in-kilo?kcgid=Cj0KCQjw9czHBhCyARIsAFZlN8Sb5qKgbXZHZWiee0bdr8c4tezdydMrXiOMJqC8gffoTbZ5uboLQFMaAjUUEALw_wcB&kcwbid=CkwKCAjw0sfHBhBgEjwAFTW3VyugFQ4uT08ujraHGfIz0CbC0N1hiEcManrRQjj8azGo8o5FvBu3FaGUpGA95O6dXeHBsng4tQAaAqPq&kcgbid=0AAAAA_Xn2vaDJCPaQXcbpSr73Xtth9pEq&gad_source=1&gad_campaignid=22709628719&gbraid=0AAAAA_Xn2vaDJCPaQXcbpSr73Xtth9pEq&gclid=Cj0KCQjw9czHBhCyARIsAFZlN8Sb5qKgbXZHZWiee0bdr8c4tezdydMrXiOMJqC8gffoTbZ5uboLQFMaAjUUEALw_wcB)
 - [https://github.com/ArgeliusLabs/Chasing-Your-Tail-NG](https://github.com/ArgeliusLabs/Chasing-Your-Tail-NG) - [yt](https://www.youtube.com/watch?v=cjXp3bBd2h8)
