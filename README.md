@@ -7,8 +7,8 @@
 - [https://github.com/grasshorse/hwpc-gs](https://github.com/grasshorse/hwpc-gs)
 - [https://github.com/grasshorse/hwpc-bug](https://github.com/grasshorse/hwpc-bug)
 ## mvp
-- Fix Google Ads
-- 2025 Tax Planning
+- Fix Google Ads [https://hwpc.2cld.net/](https://hwpc.2cld.net/)
+- 2025 Tax Planning - based off of LLC Template
 - callbot - Answer phone 
 - callbot - Take message
 - callbot - Message notification
@@ -59,6 +59,7 @@
   
 # Trink notes 
 - tbd new
+- ai cli agents [network chuck - cli ai](https://www.youtube.com/watch?v=MsQACpcuTkU)
 - what bio markers are these guys using [Humane Health](https://humehealth.com/)
 - Computer Use Agent [https://github.com/trycua/cua](https://github.com/trycua/cua) is it this [https://cua.ai/](https://cua.ai/)
 - impact crater in Iowa [Manson Crater](https://www.youtube.com/watch?v=HDPFK3Gc31U)
