@@ -23,6 +23,7 @@
   
 # cat note - sort and remove
 - Edgar's youtube [Half past square](https://www.youtube.com/@halfpastsquare/videos)
+- bubble-ai [yt](https://youtu.be/C6eXTvqdaro?t=357)
 - new tax code [yt](https://www.youtube.com/watch?v=FcNlyopXPAU)
 - Harvest Lineup [Larson's yt](https://youtu.be/fFjreDnHdvM?t=1175)
 - Home Construction [yt](https://www.youtube.com/watch?v=FpZWUHFMTd0)
