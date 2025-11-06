@@ -38,8 +38,12 @@
 - Zubair Trabzada | AI Workshop [AI Voice Agent](https://www.youtube.com/watch?v=0-P-Fr94ryU)
 - [NASA interview](https://www.youtube.com/watch?v=U7niXhUEC-I)
 - hip streatch [yt](https://www.youtube.com/watch?v=nWuapzlzmBM)
+- [Iowa yt](https://www.youtube.com/watch?v=JfVH5sP2O8I)
 - tbd
 
+## houses
+- [786-Minnesota-Ave-95125](https://www.redfin.com/CA/San-Jose/786-Minnesota-Ave-95125)
+- 
 ## cleanup
 - need to clean up google drive
   - [https://one.google.com/storage](https://one.google.com/storage)
