@@ -64,6 +64,10 @@
   
 # Trink notes 
 - tbd new
+- cloudflare mdt@trinkala.com
+- https://gitea.cat9.me/
+- https://netstack.org/docs/lan/compute/docker/
+- https://netstack.org/docs/portals/
 - ai cli agents [network chuck - cli ai](https://www.youtube.com/watch?v=MsQACpcuTkU)
 - what bio markers are these guys using [Humane Health](https://humehealth.com/)
 - Computer Use Agent [https://github.com/trycua/cua](https://github.com/trycua/cua) is it this [https://cua.ai/](https://cua.ai/)
