@@ -64,12 +64,14 @@
   
 # Trink notes 
 - tbd new
+- fix chat.cat9.me via https://ai.2cld.net notes
 - demo chat.cat9.me
 - demo https://gitea.cat9.me/nsadmin/nspwa-test
 - demo https://gitea.cat9.me/nsadmin/nspwa
 - demo https://gitea.cat9.me/nsadmin/nscallbot
 - review https://github.com/2cld/hwpc
 - start project to use nspwa for logger phone app
+- fix ssh to gitea.cat9.me
 - tdb
 - cloudflare mdt@trinkala.com
 - https://gitea.cat9.me/
