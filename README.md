@@ -22,6 +22,7 @@
 - tbd
   
 # cat note - sort and remove
+- Pay Post Office Box bill [https://www.usps.com/poboxes](https://www.usps.com/poboxes)
 - Edgar's youtube [Half past square](https://www.youtube.com/@halfpastsquare/videos)
 - bubble-ai [yt](https://youtu.be/C6eXTvqdaro?t=357)
 - new tax code [yt](https://www.youtube.com/watch?v=FcNlyopXPAU)
@@ -64,10 +65,12 @@
   
 # Trink notes 
 - tbd new
-- fix chat.cat9.me via https://ai.2cld.net notes
-  - Remote RD 10.147.17.219
-  - local works http://192.168.6.30:8080/
+- fix chat.cat9.me via https://ai.2cld.net notes updated [https://netstack.org/docs/lan/compute/wsl/wsl-docker-install](https://netstack.org/docs/lan/compute/wsl/wsl-docker-install)
+  - ~~DONE~~ Remote RD 10.147.17.219
+  - ~~DONE~~ local works http://192.168.6.30:8080/ from RD
   - Attempt https://ai.cat9.me/ fail (think cf->trafik not configured)
+  - client -> cf -> cfd -> trafik -> docker ... but how does it go to other
+  - [https://netstack.org/docs/lan/compute/docker/docker-compose-traefik](https://netstack.org/docs/lan/compute/docker/docker-compose-traefik)
 - demo [ai.cat9.me](https://ai.cat9.me/)
 - demo [nspwa-test](https://gitea.cat9.me/nsadmin/nspwa-test)
 - demo [nspwa](https://gitea.cat9.me/nsadmin/nspwa)
@@ -76,6 +79,12 @@
 - start project to use nspwa for logger phone app
 - fix ssh to [https://gitea.cat9.me/nsadmin/nspwa](https://gitea.cat9.me/nsadmin/nspwa)
 - ~~DONE~~~ verify [https://gitea.trink.com/cat](https://gitea.trink.com/cat)
+- fix [plex.tv](https://app.plex.tv/desktop/#!/) via [https://netstack.org/docs/portals/plex/](https://netstack.org/docs/portals/plex/)
+  - cf channels
+  - RD 10.147.17.219 - browse [http://192.168.6.48/lineup.html](http://192.168.6.48/lineup.html)
+  - move access
+  - dvr
+  - plex keeps moving ui shit... so shitcan??
 - tdb
 - cloudflare mdt@trinkala.com
 - https://gitea.cat9.me/
