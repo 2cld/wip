@@ -64,6 +64,13 @@
   
 # Trink notes 
 - tbd new
+- demo chat.cat9.me
+- demo https://gitea.cat9.me/nsadmin/nspwa-test
+- demo https://gitea.cat9.me/nsadmin/nspwa
+- demo https://gitea.cat9.me/nsadmin/nscallbot
+- review https://github.com/2cld/hwpc
+- start project to use nspwa for logger phone app
+- tdb
 - cloudflare mdt@trinkala.com
 - https://gitea.cat9.me/
 - https://netstack.org/docs/lan/compute/docker/
