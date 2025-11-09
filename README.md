@@ -65,6 +65,7 @@
   
 # Trink notes 
 - tbd new
+- [Culture Series - Iain Banks](https://en.wikipedia.org/wiki/Culture_series)
 - fix chat.cat9.me via https://ai.2cld.net notes updated [https://netstack.org/docs/lan/compute/wsl/wsl-docker-install](https://netstack.org/docs/lan/compute/wsl/wsl-docker-install)
   - ~~DONE~~ Remote RD 10.147.17.219
   - ~~DONE~~ local works http://192.168.6.30:8080/ from RD
