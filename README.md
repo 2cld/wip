@@ -65,13 +65,17 @@
 # Trink notes 
 - tbd new
 - fix chat.cat9.me via https://ai.2cld.net notes
-- demo chat.cat9.me
-- demo https://gitea.cat9.me/nsadmin/nspwa-test
-- demo https://gitea.cat9.me/nsadmin/nspwa
-- demo https://gitea.cat9.me/nsadmin/nscallbot
-- review https://github.com/2cld/hwpc
+  - Remote RD 10.147.17.219
+  - local works http://192.168.6.30:8080/
+  - Attempt https://ai.cat9.me/ fail (think cf->trafik not configured)
+- demo [ai.cat9.me](https://ai.cat9.me/)
+- demo [nspwa-test](https://gitea.cat9.me/nsadmin/nspwa-test)
+- demo [nspwa](https://gitea.cat9.me/nsadmin/nspwa)
+- demo [nscallbot](https://gitea.cat9.me/nsadmin/nscallbot)
+- review [hwpc](https://github.com/2cld/hwpc)
 - start project to use nspwa for logger phone app
-- fix ssh to gitea.cat9.me
+- fix ssh to [https://gitea.cat9.me/nsadmin/nspwa](https://gitea.cat9.me/nsadmin/nspwa)
+- ~~DONE~~~ verify [https://gitea.trink.com/cat](https://gitea.trink.com/cat)
 - tdb
 - cloudflare mdt@trinkala.com
 - https://gitea.cat9.me/
