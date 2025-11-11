@@ -77,6 +77,13 @@
 - Free [Google Gemini - cli](https://ai.google.dev/gemini-api/docs) xx [install](https://github.com/theNetworkChuck/ai-in-the-terminal/blob/main/docs/02-quickstart.md#step-1-install-30-seconds) xx [NC-yt install](https://youtu.be/MsQACpcuTkU?t=113)
 - $20/mth [Claude Code -cli](https://www.claude.com/product/claude-code) xx [install cmd](https://github.com/theNetworkChuck/ai-in-the-terminal/blob/main/docs/02-quickstart.md#step-1-install-30-seconds-1) xx [NC-yt install](https://youtu.be/MsQACpcuTkU?t=559)
 - [OpenAI codex](https://opencode.ai/) xx [NC-yt use](https://youtu.be/MsQACpcuTkU?t=1108)
+- Try this [OpenCode]() xx [install cmd](https://github.com/theNetworkChuck/ai-in-the-terminal/blob/main/docs/14-cheat-sheet.md#opencode) xx [NC-yt install](https://youtu.be/MsQACpcuTkU?t=1613)
+- Closer script @agent-script-session-closer [NC-yt page 1](https://youtu.be/MsQACpcuTkU?t=1285) and [NC-yt page 2](https://youtu.be/MsQACpcuTkU?t=1290) and [NC-yt page 3](https://youtu.be/MsQACpcuTkU?t=1305) 
+  - @agent-script-session-closer
+  - @brutal-critic-agent
+  - @ai-context-sync
+  - project agents [NC-yt agents](https://youtu.be/MsQACpcuTkU?t=1388)
+- Craft Computing [back to the future](https://www.youtube.com/watch?v=Rz1wyOs9SOA)
 - books
 - [Culture Series - Iain Banks](https://en.wikipedia.org/wiki/Culture_series)
 - fix chat.cat9.me via https://ai.2cld.net notes updated [https://netstack.org/docs/lan/compute/wsl/wsl-docker-install](https://netstack.org/docs/lan/compute/wsl/wsl-docker-install)
