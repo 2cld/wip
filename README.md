@@ -23,6 +23,7 @@
   
 # cat note - sort and remove
 - Pay Post Office Box bill [https://www.usps.com/poboxes](https://www.usps.com/poboxes)
+- ai bubble [bond market warning - yt](https://youtu.be/PJaffNvOjho?t=433)
 - Edgar's youtube [Half past square](https://www.youtube.com/@halfpastsquare/videos)
 - bubble-ai [yt](https://youtu.be/C6eXTvqdaro?t=357)
 - new tax code [yt](https://www.youtube.com/watch?v=FcNlyopXPAU)
