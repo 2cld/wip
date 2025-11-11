@@ -8,6 +8,9 @@
 - [https://github.com/grasshorse/hwpc-bug](https://github.com/grasshorse/hwpc-bug)
 ## mvp
 - Fix Google Ads [https://hwpc.2cld.net/](https://hwpc.2cld.net/)
+- rebuild win11vm (ran out of space in installs) (250GB next time??)
+- Install TurboTax 2023, 2024, 2025
+- Install quickbooks
 - 2025 Tax Planning - based off of LLC Template
 - callbot - Answer phone 
 - callbot - Take message
@@ -66,6 +69,15 @@
   
 # Trink notes 
 - tbd new
+- [GPU Renting](https://www.youtube.com/watch?v=egH5hKD913Y)
+- [OpenAI aardvark](https://openai.com/index/introducing-aardvark/)
+- [Google Big Sleep](https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html)
+- [Kiro.dev ai code](https://kiro.dev/)
+- [NC - ai cli - commands](https://github.com/theNetworkChuck/ai-in-the-terminal) and [NC-yt](https://www.youtube.com/watch?v=MsQACpcuTkU)
+- Free [Google Gemini - cli](https://ai.google.dev/gemini-api/docs) xx [install](https://github.com/theNetworkChuck/ai-in-the-terminal/blob/main/docs/02-quickstart.md#step-1-install-30-seconds) xx [NC-yt install](https://youtu.be/MsQACpcuTkU?t=113)
+- $20/mth [Claude Code -cli](https://www.claude.com/product/claude-code) xx [install cmd](https://github.com/theNetworkChuck/ai-in-the-terminal/blob/main/docs/02-quickstart.md#step-1-install-30-seconds-1) xx [NC-yt install](https://youtu.be/MsQACpcuTkU?t=559)
+- [OpenAI codex](https://opencode.ai/) xx [NC-yt use](https://youtu.be/MsQACpcuTkU?t=1108)
+- books
 - [Culture Series - Iain Banks](https://en.wikipedia.org/wiki/Culture_series)
 - fix chat.cat9.me via https://ai.2cld.net notes updated [https://netstack.org/docs/lan/compute/wsl/wsl-docker-install](https://netstack.org/docs/lan/compute/wsl/wsl-docker-install)
   - ~~DONE~~ Remote RD 10.147.17.219
