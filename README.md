@@ -25,6 +25,7 @@
 - tbd
   
 # cat note - sort and remove
+- https://www.1x.tech/
 - Pay Post Office Box bill [https://www.usps.com/poboxes](https://www.usps.com/poboxes)
 - ai bubble [bond market warning - yt](https://youtu.be/PJaffNvOjho?t=433)
 - Edgar's youtube [Half past square](https://www.youtube.com/@halfpastsquare/videos)
