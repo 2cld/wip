@@ -193,6 +193,7 @@
 - tbd
 
 # cat notes
+- DP [Garage storage - yt](https://www.youtube.com/watch?v=f-ANS-kmusE)
 - [Kestra automation](https://github.com/kestra-io/kestra)
 - [Christian Lempa - Kestra #1](https://www.youtube.com/watch?v=D4cixQ_Ek4Y) - [boilerplate](https://github.com/ChristianLempa/boilerplates/blob/main/kestra/inputs.yaml) - [videos](https://github.com/ChristianLempa/videos)
 - [Christian Lempa - Kestra #2](https://www.youtube.com/watch?v=PJG1-7hMHsE) - [docs](https://github.com/christianlempa)
