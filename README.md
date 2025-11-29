@@ -32,7 +32,8 @@
   - message: slack.com
   - web design: framer.com
   - prototyping: vo.app
-  
+- stores [youtube @marktilbury](https://www.youtube.com/@marktilbury/videos)  
+
 # hwpc wip as ghadmin
 - [https://hwpc.2cld.net/](https://hwpc.2cld.net/)
 - [https://github.com/grasshorse/hwpc-gs](https://github.com/grasshorse/hwpc-gs)
