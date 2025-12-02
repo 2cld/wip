@@ -6,17 +6,6 @@
 - [https://hwpc.2cld.net/](https://hwpc.2cld.net/)
 - [https://github.com/grasshorse/hwpc-gs](https://github.com/grasshorse/hwpc-gs)
 - [https://github.com/grasshorse/hwpc-bug](https://github.com/grasshorse/hwpc-bug)
-## mvp
-- Fix Google Ads [https://hwpc.2cld.net/](https://hwpc.2cld.net/)
-- rebuild win11vm (ran out of space in installs) (250GB next time??)
-- Install TurboTax 2023, 2024, 2025
-- Install quickbooks
-- 2025 Tax Planning - based off of LLC Template
-- callbot - Answer phone 
-- callbot - Take message
-- callbot - Message notification
-- callbot - Callback planning
-- Route Scheduling
 
 # netstack as nsadmin
 - [https://gitea.cat9.me/nsadmin/nspwa](https://gitea.cat9.me/nsadmin/nspwa)
