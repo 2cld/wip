@@ -14,6 +14,8 @@
 - wip - document repo for google calendar to google sheets time invoice
 - wip - run hwpc customer db report
 - wip - document task to add local cache with sync database to nspwa
+- wip - vite local storage [yt](https://www.youtube.com/watch?v=tjn7m55lGSQ)
+- wip - vite [pwa plugin https://vite-pwa-org.netlify.app/frameworks/sveltekit](https://vite-pwa-org.netlify.app/frameworks/sveltekit)
 
 # hwpc wip as ghadmin
 - [https://hwpc.2cld.net/](https://hwpc.2cld.net/)
