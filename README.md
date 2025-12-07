@@ -2,6 +2,19 @@
 
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
+# trink sync update 3-3:30pm PST
+- working dev site [https://nspwa.cat9.me/](https://nspwa.cat9.me/) cloudflare --> traefik --> dev server
+- used vscode ai to fix traefik issues (very impressed)
+- zt access to same [http://10.147.17.176:5173/](http://10.147.17.176:5173/)
+- working cockpit [https://cp.cat9.me/](https://cp.cat9.me/)
+- updated repo [https://gitea.cat9.me/nsadmin/docker-compose](https://gitea.cat9.me/nsadmin/docker-compose)
+- wip - updated repo [https://gitea.cat9.me/nsadmin/nspwa](https://gitea.cat9.me/nsadmin/nspwa)
+- wip - updated repo [https://gitea.cat9.me/nsadmin/nspwa-test](https://gitea.cat9.me/nsadmin/nspwa-test)
+- wip - fix hwpc remote site issues on hwpc-main with mark
+- wip - document repo for google calendar to google sheets time invoice
+- wip - run hwpc customer db report
+- wip - document task to add local cache with sync database to nspwa
+
 # hwpc wip as ghadmin
 - [https://hwpc.2cld.net/](https://hwpc.2cld.net/)
 - [https://github.com/grasshorse/hwpc-gs](https://github.com/grasshorse/hwpc-gs)
