@@ -8,6 +8,9 @@
 - zt access to same [http://10.147.17.176:5173/](http://10.147.17.176:5173/)
 - working cockpit [https://cp.cat9.me/](https://cp.cat9.me/)
 - updated repo [https://gitea.cat9.me/nsadmin/docker-compose](https://gitea.cat9.me/nsadmin/docker-compose)
+- wip - connect up to gitea.trink.com again
+  - wireguard vpn visable.ddns.net
+  - ?? keys ??
 - wip - updated repo [https://gitea.cat9.me/nsadmin/nspwa](https://gitea.cat9.me/nsadmin/nspwa)
 - wip - updated repo [https://gitea.cat9.me/nsadmin/nspwa-test](https://gitea.cat9.me/nsadmin/nspwa-test)
 - wip - fix hwpc remote site issues on hwpc-main with mark
@@ -140,6 +143,7 @@
 
 # Gus notes
 - tbd new
+- pinball bumper guide fit feedback
 - [https://gus.conversehouse.com/wip/](https://gus.conversehouse.com/wip/)
 - [https://tv.2cld.net/](https://tv.2cld.net/)
 - [https://sl.2cld.net/](https://sl.2cld.net/)
