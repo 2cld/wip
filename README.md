@@ -3,6 +3,7 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # trink sync update 3-3:30pm PST
+- tlook at [ai data centers](https://www.youtube.com/watch?v=N10w1KvFKNQ)
 - working dev site [https://nspwa.cat9.me/](https://nspwa.cat9.me/) cloudflare --> traefik --> dev server
 - used vscode ai to fix traefik issues (very impressed)
 - zt access to same [http://10.147.17.176:5173/](http://10.147.17.176:5173/)
