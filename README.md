@@ -80,6 +80,7 @@
   
 # Trink notes 
 - tbd new
+- electric plane [Scott Manley](https://www.youtube.com/watch?v=oT804EAUVk4)
 - [GPU Renting](https://www.youtube.com/watch?v=egH5hKD913Y)
 - [OpenAI aardvark](https://openai.com/index/introducing-aardvark/)
 - [Google Big Sleep](https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html)
