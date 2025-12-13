@@ -3,7 +3,8 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # trink sync update 3-3:30pm PST
-- tlook at [ai data centers](https://www.youtube.com/watch?v=N10w1KvFKNQ)
+- Anti matter - [E=-mc2](https://www.youtube.com/watch?v=Y-W-w8yNiKU) - Matrix Math - the not path
+- look at [ai data centers](https://www.youtube.com/watch?v=N10w1KvFKNQ)
 - working dev site [https://nspwa.cat9.me/](https://nspwa.cat9.me/) cloudflare --> traefik --> dev server
 - used vscode ai to fix traefik issues (very impressed)
 - zt access to same [http://10.147.17.176:5173/](http://10.147.17.176:5173/)
@@ -33,6 +34,9 @@
 - tbd
   
 # cat note - sort and remove
+- Christian Lempa [Netbox-Docker yt](https://www.youtube.com/watch?v=mQ-y2ZOTpr4)
+- Network Chuck [AI cli stack](https://github.com/theNetworkChuck/ai-in-the-terminal/blob/main/README.md) - [yt](https://www.youtube.com/watch?v=MsQACpcuTkU&t=1798s)
+- Starlink Mini check order [order link](https://starlink.typeform.com/to/JiglVgxp#acc=ACC-7233970-64465-21) - [Starlink Account](https://starlink.com/account/orders)
 - update [https://ai.2cld.net/](https://ai.2cld.net/)
 - robot [https://www.1x.tech/](https://www.1x.tech/)
 - [Rodeo Song yt](https://www.youtube.com/watch?v=oy-luZkpwsk)
