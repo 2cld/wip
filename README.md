@@ -34,6 +34,9 @@
 - tbd
   
 # cat note - sort and remove
+- Move [wip.2cld.net](https://wip.2cld.net/) [github.com/2cld/wip](https://github.com/2cld/wip) to ai cli on nsdockerhv 10.147.17.176
+- Use ai cli to clean up [wip.2cld.net](https://wip.2cld.net/) public wip
+- USe ai cli to map wip into google calendar
 - Christian Lempa [Netbox-Docker yt](https://www.youtube.com/watch?v=mQ-y2ZOTpr4)
 - Network Chuck [AI cli stack](https://github.com/theNetworkChuck/ai-in-the-terminal/blob/main/README.md) - [yt](https://www.youtube.com/watch?v=MsQACpcuTkU&t=1798s)
 - Starlink Mini check order [order link](https://starlink.typeform.com/to/JiglVgxp#acc=ACC-7233970-64465-21) - [Starlink Account](https://starlink.com/account/orders)
