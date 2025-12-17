@@ -3,6 +3,7 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # trink sync update 3-3:30pm PST
+- [fuzzingbook.org](https://www.fuzzingbook.org/)
 - Anti matter - [E=-mc2](https://www.youtube.com/watch?v=Y-W-w8yNiKU) - Matrix Math - the not path
 - look at [ai data centers](https://www.youtube.com/watch?v=N10w1KvFKNQ)
 - working dev site [https://nspwa.cat9.me/](https://nspwa.cat9.me/) cloudflare --> traefik --> dev server
@@ -12,6 +13,7 @@
 - updated repo [https://gitea.cat9.me/nsadmin/docker-compose](https://gitea.cat9.me/nsadmin/docker-compose)
 
 # cat note - sort and remove
+- sciplay [res](https://lnw.wd5.myworkdayjobs.com/en-US/SciPlayExternalCareersSite/userHome?username=christrees%2540gmail.com)
 - robot [https://www.1x.tech/](https://www.1x.tech/)
 - [Rodeo Song yt](https://www.youtube.com/watch?v=oy-luZkpwsk)
 - ai bubble [bond market warning - yt](https://youtu.be/PJaffNvOjho?t=433)
@@ -33,6 +35,22 @@
 - hip streatch [yt](https://www.youtube.com/watch?v=nWuapzlzmBM)
 - [Iowa yt](https://www.youtube.com/watch?v=JfVH5sP2O8I)
 - tbd
+
+## car fix
+- Vehicle Diagnostics Report_LaCrosse_2025-12-15 14-30
+- Detection->2010->Buick->LaCrosse 195371mile
+- P0014-00 Exhaust Camshaft Position System Performance Bank 1 Current
+- P0017-00 Crankshaft Position - Exhaust Camshaft Position Not Plausible Bank 1 Current
+- P0300-00 Engine Misfire Detected Not Run
+- P0420-00 Catalyst System Low Efficiency Bank 1 Not Run
+- P0430-00 Catalyst System Low Efficiency Bank 2 Not Run
+- P0442-00 Evaporative Emission (EVAP) System Small Leak Detected Not Run
+- P0451-00 Fuel Tank Pressure Sensor Performance Not Run
+- P0454-00 Fuel Tank Pressure Sensor Circuit Intermittent Not Run
+- P0464-00 Fuel Level Sensor Circuit Intermittent Not Run
+- P050D-00 Cold Start Rough Idle Not Run
+- P162B-00 Remote Vehicle Speed Limiting Signal Message Counter Incorrect Not Run
+- P2135-00 Throttle Position Sensors 1-2 Not Plausible Current
 
 ## houses
 - [786-Minnesota-Ave-95125](https://www.redfin.com/CA/San-Jose/786-Minnesota-Ave-95125)
@@ -142,6 +160,14 @@
 - [Up - Dug the dog - Squirrle](https://youtu.be/cIJd1m2kXMQ?t=22) and [Alpha Dug](https://youtu.be/cIJd1m2kXMQ?t=288)
 
 # Cole notes
+- Matt - inclosed frame [explain thermal envelope](https://youtu.be/nNMkzxzrfj4?t=1111)
+- Matt - his exterior [exterior thermal envelope](https://www.youtube.com/watch?v=r2wjIMHTPIk)
+- Matt - perfect wall [wall, roof, deck](https://youtu.be/8ly8X_bCUXw?t=188)
+- Matt - Build 301 [Series playlist](https://www.youtube.com/playlist?list=PLDYh81z-Rhxip7Od7q-w11Dxe7w443abU)
+- NS Builders - exterior [rockwall panels](https://www.youtube.com/watch?v=ppB_ZccKU8A)
+- NS Builders - [rockwool panels](https://www.youtube.com/watch?v=y3baXKzSxGk)
+- RR Builders - [rockwool](https://www.youtube.com/watch?v=3h8KNSRAcQs)
+- RR Builders - [rookwool vs sprayfoam cost](https://www.youtube.com/watch?v=GQx_odOtBBo&t=1881s)
 - net zero [undecided](https://www.youtube.com/watch?v=DTb7TKJzr5g)
 - tile [prinsco](https://www.prinsco.com/prinsco-markets/agriculture/) and [Ken Skinner](https://www.prinsco.com/find-a-sales-rep/skinner-ken/)
 - grain leg flow rates [googleai](https://www.google.com/search?udm=50&aep=11&q=I%27m+an+agriculture+engineer+working+on+an+auger+system+feeding+a+leg+from+a+dump+pit.++The+transfer+auger+from+the+pit+to+the+leg+keeps+burning+off+belts+and+I+want+to+debug+the+root+cause.++Can+you+help%3F&mtid=rfn0aPn_GqLIptQPgaDgeA&mstk=AUtExfAFYh5u-ADYXs-kJnCk1dhcnpaHKIfxs0RYQQ0uhiUg60fzwQJnG7L79DBtivd9rWf5meQ6MWHO9ViW8ku1FrrkqhlDQjjd9sFPvwp1FSqy2uQcw8yDLv-ftNzmlGQCQT1KtFtl42vmbEKKoStoy6oDkQaIvYxCwnWwXwN-WanPNYLHed1NFBj-w-g9rm7k4J21tu4VYSPcEOqqMgHqPwv5iozE0nGJVFKCAwGTx2i-woFezPffKKdJ_FDXjEp7_QL6vvjJwENiuFGAGXfyN271bjuNj_-lEq0&csuir=1)
