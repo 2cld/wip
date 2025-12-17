@@ -2,6 +2,9 @@
 
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
+# Buick Repait
+- Limp mode issue [Repair-2010Buick-ai](./wip-detail/Repair-2010Buick-ai.md)
+
 # trink sync update 3-3:30pm PST
 - [fuzzingbook.org](https://www.fuzzingbook.org/)
 - Anti matter - [E=-mc2](https://www.youtube.com/watch?v=Y-W-w8yNiKU) - Matrix Math - the not path
