@@ -2,7 +2,7 @@
 
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
-# Buick Repait
+# Buick Repair
 - Limp mode issue [Repair-2010Buick-ai](./wip-detail/Repair-2010Buick-ai.md)
 
 # trink sync update 3-3:30pm PST
