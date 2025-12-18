@@ -4,6 +4,16 @@
 
 # Buick Repair
 - Limp mode issue [Repair-2010Buick-ai](./wip-detail/Repair-2010Buick-ai.md)
+- rebuild trunk switch, clean up light codes
+- clean up ground wire
+- reseat harness and run diags
+- TODO ABS fuse is out (I removed... need to find fuse)
+- TODO Fix tran return leak
+- TODO rider side axel
+- TODO check wheel berings
+- TODO clear wheel squeak (shim clearance)
+- TODO interior deep clean
+- TODO clear all codes
 
 # trink sync update 3-3:30pm PST
 - [fuzzingbook.org](https://www.fuzzingbook.org/)
@@ -16,6 +26,8 @@
 - updated repo [https://gitea.cat9.me/nsadmin/docker-compose](https://gitea.cat9.me/nsadmin/docker-compose)
 
 # cat note - sort and remove
+- tim and scott [tour](https://www.youtube.com/watch?v=GceWg6PQMTU)
+- grip ties [site](https://griplockties.com/)
 - sciplay [res](https://lnw.wd5.myworkdayjobs.com/en-US/SciPlayExternalCareersSite/userHome?username=christrees%2540gmail.com)
 - robot [https://www.1x.tech/](https://www.1x.tech/)
 - [Rodeo Song yt](https://www.youtube.com/watch?v=oy-luZkpwsk)
