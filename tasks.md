@@ -6,6 +6,30 @@
 ## To Do
 *Committed tasks that are ready to be scheduled and worked on.*
 
+### Epics
+
+- [ ] **Epic: Repair-2010Buick** @type:task @project:Repair-2010Buick
+    - **Definition of Done:**
+        - [ ] All sub-tasks are completed.
+        - [ ] All related diagnostic codes are cleared.
+    - **Sub-tasks:**
+        - [ ] Limp mode issue
+        - [ ] rebuild trunk switch, clean up light codes
+        - [ ] clean up ground wire
+        - [ ] reseat harness and run diags
+        - [ ] ABS fuse is out (I removed... need to find fuse)
+        - [ ] Fix tran return leak
+        - [ ] rider side axel
+        - [ ] check wheel berings
+        - [ ] clear wheel squeak (shim clearance)
+        - [ ] interior deep clean
+        - [ ] clear all codes
+        - [ ] Your 2010 Buick LaCrosse uses a 26-inch blade for the driver's side and an 18-inch blade for the passenger's side, both typically using a small hook (9x3mm) attachment, with beam or conventional styles available for easy DIY replacement. 
+        - [ ] tbd
+
+---
+
+### Tasks
 - [ ] **Task:** Connect up to gitea.trink.com again @type:task @project:gitea
   - wireguard vpn visable.ddns.net
   - ?? keys ??

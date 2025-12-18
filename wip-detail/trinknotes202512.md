@@ -1,0 +1,72 @@
+# Trink notes 
+- [fuzzingbook.org](https://www.fuzzingbook.org/)
+- Anti matter - [E=-mc2](https://www.youtube.com/watch?v=Y-W-w8yNiKU) - Matrix Math - the not path
+- look at [ai data centers](https://www.youtube.com/watch?v=N10w1KvFKNQ)
+- working dev site [https://nspwa.cat9.me/](https://nspwa.cat9.me/) cloudflare --> traefik --> dev server
+- used vscode ai to fix traefik issues (very impressed)
+- zt access to same [http://10.147.17.176:5173/](http://10.147.17.176:5173/)
+- working cockpit [https://cp.cat9.me/](https://cp.cat9.me/)
+- updated repo [https://gitea.cat9.me/nsadmin/docker-compose](https://gitea.cat9.me/nsadmin/docker-compose)
+- tbd new
+- electric plane [Scott Manley](https://www.youtube.com/watch?v=oT804EAUVk4)
+- [GPU Renting](https://www.youtube.com/watch?v=egH5hKD913Y)
+- [OpenAI aardvark](https://openai.com/index/introducing-aardvark/)
+- [Google Big Sleep](https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html)
+- [Kiro.dev ai code](https://kiro.dev/)
+- [NC - ai cli - commands](https://github.com/theNetworkChuck/ai-in-the-terminal) and [NC-yt](https://www.youtube.com/watch?v=MsQACpcuTkU)
+- Free [Google Gemini - cli](https://ai.google.dev/gemini-api/docs) xx [install](https://github.com/theNetworkChuck/ai-in-the-terminal/blob/main/docs/02-quickstart.md#step-1-install-30-seconds) xx [NC-yt install](https://youtu.be/MsQACpcuTkU?t=113)
+- $20/mth [Claude Code -cli](https://www.claude.com/product/claude-code) xx [install cmd](https://github.com/theNetworkChuck/ai-in-the-terminal/blob/main/docs/02-quickstart.md#step-1-install-30-seconds-1) xx [NC-yt install](https://youtu.be/MsQACpcuTkU?t=559)
+- [OpenAI codex](https://opencode.ai/) xx [NC-yt use](https://youtu.be/MsQACpcuTkU?t=1108)
+- Try this [OpenCode]() xx [install cmd](https://github.com/theNetworkChuck/ai-in-the-terminal/blob/main/docs/14-cheat-sheet.md#opencode) xx [NC-yt install](https://youtu.be/MsQACpcuTkU?t=1613)
+- Closer script @agent-script-session-closer [NC-yt page 1](https://youtu.be/MsQACpcuTkU?t=1285) and [NC-yt page 2](https://youtu.be/MsQACpcuTkU?t=1290) and [NC-yt page 3](https://youtu.be/MsQACpcuTkU?t=1305) 
+  - @agent-script-session-closer
+  - @brutal-critic-agent
+  - @ai-context-sync
+  - project agents [NC-yt agents](https://youtu.be/MsQACpcuTkU?t=1388)
+- Craft Computing [back to the future](https://www.youtube.com/watch?v=Rz1wyOs9SOA)
+- books
+- [Culture Series - Iain Banks](https://en.wikipedia.org/wiki/Culture_series)
+- fix chat.cat9.me via https://ai.2cld.net notes updated [https://netstack.org/docs/lan/compute/wsl/wsl-docker-install](https://netstack.org/docs/lan/compute/wsl/wsl-docker-install)
+  - ~~DONE~~ Remote RD 10.147.17.219
+  - ~~DONE~~ local works http://192.168.6.30:8080/ from RD
+  - Attempt https://ai.cat9.me/ fail (think cf->trafik not configured)
+  - client -> cf -> cfd -> trafik -> docker ... but how does it go to other
+  - [https://netstack.org/docs/lan/compute/docker/docker-compose-traefik](https://netstack.org/docs/lan/compute/docker/docker-compose-traefik)
+- demo [ai.cat9.me](https://ai.cat9.me/)
+- demo [nspwa-test](https://gitea.cat9.me/nsadmin/nspwa-test)
+- demo [nspwa](https://gitea.cat9.me/nsadmin/nspwa)
+- demo [nscallbot](https://gitea.cat9.me/nsadmin/nscallbot)
+- review [hwpc](https://github.com/2cld/hwpc)
+- start project to use nspwa for logger phone app
+- fix ssh to [https://gitea.cat9.me/nsadmin/nspwa](https://gitea.cat9.me/nsadmin/nspwa)
+- ~~DONE~~~ verify [https://gitea.trink.com/cat](https://gitea.trink.com/cat)
+- fix [plex.tv](https://app.plex.tv/desktop/#!/) via [https://netstack.org/docs/portals/plex/](https://netstack.org/docs/portals/plex/)
+  - cf channels
+  - RD 10.147.17.219 - browse [http://192.168.6.48/lineup.html](http://192.168.6.48/lineup.html)
+  - move access
+  - dvr
+  - plex keeps moving ui shit... so shitcan??
+- tdb
+- cloudflare mdt@trinkala.com
+- https://gitea.cat9.me/
+- https://netstack.org/docs/lan/compute/docker/
+- https://netstack.org/docs/portals/
+- ai cli agents [network chuck - cli ai](https://www.youtube.com/watch?v=MsQACpcuTkU)
+- what bio markers are these guys using [Humane Health](https://humehealth.com/)
+- Computer Use Agent [https://github.com/trycua/cua](https://github.com/trycua/cua) is it this [https://cua.ai/](https://cua.ai/)
+- impact crater in Iowa [Manson Crater](https://www.youtube.com/watch?v=HDPFK3Gc31U)
+- ai coder [kilo code](https://blog.kilocode.ai/p/code-supernova-new-stealth-frontier-model-free-in-kilo?kcgid=Cj0KCQjw9czHBhCyARIsAFZlN8Sb5qKgbXZHZWiee0bdr8c4tezdydMrXiOMJqC8gffoTbZ5uboLQFMaAjUUEALw_wcB&kcwbid=CkwKCAjw0sfHBhBgEjwAFTW3VyugFQ4uT08ujraHGfIz0CbC0N1hiEcManrRQjj8azGo8o5FvBu3FaGUpGA95O6dXeHBsng4tQAaAqPq&kcgbid=0AAAAA_Xn2vaDJCPaQXcbpSr73Xtth9pEq&gad_source=1&gad_campaignid=22709628719&gbraid=0AAAAA_Xn2vaDJCPaQXcbpSr73Xtth9pEq&gclid=Cj0KCQjw9czHBhCyARIsAFZlN8Sb5qKgbXZHZWiee0bdr8c4tezdydMrXiOMJqC8gffoTbZ5uboLQFMaAjUUEALw_wcB)
+- [https://github.com/ArgeliusLabs/Chasing-Your-Tail-NG](https://github.com/ArgeliusLabs/Chasing-Your-Tail-NG) - [yt](https://www.youtube.com/watch?v=cjXp3bBd2h8)
+- [eos](https://e.foundation/eos-phone-welcome/)
+- Markov predition chains [Veritasium yt](https://www.youtube.com/watch?v=KZeIEiBrT_w)
+- Pretty good [Craft Computing 321 backup](https://youtu.be/Frjwmb6QZps)
+- [3d fixed point printable](https://youtu.be/ZKz0_kSFSP0?t=129)
+- [squeeze computational space into time](https://www.youtube.com/watch?v=8JuWdXrCmWg)
+- [Grafana Alloy replaces promtail](https://grafana.com/docs/alloy/latest/)
+  - Christian Lempa [Grafana Alloy - install](https://www.youtube.com/watch?v=E654LPrkCjo) - [boilerplates](https://github.com/christianlempa/boilerplates)
+- [Grafana Loki](https://grafana.com/docs/loki/latest/)
+  - Techno Tim [Grafana Loki - install](https://technotim.live/posts/grafana-loki/)
+  - Christian Lempa [Grafana Loki with Traefik](https://www.youtube.com/watch?v=KK9FI4OfPUY) - [boilerplates](https://github.com/christianlempa/boilerplates)
+- [Site Reliablity Engineering - Books](https://sre.google/books/)
+- [VoiceNotes](https://voicenotes.com/app)
+- [trinknotes202509](./trink/trinknotes202509)

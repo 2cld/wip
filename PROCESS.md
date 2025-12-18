@@ -4,13 +4,13 @@ This document outlines the process for managing tasks in this repository.
 
 ## Task Management Workflow: The Inbox Method
 
-Our workflow starts with `README.md` as the central "inbox" for all incoming information. The goal is to process this inbox regularly, so it remains current.
+Our workflow starts with `README.md` as the central "inbox" for all incoming information. The goal is to process this inbox regularly, so it remains current and serves as a historical log.
 
 **1. Capture:**
 All new ideas, notes, links, and tasks are first added to `README.md`. The format is flexible.
 
 **2. Process and Tag:**
-On a regular basis, we will review every item in `README.md`. Each item will be given one or more tags to provide structure. The standard format is `@key:value`.
+On a regular basis, we will review every item in `README.md`. Each item will be given one or more tags to provide structure. The standard format is `@key:value`. These tags are appended to the item's line directly within `README.md`.
 
 *   **Core Tags:**
     *   `@type:task` - An actionable item that needs to be done.
@@ -21,14 +21,14 @@ On a regular basis, we will review every item in `README.md`. Each item will be 
     *   `@project:[name]` - Associates the item with a project (e.g., `@project:hwpc`).
     *   `@priority:[level]` - Sets the urgency (e.g., `@priority:high`).
 
-**3. Route:**
-Once an item is tagged, it is moved from `README.md` to its correct destination.
+**3. Route and Link:**
+Once an item is tagged, it is moved from `README.md` to its correct destination. After moving, the original item in `README.md` is updated with a link to its new location, creating a reference.
 
 *   `@type:task` items are moved to the `To Do` section of `tasks.md`.
 *   `@type:note` items are moved to a relevant document in `docs/` or a new file in `logs/`.
 *   `@type:link` items can be archived in a relevant document.
 
-The final state of a processed `README.md` should be that it is empty, with all items having been routed to their proper locations.
+This turns `README.md` into a persistent log of all captured items and where they were routed, rather than an inbox that gets emptied.
 
 The `tasks.md` file then follows a simple `To Do` -> `In Progress` -> `Done` lifecycle for all committed tasks.
 
