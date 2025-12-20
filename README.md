@@ -11,6 +11,7 @@
 - wiper blades
 - coco / hot cider
 - treats
+- Self Directed IRA [link](https://forgetrust.com/resources/articles/private-lending-with-a-self-directed-ira/#:~:text=Lending%20through%20your%20self%2Ddirected%20IRA%20enables%20you%20to%20lend,IRA%20or%20a%20Roth%20IRA.)
 
 
 
