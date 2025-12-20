@@ -1,4 +1,5 @@
 ## Google ai mode chat
+- Repair manual [link](https://www.repairsurge.com/manuals/Buick/LaCrosse/2010)
 - chat [link](https://www.google.com/search?udm=50&aep=11&q=I%27m+a+auto+mechanic+repairing+a+2010+Buick+LaCrosse.++I+get+the+following+codes%3A&mstk=AUtExfAr33OT6hNWKBbiDJ2Sl858bmBpAESZAz5uhw8TREfFkBU29haReX6DMulVYjQWaq5OLkBkMq3jCwLZEdT8JuDwcc75dgfFOSM5rciB6tZoW3CuGeF0WzNT_mU2raU8qtCc95ufWu1f9SBeK-AyvVXNrRD11se07XzRQAlYFsayyvkMWOdBiPfeHfx_jrXIgFN33gHmG_SU1Iouyk86MrcZ9UWhmK6U_qJjxS9zYJJluTZ9ZsQ-U11yvI_ZsIyG_xm87djWOJyCa7iUYdXPwE8atQDzNAEGZo8&csuir=1&mtid=x7FCaZS7NLGew8cPgeftiQo)
 - ref [P2135 - 5v ref code - yt](https://www.youtube.com/watch?v=TpLU1M3NgJU&t=71s)
 - ref [P0013/14 - ?? - yt](https://youtu.be/teBGz3LK3E4?t=90)
