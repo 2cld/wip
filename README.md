@@ -7,8 +7,13 @@
   - CatSurface workstaion
   - rpi workstation
   - CatPhone workstation
-- wip to calendar autoattendent
+- wip to calendar autoattendent - [nsgctime](https://gitea.cat9.me/nsadmin/nsgctime)
 - LLC End of Year template
+  - [FHKlop]()
+  - [TreesAES]()
+  - [CAT9]()
+  - [BFletch]() - [FMC]()
+  - [BHay]() - [TH Twig]()
 
 # Repair-2010Buick
 In tasks - [Epic: Repair-2010Buick](./tasks.md)
