@@ -2,22 +2,11 @@
 
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
-- pick up plumbing box and take to Mike
 - Create computer kits:
   - CatSurface mobile
   - CatSurface workstaion
   - rpi workstation
   - CatPhone workstation
-- Create go kits:
-  - blackbag 
-  - overnight visit bag
-  - multiday visit bag
-  - cold weather work bag
-  - hot weather work bag
-  - general tool work bag
-  - car tool work bag
-  - networking work bag
-- cleanup AD workspace
 - wip to calendar autoattendent
 - LLC End of Year template
 
