@@ -1,3 +1,7 @@
+
+# Project Pics
+- House Project [Google Photo Link](https://photos.app.goo.gl/hqGFVJ6gFUH2hfQP8)
+
 # Cole notes
 - Matt - inclosed frame [explain thermal envelope](https://youtu.be/nNMkzxzrfj4?t=1111)
 - Matt - his exterior [exterior thermal envelope](https://www.youtube.com/watch?v=r2wjIMHTPIk)
