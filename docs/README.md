@@ -1,4 +1,5 @@
 [edit]()
+
 # Docs
 a place to sort research and clear keep notes
 
@@ -7,4 +8,14 @@ a place to sort research and clear keep notes
 - [media shows](media-shows.md)
 - [media movies](media-movies.md)
 
-- [business-research](business-research.md)
+# Review to put into project
+- [ai-cli-research](./ai-cli-research)
+- [business-research](./business-research)
+- [](./hwpc-notes)
+- [](./media-audio)
+- [](./netbox-research)
+- [](./netstack-notes)
+- [](./nspwa-research)
+- [](./saas-app-build)
+
+# Random [random-links](./random-links)

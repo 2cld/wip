@@ -30,6 +30,17 @@
 ---
 
 ### Tasks
+- [ ] **Epic: Create computer kits** @type:task @project:computer-kits
+    - **Definition of Done:**
+        - [ ] All sub-tasks are completed.
+    - **Sub-tasks:**
+        - [ ] CatSurface mobile
+        - [ ] CatSurface workstaion
+        - [ ] rpi workstation
+        - [ ] CatPhone workstation
+- [ ] **Task:** wip to calendar autoattendent - [nsgctime](https://gitea.cat9.me/nsadmin/nsgctime) @type:task @project:nsgctime
+- [ ] **Task:** LLC End of Year [LLC-EOY](./wip-detail/LLC-EOY/) @type:task @project:LLC-EOY
+
 - [ ] **Task:** Connect up to gitea.trink.com again @type:task @project:gitea
   - wireguard vpn visable.ddns.net
   - ?? keys ??
