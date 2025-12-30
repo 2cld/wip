@@ -11,11 +11,11 @@ a place to sort research and clear keep notes
 # Review to put into project
 - [ai-cli-research](./ai-cli-research)
 - [business-research](./business-research)
-- [](./hwpc-notes)
-- [](./media-audio)
-- [](./netbox-research)
-- [](./netstack-notes)
-- [](./nspwa-research)
-- [](./saas-app-build)
+- [hwpc-notes](./hwpc-notes)
+- [media-audio](./media-audio)
+- [netbox-research](./netbox-research)
+- [netstack-notes](./netstack-notes)
+- [nspwa-research](./nspwa-research)
+- [saas-app-build](./saas-app-build)
 
 # Random [random-links](./random-links)

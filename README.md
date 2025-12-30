@@ -18,7 +18,7 @@
 - tohear
 - 3d projects
 
-# Ponder
+# Ponder [wip-detail](./wip-detail/) and [tasks](./tasks)
 - Create computer kits - moved to [tasks.md](./tasks.md)
 - wip to calendar autoattendent - moved to [tasks.md](./tasks.md)
 - LLC End of Year - moved to [tasks.md](./tasks.md)
@@ -28,5 +28,6 @@
 In tasks - [Epic: Repair-2010Buick](./tasks.md)
 - wip-detail note - moved to [docs/random-links.md](./docs/random-links.md)
 
-# notes
-- notes and links - moved to [docs/random-links.md](./docs/random-links.md)
+# [notes](./docs/)
+- [docs/random-links.md](./docs/random-links.md)
+- [docs/ai-cli-research](./docs/ai-cli-research)
