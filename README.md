@@ -7,6 +7,9 @@
   - https://github.com/billchurch/webssh2
   - https://svelte4.xterm-svelte.pages.dev/
   - https://xtermjs.org/
+  - https://github.com/jhubbardsf/svelte-speech-recognition
+  - [article - Web Speech API](https://www.assemblyai.com/blog/speech-recognition-javascript-web-speech-api#:~:text=how%20it%20works.-,What%20is%20the%20Web%20Speech%20API?,API%20has%20two%20main%20interfaces:)
+  - [article msdn - Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API#:~:text=Next%2C%20we%20define%20a%20speech,SpeechRecognition.)
 - cleanup gdrive
   - hwpc has 180GB each user
 - [hwpc](https://hwpc.2cld.net) stuff [github repo](https://github.com/2cld/hwpc)
