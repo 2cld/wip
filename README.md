@@ -3,13 +3,30 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Inbox
+- look into 
+  - https://github.com/billchurch/webssh2
+  - https://svelte4.xterm-svelte.pages.dev/
+  - https://xtermjs.org/
 - cleanup gdrive
-- hwpc has 180GB each user
-- qbooks cleanup
-- qbooks online
-- llc eoy
-- nsgctime project time
-- nspwa project time
+  - hwpc has 180GB each user
+- [hwpc](https://hwpc.2cld.net) stuff [github repo](https://github.com/2cld/hwpc)
+  - hwpc qb backup
+  - hwpc account
+  - qbooks cleanup
+  - qbooks online
+- [llc](https://drive.google.com/drive/folders/1s8cKSdH_wz2Gd1yITGkvWJOBI6gnFXNT) eoy update
+  - eoy fhklop, treesaes, thtwig, fletchmc, cat9
+  - scripts todo bank imports
+  - scripts todo 1065
+- [nsgctime](https://gitea.cat9.me/nsadmin/nsgctime) project time
+  - slack to google calendar agent
+- [nspwa](https://gitea.cat9.me/nsadmin/nspwa) project time
+  - cleanup
+  - gitea github sync and workflow builds (fail)
+- [gitea-to-github](https://gitea.cat9.me/nsadmin/gitea-to-github) project sync
+
+# Random crap
+- ai on this wip
 - video monitors online
 - ha frigit
 - ha tivo
