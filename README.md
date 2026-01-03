@@ -10,6 +10,7 @@
   - https://github.com/jhubbardsf/svelte-speech-recognition
   - [article - Web Speech API](https://www.assemblyai.com/blog/speech-recognition-javascript-web-speech-api#:~:text=how%20it%20works.-,What%20is%20the%20Web%20Speech%20API?,API%20has%20two%20main%20interfaces:)
   - [article msdn - Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API#:~:text=Next%2C%20we%20define%20a%20speech,SpeechRecognition.)
+  - [aimode search voice input](https://www.google.com/search?udm=50&aep=11&q=I+have+a+pwa+SvelteKit+app+and+I+want+to+add+a+voice+to+txt+input+option%2C+what+it+the+best+way+to+do+that+using+HTML+methods%3F&mtid=sE5YaeD6GN2nptQPuNWRYA&mstk=AUtExfCpVJqkl1Ti2G0AJYdy7lPriWGijTDVAJzQJnxFKQuTvsCMLfLHTmTQwTaE0aBdnTwyswppCPIxYpVzISpt4cetsKUgb5Gnrf6GRfrH5OaUBJBibgTc_fDvGRtH-5flNIRgaqiJYiP91s5P2kIOUNaqcdmH_r1_yB51aa12cioaxcB25TwID5SiTXIKWMMQUxt8U1Bjzy_iRN9CcJJWAgW5676loCk-1Cn4FuN5sLkZfeF-Y5-EC9QBnRFSrHh1dzZ1_gvcQwS-QAff9Pg4jM5foyBLVs4Rdl4&csuir=1)
 - cleanup gdrive
   - hwpc has 180GB each user
 - [hwpc](https://hwpc.2cld.net) stuff [github repo](https://github.com/2cld/hwpc)
