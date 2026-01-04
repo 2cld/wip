@@ -10,6 +10,8 @@
   - monitor
   - songs
   - playlists
+  - HDMI KVM [yt-crosstalk](https://www.youtube.com/watch?v=ZNEMu4UdhxI)
+  - Comet Pro [GL-RM10](https://store-us.gl-inet.com/products/comet-pro-gl-rm10-remote-kvm-over-wi-fi-6?)
 - look into 
   - [https://developers.google.com/](https://developers.google.com/)
   - [https://developers.google.com/colab](https://developers.google.com/colab)
