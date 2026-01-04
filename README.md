@@ -3,13 +3,23 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Inbox
+- Plex network
+  - review file system maping
+  - update
+  - backup
+  - monitor
+  - songs
+  - playlists
 - look into 
+  - [https://developers.google.com/](https://developers.google.com/)
+  - [https://developers.google.com/colab](https://developers.google.com/colab)
   - Google Chat App [yt-playlist](https://www.youtube.com/playlist?list=PLDdffPXqmxKMD9efQ0tLoC7hr_DnvPJUB)
   - Google Chat App with Apps Script [yt-google](https://www.youtube.com/watch?v=bywA9alvXMU)
   - Google Chat app with ChatGPT [yt](https://www.youtube.com/watch?v=3Qs8ztnV_5U)
   - Google Chat API [docs](https://developers.google.com/workspace/chat/api/reference/rest#:~:text=The%20Google%20Chat%20API%20enables,spaces%2C%20members%2C%20and%20messages.)
   - commandline google-voice gv - not google [https://github.com/matthewp/gv-app](https://github.com/matthewp/gv-app)
   - tbd
+  - Create [SlackApp](https://www.youtube.com/watch?v=tnek1Rx6MKA&list=PLVztKpIRxvQXBZoTXrpo0nf_-srxDEuEs)
   - [Web SSH2 - github](https://github.com/billchurch/webssh2)
   - [svelte4.xterm-svelte](https://svelte4.xterm-svelte.pages.dev/)
   - [https://xtermjs.org/](https://xtermjs.org/)
@@ -34,6 +44,13 @@
   - cleanup
   - gitea github sync and workflow builds (fail)
 - [gitea-to-github](https://gitea.cat9.me/nsadmin/gitea-to-github) project sync
+- candybot va nsadmin
+  - https://dashboard.vapi.ai/login
+  - https://platform.openai.com/settings/organization/usage
+  - https://platform.openai.com/docs/quickstart
+  - https://horseoffworkspace.slack.com/account/settings
+  - https://app.slack.com/client/T09QXQ57BPT/platform
+  - https://github.com/settings/security
 
 # Random crap
 - ai on this wip
