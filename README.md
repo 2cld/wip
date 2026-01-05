@@ -40,11 +40,20 @@
   - eoy fhklop, treesaes, thtwig, fletchmc, cat9
   - scripts todo bank imports
   - scripts todo 1065
+  - using ai to create the scripts in catwin11: code/Account
 - [nsgctime](https://gitea.cat9.me/nsadmin/nsgctime) project time
   - slack to google calendar agent
+  - deployment test
+  - docker ?
+- [nscallbot](https://gitea.cat9.me/nsadmin/nscallbot) project time
+  - cleanup
 - [nspwa](https://gitea.cat9.me/nsadmin/nspwa) project time
   - cleanup
   - gitea github sync and workflow builds (fail)
+  - docker deployment
+  - nsgctime agent ?
+- [nspwa-test](https://gitea.cat9.me/nsadmin/nspwa=test) project time
+  - cleanup
 - [gitea-to-github](https://gitea.cat9.me/nsadmin/gitea-to-github) project sync
 - candybot va nsadmin
   - https://dashboard.vapi.ai/login
@@ -53,16 +62,30 @@
   - https://horseoffworkspace.slack.com/account/settings
   - https://app.slack.com/client/T09QXQ57BPT/platform
   - https://github.com/settings/security
+  - manual
+  - sync workflow
+  - simple build workflow
 
 # Random crap
 - ai on this wip
 - video monitors online
 - ha frigit
 - ha tivo
+- Review sl.2cld.net network and storage stuff
 - toview
+  - personal view rating
+  - list of toview with view links
+  - tivo on network
+  - vhs to digital [yt - MiddleSiggysDigitalWorld](https://www.youtube.com/@MiddleSiggysDigitalWorld/videos)
 - toread
+  - libby
+  - personal booklist rating
 - tohear
+  - plexamp
+  - music archieve
+  - playlists
 - 3d projects
+  - house captures
 
 # Ponder [wip-detail](./wip-detail/) and [tasks](./tasks)
 - Create computer kits - moved to [tasks.md](./tasks.md)

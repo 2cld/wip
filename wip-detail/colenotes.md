@@ -3,6 +3,7 @@
 - House Project [Google Photo Link](https://photos.app.goo.gl/hqGFVJ6gFUH2hfQP8)
 
 # Cole notes
+- Rain Screen [explained](www.youtube.com/watch?v=3hOY38uOXxE)
 - Building Tight [explained](https://www.youtube.com/watch?v=gn63c_qxrDI)
 - Matt - inclosed frame [explain thermal envelope](https://youtu.be/nNMkzxzrfj4?t=1111)
 - Matt - his exterior [exterior thermal envelope](https://www.youtube.com/watch?v=r2wjIMHTPIk)
