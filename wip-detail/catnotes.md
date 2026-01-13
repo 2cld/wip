@@ -24,6 +24,23 @@ Dlt1@cdc.gov
 
 ---
 
+## cole
+- [ch chris and cole snow recovery my last day in 2025](https://youtu.be/qJa7zb5R83I?t=1845)
+- [ch chris and cole snow recovery 1](https://youtu.be/qJa7zb5R83I?t=8)
+- [ch chris and cole snow recovery 2](https://youtu.be/qJa7zb5R83I?t=279)
+- [ch chris and cole snow recovery 3](https://youtu.be/qJa7zb5R83I?t=1670)
+- [ch cole roof truss explination](https://youtu.be/zAbXA89Yd84?t=914)
+- [ch snow recovery using brads blower](https://youtu.be/H0O9_VrIAdM?t=140)
+- [ch roof sheathing justin and chris](https://youtu.be/X6njRLXx7Zw?t=16)
+- [ch roof trusses ](https://youtu.be/qaG99IzhRKs?t=334)
+- [ch snowstorm recovery ](https://youtu.be/AyUwNWIHJuQ?t=215)
+- [ch snowstorm ](https://youtu.be/0uRr1JTAXzw?t=1382)
+- [ch 2nd floor walls ](https://youtu.be/lSP8ENYcjAo?t=373)
+- [ch Kitchen bo 2nd floor ](https://youtu.be/gmVdOloEbas?t=591)
+- []()
+- []()
+- [ch-kitchen-bo-lvl-floor2]()
+- 
 # cat
 - ~~fire up tax shit~~
   - ~~FHKlopFarms LLC 1065~~
