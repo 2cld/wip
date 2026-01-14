@@ -65,6 +65,9 @@
   - manual
   - sync workflow
   - simple build workflow
+- ping 1x linkedin
+  - https://github.com/elggem?tab=repositories - 1X VP SW personal
+  - https://www.linkedin.com/in/ralfmayet/
 
 # Random crap
 - ai on this wip
@@ -100,3 +103,7 @@ In tasks - [Epic: Repair-2010Buick](./tasks.md)
 # [notes](./docs/)
 - [docs/random-links.md](./docs/random-links.md)
 - [docs/ai-cli-research](./docs/ai-cli-research)
+
+# Storage
+- https://www.sandhfuneralservice.com/obituary/Melvin-Jennings
+- tbd
