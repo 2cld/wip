@@ -3,6 +3,7 @@
 - House Project [Google Photo Link](https://photos.app.goo.gl/hqGFVJ6gFUH2hfQP8)
 
 # Cole notes
+- Cole wall detail - https://youtu.be/pvUA6iFJKy8?t=499
 - Rain Screen [explained](www.youtube.com/watch?v=3hOY38uOXxE)
 - Insulation [examples](https://www.youtube.com/watch?v=pvUA6iFJKy8)
 - Building Tight [explained](https://www.youtube.com/watch?v=gn63c_qxrDI)
