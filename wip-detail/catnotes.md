@@ -40,7 +40,16 @@ Dlt1@cdc.gov
 - []()
 - []()
 - [ch-kitchen-bo-lvl-floor2]()
-- 
+- [dc-floor2-walls-cat1](https://youtu.be/ErLRBAYzPlY?t=38)
+- [dc-floor2-fromLeg](https://youtu.be/HXaRlSKGYxY?t=591)
+- [dc-floor2-fromLeg](https://youtu.be/HXaRlSKGYxY?t=40)
+- [dc-floor1-walls](https://youtu.be/3FRoCyFinNM?t=640)
+- [dc-floor1-walls](https://youtu.be/SS2YTsI5epg?t=381)
+- [dc-floor1-fromLeg](https://youtu.be/YqFKkE3ZCSA?t=1055)
+- []()
+- []()
+
+
 # cat
 - ~~fire up tax shit~~
   - ~~FHKlopFarms LLC 1065~~
