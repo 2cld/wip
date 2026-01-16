@@ -41,6 +41,10 @@
   - scripts todo bank imports
   - scripts todo 1065
   - using ai to create the scripts in catwin11: code/Account
+- [nsmedia](https://gitea.cat9.me/nsadmin/nsmedia)
+  - index music on slplex
+  - index music on cfplex
+  - figure out rsync feature
 - [nsgctime](https://gitea.cat9.me/nsadmin/nsgctime) project time
   - slack to google calendar agent
   - deployment test
