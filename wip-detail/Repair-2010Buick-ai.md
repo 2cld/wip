@@ -23,6 +23,12 @@
 - ref [Pxx - xx - yt]()
 - ref [Pxx - xx - yt]()
 
+- P0017-00 ECM - Crankshaft Position - Exhaust Camshaft Position Not Plausible
+- P0014-00 ECM - Exhaust Camshaft Position System Performance
+- U0140-71 EBCM - Lost Com with BCM - invalid data
+- U0100-00 EBCM - Lost Com with BCM
+- C0561-71 PBCM - System Disabled Information Stored - Invalid Data
+
 I'm a auto mechanic repairing a 2010 Buick LaCrosse.  I get the following codes:
 
 ```
