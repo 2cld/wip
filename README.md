@@ -6,6 +6,9 @@
 - cleanup gdrive
   - hwpc has 180GB each user
 - [hwpc](https://hwpc.2cld.net) stuff [github repo](https://github.com/2cld/hwpc)
+  - hwpc Ops Agreement (in md)
+  - hwpc Buy Sell Agreement (in md)
+  - hwpc export attempt
   - hwpc qb backup
   - hwpc account
   - qbooks cleanup
@@ -14,6 +17,7 @@
   - eoy fhklop, treesaes, thtwig, fletchmc, cat9
   - scripts todo bank imports
   - scripts todo 1065
+  - export all to md / cvs
   - using ai to create the scripts in catwin11: code/Account
 - Plex network
   - review file system maping
