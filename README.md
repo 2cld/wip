@@ -5,8 +5,13 @@
 # Inbox
 - Document multi-cli-ai setup [nsclai]()
 - ai cleanup sl.2cld.net
+  - setup dev via [nsclai]()
   - pull sl to slwin11
-  - setup 
+  - clai sl
+  - pull [nsmedia](https://gitea.cat9.me/nsadmin/nsmedia)
+  - Run index on plex storage
+- ai cleanup cf.2cld.net
+- ai cleanup tv.2cld.net
 - cleanup gdrive
   - hwpc has 180GB each user
 - [hwpc](https://hwpc.2cld.net) stuff [github repo](https://github.com/2cld/hwpc)
