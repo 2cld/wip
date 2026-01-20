@@ -65,6 +65,10 @@
   - networkchuck [https://opencode.ai/](https://opencode.ai/)
   - Tech with Tim [Run LLM Locally](https://www.youtube.com/watch?v=km5-0jhv0JI)
   - Tech with Tim [Local AI with Python](https://www.youtube.com/watch?v=E4l91XKQSgw)
+  - Gemini install [Gemini install](https://www.youtube.com/watch?v=LY-TStIdGX0)
+  - winget install SST.OpenCodeDesktop
+  - winget install SST.opencode
+
 - [nsmedia](https://gitea.cat9.me/nsadmin/nsmedia)
   - index music on slplex via slwin11
   - index music on cfplex via cybertruck
