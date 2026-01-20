@@ -57,6 +57,7 @@
 
 # Projects
 - [nsclai](https://gitea.cat9.me/nsadmin/nsclai)
+  - nsadmin notebooklm [nsclai - AI in the terminal](https://notebooklm.google.com/notebook/bd025c91-227d-4bcc-a5e8-3d9d334b8f29)
   - networkchuck [multiple cli ai](https://www.youtube.com/watch?v=MsQACpcuTkU)
   - networkchuck [https://github.com/theNetworkChuck/ai-in-the-terminal](https://github.com/theNetworkChuck/ai-in-the-terminal)
   - networkchuck [https://ai.google.dev/gemini-api/docs](https://ai.google.dev/gemini-api/docs)
