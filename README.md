@@ -3,6 +3,10 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Inbox
+- Document multi-cli-ai setup [nsclai]()
+- ai cleanup sl.2cld.net
+  - pull sl to slwin11
+  - setup 
 - cleanup gdrive
   - hwpc has 180GB each user
 - [hwpc](https://hwpc.2cld.net) stuff [github repo](https://github.com/2cld/hwpc)
