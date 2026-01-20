@@ -3,9 +3,9 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Inbox
-- Document multi-cli-ai setup [nsclai]()
+
 - ai cleanup sl.2cld.net
-  - setup dev via [nsclai]()
+  - setup dev via [nsclai](https://gitea.cat9.me/nsadmin/nsclai)
   - pull sl to slwin11
   - clai sl
   - pull [nsmedia](https://gitea.cat9.me/nsadmin/nsmedia)
@@ -56,10 +56,18 @@
   - [aimode search voice input](https://www.google.com/search?udm=50&aep=11&q=I+have+a+pwa+SvelteKit+app+and+I+want+to+add+a+voice+to+txt+input+option%2C+what+it+the+best+way+to+do+that+using+HTML+methods%3F&mtid=sE5YaeD6GN2nptQPuNWRYA&mstk=AUtExfCpVJqkl1Ti2G0AJYdy7lPriWGijTDVAJzQJnxFKQuTvsCMLfLHTmTQwTaE0aBdnTwyswppCPIxYpVzISpt4cetsKUgb5Gnrf6GRfrH5OaUBJBibgTc_fDvGRtH-5flNIRgaqiJYiP91s5P2kIOUNaqcdmH_r1_yB51aa12cioaxcB25TwID5SiTXIKWMMQUxt8U1Bjzy_iRN9CcJJWAgW5676loCk-1Cn4FuN5sLkZfeF-Y5-EC9QBnRFSrHh1dzZ1_gvcQwS-QAff9Pg4jM5foyBLVs4Rdl4&csuir=1)
 
 # Projects
+- [nsclai](https://gitea.cat9.me/nsadmin/nsclai)
+  - networkchuck [multiple cli ai](https://www.youtube.com/watch?v=MsQACpcuTkU)
+  - networkchuck [https://github.com/theNetworkChuck/ai-in-the-terminal](https://github.com/theNetworkChuck/ai-in-the-terminal)
+  - networkchuck [https://ai.google.dev/gemini-api/docs](https://ai.google.dev/gemini-api/docs)
+  - networkchuck [https://claude.com/product/claude-code](https://claude.com/product/claude-code)
+  - networkchuck [https://opencode.ai/](https://opencode.ai/)
+  - Tech with Tim [Run LLM Locally](https://www.youtube.com/watch?v=km5-0jhv0JI)
+  - Tech with Tim [Local AI with Python](https://www.youtube.com/watch?v=E4l91XKQSgw)
 - [nsmedia](https://gitea.cat9.me/nsadmin/nsmedia)
-  - index music on slplex
-  - index music on cfplex
-  - figure out rsync feature
+  - index music on slplex via slwin11
+  - index music on cfplex via cybertruck
+  - figure out rsync feature ?
 - [nsgctime](https://gitea.cat9.me/nsadmin/nsgctime) project time
   - slack to google calendar agent
   - deployment test
