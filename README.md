@@ -5,7 +5,8 @@
 # Inbox
 
 - ai cleanup sl.2cld.net
-  - setup dev via [nsclai](https://gitea.cat9.me/nsadmin/nsclai)
+  - setup [nsclai](https://gitea.cat9.me/nsadmin/nsclai) on [cat9fin](https://10.147.17.219) based on workstation template [ns11fin](https://netstack.org/docs/lan/compute/workstation/ns11fin/)
+  - Document [nsclai](https://gitea.cat9.me/nsadmin/nsclai) prompts
   - pull sl to slwin11
   - clai sl
   - pull [nsmedia](https://gitea.cat9.me/nsadmin/nsmedia)
@@ -57,6 +58,7 @@
 
 # Projects
 - [nsclai](https://gitea.cat9.me/nsadmin/nsclai)
+  - [PAI-repo](https://github.com/danielmiessler/Personal_AI_Infrastructure) - [yt](https://www.youtube.com/watch?v=Le0DLrn7ta0) added to nsadmin notebooklm [nsclai - AI in the Terminal](https://www.youtube.com/watch?v=Le0DLrn7ta0)
   - nsadmin notebooklm [nsclai - AI in the terminal](https://notebooklm.google.com/notebook/bd025c91-227d-4bcc-a5e8-3d9d334b8f29)
   - networkchuck [multiple cli ai](https://www.youtube.com/watch?v=MsQACpcuTkU)
   - networkchuck [https://github.com/theNetworkChuck/ai-in-the-terminal](https://github.com/theNetworkChuck/ai-in-the-terminal)
