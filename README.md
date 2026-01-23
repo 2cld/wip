@@ -57,7 +57,11 @@
   - [aimode search voice input](https://www.google.com/search?udm=50&aep=11&q=I+have+a+pwa+SvelteKit+app+and+I+want+to+add+a+voice+to+txt+input+option%2C+what+it+the+best+way+to+do+that+using+HTML+methods%3F&mtid=sE5YaeD6GN2nptQPuNWRYA&mstk=AUtExfCpVJqkl1Ti2G0AJYdy7lPriWGijTDVAJzQJnxFKQuTvsCMLfLHTmTQwTaE0aBdnTwyswppCPIxYpVzISpt4cetsKUgb5Gnrf6GRfrH5OaUBJBibgTc_fDvGRtH-5flNIRgaqiJYiP91s5P2kIOUNaqcdmH_r1_yB51aa12cioaxcB25TwID5SiTXIKWMMQUxt8U1Bjzy_iRN9CcJJWAgW5676loCk-1Cn4FuN5sLkZfeF-Y5-EC9QBnRFSrHh1dzZ1_gvcQwS-QAff9Pg4jM5foyBLVs4Rdl4&csuir=1)
 
 # Projects
+- [ns-site-template](https://gitea.cat9.me/nsadmin/ns-site-template)
+  - test cf site in examples
+  - may need to rethink generation and focus on building out site-config-template.yml with examples and keywords to search / replace later
 - [nsclai](https://gitea.cat9.me/nsadmin/nsclai)
+  - need to build up cattails
   - [PAI-repo](https://github.com/danielmiessler/Personal_AI_Infrastructure) - [yt](https://www.youtube.com/watch?v=Le0DLrn7ta0) added to nsadmin notebooklm [nsclai - AI in the Terminal](https://www.youtube.com/watch?v=Le0DLrn7ta0)
   - nsadmin notebooklm [nsclai - AI in the terminal](https://notebooklm.google.com/notebook/bd025c91-227d-4bcc-a5e8-3d9d334b8f29)
   - networkchuck [multiple cli ai](https://www.youtube.com/watch?v=MsQACpcuTkU)
