@@ -2,6 +2,18 @@
 
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
+# Today
+- check cat@asicforge.com email
+- HWPC 3hr
+  - put hwpc in ai account
+  - start hwpc notebooklm
+- LLC 4hr
+  - 1hr on fhklop
+  - 1hr on treesaes
+  - 2hr on cat9
+- cat9-dev 2hr
+  - touch open projects
+  
 # Inbox
 
 - ai cleanup sl.2cld.net
@@ -29,7 +41,7 @@
   - scripts todo 1065
   - export all to md / cvs
   - using ai to create the scripts in catwin11: code/Account
-- Plex network
+- Plex network (create project)
   - review file system maping
   - update
   - backup
