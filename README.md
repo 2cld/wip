@@ -27,31 +27,8 @@
   
 # Inbox
 
-- cleanup gdrive
-  - hwpc has 180GB each user
-- [hwpc](https://hwpc.2cld.net) stuff [github repo](https://github.com/2cld/hwpc)
-  - hwpc Ops Agreement (in md)
-  - hwpc Buy Sell Agreement (in md)
-  - hwpc export attempt
-  - hwpc qb backup
-  - hwpc account
-  - qbooks cleanup
-  - qbooks online
-- [llc](https://drive.google.com/drive/folders/1s8cKSdH_wz2Gd1yITGkvWJOBI6gnFXNT) eoy update
-  - eoy fhklop, treesaes, thtwig, fletchmc, cat9
-  - scripts todo bank imports
-  - scripts todo 1065
-  - export all to md / cvs
-  - using ai to create the scripts in catwin11: code/Account
-- Plex network (create project)
-  - review file system maping
-  - update
-  - backup
-  - monitor
-  - songs
-  - playlists
-  - HDMI KVM [yt-crosstalk](https://www.youtube.com/watch?v=ZNEMu4UdhxI)
-  - Comet Pro [GL-RM10](https://store-us.gl-inet.com/products/comet-pro-gl-rm10-remote-kvm-over-wi-fi-6?)
+
+
 - look into 
   - [https://developers.google.com/](https://developers.google.com/)
   - [https://developers.google.com/colab](https://developers.google.com/colab)
@@ -71,6 +48,8 @@
   - [aimode search voice input](https://www.google.com/search?udm=50&aep=11&q=I+have+a+pwa+SvelteKit+app+and+I+want+to+add+a+voice+to+txt+input+option%2C+what+it+the+best+way+to+do+that+using+HTML+methods%3F&mtid=sE5YaeD6GN2nptQPuNWRYA&mstk=AUtExfCpVJqkl1Ti2G0AJYdy7lPriWGijTDVAJzQJnxFKQuTvsCMLfLHTmTQwTaE0aBdnTwyswppCPIxYpVzISpt4cetsKUgb5Gnrf6GRfrH5OaUBJBibgTc_fDvGRtH-5flNIRgaqiJYiP91s5P2kIOUNaqcdmH_r1_yB51aa12cioaxcB25TwID5SiTXIKWMMQUxt8U1Bjzy_iRN9CcJJWAgW5676loCk-1Cn4FuN5sLkZfeF-Y5-EC9QBnRFSrHh1dzZ1_gvcQwS-QAff9Pg4jM5foyBLVs4Rdl4&csuir=1)
 
 ## Open Projects
+
+### nsadmin
 - [ns-site-template](https://gitea.cat9.me/nsadmin/ns-site-template) - [issues](https://gitea.cat9.me/nsadmin/ns-site-template/issues)
 - [nsclai](https://gitea.cat9.me/nsadmin/nsclai) - [issues](https://gitea.cat9.me/nsadmin/nsclai/issues)
 - [nsmedia](https://gitea.cat9.me/nsadmin/nsmedia) - [issues](https://gitea.cat9.me/nsadmin/nsmedia/issues)
@@ -79,26 +58,32 @@
 - [nspwa](https://gitea.cat9.me/nsadmin/nspwa) - [issues](https://gitea.cat9.me/nsadmin/nspwa/issues)
 - [nspwa-test](https://gitea.cat9.me/nsadmin/nspwa=test) - [issues](https://gitea.cat9.me/nsadmin/nspwa=test/issues)
 - [gitea-to-github](https://gitea.cat9.me/nsadmin/gitea-to-github) - [issues](https://gitea.cat9.me/nsadmin/gitea-to-github/issues)
-  
-# Projects
-- cleanup notes and put comments in open issues
 
-- candybot va nsadmin
-  - https://dashboard.vapi.ai/login
-  - https://platform.openai.com/settings/organization/usage
-  - https://platform.openai.com/docs/quickstart
-  - https://horseoffworkspace.slack.com/account/settings
-  - https://app.slack.com/client/T09QXQ57BPT/platform
-  - https://github.com/settings/security
-  - manual
-  - sync workflow
-  - simple build workflow
+### hwpc
+- [hwpc.2cld.net](https://hwpc.2cld.net) 
+
+### Repair-2010Buick
+In tasks - [Epic: Repair-2010Buick](./tasks.md)
+- wip-detail note - moved to [docs/random-links.md](./docs/random-links.md)
+
+## Cleanup
+- cleanup gdrive
+  - hwpc has 180GB each user
+
+- Plex network (create project)
+  - review file system maping
+  - update
+  - backup
+  - monitor
+  - songs
+  - playlists
+  - HDMI KVM [yt-crosstalk](https://www.youtube.com/watch?v=ZNEMu4UdhxI)
+  - Comet Pro [GL-RM10](https://store-us.gl-inet.com/products/comet-pro-gl-rm10-remote-kvm-over-wi-fi-6?)
+
+# Random crap
 - ping 1x linkedin
   - https://github.com/elggem?tab=repositories - 1X VP SW personal
   - https://www.linkedin.com/in/ralfmayet/
-
-# Random crap
-- ai on this wip
 - video monitors online
 - ha frigit
 - ha tivo
@@ -124,9 +109,7 @@
 - LLC End of Year - moved to [tasks.md](./tasks.md)
 
 
-## Repair-2010Buick
-In tasks - [Epic: Repair-2010Buick](./tasks.md)
-- wip-detail note - moved to [docs/random-links.md](./docs/random-links.md)
+
 
 # [notes](./docs/)
 - [docs/random-links.md](./docs/random-links.md)
