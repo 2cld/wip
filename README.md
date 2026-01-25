@@ -10,6 +10,7 @@
 - 1065 FHKlop
 - 1065 TreesAES
 - 1040 Chris Trees
+- cat9-dev touch open projects issues
 
 # Yesterday
 - DONE check cat@asicforge.com email
@@ -20,7 +21,7 @@
   - 1hr on fhklop
   - 1hr on treesaes
   - 2hr on cat9
-- cat9-dev 2hr
+- FAIL cat9-dev 2hr
   - touch open projects
   
 # Inbox
@@ -77,7 +78,18 @@
   - [article msdn - Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API#:~:text=Next%2C%20we%20define%20a%20speech,SpeechRecognition.)
   - [aimode search voice input](https://www.google.com/search?udm=50&aep=11&q=I+have+a+pwa+SvelteKit+app+and+I+want+to+add+a+voice+to+txt+input+option%2C+what+it+the+best+way+to+do+that+using+HTML+methods%3F&mtid=sE5YaeD6GN2nptQPuNWRYA&mstk=AUtExfCpVJqkl1Ti2G0AJYdy7lPriWGijTDVAJzQJnxFKQuTvsCMLfLHTmTQwTaE0aBdnTwyswppCPIxYpVzISpt4cetsKUgb5Gnrf6GRfrH5OaUBJBibgTc_fDvGRtH-5flNIRgaqiJYiP91s5P2kIOUNaqcdmH_r1_yB51aa12cioaxcB25TwID5SiTXIKWMMQUxt8U1Bjzy_iRN9CcJJWAgW5676loCk-1Cn4FuN5sLkZfeF-Y5-EC9QBnRFSrHh1dzZ1_gvcQwS-QAff9Pg4jM5foyBLVs4Rdl4&csuir=1)
 
+## Open Projects
+- [ns-site-template](https://gitea.cat9.me/nsadmin/ns-site-template)
+- [nsclai](https://gitea.cat9.me/nsadmin/nsclai)
+- [nsmedia](https://gitea.cat9.me/nsadmin/nsmedia)
+- [nsgctime](https://gitea.cat9.me/nsadmin/nsgctime)
+- [nscallbot](https://gitea.cat9.me/nsadmin/nscallbot)
+- [nspwa](https://gitea.cat9.me/nsadmin/nspwa)
+- [nspwa-test](https://gitea.cat9.me/nsadmin/nspwa=test)
+- [gitea-to-github](https://gitea.cat9.me/nsadmin/gitea-to-github)
+  
 # Projects
+- cleanup notes and put comments in open issues
 - [ns-site-template](https://gitea.cat9.me/nsadmin/ns-site-template)
   - test cf site in examples
   - may need to rethink generation and focus on building out site-config-template.yml with examples and keywords to search / replace later
