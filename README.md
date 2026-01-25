@@ -3,11 +3,20 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Today
-- check cat@asicforge.com email
-- HWPC 3hr
+- ai cat9-account
+- cvs cat9-2025
+- 1099 FHKlop
+- 1099 TreesAES
+- 1065 FHKlop
+- 1065 TreesAES
+- 1040 Chris Trees
+
+# Yesterday
+- DONE check cat@asicforge.com email
+- DONE HWPC 3hr
   - put hwpc in ai account
   - start hwpc notebooklm
-- LLC 4hr
+- DONE LLC 4hr
   - 1hr on fhklop
   - 1hr on treesaes
   - 2hr on cat9
