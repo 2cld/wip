@@ -3,6 +3,8 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Today
+- DONE - cat9-dev touch open projects issues
+- DONE - Reduce wip.2cld.net put notes issues of relevant project
 - ai cat9-account
 - cvs cat9-2025
 - 1099 FHKlop
@@ -10,7 +12,6 @@
 - 1065 FHKlop
 - 1065 TreesAES
 - 1040 Chris Trees
-- cat9-dev touch open projects issues
 
 # Yesterday
 - DONE check cat@asicforge.com email
@@ -26,15 +27,6 @@
   
 # Inbox
 
-- ai cleanup sl.2cld.net
-  - setup [nsclai](https://gitea.cat9.me/nsadmin/nsclai) on [cat9fin](https://10.147.17.219) based on workstation template [ns11fin](https://netstack.org/docs/lan/compute/workstation/ns11fin/)
-  - Document [nsclai](https://gitea.cat9.me/nsadmin/nsclai) prompts
-  - pull sl to slwin11
-  - clai sl
-  - pull [nsmedia](https://gitea.cat9.me/nsadmin/nsmedia)
-  - Run index on plex storage
-- ai cleanup cf.2cld.net
-- ai cleanup tv.2cld.net
 - cleanup gdrive
   - hwpc has 180GB each user
 - [hwpc](https://hwpc.2cld.net) stuff [github repo](https://github.com/2cld/hwpc)
@@ -79,58 +71,18 @@
   - [aimode search voice input](https://www.google.com/search?udm=50&aep=11&q=I+have+a+pwa+SvelteKit+app+and+I+want+to+add+a+voice+to+txt+input+option%2C+what+it+the+best+way+to+do+that+using+HTML+methods%3F&mtid=sE5YaeD6GN2nptQPuNWRYA&mstk=AUtExfCpVJqkl1Ti2G0AJYdy7lPriWGijTDVAJzQJnxFKQuTvsCMLfLHTmTQwTaE0aBdnTwyswppCPIxYpVzISpt4cetsKUgb5Gnrf6GRfrH5OaUBJBibgTc_fDvGRtH-5flNIRgaqiJYiP91s5P2kIOUNaqcdmH_r1_yB51aa12cioaxcB25TwID5SiTXIKWMMQUxt8U1Bjzy_iRN9CcJJWAgW5676loCk-1Cn4FuN5sLkZfeF-Y5-EC9QBnRFSrHh1dzZ1_gvcQwS-QAff9Pg4jM5foyBLVs4Rdl4&csuir=1)
 
 ## Open Projects
-- [ns-site-template](https://gitea.cat9.me/nsadmin/ns-site-template)
-- [nsclai](https://gitea.cat9.me/nsadmin/nsclai)
-- [nsmedia](https://gitea.cat9.me/nsadmin/nsmedia)
-- [nsgctime](https://gitea.cat9.me/nsadmin/nsgctime)
-- [nscallbot](https://gitea.cat9.me/nsadmin/nscallbot)
-- [nspwa](https://gitea.cat9.me/nsadmin/nspwa)
-- [nspwa-test](https://gitea.cat9.me/nsadmin/nspwa=test)
-- [gitea-to-github](https://gitea.cat9.me/nsadmin/gitea-to-github)
+- [ns-site-template](https://gitea.cat9.me/nsadmin/ns-site-template) - [issues](https://gitea.cat9.me/nsadmin/ns-site-template/issues)
+- [nsclai](https://gitea.cat9.me/nsadmin/nsclai) - [issues](https://gitea.cat9.me/nsadmin/nsclai/issues)
+- [nsmedia](https://gitea.cat9.me/nsadmin/nsmedia) - [issues](https://gitea.cat9.me/nsadmin/nsmedia/issues)
+- [nsgctime](https://gitea.cat9.me/nsadmin/nsgctime) - [issues](https://gitea.cat9.me/nsadmin/nsgctime/issues)
+- [nscallbot](https://gitea.cat9.me/nsadmin/nscallbot) - [issues](https://gitea.cat9.me/nsadmin/nscallbot/issues)
+- [nspwa](https://gitea.cat9.me/nsadmin/nspwa) - [issues](https://gitea.cat9.me/nsadmin/nspwa/issues)
+- [nspwa-test](https://gitea.cat9.me/nsadmin/nspwa=test) - [issues](https://gitea.cat9.me/nsadmin/nspwa=test/issues)
+- [gitea-to-github](https://gitea.cat9.me/nsadmin/gitea-to-github) - [issues](https://gitea.cat9.me/nsadmin/gitea-to-github/issues)
   
 # Projects
 - cleanup notes and put comments in open issues
-- [ns-site-template](https://gitea.cat9.me/nsadmin/ns-site-template)
-  - test cf site in examples
-  - may need to rethink generation and focus on building out site-config-template.yml with examples and keywords to search / replace later
-- [nsclai](https://gitea.cat9.me/nsadmin/nsclai)
-  - need to build up cattails
-  - [PAI-repo](https://github.com/danielmiessler/Personal_AI_Infrastructure) - [yt](https://www.youtube.com/watch?v=Le0DLrn7ta0) added to nsadmin notebooklm [nsclai - AI in the Terminal](https://www.youtube.com/watch?v=Le0DLrn7ta0)
-  - nsadmin notebooklm [nsclai - AI in the terminal](https://notebooklm.google.com/notebook/bd025c91-227d-4bcc-a5e8-3d9d334b8f29)
-  - networkchuck [multiple cli ai](https://www.youtube.com/watch?v=MsQACpcuTkU)
-  - networkchuck [https://github.com/theNetworkChuck/ai-in-the-terminal](https://github.com/theNetworkChuck/ai-in-the-terminal)
-  - networkchuck [https://ai.google.dev/gemini-api/docs](https://ai.google.dev/gemini-api/docs)
-  - networkchuck [https://claude.com/product/claude-code](https://claude.com/product/claude-code)
-  - networkchuck [https://opencode.ai/](https://opencode.ai/)
-  - Tech with Tim [Run LLM Locally](https://www.youtube.com/watch?v=km5-0jhv0JI)
-  - Tech with Tim [Local AI with Python](https://www.youtube.com/watch?v=E4l91XKQSgw)
-  - Gemini install [Gemini install](https://www.youtube.com/watch?v=LY-TStIdGX0)
-  - winget install --id SST.OpenCodeDesktop -e --source winget
-  - winget install --id SST.opencode -e --source winget
-  - winget install -e --id OpenJS.NodeJS
-    - npm install -g @google/gemini-cli
-  - winget install -e --id Anthropic.ClaudeCode
-  - winget install -e --id OpenAI.Codex
-    - npm install -g @openai/codex
-  
-- [nsmedia](https://gitea.cat9.me/nsadmin/nsmedia)
-  - index music on slplex via slwin11
-  - index music on cfplex via cybertruck
-  - figure out rsync feature ?
-- [nsgctime](https://gitea.cat9.me/nsadmin/nsgctime) project time
-  - slack to google calendar agent
-  - deployment test
-  - docker ?
-- [nscallbot](https://gitea.cat9.me/nsadmin/nscallbot) project time
-  - cleanup
-- [nspwa](https://gitea.cat9.me/nsadmin/nspwa) project time
-  - cleanup
-  - gitea github sync and workflow builds (fail)
-  - docker deployment
-  - nsgctime agent ?
-- [nspwa-test](https://gitea.cat9.me/nsadmin/nspwa=test) project time
-  - cleanup
-- [gitea-to-github](https://gitea.cat9.me/nsadmin/gitea-to-github) project sync
+
 - candybot va nsadmin
   - https://dashboard.vapi.ai/login
   - https://platform.openai.com/settings/organization/usage
