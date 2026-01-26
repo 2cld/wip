@@ -3,8 +3,7 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Today
-- DONE - cat9-dev touch open projects issues
-- DONE - Reduce wip.2cld.net put notes issues of relevant project
+- wip cleanup time
 - ai cat9-account
 - cvs cat9-2025
 - 1099 FHKlop
@@ -14,38 +13,21 @@
 - 1040 Chris Trees
 
 # Yesterday
-- DONE check cat@asicforge.com email
-- DONE HWPC 3hr
-  - put hwpc in ai account
-  - start hwpc notebooklm
-- DONE LLC 4hr
-  - 1hr on fhklop
-  - 1hr on treesaes
-  - 2hr on cat9
-- FAIL cat9-dev 2hr
-  - touch open projects
+- DONE - cat9-dev touch open projects issues
+- DONE - Reduce wip.2cld.net put notes issues of relevant project
+- DONE - Shovel snow
+## Fail due to shoveling
+- ai cat9-account
+- cvs cat9-2025
+- 1099 FHKlop
+- 1099 TreesAES
+- 1065 FHKlop
+- 1065 TreesAES
+- 1040 Chris Trees
   
 # Inbox
 
-
-
-- look into 
-  - [https://developers.google.com/](https://developers.google.com/)
-  - [https://developers.google.com/colab](https://developers.google.com/colab)
-  - Google Chat App [yt-playlist](https://www.youtube.com/playlist?list=PLDdffPXqmxKMD9efQ0tLoC7hr_DnvPJUB)
-  - Google Chat App with Apps Script [yt-google](https://www.youtube.com/watch?v=bywA9alvXMU)
-  - Google Chat app with ChatGPT [yt](https://www.youtube.com/watch?v=3Qs8ztnV_5U)
-  - Google Chat API [docs](https://developers.google.com/workspace/chat/api/reference/rest#:~:text=The%20Google%20Chat%20API%20enables,spaces%2C%20members%2C%20and%20messages.)
-  - commandline google-voice gv - not google [https://github.com/matthewp/gv-app](https://github.com/matthewp/gv-app)
-  - tbd
-  - Create [SlackApp](https://www.youtube.com/watch?v=tnek1Rx6MKA&list=PLVztKpIRxvQXBZoTXrpo0nf_-srxDEuEs)
-  - [Web SSH2 - github](https://github.com/billchurch/webssh2)
-  - [svelte4.xterm-svelte](https://svelte4.xterm-svelte.pages.dev/)
-  - [https://xtermjs.org/](https://xtermjs.org/)
-  - [https://github.com/jhubbardsf/svelte-speech-recognition](https://github.com/jhubbardsf/svelte-speech-recognition)
-  - [article - Web Speech API](https://www.assemblyai.com/blog/speech-recognition-javascript-web-speech-api#:~:text=how%20it%20works.-,What%20is%20the%20Web%20Speech%20API?,API%20has%20two%20main%20interfaces:)
-  - [article msdn - Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API#:~:text=Next%2C%20we%20define%20a%20speech,SpeechRecognition.)
-  - [aimode search voice input](https://www.google.com/search?udm=50&aep=11&q=I+have+a+pwa+SvelteKit+app+and+I+want+to+add+a+voice+to+txt+input+option%2C+what+it+the+best+way+to+do+that+using+HTML+methods%3F&mtid=sE5YaeD6GN2nptQPuNWRYA&mstk=AUtExfCpVJqkl1Ti2G0AJYdy7lPriWGijTDVAJzQJnxFKQuTvsCMLfLHTmTQwTaE0aBdnTwyswppCPIxYpVzISpt4cetsKUgb5Gnrf6GRfrH5OaUBJBibgTc_fDvGRtH-5flNIRgaqiJYiP91s5P2kIOUNaqcdmH_r1_yB51aa12cioaxcB25TwID5SiTXIKWMMQUxt8U1Bjzy_iRN9CcJJWAgW5676loCk-1Cn4FuN5sLkZfeF-Y5-EC9QBnRFSrHh1dzZ1_gvcQwS-QAff9Pg4jM5foyBLVs4Rdl4&csuir=1)
+- cleared by cat 2026.01.25 moved to appropriate projects
 
 ## Open Projects
 
