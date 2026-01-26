@@ -50,9 +50,26 @@ Projects getting attention
 ### hwpc
 - [hwpc.2cld.net](https://hwpc.2cld.net) 
 
+### Acc
+- [cat9llc](https://gitea.cat9.me/cat/cat9llc)
+- [FHKlopFarms]()
+- [TreesAES]()
+- [THTwig]()
+- [FletcherMC]()
+- [hwpc-llc]()
+  
 ### Repair-2010Buick
 In tasks - [Epic: Repair-2010Buick](./tasks.md)
 - wip-detail note - moved to [docs/random-links.md](./docs/random-links.md)
+
+### Repair-structures
+- rental
+- folks
+- semi-shed
+- 80-shed
+- dp
+- gus
+- cole
 
 ## Cleanup
 - cleanup gdrive
