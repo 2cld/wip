@@ -3,7 +3,7 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Today
-- wip cleanup time
+- DONE wip cleanup time
 - ai cat9-account
 - cvs cat9-2025
 - 1099 FHKlop
@@ -16,6 +16,7 @@
 - DONE - cat9-dev touch open projects issues
 - DONE - Reduce wip.2cld.net put notes issues of relevant project
 - DONE - Shovel snow
+
 ## Fail due to shoveling
 - ai cat9-account
 - cvs cat9-2025
@@ -26,11 +27,12 @@
 - 1040 Chris Trees
   
 # Inbox
-
+- Cole thermal plan
+- TreesAES remodel plans
 - cleared by cat 2026.01.25 moved to appropriate projects
 
 ## Open Projects
-
+Projects getting attention
 ### nsadmin
 - [ns-site-template](https://gitea.cat9.me/nsadmin/ns-site-template) - [issues](https://gitea.cat9.me/nsadmin/ns-site-template/issues)
 - [nsclai](https://gitea.cat9.me/nsadmin/nsclai) - [issues](https://gitea.cat9.me/nsadmin/nsclai/issues)
@@ -89,9 +91,6 @@ In tasks - [Epic: Repair-2010Buick](./tasks.md)
 - Create computer kits - moved to [tasks.md](./tasks.md)
 - wip to calendar autoattendent - moved to [tasks.md](./tasks.md)
 - LLC End of Year - moved to [tasks.md](./tasks.md)
-
-
-
 
 # [notes](./docs/)
 - [docs/random-links.md](./docs/random-links.md)
