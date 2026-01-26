@@ -5,6 +5,10 @@
 # Today
 - DONE wip cleanup time
 - ai cat9-account
+  - convert docs to .md
+  - convert sheets to .csv
+  - create scritps and process.md to replicate sheets
+  - make sure ai can read old tax data
 - cvs cat9-2025
 - 1099 FHKlop
 - 1099 TreesAES
