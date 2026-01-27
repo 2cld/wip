@@ -15,6 +15,7 @@
 - 1065 FHKlop
 - 1065 TreesAES
 - 1040 Chris Trees
+- Build Plans in Notebooklm
 
 - # Yesterday
 - DONE wip cleanup time
