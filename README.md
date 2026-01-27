@@ -3,23 +3,33 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Today
-- DONE wip cleanup time
-- ai cat9-account
-  - convert docs to .md
-  - convert sheets to .csv
-  - create scritps and process.md to replicate sheets
-  - make sure ai can read old tax data
-- cvs cat9-2025
+- nspwa create chat tab
+  - chat table in db
+  - links
+- Time on cat/Account
+  - Run audit
+  - review results
+  - Create ZFarmTrust/ZLand-LLC ZFarm-LLC ZTrade-LLC ZService-LLC ZRental-LLC
 - 1099 FHKlop
 - 1099 TreesAES
 - 1065 FHKlop
 - 1065 TreesAES
 - 1040 Chris Trees
 
-# Yesterday
-- DONE - cat9-dev touch open projects issues
-- DONE - Reduce wip.2cld.net put notes issues of relevant project
-- DONE - Shovel snow
+- # Yesterday
+- DONE wip cleanup time
+- DONE ai cat9/Account
+  - convert docs to .md
+  - convert sheets to .csv
+  - create scritps and process.md to replicate sheets
+  - make sure ai can read old tax data
+- DONE cvs cat9-2025
+  Fails:
+- 1099 FHKlop
+- 1099 TreesAES
+- 1065 FHKlop
+- 1065 TreesAES
+- 1040 Chris Trees
 
 ## Fail due to shoveling
 - ai cat9-account
