@@ -3,6 +3,19 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Today
+- Time on cat/Account
+  - Run audit
+  - review results
+  - Create ZFarmTrust/ZLand-LLC ZFarm-LLC ZTrade-LLC ZService-LLC ZRental-LLC
+- 1099 FHKlop
+- 1099 TreesAES
+- 1065 FHKlop
+- 1065 TreesAES
+- 1040 Chris Trees
+- Build Plans in Notebooklm
+- Touch Projects
+
+# Yesterday
 - DONE: nspwa create chat tab
   - chat table in db
   - links
@@ -17,30 +30,6 @@
 - 1065 TreesAES
 - 1040 Chris Trees
 - Build Plans in Notebooklm
-
-- # Yesterday
-- DONE wip cleanup time
-- DONE ai cat9/Account
-  - convert docs to .md
-  - convert sheets to .csv
-  - create scritps and process.md to replicate sheets
-  - make sure ai can read old tax data
-- DONE cvs cat9-2025
-  Fails:
-- 1099 FHKlop
-- 1099 TreesAES
-- 1065 FHKlop
-- 1065 TreesAES
-- 1040 Chris Trees
-
-## Fail due to shoveling
-- ai cat9-account
-- cvs cat9-2025
-- 1099 FHKlop
-- 1099 TreesAES
-- 1065 FHKlop
-- 1065 TreesAES
-- 1040 Chris Trees
   
 # Inbox
 - Cole thermal plan
@@ -62,7 +51,7 @@ Projects getting attention
 ### hwpc
 - [hwpc.2cld.net](https://hwpc.2cld.net) 
 
-### Acc
+### Account
 - [cat9llc](https://gitea.cat9.me/cat/cat9llc)
 - [FHKlopFarms]()
 - [TreesAES]()
