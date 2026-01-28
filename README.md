@@ -14,6 +14,7 @@
 - 1040 Chris Trees
 - Build Plans in Notebooklm
 - Touch Projects
+- Touch nspwa-test
 
 # Yesterday
 - DONE: nspwa create chat tab
