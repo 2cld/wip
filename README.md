@@ -3,9 +3,10 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Today
-- nspwa create chat tab
+- DONE: nspwa create chat tab
   - chat table in db
   - links
+## FAIL
 - Time on cat/Account
   - Run audit
   - review results
