@@ -3,10 +3,6 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Today
-- Time on cat/Account
-  - Run audit
-  - review results
-  - Create ZFarmTrust/ZLand-LLC ZFarm-LLC ZTrade-LLC ZService-LLC ZRental-LLC
 - 1099 FHKlop
 - 1099 TreesAES
 - 1065 FHKlop
@@ -15,26 +11,26 @@
 - Build Plans in Notebooklm
 - Touch Projects
 - Touch nspwa-test
-
+- 
 # Yesterday
-- DONE: nspwa create chat tab
-  - chat table in db
-  - links
-## FAIL
-- Time on cat/Account
+- DONE: Time on cat/Account
   - Run audit
   - review results
   - Create ZFarmTrust/ZLand-LLC ZFarm-LLC ZTrade-LLC ZService-LLC ZRental-LLC
+## Fail
 - 1099 FHKlop
 - 1099 TreesAES
 - 1065 FHKlop
 - 1065 TreesAES
 - 1040 Chris Trees
 - Build Plans in Notebooklm
+- Touch Projects
+- Touch nspwa-test
   
 # Inbox
 - Cole thermal plan
 - TreesAES remodel plans
+- Cloudflare [rdp access](https://developers.cloudflare.com/cloudflare-one/networks/connectors/cloudflare-tunnel/use-cases/rdp/rdp-browser/)
 - cleared by cat 2026.01.25 moved to appropriate projects
 
 ## Open Projects
