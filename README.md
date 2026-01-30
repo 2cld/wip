@@ -33,6 +33,14 @@
 - Cloudflare [rdp access](https://developers.cloudflare.com/cloudflare-one/networks/connectors/cloudflare-tunnel/use-cases/rdp/rdp-browser/)
 - https://rdp.cat9.me/rdp/default/192.168.6.30/3389
 - 2025 blog photo update
+- ai check monthly pay
+- ai check trinks
+- tax turbotax (have home/bus, may need business)
+- https://turbotax.intuit.com/small-business-taxes/cd-download/
+- https://www.hrblock.com/tax-software/premium-small-business-tax-software/
+- https://www.freetaxusa.com/pricing/
+- https://www.olt.com/main/home/products.php?affiliate=&linkID=
+- 
 - cleared by cat 2026.01.25 moved to appropriate projects
 
 ## Open Projects
