@@ -31,6 +31,7 @@
 - Cole thermal plan
 - TreesAES remodel plans
 - Cloudflare [rdp access](https://developers.cloudflare.com/cloudflare-one/networks/connectors/cloudflare-tunnel/use-cases/rdp/rdp-browser/)
+- https://rdp.cat9.me/rdp/default/192.168.6.30/3389
 - cleared by cat 2026.01.25 moved to appropriate projects
 
 ## Open Projects
