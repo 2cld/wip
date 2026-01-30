@@ -35,6 +35,8 @@
 - 2025 blog photo update
 - ai check monthly pay
 - ai check trinks
+- 1099 Online https://quickemployerforms.intuit.com/businesses
+- 1065 Online https://myturbotax.intuit.com/?intent=business
 - tax turbotax (have home/bus, may need business)
 - https://turbotax.intuit.com/small-business-taxes/cd-download/
 - https://www.hrblock.com/tax-software/premium-small-business-tax-software/
