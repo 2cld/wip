@@ -8,8 +8,9 @@
   - http://online.tivo.com/start/transfer
 - DONE: Tivo App install on iPhone (ATrees)
 - DONE: WSA - Windows Subsystem for Android [notebooklm](https://notebooklm.google.com/notebook/1966a45a-c930-419e-bd99-aac8359bb288)
-- gsheet, 1099 FHKlop
-- gsheet, 1099 TreesAES
+- DONE: gsheet, 1099 FHKlop
+- WAIT: gsheet, 1099 TreesAES
+  - Missing Josh 1099 info
 - gsheet, CAT9 (shouldn't need 1099)
 - 1040 2025 CTrees (just start)
 - 1040 2025 BFletch (just start)
