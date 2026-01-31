@@ -36,6 +36,8 @@
 - Touch nspwa-test
   
 # Inbox
+- fix ai cli docs cat9fin 10.147.17.218 based on [ns11fin](https://github.com/2cld/netstack/tree/master/docs/lan/compute/workstation/ns11fin)
+- add and doc build docker and ai cli modes nsdockerhv 10.147.17.176 based on missing [nsdockerai]()
 - Cole thermal plan
 - TreesAES remodel plans
 - Cloudflare [rdp access](https://developers.cloudflare.com/cloudflare-one/networks/connectors/cloudflare-tunnel/use-cases/rdp/rdp-browser/)
