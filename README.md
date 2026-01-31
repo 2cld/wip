@@ -10,11 +10,14 @@
 - DONE: WSA - Windows Subsystem for Android [notebooklm](https://notebooklm.google.com/notebook/1966a45a-c930-419e-bd99-aac8359bb288)
 - gsheet, 1099 FHKlop
 - gsheet, 1099 TreesAES
+- gsheet, CAT9 (shouldn't need 1099)
+- 1040 2025 CTrees (just start)
+- 1040 2025 BFletch (just start)
+- 1040 2025 BHay (just start)
 - k1 prediction FHKlop
 - k1 prediction TreesAES
 - DELAY until get sw 1065 FHKlop
 - DELAY until get sw 1065 TreesAES
-- 1040 Chris Trees
 - Build Plans in Notebooklm
 - Touch Projects
 - Touch nspwa-test
