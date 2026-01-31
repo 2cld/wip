@@ -3,10 +3,13 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Today
-- 1099 FHKlop
-- 1099 TreesAES
-- 1065 FHKlop
-- 1065 TreesAES
+- DONE: Tivo Network Doc [https://github.com/2cld/tv/tree/main/tivo](https://github.com/2cld/tv/tree/main/tivo)
+- gsheet, 1099 FHKlop
+- gsheet, 1099 TreesAES
+- k1 prediction FHKlop
+- k1 prediction TreesAES
+- DELAY until get sw 1065 FHKlop
+- DELAY until get sw 1065 TreesAES
 - 1040 Chris Trees
 - Build Plans in Notebooklm
 - Touch Projects
