@@ -11,12 +11,10 @@
 - Build Plans in Notebooklm
 - Touch Projects
 - Touch nspwa-test
-- 
+
 # Yesterday
-- DONE: Time on cat/Account
-  - Run audit
-  - review results
-  - Create ZFarmTrust/ZLand-LLC ZFarm-LLC ZTrade-LLC ZService-LLC ZRental-LLC
+- Done: Touch 1040 Chris Trees
+- Start 1065 Online (basicaly a turbotax scam)
 ## Fail
 - 1099 FHKlop
 - 1099 TreesAES
@@ -44,6 +42,21 @@
 - https://www.olt.com/main/home/products.php?affiliate=&linkID=
 - https://www.irs.gov/e-file-do-your-taxes-for-free
 - OpenSource [IRX Tax File](https://www.google.com/search?udm=50&aep=11&q=If+I+want+to+file+my+own+taxes+electronically+with+my+own+or+opensource+software%2C+how+would+I+do+that%3F&mtid=0hF9acrSCZbIp84Ptca8qAc&mstk=AUtExfDwiD15NMH2-JnD2Xl6GafppJ77R8Yi8m_4tvKa_ZvuTthQBq8DXKB0cwejyifZXPOi5fLATSPpm37jlOA75IfGpswlEEJR3DPzxCJHekNnK-nfolTBt6HdYWQSqUgBbQcwrYxXgCbmsidQkIBT3k2TLAFWsbFhEt0XykkEtB0eyTcGZJhokKCKkm15IHRJEPuYzIxE1i48P_RGubq8CSi3uRAobfwl7Qc5N0wNryKztioE-mrEA26qJBFd1QYR6LY9D-gkOlM8ulu3gA0oaRJSXojSV4BzVDg&csuir=1)
+- Google AI [yt](https://www.youtube.com/watch?v=gXm4Rp6gjEU)
+1. AI Studio Build (inside Google AI Studio) 
+2. Opal 
+3. NotebookLM (specifically the Video Overview feature) 
+4. Pomelli (Google Labs) 
+5. Gemini Canvas (inside Gemini → Tools → Canvas)
+6. Nano Banana Pro (Gemini’s image generation model, inside Gemini → Tools → Create Images; also in AI Studio)
+7. Multi-Speaker Audio Generation (inside Google AI Studio → Speech interface → Multi-Speaker)
+- https://aistudio.google.com/
+  - https://aistudio.google.com/generate-speech
+- https://opal.google/landing/
+- https://notebooklm.google.com/
+- https://labs.google.com/pomelli/about/
+- https://gemini.google.com/app
+  - Tools -> Create Images
 - cleared by cat 2026.01.25 moved to appropriate projects
 
 ## Open Projects
