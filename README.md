@@ -4,6 +4,10 @@
 
 # Today
 - DONE: Tivo Network Doc [https://github.com/2cld/tv/tree/main/tivo](https://github.com/2cld/tv/tree/main/tivo)
+- DONE: Tivo online on gusGram
+  - http://online.tivo.com/start/transfer
+- DONE: Tivo App install on iPhone (ATrees)
+- DONE: WSA - Windows Subsystem for Android [notebooklm](https://notebooklm.google.com/notebook/1966a45a-c930-419e-bd99-aac8359bb288)
 - gsheet, 1099 FHKlop
 - gsheet, 1099 TreesAES
 - k1 prediction FHKlop
