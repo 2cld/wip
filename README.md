@@ -22,7 +22,7 @@
 - Touch nspwa-test
 
 American Airlines allows one personal item and one carry-on bag for all passengers, including those with Basic Economy tickets. 
-Size & Weight Restrictions
+Size & Weight Restrictions [aa-link](https://www.google.com/search?udm=50&aep=11&q=American+Airlines+carry+on+and+personal+item+restrictions%3F&mtid=DZSDad_tIqOIptQP09SkgQw&mstk=AUtExfAQ9P1Tf2ua5F233PMgNaHodR1BW8p2nwTAKDvZ0arabBCnQiZqQmXtliFkz1vw2jrRM-CweXZIeFn73hvWQ9JYgzlla0ZiqUKV3lmY79tiveix4l7qNxIQ6vaLwxC1klmV5z9-J0V8ajmganUe0WNcw7lQVEUC5BlcifrZSaekgx6ss933gs1vnViqLceJAyLzQIPmLp1jPgmwTh_t49Wh12NkgELj7NUb5dx19AOXRz0e9gtxXsYElghLrfwtsyHvW300txgeOESPG33K69T9Vd7zB3FxBos&csuir=1)
 
 | Item Type |	Max Dimensions (L x W x H)	| Weight Limit |
 |-----------|-----------------------------|--------------|
