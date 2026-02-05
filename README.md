@@ -20,6 +20,14 @@
 - Touch Projects
 - Touch nspwa-test
 
+American Airlines allows one personal item and one carry-on bag for all passengers, including those with Basic Economy tickets. 
+Size & Weight Restrictions
+
+| Item Type |	Max Dimensions (L x W x H)	| Weight Limit |
+|-----------|-----------------------------|--------------|
+| Personal Item	| 18 x 14 x 8 in (45 x 35 x 20 cm)	| Not Specified |
+| Carry-on Bag	| 22 x 14 x 9 in (56 x 36 x 23 cm)	| Not Specified* |
+
 
 # Yesterday
 - DONE: Laundry
