@@ -4,7 +4,8 @@
 
 # Today
 - carpack
-- backpack
+- blackpack
+- DONE: backpack
 - DONE: Print boarding pass aa
 - DONE: Checkin
 - DONE: Add Princess app
@@ -162,6 +163,40 @@ In tasks - [Epic: Repair-2010Buick](./tasks.md)
 # [notes](./docs/)
 - [docs/random-links.md](./docs/random-links.md)
 - [docs/ai-cli-research](./docs/ai-cli-research)
+
+# Backpack
+- 4x underware
+- 4x socks
+- hoddie blue
+- hoddie brown
+- shorts green
+- shorts brown DP
+- pants black
+- pants tan
+- nylon shorts grey
+- nylon shorts black
+- nylon shirt gray
+- short shirt DP
+- short shirt black
+- nylon hoddie red
+- nylon hoddie white
+- nylon hoddie charcoal
+- flipflops
+- pen
+- toothbrush
+- spare glasses
+- bandana orange
+- bandana blue
+
+# blackpack
+- wallet pp
+- cellphone
+- winpad
+- bluetooth kb
+- paperlight kindel
+- info papers
+- toothpaste toothbrush
+- USB supply
 
 # Storage
 - https://www.sandhfuneralservice.com/obituary/Melvin-Jennings
