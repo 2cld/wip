@@ -2,16 +2,20 @@
 
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
+- added vlc to cat9fin need to document
+- delete mov files from christrees-gmail-photos
+- google [storage manager](https://one.google.com/storage?)
+- tbd
+
 # Today
-- DONE: Tivo Network Doc [https://github.com/2cld/tv/tree/main/tivo](https://github.com/2cld/tv/tree/main/tivo)
-- DONE: Tivo online on gusGram
-  - http://online.tivo.com/start/transfer
-- DONE: Tivo App install on iPhone (ATrees)
-- DONE: WSA - Windows Subsystem for Android [notebooklm](https://notebooklm.google.com/notebook/1966a45a-c930-419e-bd99-aac8359bb288)
-- DONE: gsheet, 1099 FHKlop
-- WAIT: gsheet, 1099 TreesAES
-  - Missing Josh 1099 info
-- gsheet, CAT9 (shouldn't need 1099)
+- DONE: Laundry
+- DONE: Car Cleanout
+- DONE: Car repack
+- DONE: Laundry
+- DONE: iPhone ccard, dl, pp
+- DONE: Bank call, Josh is Corp
+- DONE: File 1099's
+- DONE: Ralph call - ai trade bot
 - 1040 2025 CTrees (just start)
 - 1040 2025 BFletch (just start)
 - 1040 2025 BHay (just start)
@@ -24,17 +28,9 @@
 - Touch nspwa-test
 
 # Yesterday
-- Done: Touch 1040 Chris Trees
-- Start 1065 Online (basicaly a turbotax scam)
-## Fail
-- 1099 FHKlop
-- 1099 TreesAES
-- 1065 FHKlop
-- 1065 TreesAES
-- 1040 Chris Trees
-- Build Plans in Notebooklm
-- Touch Projects
-- Touch nspwa-test
+- Visit Roman / Cole
+- Pickup tools
+- Cleanup
   
 # Inbox
 - fix ai cli docs cat9fin 10.147.17.218 based on [ns11fin](https://github.com/2cld/netstack/tree/master/docs/lan/compute/workstation/ns11fin)
