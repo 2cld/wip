@@ -2,20 +2,13 @@
 
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
-- added vlc to cat9fin need to document
-- delete mov files from christrees-gmail-photos
-- google [storage manager](https://one.google.com/storage?)
-- tbd
-
 # Today
-- DONE: Laundry
-- DONE: Car Cleanout
-- DONE: Car repack
-- DONE: Laundry
-- DONE: iPhone ccard, dl, pp
-- DONE: Bank call, Josh is Corp
-- DONE: File 1099's
-- DONE: Ralph call - ai trade bot
+- carpack
+- backpack
+- DONE: Print boarding pass aa
+- DONE: Checkin
+- DONE: Add Princess app
+- DONE: Trash
 - 1040 2025 CTrees (just start)
 - 1040 2025 BFletch (just start)
 - 1040 2025 BHay (just start)
@@ -27,12 +20,24 @@
 - Touch Projects
 - Touch nspwa-test
 
+
 # Yesterday
-- Visit Roman / Cole
-- Pickup tools
-- Cleanup
+- DONE: Laundry
+- DONE: Car Cleanout
+- DONE: Car repack
+- DONE: Laundry
+- DONE: iPhone ccard, dl, pp
+- DONE: Bank call, Josh is Corp
+- DONE: File 1099's
+- DONE: Ralph call - ai trade bot
+
   
 # Inbox
+- added vlc to cat9fin need to document
+- delete mov files from christrees-gmail-photos
+- google [storage manager](https://one.google.com/storage?)
+- Lenovo ThinkPad P15V (Gen 3) Intel Core i7 12800H 2.4ghz (14 cores) 65GB RAM 1024 GB SSD 15.6 Screen 1920x1080 Touch $670.00 [pic](https://www.icloud.com/photos/#/i,pz,782F81A4-B17C-4E30-BD67-9FBA7A6388A3,2849/)
+- tbd
 - fix ai cli docs cat9fin 10.147.17.218 based on [ns11fin](https://github.com/2cld/netstack/tree/master/docs/lan/compute/workstation/ns11fin)
 - add and doc build docker and ai cli modes nsdockerhv 10.147.17.176 based on missing [nsdockerai]()
 - Cole thermal plan
