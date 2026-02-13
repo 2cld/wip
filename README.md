@@ -3,23 +3,20 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Today
-- carpack
-- blackpack
-- DONE: backpack
-- DONE: Print boarding pass aa
-- DONE: Checkin
-- DONE: Add Princess app
-- DONE: Trash
-- 1040 2025 CTrees (just start)
-- 1040 2025 BFletch (just start)
-- 1040 2025 BHay (just start)
-- k1 prediction FHKlop
-- k1 prediction TreesAES
-- DELAY until get sw 1065 FHKlop
-- DELAY until get sw 1065 TreesAES
+
 - Build Plans in Notebooklm
 - Touch Projects
 - Touch nspwa-test
+
+- April 14
+- 1040 2025 CTrees (just start)
+- 1040 2025 BFletch (just start)
+- 1040 2025 BHay (just start)
+- March 14
+- k1 FHKlop
+- k1 TreesAES
+- 1065 FHKlop
+- 1065 TreesAES
 
 American Airlines allows one personal item and one carry-on bag for all passengers, including those with Basic Economy tickets. 
 Size & Weight Restrictions [aa-link](https://www.google.com/search?udm=50&aep=11&q=American+Airlines+carry+on+and+personal+item+restrictions%3F&mtid=DZSDad_tIqOIptQP09SkgQw&mstk=AUtExfAQ9P1Tf2ua5F233PMgNaHodR1BW8p2nwTAKDvZ0arabBCnQiZqQmXtliFkz1vw2jrRM-CweXZIeFn73hvWQ9JYgzlla0ZiqUKV3lmY79tiveix4l7qNxIQ6vaLwxC1klmV5z9-J0V8ajmganUe0WNcw7lQVEUC5BlcifrZSaekgx6ss933gs1vnViqLceJAyLzQIPmLp1jPgmwTh_t49Wh12NkgELj7NUb5dx19AOXRz0e9gtxXsYElghLrfwtsyHvW300txgeOESPG33K69T9Vd7zB3FxBos&csuir=1)
@@ -31,14 +28,6 @@ Size & Weight Restrictions [aa-link](https://www.google.com/search?udm=50&aep=11
 
 
 # Yesterday
-- DONE: Laundry
-- DONE: Car Cleanout
-- DONE: Car repack
-- DONE: Laundry
-- DONE: iPhone ccard, dl, pp
-- DONE: Bank call, Josh is Corp
-- DONE: File 1099's
-- DONE: Ralph call - ai trade bot
 
   
 # Inbox
