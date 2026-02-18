@@ -31,6 +31,7 @@ Size & Weight Restrictions [aa-link](https://www.google.com/search?udm=50&aep=11
 
   
 # Inbox
+- Reset [iWatch](./wip-detail/task-iWatchReset/)
 - added vlc to cat9fin need to document
 - delete mov files from christrees-gmail-photos
 - google [storage manager](https://one.google.com/storage?)
