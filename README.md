@@ -3,11 +3,20 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Today
-
-- Build Plans in Notebooklm
-- Touch Projects
-- Touch nspwa-test
-
+- [ ] Clear Desk
+- [ ] Laundry
+- [ ] Build Plans in Notebooklm
+- [ ] nspwa-test-list
+- [ ] nspwa-bug no-scroll on brave 
+- [ ] nspwa-feature add paste 
+- [ ] Shovel snow 2pm-5pm
+- [ ] Sync Trink
+- [ ] Call Brad - Taxes / iWatch Reset
+- [ ] Dispute Amazon prime charges
+- [ ] Work on hwpc tax 8am-1pm
+- [X] Shovel snow 5am-8am
+  
+# Due Soon
 - April 14
 - 1040 2025 CTrees (just start)
 - 1040 2025 BFletch (just start)
@@ -18,17 +27,15 @@
 - 1065 FHKlop
 - 1065 TreesAES
 
-American Airlines allows one personal item and one carry-on bag for all passengers, including those with Basic Economy tickets. 
-Size & Weight Restrictions [aa-link](https://www.google.com/search?udm=50&aep=11&q=American+Airlines+carry+on+and+personal+item+restrictions%3F&mtid=DZSDad_tIqOIptQP09SkgQw&mstk=AUtExfAQ9P1Tf2ua5F233PMgNaHodR1BW8p2nwTAKDvZ0arabBCnQiZqQmXtliFkz1vw2jrRM-CweXZIeFn73hvWQ9JYgzlla0ZiqUKV3lmY79tiveix4l7qNxIQ6vaLwxC1klmV5z9-J0V8ajmganUe0WNcw7lQVEUC5BlcifrZSaekgx6ss933gs1vnViqLceJAyLzQIPmLp1jPgmwTh_t49Wh12NkgELj7NUb5dx19AOXRz0e9gtxXsYElghLrfwtsyHvW300txgeOESPG33K69T9Vd7zB3FxBos&csuir=1)
-
-| Item Type |	Max Dimensions (L x W x H)	| Weight Limit |
-|-----------|-----------------------------|--------------|
-| Personal Item	| 18 x 14 x 8 in (45 x 35 x 20 cm)	| Not Specified |
-| Carry-on Bag	| 22 x 14 x 9 in (56 x 36 x 23 cm)	| Not Specified* |
-
-
 # Yesterday
-
+- [X] Get Groceries
+- [X] Check on why amazon prime (started in Dec? shit can for march)
+- [X] Check on priceline [https://cards.barclaycardus.com/](https://cards.barclaycardus.com/)
+- [X] Check on windstream bill [https://login.windstream.com/](https://login.windstream.com/)
+- [X] Meet with Mark [hwpc.2cld.net](https://hwpc.2cld.net) 9am-1pm
+- [X] txt Cole - temp renovate old, I'll model new, and old
+- [X] Call Aunt Carol (no answer)
+- [X] Call Mike 8am
   
 # Inbox
 - Reset [iWatch](./wip-detail/task-iWatchReset/)
