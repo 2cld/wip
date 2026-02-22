@@ -6,14 +6,15 @@
 - [ ] Clear Desk
 - [ ] Laundry
 - [ ] Build Cole Plans in Notebooklm
-- [ ] nspwa-test-list
-- [ ] nspwa-bug no-scroll on brave 
-- [ ] nspwa-feature add paste 
 - [ ] Sync Trink
 - [ ] Call Brad - Taxes / iWatch Reset
 - [ ] Dispute Amazon prime charges
 - [ ] cat9-hwpc tax crap 3hr
 - [ ] cat9-dev touch projects 3h
+  - [ ] nspwa-test-list
+  - [ ] nspwa-bug no-scroll on brave 
+  - [ ] nspwa-feature add paste
+- [X] Orchid care [link](https://share.google/aimode/00lb9fLxkAw2sv3Vv)
 - [X] cat9-edu general browse 3hr
   
 # Due Soon
