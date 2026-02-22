@@ -5,16 +5,16 @@
 # Today
 - [ ] Clear Desk
 - [ ] Laundry
-- [ ] Build Plans in Notebooklm
+- [ ] Build Cole Plans in Notebooklm
 - [ ] nspwa-test-list
 - [ ] nspwa-bug no-scroll on brave 
 - [ ] nspwa-feature add paste 
-- [ ] Shovel snow 2pm-5pm
 - [ ] Sync Trink
 - [ ] Call Brad - Taxes / iWatch Reset
 - [ ] Dispute Amazon prime charges
-- [ ] Work on hwpc tax 8am-1pm
-- [X] Shovel snow 5am-8am
+- [ ] cat9-hwpc tax crap 3hr
+- [ ] cat9-dev touch projects 3h
+- [X] cat9-edu general browse 3hr
   
 # Due Soon
 - April 14
@@ -26,16 +26,13 @@
 - k1 TreesAES
 - 1065 FHKlop
 - 1065 TreesAES
+- IA 1065 manual file [googleai instructions](https://share.google/aimode/wgpBIcMB9nfwryieG)
+- IA 1065 no income or expense [Googleai](https://share.google/aimode/NtFvRnACVfHpMpn8Q)
+- Cheaper eTax forms [olt.com](https://www.olt.com/main/oltstateff/ia.php)
 
 # Yesterday
-- [X] Get Groceries
-- [X] Check on why amazon prime (started in Dec? shit can for march)
-- [X] Check on priceline [https://cards.barclaycardus.com/](https://cards.barclaycardus.com/)
-- [X] Check on windstream bill [https://login.windstream.com/](https://login.windstream.com/)
-- [X] Meet with Mark [hwpc.2cld.net](https://hwpc.2cld.net) 9am-1pm
-- [X] txt Cole - temp renovate old, I'll model new, and old
-- [X] Call Aunt Carol (no answer)
-- [X] Call Mike 8am
+- [X] Work on hwpc tax 8am-1pm
+- [X] Shovel snow 5am-8am
   
 # Inbox
 - Reset [iWatch](./wip-detail/task-iWatchReset/)
