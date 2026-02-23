@@ -11,16 +11,16 @@
 - [ ] cat9-acc LLC tax crap 2hr
 - [ ] cat9-hwpc tax crap 2hr
   - [ ] update [hwpc.2cld.net](https://hwpc.2cld.net/)
+- [ ] Kiro 300/day useage
 - [ ] cat9-dev touch projects 3h
   - [ ] Account on cat9fin
   - [ ] nspwa-test
   - [ ] nspwa-bug no-scroll on brave 
   - [ ] nspwa-feature add paste
-- [ ] Kiro 300/day useage
-- [ ] Review [yt](https://youtu.be/wKy1_KLcxcs?si=OUDFe3NGp_ilSfY-)
-- [ ] Review [yt](https://www.youtube.com/watch?v=A6DVx15vRQU)
-- [ ] Review [yt](https://www.youtube.com/watch?v=cIPA5K69gsY)
-- [ ] Review [yt](https://www.youtube.com/watch?v=722NHSt9prk)
+- [X] Review [yt-Lex OpenClaw AI dev workflow](https://youtu.be/wKy1_KLcxcs?si=OUDFe3NGp_ilSfY-)
+- [X] Review [yt-BuildShow ForeverHome Part 7](https://www.youtube.com/watch?v=A6DVx15vRQU)
+- [X] Review [yt-IronClaw not worth saving](https://www.youtube.com/watch?v=cIPA5K69gsY)
+- [X] Review [yt-Fin NOT stay broke not worth saving](https://www.youtube.com/watch?v=722NHSt9prk)
 
 # Due Soon
 - Kiro tokens reset March 1
@@ -50,6 +50,7 @@
   
 # Inbox
 - Build Cole Plans in Notebooklm
+  - [X] Review [yt-BuildShow ForeverHome Part 7](https://www.youtube.com/watch?v=A6DVx15vRQU)
 - Add camera to Andi basement
 - [X] Orchid care [link](https://share.google/aimode/00lb9fLxkAw2sv3Vv)
 - [X] Orchid blooms [link](https://share.google/aimode/xDWViUlutcdu38OAH)
@@ -103,6 +104,7 @@ Projects getting attention
 - [nsclai](https://gitea.cat9.me/nsadmin/nsclai) - [issues](https://gitea.cat9.me/nsadmin/nsclai/issues)
   - IronClaw [https://github.com/nearai/ironclaw](https://github.com/nearai/ironclaw)
   - 4 and 8 node ai clusters [yt](https://www.youtube.com/watch?v=QJqKqxQR36Y)
+  - Review [yt-Lex OpenClaw AI dev workflow](https://youtu.be/wKy1_KLcxcs?si=OUDFe3NGp_ilSfY-)
 - [nsmedia](https://gitea.cat9.me/nsadmin/nsmedia) - [issues](https://gitea.cat9.me/nsadmin/nsmedia/issues)
 - [nsgctime](https://gitea.cat9.me/nsadmin/nsgctime) - [issues](https://gitea.cat9.me/nsadmin/nsgctime/issues)
 - [nscallbot](https://gitea.cat9.me/nsadmin/nscallbot) - [issues](https://gitea.cat9.me/nsadmin/nscallbot/issues)
