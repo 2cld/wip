@@ -6,12 +6,15 @@
 - [ ] Clear Desk
 - [ ] Laundry
 - [ ] Build Cole Plans in Notebooklm
-- [ ] Sync Trink
+- [X] Sync Trink
 - [ ] Call Brad - Taxes / iWatch Reset
 - [ ] Dispute Amazon prime charges
-- [ ] cat9-hwpc tax crap 3hr
-- [ ] cat9-dev touch projects 3h
-  - [ ] nspwa-test-list
+- [ ] Kiro 300/day useage
+- [X] cat9-TreesAES tax crap 1hr
+- [X] cat9-hwpc tax crap 2hr
+      - [X] update [hwpc.2cld.net](https://hwpc.2cld.net/)
+- [X] cat9-dev touch projects 3h
+  - [X] nspwa-test-list
   - [ ] nspwa-bug no-scroll on brave 
   - [ ] nspwa-feature add paste
 - [X] Orchid care [link](https://share.google/aimode/00lb9fLxkAw2sv3Vv)
