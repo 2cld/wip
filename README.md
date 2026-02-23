@@ -42,10 +42,13 @@
 - [X] cat9-dev touch projects 3h
   - [X] nspwa-test-list
 - [X] Orchid care [link](https://share.google/aimode/00lb9fLxkAw2sv3Vv)
+- [X] Orchid blooms [link](https://share.google/aimode/xDWViUlutcdu38OAH)
 - [X] cat9-edu general browse 3hr
   
 # Inbox
 - Build Cole Plans in Notebooklm
+- [X] Orchid care [link](https://share.google/aimode/00lb9fLxkAw2sv3Vv)
+- [X] Orchid blooms [link](https://share.google/aimode/xDWViUlutcdu38OAH)
 - Edgar's yt [https://www.youtube.com/@halfpastsquare/videos](https://www.youtube.com/@halfpastsquare/videos)
 - Reset [iWatch](./wip-detail/task-iWatchReset/)
 - added vlc to cat9fin need to document
