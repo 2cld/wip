@@ -10,14 +10,17 @@
 - [ ] Dispute Amazon prime charges
 - [ ] cat9-acc LLC tax crap 2hr
 - [ ] cat9-hwpc tax crap 2hr
-      - [ ] update [hwpc.2cld.net](https://hwpc.2cld.net/)
+  - [ ] update [hwpc.2cld.net](https://hwpc.2cld.net/)
 - [ ] cat9-dev touch projects 3h
   - [ ] Account on cat9fin
   - [ ] nspwa-test
   - [ ] nspwa-bug no-scroll on brave 
   - [ ] nspwa-feature add paste
 - [ ] Kiro 300/day useage
-- [ ] tbd
+- [ ] Review [yt](https://youtu.be/wKy1_KLcxcs?si=OUDFe3NGp_ilSfY-)
+- [ ] Review [yt](https://www.youtube.com/watch?v=A6DVx15vRQU)
+- [ ] Review [yt](https://www.youtube.com/watch?v=cIPA5K69gsY)
+- [ ] Review [yt](https://www.youtube.com/watch?v=722NHSt9prk)
 
 # Due Soon
 - Kiro tokens reset March 1
@@ -38,7 +41,7 @@
 - [X] Sync Trink
 - [X] cat9-TreesAES tax crap 1hr
 - [X] cat9-hwpc tax crap 2hr
-      - [X] update [hwpc.2cld.net](https://hwpc.2cld.net/)
+  - [X] update [hwpc.2cld.net](https://hwpc.2cld.net/)
 - [X] cat9-dev touch projects 3h
   - [X] nspwa-test-list
 - [X] Orchid care [link](https://share.google/aimode/00lb9fLxkAw2sv3Vv)
@@ -47,8 +50,10 @@
   
 # Inbox
 - Build Cole Plans in Notebooklm
+- Add camera to Andi basement
 - [X] Orchid care [link](https://share.google/aimode/00lb9fLxkAw2sv3Vv)
 - [X] Orchid blooms [link](https://share.google/aimode/xDWViUlutcdu38OAH)
+- Coke formula [yt](https://www.youtube.com/@LabCoatz_Science/videos)
 - Edgar's yt [https://www.youtube.com/@halfpastsquare/videos](https://www.youtube.com/@halfpastsquare/videos)
 - Reset [iWatch](./wip-detail/task-iWatchReset/)
 - added vlc to cat9fin need to document
@@ -96,7 +101,7 @@ Projects getting attention
 ### nsadmin
 - [ns-site-template](https://gitea.cat9.me/nsadmin/ns-site-template) - [issues](https://gitea.cat9.me/nsadmin/ns-site-template/issues)
 - [nsclai](https://gitea.cat9.me/nsadmin/nsclai) - [issues](https://gitea.cat9.me/nsadmin/nsclai/issues)
-  - IronClaw []()
+  - IronClaw [https://github.com/nearai/ironclaw](https://github.com/nearai/ironclaw)
   - 4 and 8 node ai clusters [yt](https://www.youtube.com/watch?v=QJqKqxQR36Y)
 - [nsmedia](https://gitea.cat9.me/nsadmin/nsmedia) - [issues](https://gitea.cat9.me/nsadmin/nsmedia/issues)
 - [nsgctime](https://gitea.cat9.me/nsadmin/nsgctime) - [issues](https://gitea.cat9.me/nsadmin/nsgctime/issues)
