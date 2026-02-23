@@ -5,26 +5,22 @@
 # Today
 - [ ] Clear Desk
 - [ ] Laundry
-- [ ] Build Cole Plans in Notebooklm
-- [X] Sync Trink
+- [ ] Sync Trink 5pm cst
 - [ ] Call Brad - Taxes / iWatch Reset
 - [ ] Dispute Amazon prime charges
-- [ ] Kiro 300/day useage
-- [X] cat9-TreesAES tax crap 1hr
-- [X] cat9-hwpc tax crap 2hr
-      - [X] update [hwpc.2cld.net](https://hwpc.2cld.net/)
-- [X] cat9-dev touch projects 3h
-  - [X] nspwa-test-list
+- [ ] cat9-acc LLC tax crap 2hr
+- [ ] cat9-hwpc tax crap 2hr
+      - [ ] update [hwpc.2cld.net](https://hwpc.2cld.net/)
+- [ ] cat9-dev touch projects 3h
+  - [ ] Account on cat9fin
+  - [ ] nspwa-test
   - [ ] nspwa-bug no-scroll on brave 
   - [ ] nspwa-feature add paste
-- [X] Orchid care [link](https://share.google/aimode/00lb9fLxkAw2sv3Vv)
-- [X] cat9-edu general browse 3hr
-  
+- [ ] Kiro 300/day useage
+- [ ] tbd
+
 # Due Soon
-- April 14
-- 1040 2025 CTrees (just start)
-- 1040 2025 BFletch (just start)
-- 1040 2025 BHay (just start)
+- Kiro tokens reset March 1
 - March 14
 - k1 FHKlop
 - k1 TreesAES
@@ -33,12 +29,24 @@
 - IA 1065 manual file [googleai instructions](https://share.google/aimode/wgpBIcMB9nfwryieG)
 - IA 1065 no income or expense [Googleai](https://share.google/aimode/NtFvRnACVfHpMpn8Q)
 - Cheaper eTax forms [olt.com](https://www.olt.com/main/oltstateff/ia.php)
-
+- April 14
+- 1040 2025 CTrees (just start)
+- 1040 2025 BFletch (just start)
+- 1040 2025 BHay (just start)
+  
 # Yesterday
-- [X] Work on hwpc tax 8am-1pm
-- [X] Shovel snow 5am-8am
+- [X] Sync Trink
+- [X] cat9-TreesAES tax crap 1hr
+- [X] cat9-hwpc tax crap 2hr
+      - [X] update [hwpc.2cld.net](https://hwpc.2cld.net/)
+- [X] cat9-dev touch projects 3h
+  - [X] nspwa-test-list
+- [X] Orchid care [link](https://share.google/aimode/00lb9fLxkAw2sv3Vv)
+- [X] cat9-edu general browse 3hr
   
 # Inbox
+- Build Cole Plans in Notebooklm
+- Edgar's yt [https://www.youtube.com/@halfpastsquare/videos](https://www.youtube.com/@halfpastsquare/videos)
 - Reset [iWatch](./wip-detail/task-iWatchReset/)
 - added vlc to cat9fin need to document
 - delete mov files from christrees-gmail-photos
@@ -85,6 +93,8 @@ Projects getting attention
 ### nsadmin
 - [ns-site-template](https://gitea.cat9.me/nsadmin/ns-site-template) - [issues](https://gitea.cat9.me/nsadmin/ns-site-template/issues)
 - [nsclai](https://gitea.cat9.me/nsadmin/nsclai) - [issues](https://gitea.cat9.me/nsadmin/nsclai/issues)
+  - IronClaw []()
+  - 4 and 8 node ai clusters [yt](https://www.youtube.com/watch?v=QJqKqxQR36Y)
 - [nsmedia](https://gitea.cat9.me/nsadmin/nsmedia) - [issues](https://gitea.cat9.me/nsadmin/nsmedia/issues)
 - [nsgctime](https://gitea.cat9.me/nsadmin/nsgctime) - [issues](https://gitea.cat9.me/nsadmin/nsgctime/issues)
 - [nscallbot](https://gitea.cat9.me/nsadmin/nscallbot) - [issues](https://gitea.cat9.me/nsadmin/nscallbot/issues)
