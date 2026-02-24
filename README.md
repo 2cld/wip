@@ -5,18 +5,25 @@
 # Today
 - [ ] Clear Desk
 - [ ] Laundry
-- [ ] Sync Trink 5pm cst
 - [ ] Call Brad - Taxes / iWatch Reset
 - [ ] Dispute Amazon prime charges
 - [ ] cat9-acc LLC tax crap 2hr
 - [ ] cat9-hwpc tax crap 2hr
   - [ ] update [hwpc.2cld.net](https://hwpc.2cld.net/)
 - [ ] Kiro 300/day useage
+  - [ ] Fri
+  - [ ] Thur
+  - [ ] Wed
+  - [ ] Tue
+  - [X] Mon 85 
 - [ ] cat9-dev touch projects 3h
   - [ ] Account on cat9fin
   - [ ] nspwa-test
   - [ ] nspwa-bug no-scroll on brave 
   - [ ] nspwa-feature add paste
+  - [X] nspwa chat feature branch merge
+  - [X] nspwa-test chat feature
+  - [X] nspwa chat feature tasks complete
 - [X] Review [yt-Lex OpenClaw AI dev workflow](https://youtu.be/wKy1_KLcxcs?si=OUDFe3NGp_ilSfY-)
 - [X] Review [yt-BuildShow ForeverHome Part 7](https://www.youtube.com/watch?v=A6DVx15vRQU)
 - [X] Review [yt-IronClaw not worth saving](https://www.youtube.com/watch?v=cIPA5K69gsY)
@@ -38,15 +45,18 @@
 - 1040 2025 BHay (just start)
   
 # Yesterday
-- [X] Sync Trink
-- [X] cat9-TreesAES tax crap 1hr
-- [X] cat9-hwpc tax crap 2hr
-  - [X] update [hwpc.2cld.net](https://hwpc.2cld.net/)
-- [X] cat9-dev touch projects 3h
-  - [X] nspwa-test-list
-- [X] Orchid care [link](https://share.google/aimode/00lb9fLxkAw2sv3Vv)
-- [X] Orchid blooms [link](https://share.google/aimode/xDWViUlutcdu38OAH)
-- [X] cat9-edu general browse 3hr
+- [X] Sync Trink 5pm cst
+- [ ] Kiro 300/day useage
+  - [X] Mon 85 
+- [ ] cat9-dev touch projects 3h
+  - [ ] nspwa-feature add paste
+  - [X] nspwa chat feature branch merge
+  - [X] nspwa-test chat feature
+  - [X] nspwa chat feature tasks complete
+- [X] Review [yt-Lex OpenClaw AI dev workflow](https://youtu.be/wKy1_KLcxcs?si=OUDFe3NGp_ilSfY-)
+- [X] Review [yt-BuildShow ForeverHome Part 7](https://www.youtube.com/watch?v=A6DVx15vRQU)
+- [X] Review [yt-IronClaw not worth saving](https://www.youtube.com/watch?v=cIPA5K69gsY)
+- [X] Review [yt-Fin NOT stay broke not worth saving](https://www.youtube.com/watch?v=722NHSt9prk)
   
 # Inbox
 - Build Cole Plans in Notebooklm
