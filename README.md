@@ -122,7 +122,8 @@
 
 ## Open Projects
 Projects getting attention
-### nsadmin
+### nsadmin [https://gitea.cat9.me/nsadmin](https://gitea.cat9.me/nsadmin)
+- [nsqbooks](https://gitea.cat9.me/nsadmin/nsqbooks) - [issues](https://gitea.cat9.me/nsadmin/nsqbooks/issues)
 - [ns-site-template](https://gitea.cat9.me/nsadmin/ns-site-template) - [issues](https://gitea.cat9.me/nsadmin/ns-site-template/issues)
 - [nsclai](https://gitea.cat9.me/nsadmin/nsclai) - [issues](https://gitea.cat9.me/nsadmin/nsclai/issues)
   - IronClaw [https://github.com/nearai/ironclaw](https://github.com/nearai/ironclaw)
@@ -135,11 +136,14 @@ Projects getting attention
 - [nspwa](https://gitea.cat9.me/nsadmin/nspwa) - [issues](https://gitea.cat9.me/nsadmin/nspwa/issues)
 - [nspwa-test](https://gitea.cat9.me/nsadmin/nspwa=test) - [issues](https://gitea.cat9.me/nsadmin/nspwa=test/issues)
 - [gitea-to-github](https://gitea.cat9.me/nsadmin/gitea-to-github) - [issues](https://gitea.cat9.me/nsadmin/gitea-to-github/issues)
+- [docker-compose](https://gitea.cat9.me/nsadmin/docker-compose) - [issues](https://gitea.cat9.me/nsadmin/docker-compose/issues)
+- [2cld](https://gitea.cat9.me/nsadmin/2cld) - [issues](https://gitea.cat9.me/nsadmin/2cld/issues)
 
 ### hwpc
 - [hwpc.2cld.net](https://hwpc.2cld.net) 
 
-### Account
+### Account https://gitea.cat9.me/cat
+- [catnotes](https://gitea.cat9.me/cat/catnotes)
 - [cat9llc](https://gitea.cat9.me/cat/cat9llc)
 - [FHKlopFarms]()
 - [TreesAES]()
