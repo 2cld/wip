@@ -10,11 +10,6 @@
 
 - [ ] cat9-hwpc tax crap 2hr
   - [ ] update [hwpc.2cld.net](https://hwpc.2cld.net/)
-- [ ] Kiro 300/day useage
-  - [ ] Fri
-  - [ ] Thur
-  - [ ] Wed
-  - [X] Tue 201/1000
 - [ ] cat9-dev projects que
   - [ ] Account on cat9fin
   - [ ] nspwa-test
@@ -33,14 +28,7 @@
   - [ ] File FHKlop 1065
   - [ ] Verify TreesAES 1099
   - [ ] Verify FHKlop 1099
-- [X] cat9-dev projects
-  - [X] nsqbooks project on cat9fin
-  - [X] docker-compose nginx basic auth and ToDo-Issues.md
-- [X] Notebooklm [Mansion Restore 1-50](https://notebooklm.google.com/notebook/bd249b0e-28a2-4f2b-8079-c081732ee86e)
-- [X] k1 FHKlop (in 1065)
-- [X] k1 TreesAES (in 1065)
-- [X] 1065 FHKlop print to "C:\cat9finshare\Account\ATreesTrust\FHKlopFarms\Tax2025\2025 FH Klopfenstein Farms, LLC Form 1065  Partnerships Tax Return_Records-FinalPreFile.pdf"
-- [X] 1065 TreesAES print to "C:\cat9finshare\Account\ATreesTrust\TreesAES\Tax2025\2025 Trees AES, LLC Form 1065  Partnerships Tax Return_Records-FinalPreFile.pdf"
+
 
 # Due Soon
 - Kiro tokens reset March 1
@@ -58,18 +46,14 @@
 - 1040 2025 BHay (just start)
   
 # Yesterday
-- [X] Sync Trink 5pm cst
-- [ ] Kiro 300/day useage
-  - [X] Mon 85/1000
-- [ ] cat9-dev touch projects 3h
-  - [ ] nspwa-feature add paste
-  - [X] nspwa chat feature branch merge
-  - [X] nspwa-test chat feature
-  - [X] nspwa chat feature tasks complete
-- [X] Review [yt-Lex OpenClaw AI dev workflow](https://youtu.be/wKy1_KLcxcs?si=OUDFe3NGp_ilSfY-)
-- [X] Review [yt-BuildShow ForeverHome Part 7](https://www.youtube.com/watch?v=A6DVx15vRQU)
-- [X] Review [yt-IronClaw not worth saving](https://www.youtube.com/watch?v=cIPA5K69gsY)
-- [X] Review [yt-Fin NOT stay broke not worth saving](https://www.youtube.com/watch?v=722NHSt9prk)
+- [X] cat9-dev projects
+  - [X] nsqbooks project on cat9fin
+  - [X] docker-compose nginx basic auth and ToDo-Issues.md
+- [X] Notebooklm [Mansion Restore 1-50](https://notebooklm.google.com/notebook/bd249b0e-28a2-4f2b-8079-c081732ee86e)
+- [X] k1 FHKlop (in 1065)
+- [X] k1 TreesAES (in 1065)
+- [X] 1065 FHKlop print to "C:\cat9finshare\Account\ATreesTrust\FHKlopFarms\Tax2025\2025 FH Klopfenstein Farms, LLC Form 1065  Partnerships Tax Return_Records-FinalPreFile.pdf"
+- [X] 1065 TreesAES print to "C:\cat9finshare\Account\ATreesTrust\TreesAES\Tax2025\2025 Trees AES, LLC Form 1065  Partnerships Tax Return_Records-FinalPreFile.pdf"
   
 # Inbox
 - Build Cole Plans in Notebooklm
