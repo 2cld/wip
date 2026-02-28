@@ -27,6 +27,8 @@
   - [ ] nstradebot start project
   - [ ] nsqbooks test LLC for 2025 2024 2023
   - [ ] nsqbooks procedural checks and ai
+  - [ ] nspwa work on issues
+  - [ ] wip work on PROCESS.md
 
 - [ ] **Epic: cat9-acc LLC tax prep** (4hr) @type:task @priority:high @project:accounting
   - [ ] Start BHaymond 1040
@@ -61,11 +63,7 @@
 - [X] cat9-dev projects @project:nsadmin
   - [X] nsqbooks project on cat9fin
   - [X] docker-compose nginx basic auth and ToDo-Issues.md
-- [X] Notebooklm [Mansion Restore 1-50](https://notebooklm.google.com/notebook/bd249b0e-28a2-4f2b-8079-c081732ee86e) @project:personal
-- [X] k1 FHKlop (in 1065) @project:accounting
-- [X] k1 TreesAES (in 1065) @project:accounting
-- [X] 1065 FHKlop print to file @project:accounting
-- [X] 1065 TreesAES print to file @project:accounting
+  - [X] nspwa feature EchoBot and Terminal
 
 ---
 
@@ -74,6 +72,7 @@
 
 - Build Cole Plans in Notebooklm @type:task @project:personal
   - [X] Review [yt-BuildShow ForeverHome Part 7](https://www.youtube.com/watch?v=A6DVx15vRQU)
+  - [X] Notebooklm [Mansion Restore 1-50](https://notebooklm.google.com/notebook/bd249b0e-28a2-4f2b-8079-c081732ee86e) @project:personal
 - Add camera to Andi basement @type:task @priority:medium @project:personal
 - Coke formula [yt](https://www.youtube.com/@LabCoatz_Science/videos) @type:link @project:personal
 - Edgar's yt [https://www.youtube.com/@halfpastsquare/videos](https://www.youtube.com/@halfpastsquare/videos) @type:link @project:personal
