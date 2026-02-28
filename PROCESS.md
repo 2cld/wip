@@ -62,3 +62,87 @@ To ensure clarity and avoid ambiguity, every task or Epic moved into the "To Do"
         - [ ] Write a script to automate dependency installation.
         - [ ] Run all project tests successfully in the new environment.
 ```
+
+## Daily Morning Routine
+
+This is your daily habit-building process. Do this every morning before diving into work.
+
+**Time Required:** 15-20 minutes
+
+### Step 1: Yesterday Review (5 min)
+1. Look at your `# Yesterday` section in `README.md`
+2. Move completed items to `Done` in `tasks.md`
+3. Move incomplete items back to `# Today` or `# Inbox` for re-evaluation
+4. Ask yourself: "What blocked me yesterday?"
+
+### Step 2: Inbox Triage (5 min)
+1. Review `# Inbox` section in `README.md`
+2. Tag each item with `@type:`, `@priority:`, `@project:` as needed
+3. Move urgent items to `# Today`
+4. Move non-urgent tasks to `tasks.md` with a Definition of Done
+5. Archive notes/links to appropriate `docs/` files
+
+### Step 3: Priority Rating (3 min)
+1. Review `# Today` section
+2. Check `# Due Soon` - any items due within 5 days?
+3. Pull urgent deadline items into `# Today` with `@priority:high`
+4. Identify your top 3 priorities for today
+5. Be honest: Can you realistically complete these today?
+6. If not, move lower priority items back to `tasks.md`
+
+### Step 4: Time Blocking (5 min)
+1. Open your calendar (Google Calendar or Apple Calendar)
+2. Block time for each priority task
+3. Include buffer time between blocks
+4. Schedule breaks and lunch
+5. Note any meetings or commitments
+
+### Step 5: Daily Check-In (2 min)
+1. Update the `# Daily Check-In` section in `README.md`
+2. Record today's date and your commitment
+3. This creates accountability and a visible streak
+
+**Pro Tips:**
+- Do this routine at the same time every morning
+- Keep it to 20 minutes max - don't overthink
+- If you skip a day, don't beat yourself up - just restart tomorrow
+- Review your weekly progress every Sunday evening
+
+## Sunday Evening Review
+
+This is your weekly planning session to set yourself up for success.
+
+**Time Required:** 30-45 minutes
+
+### Step 1: Week Retrospective (10 min)
+1. Review what you accomplished this week
+2. Update `metrics.md` with completion rates
+3. Celebrate wins - what went well?
+4. Identify blockers - what got in the way?
+
+### Step 2: Due Soon Planning (15 min)
+1. Review `# Due Soon` section in `README.md`
+2. For each item, calculate days until deadline
+3. Break down large deadline items into daily chunks
+4. Schedule specific days in the upcoming week to work on each item
+5. Add these scheduled chunks to your calendar with time blocks
+6. Update calendar reminders if needed (7 days, 3 days, 1 day before)
+
+### Step 3: Week Ahead Setup (10 min)
+1. Review `schedule.md` and plan your week structure
+2. Look at calendar commitments and meetings
+3. Identify your 3 biggest goals for the week
+4. Pre-populate Monday's `# Today` section with your top priorities
+5. Clear out any stale items from `# Inbox` that you've been avoiding
+
+### Step 4: Reset and Commit (5 min)
+1. Archive completed items from `# Yesterday`
+2. Clean up your workspace (digital and physical)
+3. Set your intention for the week ahead
+4. Go into Monday ready to execute
+
+**Pro Tips:**
+- Do this at the same time every Sunday evening
+- Don't schedule every minute - leave buffer time
+- Be realistic about your capacity
+- If you have a big deadline, protect focus time in your calendar
