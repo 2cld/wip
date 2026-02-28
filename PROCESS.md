@@ -67,7 +67,12 @@ To ensure clarity and avoid ambiguity, every task or Epic moved into the "To Do"
 
 This is your daily habit-building process. Do this every morning before diving into work.
 
-**Time Required:** 15-20 minutes
+**Time Required:** 17-22 minutes
+
+### Step 0: Sync Check (1 min)
+1. Check if local `README.md` differs from https://wip.2cld.net
+2. If different, you made manual edits elsewhere - merge them locally
+3. This ensures you're working with the latest version
 
 ### Step 1: Yesterday Review (5 min)
 1. Look at your `# Yesterday` section in `README.md`
@@ -101,6 +106,12 @@ This is your daily habit-building process. Do this every morning before diving i
 1. Update the `# Daily Check-In` section in `README.md`
 2. Record today's date and your commitment
 3. This creates accountability and a visible streak
+
+### Step 6: Commit and Push (1 min)
+1. Commit your changes: `git add . && git commit -m "Daily review YYYY-MM-DD @daily-review-YYYY-MM-DD"`
+2. Push to GitHub: `git push origin main`
+3. This syncs your work to https://wip.2cld.net
+4. Tag format helps track daily review commits
 
 **Pro Tips:**
 - Do this routine at the same time every morning
