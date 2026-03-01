@@ -70,9 +70,10 @@ This is your daily habit-building process. Do this every morning before diving i
 **Time Required:** 17-22 minutes
 
 ### Step 0: Sync Check (1 min)
-1. Check if local `README.md` differs from https://wip.2cld.net
-2. If different, you made manual edits elsewhere - merge them locally
-3. This ensures you're working with the latest version
+1. Pull latest changes: `git pull origin main`
+2. This ensures you're working with the latest version from https://wip.2cld.net
+3. If you made edits on GitHub or another machine, they'll be merged automatically
+4. Resolve any merge conflicts if they occur (rare, but possible)
 
 ### Step 1: Yesterday Review (5 min)
 1. Look at your `# Yesterday` section in `README.md`
