@@ -16,8 +16,8 @@
 2. LLC tax prep (4hr time block)
 3. Dispute Amazon prime charges
 
-- [ ] Call Brad - Taxes / iWatch Reset @type:task @priority:high @project:personal
-- [ ] Dispute Amazon prime charges @type:task @priority:high @project:personal
+- [X] Call Brad - Taxes / iWatch Reset @type:task @priority:high @project:personal
+- [X] Dispute Amazon prime charges @type:task @priority:high @project:personal
 - [ ] Clear Desk @type:task @priority:medium @project:personal
 - [ ] Laundry @type:task @priority:medium @project:personal
 
@@ -64,7 +64,12 @@
 
 # Inbox
 **Items to be processed and tagged during morning routine**
-
+- Dispute Amazon prime charges @type:task @priority:low @project:cat9-acct-LLC
+- Move LLC Priceline charges to related LLC @type:task @priority:low @project:cat9-acct-LLC
+- Setup LLC cc auto-payments @type:task @priority:low @project:cat9-acct-LLC
+- Look at adding gcal interface to wip @type:task @priority:low @project:cat9-dev-wip
+- Create Route Print for HWPC with Invoice import @type:task @priority:high @project:cat9-hwpc-qbol
+  
 **Processed 2026-03-01:**
 - Build Cole Plans in Notebooklm → [Moved to tasks.md](./tasks.md)
 - Add camera to Andi basement → [Moved to tasks.md](./tasks.md)
