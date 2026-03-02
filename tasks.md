@@ -30,6 +30,12 @@
 ---
 
 ### Tasks
+- [ ] **Task:** Look at adding gcal interface to wip @type:task @priority:low @project:cat9-dev-wip
+    - **Definition of Done:**
+        - [ ] Research gcal API integration options
+        - [ ] Design interface for wip → gcal sync
+        - [ ] Document implementation plan
+
 - [ ] **Task:** Build Cole Plans in Notebooklm @type:task @project:personal @priority:medium
     - **Definition of Done:**
         - [ ] All BuildShow videos reviewed and notes added to NotebookLM

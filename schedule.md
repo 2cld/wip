@@ -6,10 +6,10 @@
 
 *   **Monday (Mar 2):**
     *   Morning: cat9-hwpc tax prep (2hr) - update hwpc.2cld.net
-    *   Afternoon: cat9-dev projects queue - focus on nspwa issues
+    *   Afternoon: cat9-acc LLC tax prep
     
 *   **Tuesday (Mar 3):**
-    *   Morning: LLC tax prep continuation (2hr)
+    *   Morning: cat9-acc LLC tax prep continuation (2hr)
     *   Afternoon: K-1 preparation for FHKlop and TreesAES
     
 *   **Wednesday (Mar 4):**

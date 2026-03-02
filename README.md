@@ -3,37 +3,47 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 2 days | **Last Check-In:** 2026-03-01
+**Current Streak:** 3 days | **Last Check-In:** 2026-03-02
 
+**2026-03-02 (Mon):** 🎯 Monday focus: HWPC tax prep + Route Print project. Tax deadline in 12 days!
 **2026-03-01 (Sun):** 🎯 Sunday morning routine complete! Focus on LLC tax prep and personal admin.
 **2026-02-28 (Sat):** 🎯 Starting the daily routine! Committed to morning triage and priority planning.
 
 ---
 
 # Today
-**Top 3 Priorities for Sunday, March 1:**
-1. Call Brad - Taxes / iWatch Reset
-2. LLC tax prep (4hr time block)
-3. Dispute Amazon prime charges
+**Top 3 Priorities for Monday, March 2:**
+1. Epic: cat9-hwpc tax prep (2hr) - update hwpc.2cld.net
+2. Create Route Print for HWPC with Invoice import
+3. Epic: cat9-acc LLC tax prep - K-1 work continues
 
-- [X] Call Brad - Taxes / iWatch Reset @type:task @priority:high @project:personal
-- [X] Dispute Amazon prime charges @type:task @priority:high @project:personal
-- [ ] Clear Desk @type:task @priority:medium @project:personal
-- [ ] Laundry @type:task @priority:medium @project:personal
+- [ ] **Epic: cat9-hwpc tax prep** (2hr) @type:task @priority:high @project:hwpc
+  - [ ] update [hwpc.2cld.net](https://hwpc.2cld.net/)
+  - [ ] Add HWPC Invoice print and import instructions
+  - [X] Gather all hwpc business receipts and expenses
+  - [X] Review hwpc income statements
 
-- [ ] **Epic: cat9-acc LLC tax prep** (4hr) @type:task @priority:high @project:accounting
+- [ ] **Task: Create Route Print for HWPC with Invoice import** @type:task @priority:high @project:cat9-hwpc-qbol
+  - **Definition of Done:**
+    - [ ] Route print functionality created
+    - [ ] Invoice import working
+    - [ ] Tested with sample data
+
+- [ ] **Epic: cat9-acc LLC tax prep** (2hr) @type:task @priority:high @project:accounting
   - [ ] Start BHaymond 1040
   - [ ] Put in CTrees K-1 info
   - [ ] Put in BFletch K-1 info
   - [ ] Check TreesAES SalesTax Withholding
   - [ ] File TreesAES 1065
-  - [ ] File FHKlop 1065
+  - [X] File FHKlop 1065
   - [X] Verify TreesAES 1099
   - [X] Verify FHKlop 1099
 
-**Moved to Monday:**
-- [ ] **Epic: cat9-hwpc tax prep** (2hr) @type:task @priority:high @project:hwpc - [Moved to tasks.md](./tasks.md)
-- [ ] **Epic: cat9-dev projects queue** @type:task @priority:medium @project:nsadmin - [Moved to tasks.md](./tasks.md)
+- [ ] Clear Desk @type:task @priority:medium @project:personal
+- [ ] Laundry @type:task @priority:medium @project:personal
+
+- [ ] **Task: Setup LLC cc auto-payments** @type:task @priority:medium @project:cat9-acct-LLC
+- [ ] **Task: Move LLC Priceline charges to related LLC** @type:task @priority:low @project:cat9-acct-LLC
 
 ---
 
@@ -55,21 +65,24 @@
 ---
 
 # Yesterday
-- [X] cat9-dev projects @project:nsadmin
-  - [X] nsqbooks project on cat9fin
-  - [X] docker-compose nginx basic auth and ToDo-Issues.md
-  - [X] nspwa feature EchoBot and Terminal
+- [X] Call Brad - Taxes / iWatch Reset @project:personal
+- [X] Dispute Amazon prime charges @project:personal
+- [ ] Clear Desk (moved to today) @project:personal
+- [ ] Laundry (moved to today) @project:personal
+- [ ] Epic: cat9-acc LLC tax prep (in progress, continuing today) @project:accounting
 
 ---
 
 # Inbox
 **Items to be processed and tagged during morning routine**
-- Dispute Amazon prime charges @type:task @priority:low @project:cat9-acct-LLC
-- Move LLC Priceline charges to related LLC @type:task @priority:low @project:cat9-acct-LLC
-- Setup LLC cc auto-payments @type:task @priority:low @project:cat9-acct-LLC
-- Look at adding gcal interface to wip @type:task @priority:low @project:cat9-dev-wip
-- Create Route Print for HWPC with Invoice import @type:task @priority:high @project:cat9-hwpc-qbol
-  
+
+**Processed 2026-03-02:**
+- Dispute Amazon prime charges → Completed yesterday, archived
+- Move LLC Priceline charges to related LLC → [Moved to Today](./README.md#today)
+- Setup LLC cc auto-payments → [Moved to Today](./README.md#today)
+- Look at adding gcal interface to wip → [Moved to tasks.md](./tasks.md)
+- Create Route Print for HWPC with Invoice import → [Moved to Today](./README.md#today)
+
 **Processed 2026-03-01:**
 - Build Cole Plans in Notebooklm → [Moved to tasks.md](./tasks.md)
 - Add camera to Andi basement → [Moved to tasks.md](./tasks.md)
