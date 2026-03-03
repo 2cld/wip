@@ -29,18 +29,18 @@
     - [ ] Invoice import working
     - [ ] Tested with sample data
 
-- [ ] **Epic: cat9-acc LLC tax prep** (2hr) @type:task @priority:high @project:accounting
-  - [ ] Start BHaymond 1040
-  - [ ] Put in CTrees K-1 info
-  - [ ] Put in BFletch K-1 info
-  - [ ] Check TreesAES SalesTax Withholding
-  - [ ] File TreesAES 1065
+- [X] **Epic: cat9-acc LLC tax prep** (2hr) @type:task @priority:high @project:accounting
+  - [X] Start BHaymond 1040
+  - [X] Put in CTrees K-1 info
+  - [X] Put in BFletch K-1 info
+  - [X] Check TreesAES SalesTax Withholding
+  - [X] File TreesAES 1065
   - [X] File FHKlop 1065
   - [X] Verify TreesAES 1099
   - [X] Verify FHKlop 1099
 
-- [ ] Clear Desk @type:task @priority:medium @project:personal
-- [ ] Laundry @type:task @priority:medium @project:personal
+- [X] Clear Desk @type:task @priority:medium @project:personal
+- [X] Laundry @type:task @priority:medium @project:personal
 
 - [ ] **Task: Setup LLC cc auto-payments** @type:task @priority:medium @project:cat9-acct-LLC
 - [ ] **Task: Move LLC Priceline charges to related LLC** @type:task @priority:low @project:cat9-acct-LLC
