@@ -67,7 +67,7 @@ To ensure clarity and avoid ambiguity, every task or Epic moved into the "To Do"
 
 This is your daily habit-building process. Do this every morning before diving into work.
 
-**Time Required:** 17-22 minutes
+**Time Required:** 17-25 minutes
 
 ### Step 0: Sync Check (1 min)
 1. Pull latest changes: `git pull origin main`
@@ -87,6 +87,13 @@ This is your daily habit-building process. Do this every morning before diving i
 3. Move urgent items to `# Today`
 4. Move non-urgent tasks to `tasks.md` with a Definition of Done
 5. Archive notes/links to appropriate `docs/` files
+
+### Step 2.5: README Declutter (3 min)
+1. Move completed items from `# Today` to `# Yesterday`
+2. Delete old `# Yesterday` section (git history preserves it if needed)
+3. Remove past-due items from `# Due Soon` (e.g., dates that have passed)
+4. Quick scan of `# Open Projects` - any stale notes to move to docs/?
+5. Goal: Keep README focused on current week's work only
 
 ### Step 3: Priority Rating (3 min)
 1. Review `# Today` section
@@ -124,7 +131,7 @@ This is your daily habit-building process. Do this every morning before diving i
 
 This is your weekly planning session to set yourself up for success.
 
-**Time Required:** 30-45 minutes
+**Time Required:** 40-55 minutes
 
 ### Step 1: Week Retrospective (10 min)
 1. Review what you accomplished this week
@@ -145,9 +152,15 @@ This is your weekly planning session to set yourself up for success.
 2. Look at calendar commitments and meetings
 3. Identify your 3 biggest goals for the week
 4. Pre-populate Monday's `# Today` section with your top priorities
-5. Clear out any stale items from `# Inbox` that you've been avoiding
 
-### Step 4: Reset and Commit (5 min)
+### Step 4: Weekly Cleanup (10 min)
+1. **Archive old inbox entries:** Move `# Inbox` "Processed" entries older than 7 days to `logs/inbox-archive-YYYY-MM.md`
+2. **Review Backlog:** Scan `# Backlog` section - delete dead items, move active ones to tasks.md
+3. **Clean Due Soon:** Remove completed or past-due items from `# Due Soon`
+4. **Declutter Open Projects:** Archive stale notes/links to appropriate docs/ files
+5. Goal: Start the week with a clean, focused README.md
+
+### Step 5: Reset and Commit (5 min)
 1. Archive completed items from `# Yesterday`
 2. Clean up your workspace (digital and physical)
 3. Set your intention for the week ahead
