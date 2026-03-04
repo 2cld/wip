@@ -65,7 +65,13 @@
 
 # Inbox
 **Items to be processed and tagged during morning routine**
-
+- Create Account management Wip Document
+- Setup Account cleanup process
+- Schedule time daily
+- YouTube watchlist
+- Plex music playlist
+- Audo book search list
+  
 **Processed 2026-03-04:**
 - Dental Apt March 5 → [Moved to Today](./README.md#today)
 
