@@ -18,8 +18,8 @@
 3. Setup LLC cc auto-payments
 
 - **Epic: cat9-hwpc tax prep** (2hr) @type:task @priority:high @project:hwpc
-  - [ ] update [hwpc.2cld.net](https://hwpc.2cld.net/)
-  - [ ] Add HWPC Invoice print and import instructions
+  - [X] update [hwpc.2cld.net](https://hwpc.2cld.net/)
+  - [X] Add HWPC Invoice print and import instructions
   - [X] Gather all hwpc business receipts and expenses
   - [X] Review hwpc income statements
 
@@ -37,16 +37,19 @@
 # Due Soon
 **Format:** YYYY-MM-DD - Task Description
 
-- **2026-03-14** - K-1 FHKlop @type:task @priority:high @project:accounting
-- **2026-03-14** - K-1 TreesAES @type:task @priority:high @project:accounting
-- **2026-03-14** - 1065 FHKlop @type:task @priority:high @project:accounting
-- **2026-03-14** - 1065 TreesAES @type:task @priority:high @project:accounting
+- [X] **2026-03-14** - K-1 FHKlop @type:task @priority:high @project:accounting
+- [X] **2026-03-14** - K-1 TreesAES @type:task @priority:high @project:accounting
+- [X] **2026-03-14** - 1065 FHKlop @type:task @priority:high @project:accounting
+- [X] **2026-03-14** - 1065 TreesAES @type:task @priority:high @project:accounting
 - **2026-03-14** - IA 1065 manual file [googleai instructions](https://share.google/aimode/wgpBIcMB9nfwryieG) @type:link @project:accounting
 - **2026-03-14** - IA 1065 no income or expense [Googleai](https://share.google/aimode/NtFvRnACVfHpMpn8Q) @type:link @project:accounting
 - **2026-03-14** - Cheaper eTax forms [olt.com](https://www.olt.com/main/oltstateff/ia.php) @type:link @project:accounting
-- **2026-04-14** - 1040 2025 CTrees (just start) @type:task @priority:high @project:accounting
-- **2026-04-14** - 1040 2025 BFletch (just start) @type:task @priority:high @project:accounting
-- **2026-04-14** - 1040 2025 BHay (just start) @type:task @priority:high @project:accounting
+- [X] **2026-04-14** - 1040 2025 CTrees (just start) @type:task @priority:high @project:accounting
+- [X] **2026-04-14** - 1040 2025 BFletch (just start) @type:task @priority:high @project:accounting
+- [X] **2026-04-14** - 1040 2025 BHay (just start) @type:task @priority:high @project:accounting
+- **2026-04-14** - 1040 2025 BFletch Send @type:task @priority:high @project:accounting
+- **2026-04-14** - 1040 2025 BHay Send @type:task @priority:high @project:accounting
+- **2026-04-14** - 1040 2025 CTrees Send @type:task @priority:high @project:accounting
 
 ---
 
@@ -76,6 +79,8 @@
 
 # Inbox
 **Items to be processed and tagged during morning routine**
+
+- **2026-03-05** - 9am to noon -  Dental Apt [Portal login](https://patientaccess.dentistry.uiowa.edu/PatientAccess/Login.aspx)
 
 **Processed 2026-03-02:**
 - [Archived to logs/inbox-archive-2026-03.md](./logs/inbox-archive-2026-03.md)
