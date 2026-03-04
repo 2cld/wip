@@ -23,13 +23,40 @@
     - [ ] Invoice import working
     - [ ] Tested with sample data
 
-- [ ] **Task: Setup LLC cc auto-payments** @type:task @priority:medium @project:cat9-acct-LLC
+- [ ] **Task: Setup LLC payments** @type:task @priority:medium @project:cat9-acct-LLC
+    - [ ] FHKlopFarms Utilites
+    - [ ] FHKlopFarms IA Land Tax
+    - [ ] TreesAES Utilites
+    - [ ] TreesAES IA Land Tax
+    - [ ] TreesAES ACI*Windstream
+    - [ ] TH Twig ACI*WINDSTREAM
+    - [ ] TH Twig USCELL
 
 - [ ] **Task: Move LLC Priceline charges to related LLC** @type:task @priority:low @project:cat9-acct-LLC
+    - [ ] ACI*WINDSTREAM PMTFEE
+    - [ ] ALLIANT ENERGY - IPL
+    - [ ] GOOGLE *Google One
+    - [ ] GOOGLE *GSUITE_hawkeye
+    - [ ] STARLINK INTERNET
+    - [ ] USCELL RECURRING
 
-- [ ] **Task: Prep for dental appointment** @type:task @priority:medium @project:personal
-  - [ ] Block calendar 9am-noon tomorrow
-  - [ ] Review portal login works
+- [ ] **Task: LLC gsheets cleanup** @type:task @priority:medium @project:cat9-acct-LLC
+    - [ ] FHKlopFarms 2025 cleanup [FHKlopFarmsLLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1wJSD83kC6PMi4bHzpzOU1yWbvvmjuEfGdlxIgHqtC9A/edit?gid=1395902795#gid=1395902795)
+    - [ ] FHKlopFarms 2026 create [FHKlopFarmsLLC-Accounting-2026]()
+    - [ ] FHKlopFarms IA Realestate payment check [IATreasureFHKlopFarms]()
+    - [ ] TreesAES 2025 cleanup [TreesAESLLC-Accounting-2026](https://docs.google.com/spreadsheets/d/1P_gTkphjka2Ot6EkZBj5sjvvH7BHfbs4gyb83QGWYZE/edit?gid=1395902795#gid=1395902795)
+    - [ ] TreesAES 2026 create [TreesAESLLC-Accounting-2026](https://docs.google.com/spreadsheets/d/1jQFp9TBkADWO40x1NXBxhLt9_yZ8cfXzuP3DgbaITfE/edit?gid=1395902795#gid=1395902795)
+    - [ ] TreesAES IA Realestate payment check [IATreasureTreesAES]()
+    - [ ] CAT9 2025 cleanup [CAT9LLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1-JSVuIgwLdqyJs1N5Co8EABvRcEyNK3avZG6N4Oxrjs/edit?gid=470966959#gid=470966959)
+    - [ ] CAT9 2026 create [CAT9LLC-Accounting-2026]()
+    - [ ] na? THTwig 2025 cleanup [THTwigLLC-Accounting-2025]()
+    - [ ] na? THTwig 2026 create [THTwigLLC-Accounting-2026]()
+    - [ ] na? FlechMC 2025 cleanup [FlechMCLLC-Accounting-2025]()
+    - [ ] na? FlechMC 2026 create [FlechMCLLC-Accounting-2026]()
+
+- [X] **Task: Prep for dental appointment** @type:task @priority:medium @project:personal
+  - [X] Block calendar 9am-noon tomorrow
+  - [X] Review portal login works
 
 ---
 
@@ -38,15 +65,16 @@
 
 - **2026-03-05** - 9am-noon Dental Apt [Portal login](https://patientaccess.dentistry.uiowa.edu/PatientAccess/Login.aspx) @type:task @priority:high @project:personal
 
-- **2026-03-14** - IA 1065 manual file [googleai instructions](https://share.google/aimode/wgpBIcMB9nfwryieG) @type:link @project:accounting
-- **2026-03-14** - IA 1065 no income or expense [Googleai](https://share.google/aimode/NtFvRnACVfHpMpn8Q) @type:link @project:accounting
-- **2026-03-14** - Cheaper eTax forms [olt.com](https://www.olt.com/main/oltstateff/ia.php) @type:link @project:accounting
-
 - **2026-04-14** - 1040 2025 BFletch Send @type:task @priority:high @project:accounting
 - **2026-04-14** - 1040 2025 BHay Send @type:task @priority:high @project:accounting
 - **2026-04-14** - 1040 2025 CTrees Send @type:task @priority:high @project:accounting
-- **2026-03-31** - FHKlopFarms LLC Land Tax [FHKlopFarms]() @type:task @project:accounting @priority:high
-- **2026-03-31** - TreesAES LLC Land Tax [TreesAES]() @type:task @project:accounting @priority:high
+- **2026-03-31** - FHKlopFarms LLC Land Tax [FHKlopFarms](https://docs.google.com/spreadsheets/d/1wJSD83kC6PMi4bHzpzOU1yWbvvmjuEfGdlxIgHqtC9A/edit?gid=1395902795#gid=1395902795) and [IA Rev AutoPay](https://filings.sos.iowa.gov/Account/Login?ReturnUrl=%2fDashboard) @type:task @project:accounting @priority:high
+- **2026-03-31** - TreesAES LLC Land Tax [TreesAES](https://docs.google.com/spreadsheets/d/1jQFp9TBkADWO40x1NXBxhLt9_yZ8cfXzuP3DgbaITfE/edit?gid=1395902795#gid=1395902795) and [IA Rev AutoPay](https://filings.sos.iowa.gov/Account/Login?ReturnUrl=%2fDashboard) @type:task @project:accounting @priority:high
+
+- **2026-04-30** - IA 1065 manual file [googleai instructions](https://share.google/aimode/wgpBIcMB9nfwryieG) @type:link @project:accounting
+- **2026-04-30** - IA 1065 no income or expense [Googleai](https://share.google/aimode/NtFvRnACVfHpMpn8Q) @type:link @project:accounting
+- **2026-09-30** - IA auto-extension if no tax payment - Cheaper eTax forms [olt.com](https://www.olt.com/main/oltstateff/ia.php) @type:link @project:accounting
+
 ---
 
 # Yesterday
