@@ -65,9 +65,8 @@
 
 # Inbox
 **Items to be processed and tagged during morning routine**
-- Create Account management Wip Document
-- Setup Account cleanup process
-- Schedule time daily
+- Create [Account management Wip Document](./docs/ops-account-management.md)
+- Setup Account cleanup process in wip
 - YouTube watchlist
 - Plex music playlist
 - Audo book search list
