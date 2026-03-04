@@ -16,45 +16,69 @@
 1. Create Route Print for HWPC with Invoice import
 2. Setup LLC cc auto-payments
 3. Prep for tomorrow's dental appointment (9am-noon)
+<hr/>
+<details>
+<summary>**Task: Create Route Print for HWPC with Invoice import**</summary>
+  <span>@type:task @priority:high @project:cat9-hwpc-qbol</span>
+  <ol>**Definition of Done:**
+    <li> [ ] Route print functionality created</li>
+    <li> [ ] Invoice import working</li>
+    <li> [ ] Tested with sample data</li>
+  </ol>
+</details>
+<hr/>
+<details>
+<summary>**Task: Setup LLC payments**</summary>
+  <span>@type:task @priority:medium @project:cat9-acct-LLC</span>
+  <ol>**Definition of Done:**
+    <li> [ ] FHKlopFarms Utilites</li>
+    <li> [ ] FHKlopFarms IA Land Tax</li>
+    <li> [ ] TreesAES Utilites</li>
+    <li> [ ] TreesAES IA Land Tax</li>
+    <li> [ ] TreesAES ACI*Windstream</li>
+    <li> [ ] TH Twig ACI*WINDSTREAM</li>
+    <li> [ ] TH Twig USCELL</li>
+  </ol>
+</details>
+<hr/>
+<details>
+<summary>**Task: Move LLC Priceline charges to related LLC**</summary>
+  <span>@type:task @priority:low @project:cat9-acct-LLC</span>
+  <ol>**Definition of Done:**
+    <li> [ ] ACI*WINDSTREAM PMTFEE</li>
+    <li> [ ] ALLIANT ENERGY - IPL</li>
+    <li> [ ] GOOGLE *Google One</li>
+    <li> [ ] GOOGLE *GSUITE_hawkeye</li>
+    <li> [ ] STARLINK INTERNET</li>
+    <li> [ ] USCELL RECURRING</li>
+  </ol>
+</details>
+<hr/>
+<details>
+<summary>**Task: LLC gsheets cleanup**</summary>
+  <span>@type:task @priority:medium @project:cat9-acct-LLC</span>
+  <ol>**Phase 3**
+    <li> [ ] na? FlechMC 2026 create [FlechMCLLC-Accounting-2026]()</li>
+    <li> [ ] na? FlechMC 2025 cleanup [FlechMCLLC-Accounting-2025]()</li>
+    <li> [ ] na? THTwig 2026 create [THTwigLLC-Accounting-2026]()</li>
+    <li> [ ] na? THTwig 2025 cleanup [THTwigLLC-Accounting-2025]()</li>
+  </ol>
+  <ol>**Phase 2**
+    <li> [ ] CAT9 2026 create [CAT9LLC-Accounting-2026]()</li>
+    <li> [ ] CAT9 2025 cleanup [CAT9LLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1-JSVuIgwLdqyJs1N5Co8EABvRcEyNK3avZG6N4Oxrjs/edit?gid=470966959#gid=470966959)</li>
+  </ol>
+  <ol>**Phase 1**
+    <li>  [ ] TreesAES 2026 create [TreesAESLLC-Accounting-2026](https://docs.google.com/spreadsheets/d/1jQFp9TBkADWO40x1NXBxhLt9_yZ8cfXzuP3DgbaITfE/edit?gid=1395902795#gid=1395902795)</li>
+    <li> [ ] TreesAES IA Realestate payment check [IATreasureTreesAES](https://www.iowatreasurers.org/)</li>
+    <li> [ ] TreesAES 2025 cleanup [TreesAESLLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1P_gTkphjka2Ot6EkZBj5sjvvH7BHfbs4gyb83QGWYZE/edit?gid=1395902795#gid=1395902795)
+    <li> [X] FHKlopFarms 2026 create [FHKlopFarmsLLC-Accounting-2026](https://docs.google.com/spreadsheets/d/1NBTwY7Qd5-BmPGZgRS51klU9UxsD8G9m2myGSfcHviY/edit?gid=1395902795#gid=1395902795)</li>
+    <li> [X] FHKlopFarms IA Realestate payment check [IATreasureFHKlopFarms](https://www.iowatreasurers.org/)</li>
+    <li> [X] FHKlopFarms 2025 cleanup [FHKlopFarmsLLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1wJSD83kC6PMi4bHzpzOU1yWbvvmjuEfGdlxIgHqtC9A/edit?gid=1395902795#gid=1395902795)</li>
+  </ol>
+</details>
+<hr/>
 
-- [ ] **Task: Create Route Print for HWPC with Invoice import** @type:task @priority:high @project:cat9-hwpc-qbol
-  - **Definition of Done:**
-    - [ ] Route print functionality created
-    - [ ] Invoice import working
-    - [ ] Tested with sample data
-
-- [ ] **Task: Setup LLC payments** @type:task @priority:medium @project:cat9-acct-LLC
-    - [ ] FHKlopFarms Utilites
-    - [ ] FHKlopFarms IA Land Tax
-    - [ ] TreesAES Utilites
-    - [ ] TreesAES IA Land Tax
-    - [ ] TreesAES ACI*Windstream
-    - [ ] TH Twig ACI*WINDSTREAM
-    - [ ] TH Twig USCELL
-
-- [ ] **Task: Move LLC Priceline charges to related LLC** @type:task @priority:low @project:cat9-acct-LLC
-    - [ ] ACI*WINDSTREAM PMTFEE
-    - [ ] ALLIANT ENERGY - IPL
-    - [ ] GOOGLE *Google One
-    - [ ] GOOGLE *GSUITE_hawkeye
-    - [ ] STARLINK INTERNET
-    - [ ] USCELL RECURRING
-
-- [ ] **Task: LLC gsheets cleanup** @type:task @priority:medium @project:cat9-acct-LLC
-    - [ ] FHKlopFarms 2025 cleanup [FHKlopFarmsLLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1wJSD83kC6PMi4bHzpzOU1yWbvvmjuEfGdlxIgHqtC9A/edit?gid=1395902795#gid=1395902795)
-    - [ ] FHKlopFarms 2026 create [FHKlopFarmsLLC-Accounting-2026]()
-    - [ ] FHKlopFarms IA Realestate payment check [IATreasureFHKlopFarms]()
-    - [ ] TreesAES 2025 cleanup [TreesAESLLC-Accounting-2026](https://docs.google.com/spreadsheets/d/1P_gTkphjka2Ot6EkZBj5sjvvH7BHfbs4gyb83QGWYZE/edit?gid=1395902795#gid=1395902795)
-    - [ ] TreesAES 2026 create [TreesAESLLC-Accounting-2026](https://docs.google.com/spreadsheets/d/1jQFp9TBkADWO40x1NXBxhLt9_yZ8cfXzuP3DgbaITfE/edit?gid=1395902795#gid=1395902795)
-    - [ ] TreesAES IA Realestate payment check [IATreasureTreesAES]()
-    - [ ] CAT9 2025 cleanup [CAT9LLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1-JSVuIgwLdqyJs1N5Co8EABvRcEyNK3avZG6N4Oxrjs/edit?gid=470966959#gid=470966959)
-    - [ ] CAT9 2026 create [CAT9LLC-Accounting-2026]()
-    - [ ] na? THTwig 2025 cleanup [THTwigLLC-Accounting-2025]()
-    - [ ] na? THTwig 2026 create [THTwigLLC-Accounting-2026]()
-    - [ ] na? FlechMC 2025 cleanup [FlechMCLLC-Accounting-2025]()
-    - [ ] na? FlechMC 2026 create [FlechMCLLC-Accounting-2026]()
-
-- [X] **Task: Prep for dental appointment** @type:task @priority:medium @project:personal
+**Task: Prep for dental appointment** @type:task @priority:medium @project:personal
   - [X] Block calendar 9am-noon tomorrow
   - [X] Review portal login works
 
