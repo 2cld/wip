@@ -68,9 +68,9 @@
     <li> [ ] CAT9 2025 cleanup [CAT9LLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1-JSVuIgwLdqyJs1N5Co8EABvRcEyNK3avZG6N4Oxrjs/edit?gid=470966959#gid=470966959)</li>
   </ol>
   <ol>**Phase 1**
-    <li>  [ ] TreesAES 2026 create [TreesAESLLC-Accounting-2026](https://docs.google.com/spreadsheets/d/1jQFp9TBkADWO40x1NXBxhLt9_yZ8cfXzuP3DgbaITfE/edit?gid=1395902795#gid=1395902795)</li>
-    <li> [ ] TreesAES IA Realestate payment check [IATreasureTreesAES](https://www.iowatreasurers.org/)</li>
-    <li> [ ] TreesAES 2025 cleanup [TreesAESLLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1P_gTkphjka2Ot6EkZBj5sjvvH7BHfbs4gyb83QGWYZE/edit?gid=1395902795#gid=1395902795)
+    <li>  [X] TreesAES 2026 create [TreesAESLLC-Accounting-2026](https://docs.google.com/spreadsheets/d/1jQFp9TBkADWO40x1NXBxhLt9_yZ8cfXzuP3DgbaITfE/edit?gid=1395902795#gid=1395902795)</li>
+    <li> [X] TreesAES IA Realestate payment check [IATreasureTreesAES](https://www.iowatreasurers.org/)</li>
+    <li> [X] TreesAES 2025 cleanup [TreesAESLLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1P_gTkphjka2Ot6EkZBj5sjvvH7BHfbs4gyb83QGWYZE/edit?gid=1395902795#gid=1395902795)
     <li> [X] FHKlopFarms 2026 create [FHKlopFarmsLLC-Accounting-2026](https://docs.google.com/spreadsheets/d/1NBTwY7Qd5-BmPGZgRS51klU9UxsD8G9m2myGSfcHviY/edit?gid=1395902795#gid=1395902795)</li>
     <li> [X] FHKlopFarms IA Realestate payment check [IATreasureFHKlopFarms](https://www.iowatreasurers.org/)</li>
     <li> [X] FHKlopFarms 2025 cleanup [FHKlopFarmsLLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1wJSD83kC6PMi4bHzpzOU1yWbvvmjuEfGdlxIgHqtC9A/edit?gid=1395902795#gid=1395902795)</li>
