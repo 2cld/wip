@@ -3,50 +3,45 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 4 days | **Last Check-In:** 2026-03-03
+**Current Streak:** 5 days | **Last Check-In:** 2026-03-04
 
+**2026-03-04 (Wed):** 🎯 Wednesday focus: Route Print + LLC accounting. Dental apt tomorrow 9am!
 **2026-03-03 (Tue):** 🎯 Tuesday focus: Finish HWPC tax prep + Route Print. Tax deadline in 11 days!
 **2026-03-02 (Mon):** 🎯 Monday focus: HWPC tax prep + Route Print project. Tax deadline in 12 days!
-**2026-03-01 (Sun):** 🎯 Sunday morning routine complete! Focus on LLC tax prep and personal admin.
 
 ---
 
 # Today
-**Top 3 Priorities for Tuesday, March 3:**
-1. Epic: cat9-hwpc tax prep - finish hwpc.2cld.net updates
-2. Create Route Print for HWPC with Invoice import
-3. Setup LLC cc auto-payments
+**Top 3 Priorities for Wednesday, March 4:**
+1. Create Route Print for HWPC with Invoice import
+2. Setup LLC cc auto-payments
+3. Prep for tomorrow's dental appointment (9am-noon)
 
-- **Epic: cat9-hwpc tax prep** (2hr) @type:task @priority:high @project:hwpc
-  - [X] update [hwpc.2cld.net](https://hwpc.2cld.net/)
-  - [X] Add HWPC Invoice print and import instructions
-  - [X] Gather all hwpc business receipts and expenses
-  - [X] Review hwpc income statements
-
-- **Task: Create Route Print for HWPC with Invoice import** @type:task @priority:high @project:cat9-hwpc-qbol
+- [ ] **Task: Create Route Print for HWPC with Invoice import** @type:task @priority:high @project:cat9-hwpc-qbol
   - **Definition of Done:**
     - [ ] Route print functionality created
     - [ ] Invoice import working
     - [ ] Tested with sample data
 
 - [ ] **Task: Setup LLC cc auto-payments** @type:task @priority:medium @project:cat9-acct-LLC
+
 - [ ] **Task: Move LLC Priceline charges to related LLC** @type:task @priority:low @project:cat9-acct-LLC
+
+- [ ] **Task: Prep for dental appointment** @type:task @priority:medium @project:personal
+  - [ ] Block calendar 9am-noon tomorrow
+  - [ ] Review portal login works
 
 ---
 
 # Due Soon
 **Format:** YYYY-MM-DD - Task Description
 
-- [X] **2026-03-14** - K-1 FHKlop @type:task @priority:high @project:accounting
-- [X] **2026-03-14** - K-1 TreesAES @type:task @priority:high @project:accounting
-- [X] **2026-03-14** - 1065 FHKlop @type:task @priority:high @project:accounting
-- [X] **2026-03-14** - 1065 TreesAES @type:task @priority:high @project:accounting
+- **2026-03-05** - 9am-noon Dental Apt [Portal login](https://patientaccess.dentistry.uiowa.edu/PatientAccess/Login.aspx) @type:task @priority:high @project:personal
+
 - **2026-03-14** - IA 1065 manual file [googleai instructions](https://share.google/aimode/wgpBIcMB9nfwryieG) @type:link @project:accounting
 - **2026-03-14** - IA 1065 no income or expense [Googleai](https://share.google/aimode/NtFvRnACVfHpMpn8Q) @type:link @project:accounting
 - **2026-03-14** - Cheaper eTax forms [olt.com](https://www.olt.com/main/oltstateff/ia.php) @type:link @project:accounting
-- [X] **2026-04-14** - 1040 2025 CTrees (just start) @type:task @priority:high @project:accounting
-- [X] **2026-04-14** - 1040 2025 BFletch (just start) @type:task @priority:high @project:accounting
-- [X] **2026-04-14** - 1040 2025 BHay (just start) @type:task @priority:high @project:accounting
+
 - **2026-04-14** - 1040 2025 BFletch Send @type:task @priority:high @project:accounting
 - **2026-04-14** - 1040 2025 BHay Send @type:task @priority:high @project:accounting
 - **2026-04-14** - 1040 2025 CTrees Send @type:task @priority:high @project:accounting
@@ -54,33 +49,25 @@
 ---
 
 # Yesterday
-- [X] Epic: cat9-hwpc tax prep (partial - continuing today) @project:hwpc
-- [X] Epic: cat9-acc LLC tax prep (COMPLETED!) @project:accounting
-- [X] Clear Desk @project:personal
-- [X] Laundry @project:personal
+- [X] Epic: cat9-hwpc tax prep (COMPLETED!) @project:hwpc
+  - [X] update hwpc.2cld.net
+  - [X] Add HWPC Invoice print and import instructions
+- [X] Started 1040s for CTrees, BFletch, BHay @project:accounting
+- [X] **2026-03-14** - K-1 FHKlop @type:task @priority:high @project:accounting
+- [X] **2026-03-14** - K-1 TreesAES @type:task @priority:high @project:accounting
+- [X] **2026-03-14** - 1065 FHKlop @type:task @priority:high @project:accounting
+- [X] **2026-03-14** - 1065 TreesAES @type:task @priority:high @project:accounting
+- [X] **2026-04-14** - 1040 2025 CTrees (just start) @type:task @priority:high @project:accounting
+- [X] **2026-04-14** - 1040 2025 BFletch (just start) @type:task @priority:high @project:accounting
+- [X] **2026-04-14** - 1040 2025 BHay (just start) @type:task @priority:high @project:accounting
 
-- **Epic: cat9-acc LLC tax prep** (2hr) @type:task @priority:high @project:accounting
-  - [X] Start BHaymond 1040
-  - [X] Put in CTrees K-1 info
-  - [X] Put in BFletch K-1 info
-  - [X] Check TreesAES SalesTax Withholding
-  - [X] File TreesAES 1065
-  - [X] File FHKlop 1065
-  - [X] Verify TreesAES 1099
-  - [X] Verify FHKlop 1099
-
-- **Epic: cat9-hwpc tax prep** (2hr) @type:task @priority:high @project:hwpc
-  - [ ] update [hwpc.2cld.net](https://hwpc.2cld.net/)
-  - [ ] Add HWPC Invoice print and import instructions
-  - [X] Gather all hwpc business receipts and expenses
-  - [X] Review hwpc income statements
-  
 ---
 
 # Inbox
 **Items to be processed and tagged during morning routine**
 
-- **2026-03-05** - 9am to noon -  Dental Apt [Portal login](https://patientaccess.dentistry.uiowa.edu/PatientAccess/Login.aspx)
+**Processed 2026-03-04:**
+- Dental Apt March 5 → [Moved to Today](./README.md#today)
 
 **Processed 2026-03-02:**
 - [Archived to logs/inbox-archive-2026-03.md](./logs/inbox-archive-2026-03.md)
