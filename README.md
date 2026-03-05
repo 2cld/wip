@@ -3,19 +3,33 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 5 days | **Last Check-In:** 2026-03-04
+**Current Streak:** 6 days | **Last Check-In:** 2026-03-05
 
+**2026-03-05 (Thu):** 🎯 Travel day! Dental 9am, then Winfield→O'Fallon. Working remote for a few days.
 **2026-03-04 (Wed):** 🎯 Wednesday focus: Route Print + LLC accounting. Dental apt tomorrow 9am!
 **2026-03-03 (Tue):** 🎯 Tuesday focus: Finish HWPC tax prep + Route Print. Tax deadline in 11 days!
-**2026-03-02 (Mon):** 🎯 Monday focus: HWPC tax prep + Route Print project. Tax deadline in 12 days!
 
 ---
 
 # Today
-**Top 3 Priorities for Wednesday, March 4:**
-1. Create Route Print for HWPC with Invoice import
-2. Setup LLC cc auto-payments
-3. Prep for tomorrow's dental appointment (9am-noon)
+**Top 3 Priorities for Thursday, March 5:**
+1. Dental appointment 9am-noon
+2. Travel: Winfield → O'Fallon (deliver Kathy's car)
+3. Setup remote work environment at Steve & Kathy's
+
+- [X] **Task: Dental appointment** @type:task @priority:high @project:personal
+  - 9am-noon at dental office
+
+- [ ] **Task: Travel to O'Fallon** @type:task @priority:high @project:personal
+  - [ ] Pick up Kathy's car in Winfield
+  - [ ] Drive to Steve & Kathy's in O'Fallon
+  - [ ] Setup remote work environment
+  - [ ] Coordinate ride back to Winfield for your car (later)
+
+- [ ] **Task: Pack for remote work** @type:task @priority:high @project:personal
+  - [ ] Laptop & charger
+  - [ ] Work essentials
+  - [ ] Clothes for a few days
 <hr/>
 <details>
 <summary>**Task: Create Route Print for HWPC with Invoice import**</summary>
@@ -87,7 +101,7 @@
 # Due Soon
 **Format:** YYYY-MM-DD - Task Description
 
-- **2026-03-05** - 9am-noon Dental Apt [Portal login](https://patientaccess.dentistry.uiowa.edu/PatientAccess/Login.aspx) @type:task @priority:high @project:personal
+- **2026-03-05** - Travel to O'Fallon (working remote for a few days) @type:task @priority:high @project:personal
 
 - **2026-04-14** - 1040 2025 BFletch Send @type:task @priority:high @project:accounting
 - **2026-04-14** - 1040 2025 BHay Send @type:task @priority:high @project:accounting
@@ -102,27 +116,24 @@
 ---
 
 # Yesterday
-- [X] Epic: cat9-hwpc tax prep (COMPLETED!) @project:hwpc
-  - [X] update hwpc.2cld.net
-  - [X] Add HWPC Invoice print and import instructions
-- [X] Started 1040s for CTrees, BFletch, BHay @project:accounting
-- [X] **2026-03-14** - K-1 FHKlop @type:task @priority:high @project:accounting
-- [X] **2026-03-14** - K-1 TreesAES @type:task @priority:high @project:accounting
-- [X] **2026-03-14** - 1065 FHKlop @type:task @priority:high @project:accounting
-- [X] **2026-03-14** - 1065 TreesAES @type:task @priority:high @project:accounting
-- [X] **2026-04-14** - 1040 2025 CTrees (just start) @type:task @priority:high @project:accounting
-- [X] **2026-04-14** - 1040 2025 BFletch (just start) @type:task @priority:high @project:accounting
-- [X] **2026-04-14** - 1040 2025 BHay (just start) @type:task @priority:high @project:accounting
+- [X] Prep for dental appointment (calendar blocked, portal checked) @project:personal
+- [X] LLC gsheets cleanup Phase 1 - COMPLETED! @project:accounting
+  - [X] TreesAES 2026 created, 2025 cleaned up
+  - [X] FHKlopFarms 2026 created, 2025 cleaned up
+  - [X] IA real estate payment checks done
 
 ---
 
 # Inbox
 **Items to be processed and tagged during morning routine**
-- Create [Account management Wip Document](./docs/ops-account-management.md)
-- Setup Account cleanup process in wip
-- YouTube watchlist
-- Plex music playlist
-- Audo book search list
+
+**Processed 2026-03-05:**
+- Travel to O'Fallon → [Moved to Today](./README.md#today)
+- Account management doc → [Already created: docs/ops-account-management.md](./docs/ops-account-management.md)
+- Setup Account cleanup process → [Moved to tasks.md](./tasks.md)
+- YouTube watchlist → [Moved to tasks.md](./tasks.md)
+- Plex music playlist → [Moved to tasks.md](./tasks.md)
+- Audio book search list → [Moved to tasks.md](./tasks.md)
   
 **Processed 2026-03-04:**
 - Dental Apt March 5 → [Moved to Today](./README.md#today)
