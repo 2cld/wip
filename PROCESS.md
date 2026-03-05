@@ -63,6 +63,48 @@ To ensure clarity and avoid ambiguity, every task or Epic moved into the "To Do"
         - [ ] Run all project tests successfully in the new environment.
 ```
 
+## Task Formatting Guidelines
+
+### Collapsible Tasks with Subtasks
+
+For tasks with multiple subtasks or long checklists in `README.md`, use HTML `<details>` tags for better readability. This keeps the Today section scannable while preserving all task details.
+
+**Format:**
+```html
+<details>
+<summary>**Task: Task Name Here**</summary>
+  <span>@type:task @priority:high @project:project-name</span>
+  <ol>**Definition of Done:**
+    <li> [ ] Subtask 1</li>
+    <li> [ ] Subtask 2</li>
+    <li> [ ] Subtask 3</li>
+  </ol>
+</details>
+```
+
+**Example:**
+```html
+<details>
+<summary>**Task: Setup LLC payments**</summary>
+  <span>@type:task @priority:medium @project:cat9-acct-LLC</span>
+  <ol>**Definition of Done:**
+    <li> [ ] FHKlopFarms Utilities</li>
+    <li> [ ] FHKlopFarms IA Land Tax</li>
+    <li> [ ] TreesAES Utilities</li>
+    <li> [ ] TreesAES IA Land Tax</li>
+  </ol>
+</details>
+```
+
+**When to use:**
+- Epics with 3+ subtasks
+- Tasks with detailed checklists (5+ items)
+- Any task where the details would clutter the Today section
+
+**When NOT to use:**
+- Simple tasks with no subtasks
+- Tasks in `tasks.md` (use standard markdown there)
+
 ## Daily Morning Routine
 
 This is your daily habit-building process. Do this every morning before diving into work.
