@@ -104,6 +104,21 @@
   </ol>
 </details>
 <hr/>
+<details>
+<summary>**Task: CATMusic tar and transfer**</summary>
+  <span>@type:task @priority:medium @project:cat9-ops-storage</span>
+  <ol>**Definition of Done:**
+    <li> [ ] Document links in https://tv.2cld.net</li>
+    <li> [ ] Document doc/ops-network-administration.md</li>
+    <li> [ ] Files to where Gus can see and sort</li>
+    <li> [ ] Move to slwin11ops/CATMusic</li>
+    <li> [X] Create CATMusic-20260306.tar.xz ??</li>
+    <li> [X] Shell access via [cg2 proxmox](https://192.168.9.3:8006/) to zfs Media</li>
+    <li> [X] Remote to 10.147.17.165 devwin10 TermServer from cat9fin Hyper-V connect on CyberTruck via RustRemote</li>
+    <li> [X] Verify wf network is up</li>
+  </ol>
+</details>
+<hr/>
 
 
 ---
