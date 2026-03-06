@@ -3,33 +3,46 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 6 days | **Last Check-In:** 2026-03-05
+**Current Streak:** 7 days | **Last Check-In:** 2026-03-06
 
+**2026-03-06 (Fri):** 🎯 Friday in O'Fallon: Device management + ops documentation. Building knowledge base!
 **2026-03-05 (Thu):** 🎯 Travel day! Dental 9am, then Winfield→O'Fallon. Working remote for a few days.
 **2026-03-04 (Wed):** 🎯 Wednesday focus: Route Print + LLC accounting. Dental apt tomorrow 9am!
-**2026-03-03 (Tue):** 🎯 Tuesday focus: Finish HWPC tax prep + Route Print. Tax deadline in 11 days!
 
 ---
 
 # Today
-**Top 3 Priorities for Thursday, March 5:**
-1. Dental appointment 9am-noon
-2. Travel: Winfield → O'Fallon (deliver Kathy's car)
-3. Setup remote work environment at Steve & Kathy's
+**Top 3 Priorities for Friday, March 6:**
+1. iPhone cleanup of mom's old phone
+2. iWatch transfer from Clint
+3. Setup email maintenance procedure
 
-- [X] **Task: Dental appointment** @type:task @priority:high @project:personal
-  - 9am-noon at dental office
-
-- [ ] **Task: Travel to O'Fallon** @type:task @priority:high @project:personal
-  - [ ] Pick up Kathy's car in Winfield
-  - [ ] Drive to Steve & Kathy's in O'Fallon
-  - [ ] Setup remote work environment
-  - [ ] Coordinate ride back to Winfield for your car (later)
-
-- [ ] **Task: Pack for remote work** @type:task @priority:high @project:personal
-  - [ ] Laptop & charger
-  - [ ] Work essentials
-  - [ ] Clothes for a few days
+## Current Tasks details
+<hr/>
+<details>
+<summary>**Task: iPhone cleanup of mom's old phone**</summary>
+  <span>@type:task @priority:medium @project:personal</span>
+  <ol>**Definition of Done:**
+    <li> [ ] iPhone working under Chris's iCloud and iPhone account</li>
+    <li> [ ] register iPhone to Chris's iCloud</li>
+    <li> [ ] Document proceedure in [docs/ops-device-management.md](docs/ops-device-management.md) </li>
+    <li> [ ] remove mom's from Brad's Family plan</li>
+    <li> [ ] remove mom's iPhone iCloud</li>
+    <li> [ ] reduce Mom's iCloud storage</li>
+    <li> [ ] backup data from Mom's iCloud</li>
+    <li> [ ] backup photos from Mom's iCloud</li>
+  </ol>
+</details>
+<hr/>
+<details>
+<summary>**Task: iWatch transfer**</summary>
+  <span>@type:task @priority:medium @project:personal</span>
+  <ol>**Definition of Done:**
+    <li> [ ] iWatch working under Chris's iCloud and iPhone account</li>
+    <li> [ ] Document proceedure in [docs/ops-device-management.md](docs/ops-device-management.md) </li>
+    <li> [ ] Attempt to pair iWatch to iPhone</li>
+  </ol>
+</details>
 <hr/>
 <details>
 <summary>**Task: Create Route Print for HWPC with Invoice import**</summary>
@@ -92,16 +105,11 @@
 </details>
 <hr/>
 
-**Task: Prep for dental appointment** @type:task @priority:medium @project:personal
-  - [X] Block calendar 9am-noon tomorrow
-  - [X] Review portal login works
 
 ---
 
 # Due Soon
 **Format:** YYYY-MM-DD - Task Description
-
-- **2026-03-05** - Travel to O'Fallon (working remote for a few days) @type:task @priority:high @project:personal
 
 - **2026-04-14** - 1040 2025 BFletch Send @type:task @priority:high @project:accounting
 - **2026-04-14** - 1040 2025 BHay Send @type:task @priority:high @project:accounting
@@ -116,11 +124,21 @@
 ---
 
 # Yesterday
-- [X] Prep for dental appointment (calendar blocked, portal checked) @project:personal
-- [X] LLC gsheets cleanup Phase 1 - COMPLETED! @project:accounting
-  - [X] TreesAES 2026 created, 2025 cleaned up
-  - [X] FHKlopFarms 2026 created, 2025 cleaned up
-  - [X] IA real estate payment checks done
+- [X] **Task: Dental appointment** @type:task @priority:high @project:personal
+  - 9am-noon at dental office
+
+- [X] **Task: Travel to O'Fallon** @type:task @priority:high @project:personal
+  - [X] Pick up Kathy's car in Winfield
+  - [X] Drive to Steve & Kathy's in O'Fallon
+  - [X] Setup remote work environment
+  - [X] Coordinate ride back to Winfield for your car (later)
+
+- [X] **Task: Pack for remote work** @type:task @priority:high @project:personal
+  - [X] Laptop & charger
+  - [X] Work essentials
+  - [X] Clothes for a few days
+
+- [X] **2026-04-14** - 1040 2025 BFletch Send @type:task @priority:high @project:accounting
 
 ---
 
