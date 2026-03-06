@@ -3,6 +3,12 @@
 # Docs
 a place to sort research and clear keep notes
 
+## Operational Procedures
+- [ops-account-management](ops-account-management.md) - Chrome profile management
+- [ops-device-management](ops-device-management.md) - iPhone, Apple Watch, device procedures
+- [ops-email-management](ops-email-management.md) - Email maintenance and security
+
+## Media Tracking
 - [media audio](media-audio.md)
 - [media books](media-books.md)
 - [media shows](media-shows.md)

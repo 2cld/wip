@@ -127,6 +127,11 @@
 # Inbox
 **Items to be processed and tagged during morning routine**
 
+**Processed 2026-03-06:**
+- iPhone cleanup of mom's old phone → [See procedure: docs/ops-device-management.md](./docs/ops-device-management.md#iphone-cleanup-procedure)
+- iWatch transfer from Clint → [See procedure: docs/ops-device-management.md](./docs/ops-device-management.md#watch-transfer-procedure)
+- Setup email maintenance procedure → [Created: docs/ops-email-management.md](./docs/ops-email-management.md)
+
 **Processed 2026-03-05:**
 - Travel to O'Fallon → [Moved to Today](./README.md#today)
 - Account management doc → [Already created: docs/ops-account-management.md](./docs/ops-account-management.md)
