@@ -20,6 +20,16 @@
 ## Current Tasks details
 <hr/>
 <details>
+<summary>**Task: MediaVolume cleanup old data**</summary>
+  <span>@type:task @priority:medium @project:personal</span>
+  <ol>**Definition of Done:**
+    <li> [ ] Document storage</li>
+    <li> [ ] tar CATPhotos</li>
+    <li> [X] tar CATMusic 13G</li>
+  </ol>
+</details>
+<hr/>
+<details>
 <summary>**Task: iPhone cleanup of mom's old phone**</summary>
   <span>@type:task @priority:medium @project:personal</span>
   <ol>**Definition of Done:**
@@ -30,7 +40,7 @@
     <li> [ ] remove mom's iPhone iCloud</li>
     <li> [ ] reduce Mom's iCloud storage</li>
     <li> [ ] backup data from Mom's iCloud</li>
-    <li> [ ] backup photos from Mom's iCloud</li>
+    <li> [X] backup photos from Mom's iCloud may take a few days</li>
   </ol>
 </details>
 <hr/>
@@ -40,7 +50,7 @@
   <ol>**Definition of Done:**
     <li> [ ] iWatch working under Chris's iCloud and iPhone account</li>
     <li> [ ] Document proceedure in [docs/ops-device-management.md](docs/ops-device-management.md) </li>
-    <li> [ ] Attempt to pair iWatch to iPhone</li>
+    <li> [X] Attempt to pair iWatch to iPhone</li>
   </ol>
 </details>
 <hr/>
