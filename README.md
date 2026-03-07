@@ -3,19 +3,19 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 7 days | **Last Check-In:** 2026-03-06
+**Current Streak:** 8 days | **Last Check-In:** 2026-03-07
 
+**2026-03-07 (Sat):** 🎯 Saturday in O'Fallon: Continue device cleanup + MediaVolume. Weekend pace!
 **2026-03-06 (Fri):** 🎯 Friday in O'Fallon: Device management + ops documentation. Building knowledge base!
 **2026-03-05 (Thu):** 🎯 Travel day! Dental 9am, then Winfield→O'Fallon. Working remote for a few days.
-**2026-03-04 (Wed):** 🎯 Wednesday focus: Route Print + LLC accounting. Dental apt tomorrow 9am!
 
 ---
 
 # Today
-**Top 3 Priorities for Friday, March 6:**
-1. iPhone cleanup of mom's old phone
-2. iWatch transfer from Clint
-3. Setup email maintenance procedure
+**Top 3 Priorities for Saturday, March 7:**
+1. Continue iPhone cleanup - finish remaining steps
+2. Continue MediaVolume cleanup - tar CATPhotos
+3. Relax/personal time - it's Saturday!
 
 ## Current Tasks details
 <hr/>
@@ -149,21 +149,9 @@
 ---
 
 # Yesterday
-- [X] **Task: Dental appointment** @type:task @priority:high @project:personal
-  - 9am-noon at dental office
-
-- [X] **Task: Travel to O'Fallon** @type:task @priority:high @project:personal
-  - [X] Pick up Kathy's car in Winfield
-  - [X] Drive to Steve & Kathy's in O'Fallon
-  - [X] Setup remote work environment
-  - [X] Coordinate ride back to Winfield for your car (later)
-
-- [X] **Task: Pack for remote work** @type:task @priority:high @project:personal
-  - [X] Laptop & charger
-  - [X] Work essentials
-  - [X] Clothes for a few days
-
-- [X] **2026-04-14** - 1040 2025 BFletch Send @type:task @priority:high @project:accounting
+✓ Started iPhone cleanup - backed up photos from Mom's iCloud
+✓ Started iWatch transfer - attempted pairing
+✓ Started MediaVolume cleanup - tar'd CATMusic (13G)
 
 ---
 
