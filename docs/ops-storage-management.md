@@ -1,7 +1,5 @@
 # ops storage management
 
-# ops storage management
-
 This document is for wip reference to help process ops storage tasks, reference storage proceedures, document results and update proceedural documentation when needed.
 
 
