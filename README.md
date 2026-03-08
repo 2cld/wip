@@ -3,19 +3,19 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 8 days | **Last Check-In:** 2026-03-07
+**Current Streak:** 9 days | **Last Check-In:** 2026-03-08
 
-**2026-03-07 (Sat):** 🎯 Saturday in O'Fallon: Continue device cleanup + MediaVolume. Weekend pace!
+**2026-03-08 (Sun):** 🎯 Sunday in Winfield: TreesAES & FHKlop property maintenance. Sunday evening review!
+**2026-03-07 (Sat):** 🎯 Saturday: Travel O'Fallon→Winfield. Device cleanup + MediaVolume work.
 **2026-03-06 (Fri):** 🎯 Friday in O'Fallon: Device management + ops documentation. Building knowledge base!
-**2026-03-05 (Thu):** 🎯 Travel day! Dental 9am, then Winfield→O'Fallon. Working remote for a few days.
 
 ---
 
 # Today
-**Top 3 Priorities for Saturday, March 7:**
-1. Continue iPhone cleanup - finish remaining steps
-2. Continue MediaVolume cleanup - tar CATPhotos
-3. Relax/personal time - it's Saturday!
+**Top 3 Priorities for Sunday, March 8:**
+1. TreesAES & FHKlop property maintenance issues
+2. Sunday Evening Review - plan the week ahead
+3. Relax/recharge - it's Sunday!
 
 ## Current Tasks details
 <hr/>
@@ -150,9 +150,8 @@
 ---
 
 # Yesterday
-✓ Started iPhone cleanup - backed up photos from Mom's iCloud
-✓ Started iWatch transfer - attempted pairing
-✓ Started MediaVolume cleanup - tar'd CATMusic (13G)
+✓ Travel from O'Fallon to Winfield
+✓ Continued device/storage cleanup work
 
 ---
 
