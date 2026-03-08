@@ -25,6 +25,7 @@
   <ol>**Definition of Done:**
     <li> [ ] Document storage</li>
     <li> [ ] tar CATPhotos</li>
+    <li> [ ] Document proceedure in [docs/ops-storage-management.md](docs/ops-storage-management.md) </li>
     <li> [X] tar CATMusic 13G</li>
   </ol>
 </details>
