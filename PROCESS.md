@@ -72,29 +72,36 @@ For tasks with multiple subtasks or long checklists in `README.md`, use HTML `<d
 **Format:**
 ```html
 <details>
-<summary>**Task: Task Name Here**</summary>
-  <span>@type:task @priority:high @project:project-name</span>
-  <ol>**Definition of Done:**
-    <li> [ ] Subtask 1</li>
-    <li> [ ] Subtask 2</li>
-    <li> [ ] Subtask 3</li>
-  </ol>
+<summary><strong>Task: Task Name Here</strong> <span>@type:task @priority:high @project:project-name</span></summary>
+
+**Definition of Done:**
+- [ ] Subtask 1
+- [ ] Subtask 2
+- [ ] Subtask 3
+
 </details>
 ```
 
 **Example:**
 ```html
 <details>
-<summary>**Task: Setup LLC payments**</summary>
-  <span>@type:task @priority:medium @project:cat9-acct-LLC</span>
-  <ol>**Definition of Done:**
-    <li> [ ] FHKlopFarms Utilities</li>
-    <li> [ ] FHKlopFarms IA Land Tax</li>
-    <li> [ ] TreesAES Utilities</li>
-    <li> [ ] TreesAES IA Land Tax</li>
-  </ol>
+<summary><strong>Task: Setup LLC payments</strong> <span>@type:task @priority:medium @project:cat9-acct-LLC</span></summary>
+
+**Definition of Done:**
+- [ ] FHKlopFarms Utilities
+- [ ] FHKlopFarms IA Land Tax
+- [ ] TreesAES Utilities
+- [ ] TreesAES IA Land Tax
+
 </details>
 ```
+
+**Key formatting rules:**
+- Use `<strong>` tags instead of `**` inside HTML elements
+- Put `<span>` with tags inside the `<summary>` element
+- Use standard markdown lists (not `<ol>` or `<li>`) inside `<details>`
+- Add blank line after opening `<summary>` and before closing `</details>`
+- No `<hr/>` separators between tasks - they add visual clutter
 
 **When to use:**
 - Epics with 3+ subtasks

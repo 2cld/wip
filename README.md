@@ -3,133 +3,132 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 9 days | **Last Check-In:** 2026-03-08
+**Current Streak:** 10 days | **Last Check-In:** 2026-03-09
 
-**2026-03-08 (Sun):** 🎯 Sunday in Winfield: TreesAES & FHKlop property maintenance. Sunday evening review!
-**2026-03-07 (Sat):** 🎯 Saturday: Travel O'Fallon→Winfield. Device cleanup + MediaVolume work.
-**2026-03-06 (Fri):** 🎯 Friday in O'Fallon: Device management + ops documentation. Building knowledge base!
+**2026-03-09 (Mon):** 🎯 Monday in Winfield: TreesAES & FHKlop property maintenance work begins!
+**2026-03-08 (Sun):** ✓ Sunday in Winfield: TreesAES & FHKlop property maintenance. Sunday evening review completed!
+**2026-03-07 (Sat):** ✓ Travel O'Fallon→Winfield. Device cleanup + MediaVolume work.
 
 ---
 
 # Today
-**Top 3 Priorities for Sunday, March 8:**
-1. TreesAES & FHKlop property maintenance issues
-2. Sunday Evening Review - plan the week ahead
-3. Relax/recharge - it's Sunday!
+**Top 3 Priorities for Monday, March 9:**
+1. TreesAES property maintenance - assess and address issues
+2. FHKlop property maintenance - assess and address issues
+3. Document property status and next steps
 
 ## Current Tasks details
-<hr/>
+
 <details>
-<summary>**Task: MediaVolume cleanup old data**</summary>
-  <span>@type:task @priority:medium @project:personal</span>
-  <ol>**Definition of Done:**
-    <li> [ ] Document storage</li>
-    <li> [ ] tar CATPhotos</li>
-    <li> [ ] Document proceedure in [docs/ops-storage-management.md](docs/ops-storage-management.md) </li>
-    <li> [X] tar CATMusic 13G</li>
-  </ol>
+<summary><strong>Task: MediaVolume cleanup old data</strong> <span>@type:task @priority:medium @project:personal</span></summary>
+
+**Definition of Done:**
+- [ ] Document storage
+- [ ] tar CATPhotos
+- [ ] Document proceedure in [docs/ops-storage-management.md](docs/ops-storage-management.md)
+- [X] tar CATMusic 13G
+
 </details>
-<hr/>
+
 <details>
-<summary>**Task: iPhone cleanup of mom's old phone**</summary>
-  <span>@type:task @priority:medium @project:personal</span>
-  <ol>**Definition of Done:**
-    <li> [ ] iPhone working under Chris's iCloud and iPhone account</li>
-    <li> [ ] register iPhone to Chris's iCloud</li>
-    <li> [ ] Document proceedure in [docs/ops-device-management.md](docs/ops-device-management.md) </li>
-    <li> [ ] remove mom's from Brad's Family plan</li>
-    <li> [ ] remove mom's iPhone iCloud</li>
-    <li> [ ] reduce Mom's iCloud storage</li>
-    <li> [ ] backup data from Mom's iCloud</li>
-    <li> [X] backup photos from Mom's iCloud may take a few days</li>
-  </ol>
+<summary><strong>Task: iPhone cleanup of mom's old phone</strong> <span>@type:task @priority:medium @project:personal</span></summary>
+
+**Definition of Done:**
+- [ ] iPhone working under Chris's iCloud and iPhone account
+- [ ] register iPhone to Chris's iCloud
+- [ ] Document proceedure in [docs/ops-device-management.md](docs/ops-device-management.md)
+- [ ] remove mom's from Brad's Family plan
+- [ ] remove mom's iPhone iCloud
+- [ ] reduce Mom's iCloud storage
+- [ ] backup data from Mom's iCloud
+- [X] backup photos from Mom's iCloud may take a few days
+
 </details>
-<hr/>
+
 <details>
-<summary>**Task: iWatch transfer**</summary>
-  <span>@type:task @priority:medium @project:personal</span>
-  <ol>**Definition of Done:**
-    <li> [ ] iWatch working under Chris's iCloud and iPhone account</li>
-    <li> [ ] Document proceedure in [docs/ops-device-management.md](docs/ops-device-management.md) </li>
-    <li> [X] Attempt to pair iWatch to iPhone</li>
-  </ol>
+<summary><strong>Task: iWatch transfer</strong> <span>@type:task @priority:medium @project:personal</span></summary>
+
+**Definition of Done:**
+- [ ] iWatch working under Chris's iCloud and iPhone account
+- [ ] Document proceedure in [docs/ops-device-management.md](docs/ops-device-management.md)
+- [X] Attempt to pair iWatch to iPhone
+
 </details>
-<hr/>
+
 <details>
-<summary>**Task: Create Route Print for HWPC with Invoice import**</summary>
-  <span>@type:task @priority:high @project:cat9-hwpc-qbol</span>
-  <ol>**Definition of Done:**
-    <li> [ ] Route print functionality created</li>
-    <li> [ ] Invoice import working</li>
-    <li> [ ] Tested with sample data</li>
-  </ol>
+<summary><strong>Task: Create Route Print for HWPC with Invoice import</strong> <span>@type:task @priority:high @project:cat9-hwpc-qbol</span></summary>
+
+**Definition of Done:**
+- [ ] Route print functionality created
+- [ ] Invoice import working
+- [ ] Tested with sample data
+
 </details>
-<hr/>
+
 <details>
-<summary>**Task: Setup LLC payments**</summary>
-  <span>@type:task @priority:medium @project:cat9-acct-LLC</span>
-  <ol>**Definition of Done:**
-    <li> [ ] FHKlopFarms Utilites</li>
-    <li> [ ] FHKlopFarms IA Land Tax</li>
-    <li> [ ] TreesAES Utilites</li>
-    <li> [ ] TreesAES IA Land Tax</li>
-    <li> [ ] TreesAES ACI*Windstream</li>
-    <li> [ ] TH Twig ACI*WINDSTREAM</li>
-    <li> [ ] TH Twig USCELL</li>
-  </ol>
+<summary><strong>Task: Setup LLC payments</strong> <span>@type:task @priority:medium @project:cat9-acct-LLC</span></summary>
+
+**Definition of Done:**
+- [ ] FHKlopFarms Utilites
+- [ ] FHKlopFarms IA Land Tax
+- [ ] TreesAES Utilites
+- [ ] TreesAES IA Land Tax
+- [ ] TreesAES ACI*Windstream
+- [ ] TH Twig ACI*WINDSTREAM
+- [ ] TH Twig USCELL
+
 </details>
-<hr/>
+
 <details>
-<summary>**Task: Move LLC Priceline charges to related LLC**</summary>
-  <span>@type:task @priority:low @project:cat9-acct-LLC</span>
-  <ol>**Definition of Done:**
-    <li> [ ] ACI*WINDSTREAM PMTFEE</li>
-    <li> [ ] ALLIANT ENERGY - IPL</li>
-    <li> [ ] GOOGLE *Google One</li>
-    <li> [ ] GOOGLE *GSUITE_hawkeye</li>
-    <li> [ ] STARLINK INTERNET</li>
-    <li> [ ] USCELL RECURRING</li>
-  </ol>
+<summary><strong>Task: Move LLC Priceline charges to related LLC</strong> <span>@type:task @priority:low @project:cat9-acct-LLC</span></summary>
+
+**Definition of Done:**
+- [ ] ACI*WINDSTREAM PMTFEE
+- [ ] ALLIANT ENERGY - IPL
+- [ ] GOOGLE *Google One
+- [ ] GOOGLE *GSUITE_hawkeye
+- [ ] STARLINK INTERNET
+- [ ] USCELL RECURRING
+
 </details>
-<hr/>
+
 <details>
-<summary>**Task: LLC gsheets cleanup**</summary>
-  <span>@type:task @priority:medium @project:cat9-acct-LLC</span>
-  <ol>**Phase 3**
-    <li> [ ] na? FlechMC 2026 create [FlechMCLLC-Accounting-2026]()</li>
-    <li> [ ] na? FlechMC 2025 cleanup [FlechMCLLC-Accounting-2025]()</li>
-    <li> [ ] na? THTwig 2026 create [THTwigLLC-Accounting-2026]()</li>
-    <li> [ ] na? THTwig 2025 cleanup [THTwigLLC-Accounting-2025]()</li>
-  </ol>
-  <ol>**Phase 2**
-    <li> [ ] CAT9 2026 create [CAT9LLC-Accounting-2026]()</li>
-    <li> [ ] CAT9 2025 cleanup [CAT9LLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1-JSVuIgwLdqyJs1N5Co8EABvRcEyNK3avZG6N4Oxrjs/edit?gid=470966959#gid=470966959)</li>
-  </ol>
-  <ol>**Phase 1**
-    <li>  [X] TreesAES 2026 create [TreesAESLLC-Accounting-2026](https://docs.google.com/spreadsheets/d/1jQFp9TBkADWO40x1NXBxhLt9_yZ8cfXzuP3DgbaITfE/edit?gid=1395902795#gid=1395902795)</li>
-    <li> [X] TreesAES IA Realestate payment check [IATreasureTreesAES](https://www.iowatreasurers.org/)</li>
-    <li> [X] TreesAES 2025 cleanup [TreesAESLLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1P_gTkphjka2Ot6EkZBj5sjvvH7BHfbs4gyb83QGWYZE/edit?gid=1395902795#gid=1395902795)
-    <li> [X] FHKlopFarms 2026 create [FHKlopFarmsLLC-Accounting-2026](https://docs.google.com/spreadsheets/d/1NBTwY7Qd5-BmPGZgRS51klU9UxsD8G9m2myGSfcHviY/edit?gid=1395902795#gid=1395902795)</li>
-    <li> [X] FHKlopFarms IA Realestate payment check [IATreasureFHKlopFarms](https://www.iowatreasurers.org/)</li>
-    <li> [X] FHKlopFarms 2025 cleanup [FHKlopFarmsLLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1wJSD83kC6PMi4bHzpzOU1yWbvvmjuEfGdlxIgHqtC9A/edit?gid=1395902795#gid=1395902795)</li>
-  </ol>
+<summary><strong>Task: LLC gsheets cleanup</strong> <span>@type:task @priority:medium @project:cat9-acct-LLC</span></summary>
+
+**Phase 3:**
+- [ ] na? FlechMC 2026 create [FlechMCLLC-Accounting-2026]()
+- [ ] na? FlechMC 2025 cleanup [FlechMCLLC-Accounting-2025]()
+- [ ] na? THTwig 2026 create [THTwigLLC-Accounting-2026]()
+- [ ] na? THTwig 2025 cleanup [THTwigLLC-Accounting-2025]()
+
+**Phase 2:**
+- [ ] CAT9 2026 create [CAT9LLC-Accounting-2026]()
+- [ ] CAT9 2025 cleanup [CAT9LLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1-JSVuIgwLdqyJs1N5Co8EABvRcEyNK3avZG6N4Oxrjs/edit?gid=470966959#gid=470966959)
+
+**Phase 1:**
+- [X] TreesAES 2026 create [TreesAESLLC-Accounting-2026](https://docs.google.com/spreadsheets/d/1jQFp9TBkADWO40x1NXBxhLt9_yZ8cfXzuP3DgbaITfE/edit?gid=1395902795#gid=1395902795)
+- [X] TreesAES IA Realestate payment check [IATreasureTreesAES](https://www.iowatreasurers.org/)
+- [X] TreesAES 2025 cleanup [TreesAESLLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1P_gTkphjka2Ot6EkZBj5sjvvH7BHfbs4gyb83QGWYZE/edit?gid=1395902795#gid=1395902795)
+- [X] FHKlopFarms 2026 create [FHKlopFarmsLLC-Accounting-2026](https://docs.google.com/spreadsheets/d/1NBTwY7Qd5-BmPGZgRS51klU9UxsD8G9m2myGSfcHviY/edit?gid=1395902795#gid=1395902795)
+- [X] FHKlopFarms IA Realestate payment check [IATreasureFHKlopFarms](https://www.iowatreasurers.org/)
+- [X] FHKlopFarms 2025 cleanup [FHKlopFarmsLLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1wJSD83kC6PMi4bHzpzOU1yWbvvmjuEfGdlxIgHqtC9A/edit?gid=1395902795#gid=1395902795)
+
 </details>
-<hr/>
+
 <details>
-<summary>**Task: CATMusic tar and transfer**</summary>
-  <span>@type:task @priority:medium @project:cat9-ops-storage</span>
-  <ol>**Definition of Done:**
-    <li> [ ] Document links in https://tv.2cld.net</li>
-    <li> [ ] Document doc/ops-network-administration.md</li>
-    <li> [ ] Files to where Gus can see and sort</li>
-    <li> [ ] Move to slwin11ops/CATMusic</li>
-    <li> [X] Create CATMusic-20260306.tar.xz ??</li>
-    <li> [X] Shell access via [cg2 proxmox](https://192.168.9.3:8006/) to zfs Media</li>
-    <li> [X] Remote to 10.147.17.165 devwin10 TermServer from cat9fin Hyper-V connect on CyberTruck via RustRemote</li>
-    <li> [X] Verify wf network is up</li>
-  </ol>
+<summary><strong>Task: CATMusic tar and transfer</strong> <span>@type:task @priority:medium @project:cat9-ops-storage</span></summary>
+
+**Definition of Done:**
+- [ ] Document links in https://tv.2cld.net
+- [ ] Document doc/ops-network-administration.md
+- [ ] Files to where Gus can see and sort
+- [ ] Move to slwin11ops/CATMusic
+- [X] Create CATMusic-20260306.tar.xz ??
+- [X] Shell access via [cg2 proxmox](https://192.168.9.3:8006/) to zfs Media
+- [X] Remote to 10.147.17.165 devwin10 TermServer from cat9fin Hyper-V connect on CyberTruck via RustRemote
+- [X] Verify wf network is up
+
 </details>
-<hr/>
 
 
 ---
@@ -150,8 +149,9 @@
 ---
 
 # Yesterday
-✓ Travel from O'Fallon to Winfield
-✓ Continued device/storage cleanup work
+✓ Sunday Evening Review completed - week planned
+✓ Property maintenance prep
+✓ 10-day streak maintained!
 
 ---
 
