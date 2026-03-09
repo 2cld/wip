@@ -65,6 +65,26 @@ To ensure clarity and avoid ambiguity, every task or Epic moved into the "To Do"
 
 ## Task Formatting Guidelines
 
+### Current Tasks Details Section
+
+The `## Current Tasks details` section in `README.md` is your active workspace - it shows only tasks you're working on THIS WEEK.
+
+**Keep 6-10 tasks maximum:**
+- Tasks in your Top 3 Priorities
+- Tasks touched in the past 5 days
+- Tasks scheduled for this week (per `schedule.md`)
+
+**All other tasks live in `tasks.md`:**
+- Tasks not touched in 5+ days → move to `tasks.md`
+- Future tasks not scheduled this week → keep in `tasks.md`
+- Completed tasks → move to Done section in `tasks.md`
+
+**Why this works:**
+- README becomes your focused "active workspace"
+- Collapsible format keeps 6-10 tasks scannable as one-liners
+- Natural rotation: tasks age out after 5 days of inactivity
+- Less scrolling, less clutter, better focus
+
 ### Collapsible Tasks with Subtasks
 
 For tasks with multiple subtasks or long checklists in `README.md`, use HTML `<details>` tags for better readability. This keeps the Today section scannable while preserving all task details.
@@ -142,7 +162,12 @@ This is your daily habit-building process. Do this every morning before diving i
 2. Delete old `# Yesterday` section (git history preserves it if needed)
 3. Remove past-due items from `# Due Soon` (e.g., dates that have passed)
 4. Quick scan of `# Open Projects` - any stale notes to move to docs/?
-5. Goal: Keep README focused on current week's work only
+5. Review `## Current Tasks details` - keep only 6-10 active tasks:
+   - Keep tasks in Top 3 Priorities
+   - Keep tasks touched in past 5 days
+   - Keep tasks scheduled for this week
+   - Move inactive tasks back to `tasks.md`
+6. Goal: Keep README focused on current week's work only
 
 ### Step 3: Priority Rating (3 min)
 1. Review `# Today` section

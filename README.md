@@ -80,19 +80,6 @@
 </details>
 
 <details>
-<summary><strong>Task: Move LLC Priceline charges to related LLC</strong> <span>@type:task @priority:low @project:cat9-acct-LLC</span></summary>
-
-**Definition of Done:**
-- [ ] ACI*WINDSTREAM PMTFEE
-- [ ] ALLIANT ENERGY - IPL
-- [ ] GOOGLE *Google One
-- [ ] GOOGLE *GSUITE_hawkeye
-- [ ] STARLINK INTERNET
-- [ ] USCELL RECURRING
-
-</details>
-
-<details>
 <summary><strong>Task: LLC gsheets cleanup</strong> <span>@type:task @priority:medium @project:cat9-acct-LLC</span></summary>
 
 **Phase 3:**
@@ -115,21 +102,6 @@
 
 </details>
 
-<details>
-<summary><strong>Task: CATMusic tar and transfer</strong> <span>@type:task @priority:medium @project:cat9-ops-storage</span></summary>
-
-**Definition of Done:**
-- [ ] Document links in https://tv.2cld.net
-- [ ] Document doc/ops-network-administration.md
-- [ ] Files to where Gus can see and sort
-- [ ] Move to slwin11ops/CATMusic
-- [X] Create CATMusic-20260306.tar.xz ??
-- [X] Shell access via [cg2 proxmox](https://192.168.9.3:8006/) to zfs Media
-- [X] Remote to 10.147.17.165 devwin10 TermServer from cat9fin Hyper-V connect on CyberTruck via RustRemote
-- [X] Verify wf network is up
-
-</details>
-
 
 ---
 
@@ -149,9 +121,9 @@
 ---
 
 # Yesterday
-✓ Sunday Evening Review completed - week planned
-✓ Property maintenance prep
-✓ 10-day streak maintained!
+✓ Property maintenance: Pulled 1999 Buick LeSabre parts for 2005 LeSabre
+✓ BHay 1040 Fed tax work (afternoon)
+✓ Vehicle recycling progress at TreesAES/FHKlop
 
 ---
 
