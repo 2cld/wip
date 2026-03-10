@@ -3,19 +3,22 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 10 days | **Last Check-In:** 2026-03-09
+**Current Streak:** 11 days | **Last Check-In:** 2026-03-10
 
-**2026-03-09 (Mon):** 🎯 Monday in Winfield: TreesAES & FHKlop property maintenance work begins!
+**2026-03-10 (Tue):** 🎯 Tuesday in Winfield: Continue property work + Route Print planning
+**2026-03-09 (Mon):** ✓ TreesAES storm damage documentation + BHay 1040 review + family contacts
 **2026-03-08 (Sun):** ✓ Sunday in Winfield: TreesAES & FHKlop property maintenance. Sunday evening review completed!
-**2026-03-07 (Sat):** ✓ Travel O'Fallon→Winfield. Device cleanup + MediaVolume work.
 
 ---
 
 # Today
-**Top 3 Priorities for Monday, March 9:**
-1. TreesAES property maintenance - assess and address issues
-2. FHKlop property maintenance - assess and address issues
-3. Document property status and next steps
+**Top 3 Priorities for Tuesday, March 10:**
+1. 11am meeting with Carol in Mt. Pleasant + pick up supplies
+2. Touch base: Brian (BHay tax) + Gus (O'Fallon trip planning)
+3. Review and update resume
+
+**Later this week:**
+- Route Print for HWPC - planning/start (Wed/Thu per schedule)
 
 ## Current Tasks details
 
@@ -121,11 +124,10 @@
 ---
 
 # Yesterday
-✓ Property maintenance: Trees AES storm damage pictures
-✓ BHay 1040 Fed tax review at [2025-BHay 1040](https://th-twig.2cld.net/docs/thtwig-acct/2025/)
-✓ Contact Kenton Klop
-✓ Contact Carol Klop
-✓ Send Recruiter Email
+✓ TreesAES storm damage pictures documented
+✓ BHay 1040 Fed tax review completed
+✓ Contacted Kenton Klop and Carol Klop
+✓ Sent recruiter email
 
 ---
 
