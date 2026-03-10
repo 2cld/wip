@@ -121,9 +121,11 @@
 ---
 
 # Yesterday
-✓ Property maintenance: Pulled 1999 Buick LeSabre parts for 2005 LeSabre
-✓ BHay 1040 Fed tax work (afternoon)
-✓ Vehicle recycling progress at TreesAES/FHKlop
+✓ Property maintenance: Trees AES storm damage pictures
+✓ BHay 1040 Fed tax review at [2025-BHay 1040](https://th-twig.2cld.net/docs/thtwig-acct/2025/)
+✓ Contact Kenton Klop
+✓ Contact Carol Klop
+✓ Send Recruiter Email
 
 ---
 
