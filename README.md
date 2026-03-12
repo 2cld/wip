@@ -3,18 +3,19 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 11 days | **Last Check-In:** 2026-03-10
+**Current Streak:** 12 days | **Last Check-In:** 2026-03-11
 
-**2026-03-10 (Tue):** 🎯 Tuesday in Winfield: Continue property work + Route Print planning
+**2026-03-10 (Wed):** 🎯 Wednesday in Winfield: Continue property work + Route Print planning
+**2026-03-10 (Tue):** ✓ Tuesday in Winfield: Continue property work + Route Print planning
 **2026-03-09 (Mon):** ✓ TreesAES storm damage documentation + BHay 1040 review + family contacts
 **2026-03-08 (Sun):** ✓ Sunday in Winfield: TreesAES & FHKlop property maintenance. Sunday evening review completed!
 
 ---
 
 # Today
-**Top 3 Priorities for Tuesday, March 10:**
-1. 11am meeting with Carol in Mt. Pleasant + pick up supplies
-2. Touch base: Brian (BHay tax) + Gus (O'Fallon trip planning)
+**Top 3 Priorities for Tuesday, March 11:**
+1. O'Fallon trip
+2. Setup Workstation
 3. Review and update resume
 
 **Later this week:**
@@ -124,16 +125,21 @@
 ---
 
 # Yesterday
-✓ TreesAES storm damage pictures documented
-✓ BHay 1040 Fed tax review completed
-✓ Contacted Kenton Klop and Carol Klop
-✓ Sent recruiter email
+✓ FHKlopFarms fence line cleanup with Kenton
+✓ Lunch with Carol
+✓ Pickup supplies and USB-C to HDMI
 
 ---
 
 # Inbox
 **Items to be processed and tagged during morning routine**
+- Document workstation setups
+- Check Insurance payments
+- Check Rental roof
+- Make list of Rental jobs
+- Run Resume stuff
 
+  
 **Processed 2026-03-06:**
 - iPhone cleanup of mom's old phone → [See procedure: docs/ops-device-management.md](./docs/ops-device-management.md#iphone-cleanup-procedure)
 - iWatch transfer from Clint → [See procedure: docs/ops-device-management.md](./docs/ops-device-management.md#watch-transfer-procedure)
