@@ -3,23 +3,24 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 12 days | **Last Check-In:** 2026-03-11
+**Current Streak:** 13 days | **Last Check-In:** 2026-03-12
 
-- **2026-03-10 (Wed):** 🎯 Wednesday in Winfield: Continue property work + Route Print planning
-- **2026-03-10 (Tue):** ✓ Tuesday in Winfield: Continue property work + Route Print planning
+- **2026-03-12 (Thu):** 🎯 Thursday in Winfield: HWPC QBOL + Storage cleanup + property management
+- **2026-03-11 (Wed):** ✓ Workstation planning + supplies acquired (O'Fallon trip postponed)
+- **2026-03-10 (Tue):** ✓ FHKlopFarms fence cleanup with Kenton + lunch with Carol + supplies
 - **2026-03-09 (Mon):** ✓ TreesAES storm damage documentation + BHay 1040 review + family contacts
-- **2026-03-08 (Sun):** ✓ Sunday in Winfield: TreesAES & FHKlop property maintenance. Sunday evening review completed!
 
 ---
 
 # Today
-**Top 3 Priorities for Tuesday, March 11:**
-1. O'Fallon trip
-2. Setup Workstation
-3. Review and update resume
+**Top 3 Priorities for Thursday, March 12:**
+1. HWPC QBOL work (Route Print or other tasks)
+2. Storage cleanup - tar CATPhotos
+3. Property management tasks
 
-**Later this week:**
-- Route Print for HWPC - planning/start (Wed/Thu per schedule)
+**This week:**
+- Check in with Steve about O'Fallon trip (before Tue)
+- Process inbox items (insurance, rental, workstation docs)
 
 ## Current Tasks details
 
@@ -125,9 +126,9 @@
 ---
 
 # Yesterday
-✓ FHKlopFarms fence line cleanup with Kenton
-✓ Lunch with Carol
-✓ Pickup supplies and USB-C to HDMI
+✓ Workstation planning and prep
+✓ Got USB-C to HDMI adapter
+✓ O'Fallon trip postponed - rescheduling with Steve
 
 ---
 
