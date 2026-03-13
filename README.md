@@ -3,9 +3,10 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 13 days | **Last Check-In:** 2026-03-12
+**Current Streak:** 14 days | **Last Check-In:** 2026-03-13
 
-- **2026-03-12 (Thu):** 🎯 Thursday in Winfield: HWPC QBOL + Storage cleanup + property management
+- **2026-03-13 (Fri):** 🎯 Friday in Winfield: Continue QBOL work + plan weekend
+- **2026-03-12 (Thu):** ✓ QBOL qb_migration tool work in Account/_tools/qb_migration
 - **2026-03-11 (Wed):** ✓ Workstation planning + supplies acquired (O'Fallon trip postponed)
 - **2026-03-10 (Tue):** ✓ FHKlopFarms fence cleanup with Kenton + lunch with Carol + supplies
 - **2026-03-09 (Mon):** ✓ TreesAES storm damage documentation + BHay 1040 review + family contacts
@@ -13,13 +14,13 @@
 ---
 
 # Today
-**Top 3 Priorities for Thursday, March 12:**
-1. HWPC QBOL work (Route Print or other tasks)
-2. Storage cleanup - tar CATPhotos
-3. Property management tasks
+**Top 3 Priorities for Friday, March 13:**
+1. Continue QBOL qb_migration work
+2. Plan weekend tasks
+3. Check in with Steve about O'Fallon trip timing
 
 **This week:**
-- Check in with Steve about O'Fallon trip (before Tue)
+- Storage cleanup - tar CATPhotos (if time)
 - Process inbox items (insurance, rental, workstation docs)
 
 ## Current Tasks details
@@ -126,9 +127,8 @@
 ---
 
 # Yesterday
-✓ Workstation planning and prep
-✓ Got USB-C to HDMI adapter
-✓ O'Fallon trip postponed - rescheduling with Steve
+✓ QBOL qb_migration tool work - Account/_tools/qb_migration
+✓ HWPC QBOL development progress
 
 ---
 

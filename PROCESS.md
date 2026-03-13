@@ -232,7 +232,8 @@ This is your weekly planning session to set yourself up for success.
 2. **Review Backlog:** Scan `# Backlog` section - delete dead items, move active ones to tasks.md
 3. **Clean Due Soon:** Remove completed or past-due items from `# Due Soon`
 4. **Declutter Open Projects:** Archive stale notes/links to appropriate docs/ files
-5. Goal: Start the week with a clean, focused README.md
+5. **Clear Daily Check-In history:** Keep only the current week (Mon-Sun) in the Daily Check-In section - older entries are preserved in git history
+6. Goal: Start the week with a clean, focused README.md
 
 ### Step 5: Reset and Commit (5 min)
 1. Archive completed items from `# Yesterday`
