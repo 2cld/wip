@@ -3,9 +3,10 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 14 days | **Last Check-In:** 2026-03-13
+**Current Streak:** 15 days | **Last Check-In:** 2026-03-14
 
-- **2026-03-13 (Fri):** 🎯 Friday in Winfield: Continue QBOL work + plan weekend
+- **2026-03-14 (Sat):** 🎯 Saturday in Cedar Falls: Snowblower prep + QBOL work
+- **2026-03-13 (Fri):** ✓ QBOL qb_migration work + drove to Cedar Falls (snow storm incoming Sunday)
 - **2026-03-12 (Thu):** ✓ QBOL qb_migration tool work in Account/_tools/qb_migration
 - **2026-03-11 (Wed):** ✓ Workstation planning + supplies acquired (O'Fallon trip postponed)
 - **2026-03-10 (Tue):** ✓ FHKlopFarms fence cleanup with Kenton + lunch with Carol + supplies
@@ -14,14 +15,10 @@
 ---
 
 # Today
-**Top 3 Priorities for Friday, March 13:**
-1. Continue QBOL qb_migration work
-2. Plan weekend tasks
-3. Check in with Steve about O'Fallon trip timing
-
-**This week:**
-- Storage cleanup - tar CATPhotos (if time)
-- Process inbox items (insurance, rental, workstation docs)
+**Top 3 Priorities for Saturday, March 14:**
+1. Get snowblower running - storm prep
+2. Continue QBOL qb_migration work
+3. Sunday Evening Review prep (tomorrow)
 
 ## Current Tasks details
 
@@ -127,8 +124,8 @@
 ---
 
 # Yesterday
-✓ QBOL qb_migration tool work - Account/_tools/qb_migration
-✓ HWPC QBOL development progress
+✓ QBOL qb_migration work continued
+✓ Drove Winfield → Cedar Falls for incoming snow storm
 
 ---
 
