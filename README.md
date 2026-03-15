@@ -3,9 +3,10 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 15 days | **Last Check-In:** 2026-03-14
+**Current Streak:** 16 days | **Last Check-In:** 2026-03-15
 
-- **2026-03-14 (Sat):** 🎯 Saturday in Cedar Falls: Snowblower prep + QBOL work
+- **2026-03-15 (Sun):** 🎯 Sunday in Cedar Falls: Snow removal + QBOL route-ticket-printing + christrees.com
+- **2026-03-14 (Sat):** ✓ Snowblower fixed (primer line, kill switch, throttle) + QBOL task 25 + route-ticket-printing proto tested
 - **2026-03-13 (Fri):** ✓ QBOL qb_migration work + drove to Cedar Falls (snow storm incoming Sunday)
 - **2026-03-12 (Thu):** ✓ QBOL qb_migration tool work in Account/_tools/qb_migration
 - **2026-03-11 (Wed):** ✓ Workstation planning + supplies acquired (O'Fallon trip postponed)
@@ -15,10 +16,12 @@
 ---
 
 # Today
-**Top 3 Priorities for Saturday, March 14:**
-1. Get snowblower running - storm prep
-2. Continue QBOL qb_migration work
-3. Sunday Evening Review prep (tomorrow)
+**Top 3 Priorities for Sunday, March 15:**
+1. Blow snow when/if it comes
+2. QBOL qb_migration route-ticket-printing development
+3. Update christrees.com project
+
+**Tonight:** Sunday Evening Review
 
 ## Current Tasks details
 
@@ -124,13 +127,15 @@
 ---
 
 # Yesterday
-✓ QBOL qb_migration work continued
-✓ Drove Winfield → Cedar Falls for incoming snow storm
+✓ Snowblower fixed: broken primer return line, kill switch issue, stuck throttle (still has idle surge - possible sticky needle valve, treating with Seafoam)
+✓ QBOL qb_migration reached task 25 - tested proto Route Ticket management portal
+✓ New feature project created: route-ticket-printing → [wip-detail/hwpc-qbol-notes.md](./wip-detail/hwpc-qbol-notes.md)
 
 ---
 
 # Inbox
 **Items to be processed and tagged during morning routine**
+- Headhunter asked for resume → christrees.com update @type:task @priority:medium @project:personal
 - Document workstation setups
 - Check Insurance payments
 - Check Rental roof
