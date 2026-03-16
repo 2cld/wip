@@ -5,59 +5,26 @@
 # Daily Check-In
 **Current Streak:** 16 days | **Last Check-In:** 2026-03-15
 
-- **2026-03-15 (Sun):** 🎯 Sunday in Cedar Falls: Snow removal + QBOL route-ticket-printing + christrees.com
-- **2026-03-14 (Sat):** ✓ Snowblower fixed (primer line, kill switch, throttle) + QBOL task 25 + route-ticket-printing proto tested
-- **2026-03-13 (Fri):** ✓ QBOL qb_migration work + drove to Cedar Falls (snow storm incoming Sunday)
-- **2026-03-12 (Thu):** ✓ QBOL qb_migration tool work in Account/_tools/qb_migration
-- **2026-03-11 (Wed):** ✓ Workstation planning + supplies acquired (O'Fallon trip postponed)
-- **2026-03-10 (Tue):** ✓ FHKlopFarms fence cleanup with Kenton + lunch with Carol + supplies
-- **2026-03-09 (Mon):** ✓ TreesAES storm damage documentation + BHay 1040 review + family contacts
-
 ---
 
 # Today
-**Top 3 Priorities for Sunday, March 15:**
-1. Blow snow when/if it comes
-2. QBOL qb_migration route-ticket-printing development
-3. Update christrees.com project
+**Top 3 Priorities for Monday, March 16:**
+1. QBOL route-ticket-printing development
+2. LLC Land Tax prep - review FHKlopFarms and TreesAES payments
+3. Process inbox items
 
 **Tonight:** Sunday Evening Review
 
 ## Current Tasks details
 
 <details>
-<summary><strong>Task: MediaVolume cleanup old data</strong> <span>@type:task @priority:medium @project:personal</span></summary>
+<summary><strong>Task: QBOL route-ticket-printing</strong> <span>@type:task @priority:high @project:cat9-hwpc-qbol</span></summary>
 
-**Definition of Done:**
-- [ ] Document storage
-- [ ] tar CATPhotos
-- [ ] Document proceedure in [docs/ops-storage-management.md](docs/ops-storage-management.md)
-- [X] tar CATMusic 13G
-
-</details>
-
-<details>
-<summary><strong>Task: iPhone cleanup of mom's old phone</strong> <span>@type:task @priority:medium @project:personal</span></summary>
-
-**Definition of Done:**
-- [ ] iPhone working under Chris's iCloud and iPhone account
-- [ ] register iPhone to Chris's iCloud
-- [ ] Document proceedure in [docs/ops-device-management.md](docs/ops-device-management.md)
-- [ ] remove mom's from Brad's Family plan
-- [ ] remove mom's iPhone iCloud
-- [ ] reduce Mom's iCloud storage
-- [ ] backup data from Mom's iCloud
-- [X] backup photos from Mom's iCloud may take a few days
-
-</details>
-
-<details>
-<summary><strong>Task: iWatch transfer</strong> <span>@type:task @priority:medium @project:personal</span></summary>
-
-**Definition of Done:**
-- [ ] iWatch working under Chris's iCloud and iPhone account
-- [ ] Document proceedure in [docs/ops-device-management.md](docs/ops-device-management.md)
-- [X] Attempt to pair iWatch to iPhone
+**Definition of Done:** → [wip-detail/hwpc-qbol-notes.md](./wip-detail/hwpc-qbol-notes.md)
+- [ ] Define route ticket format and fields
+- [ ] Build printing workflow
+- [ ] Test with HWPC field service team
+- [ ] Integrate with qb_migration data pipeline
 
 </details>
 
@@ -86,25 +53,23 @@
 </details>
 
 <details>
-<summary><strong>Task: LLC gsheets cleanup</strong> <span>@type:task @priority:medium @project:cat9-acct-LLC</span></summary>
+<summary><strong>Task: MediaVolume cleanup old data</strong> <span>@type:task @priority:medium @project:personal</span></summary>
 
-**Phase 3:**
-- [ ] na? FlechMC 2026 create [FlechMCLLC-Accounting-2026]()
-- [ ] na? FlechMC 2025 cleanup [FlechMCLLC-Accounting-2025]()
-- [ ] na? THTwig 2026 create [THTwigLLC-Accounting-2026]()
-- [ ] na? THTwig 2025 cleanup [THTwigLLC-Accounting-2025]()
+**Definition of Done:**
+- [ ] Document storage
+- [ ] tar CATPhotos
+- [ ] Document proceedure in [docs/ops-storage-management.md](docs/ops-storage-management.md)
+- [X] tar CATMusic 13G
 
-**Phase 2:**
-- [ ] CAT9 2026 create [CAT9LLC-Accounting-2026]()
-- [ ] CAT9 2025 cleanup [CAT9LLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1-JSVuIgwLdqyJs1N5Co8EABvRcEyNK3avZG6N4Oxrjs/edit?gid=470966959#gid=470966959)
+</details>
 
-**Phase 1:**
-- [X] TreesAES 2026 create [TreesAESLLC-Accounting-2026](https://docs.google.com/spreadsheets/d/1jQFp9TBkADWO40x1NXBxhLt9_yZ8cfXzuP3DgbaITfE/edit?gid=1395902795#gid=1395902795)
-- [X] TreesAES IA Realestate payment check [IATreasureTreesAES](https://www.iowatreasurers.org/)
-- [X] TreesAES 2025 cleanup [TreesAESLLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1P_gTkphjka2Ot6EkZBj5sjvvH7BHfbs4gyb83QGWYZE/edit?gid=1395902795#gid=1395902795)
-- [X] FHKlopFarms 2026 create [FHKlopFarmsLLC-Accounting-2026](https://docs.google.com/spreadsheets/d/1NBTwY7Qd5-BmPGZgRS51klU9UxsD8G9m2myGSfcHviY/edit?gid=1395902795#gid=1395902795)
-- [X] FHKlopFarms IA Realestate payment check [IATreasureFHKlopFarms](https://www.iowatreasurers.org/)
-- [X] FHKlopFarms 2025 cleanup [FHKlopFarmsLLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1wJSD83kC6PMi4bHzpzOU1yWbvvmjuEfGdlxIgHqtC9A/edit?gid=1395902795#gid=1395902795)
+<details>
+<summary><strong>Task: Update christrees.com / resume</strong> <span>@type:task @priority:medium @project:personal</span></summary>
+
+**Definition of Done:**
+- [ ] christrees.com updated with current info
+- [ ] Resume reviewed and refreshed
+- [ ] Ready to send to headhunter
 
 </details>
 
@@ -127,39 +92,22 @@
 ---
 
 # Yesterday
-✓ Snowblower fixed: broken primer return line, kill switch issue, stuck throttle (still has idle surge - possible sticky needle valve, treating with Seafoam)
-✓ QBOL qb_migration reached task 25 - tested proto Route Ticket management portal
-✓ New feature project created: route-ticket-printing → [wip-detail/hwpc-qbol-notes.md](./wip-detail/hwpc-qbol-notes.md)
+✓ Snow removal in Cedar Falls
+✓ QBOL route-ticket-printing development
+✓ Sunday Evening Review completed
 
 ---
 
 # Inbox
 **Items to be processed and tagged during morning routine**
 - Headhunter asked for resume → christrees.com update @type:task @priority:medium @project:personal
-- Document workstation setups
-- Check Insurance payments
-- Check Rental roof
-- Make list of Rental jobs
-- Run Resume stuff
+- Document workstation setups @type:task @project:personal
+- Check Insurance payments @type:task @project:accounting
+- Check Rental roof @type:task @project:property
+- Make list of Rental jobs @type:task @project:property
+- Run Resume stuff → merged with christrees.com update above
 
-  
-**Processed 2026-03-06:**
-- iPhone cleanup of mom's old phone → [See procedure: docs/ops-device-management.md](./docs/ops-device-management.md#iphone-cleanup-procedure)
-- iWatch transfer from Clint → [See procedure: docs/ops-device-management.md](./docs/ops-device-management.md#watch-transfer-procedure)
-- Setup email maintenance procedure → [Created: docs/ops-email-management.md](./docs/ops-email-management.md)
-
-**Processed 2026-03-05:**
-- Travel to O'Fallon → [Moved to Today](./README.md#today)
-- Account management doc → [Already created: docs/ops-account-management.md](./docs/ops-account-management.md)
-- Setup Account cleanup process → [Moved to tasks.md](./tasks.md)
-- YouTube watchlist → [Moved to tasks.md](./tasks.md)
-- Plex music playlist → [Moved to tasks.md](./tasks.md)
-- Audio book search list → [Moved to tasks.md](./tasks.md)
-  
-**Processed 2026-03-04:**
-- Dental Apt March 5 → [Moved to Today](./README.md#today)
-
-**Processed 2026-03-02:**
+**Processed 2026-03-02 through 2026-03-06:**
 - [Archived to logs/inbox-archive-2026-03.md](./logs/inbox-archive-2026-03.md)
 
 ---

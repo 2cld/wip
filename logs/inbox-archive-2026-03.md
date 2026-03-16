@@ -26,3 +26,19 @@
 
 ## Notes archived:
 - Lenovo ThinkPad P15V (Gen 3) Intel Core i7 12800H 2.4ghz (14 cores) 65GB RAM 1024 GB SSD 15.6 Screen 1920x1080 Touch $670.00 [pic](https://www.icloud.com/photos/#/i,pz,782F81A4-B17C-4E30-BD67-9FBA7A6388A3,2849/) → Consider for hwpc inventory
+
+## Processed 2026-03-06:
+- iPhone cleanup of mom's old phone → [See procedure: docs/ops-device-management.md](./docs/ops-device-management.md#iphone-cleanup-procedure)
+- iWatch transfer from Clint → [See procedure: docs/ops-device-management.md](./docs/ops-device-management.md#watch-transfer-procedure)
+- Setup email maintenance procedure → [Created: docs/ops-email-management.md](./docs/ops-email-management.md)
+
+## Processed 2026-03-05:
+- Travel to O'Fallon → [Moved to Today](./README.md#today)
+- Account management doc → [Already created: docs/ops-account-management.md](./docs/ops-account-management.md)
+- Setup Account cleanup process → [Moved to tasks.md](./tasks.md)
+- YouTube watchlist → [Moved to tasks.md](./tasks.md)
+- Plex music playlist → [Moved to tasks.md](./tasks.md)
+- Audio book search list → [Moved to tasks.md](./tasks.md)
+
+## Processed 2026-03-04:
+- Dental Apt March 5 → [Moved to Today](./README.md#today)

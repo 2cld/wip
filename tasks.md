@@ -32,6 +32,54 @@
 ### Tasks
 
 <details>
+<summary><strong>Task: iPhone cleanup of mom's old phone</strong> <span>@type:task @priority:medium @project:personal</span></summary>
+
+**Definition of Done:**
+- [ ] iPhone working under Chris's iCloud and iPhone account
+- [ ] register iPhone to Chris's iCloud
+- [ ] Document proceedure in [docs/ops-device-management.md](docs/ops-device-management.md)
+- [ ] remove mom's from Brad's Family plan
+- [ ] remove mom's iPhone iCloud
+- [ ] reduce Mom's iCloud storage
+- [ ] backup data from Mom's iCloud
+- [X] backup photos from Mom's iCloud may take a few days
+
+</details>
+
+<details>
+<summary><strong>Task: iWatch transfer</strong> <span>@type:task @priority:medium @project:personal</span></summary>
+
+**Definition of Done:**
+- [ ] iWatch working under Chris's iCloud and iPhone account
+- [ ] Document proceedure in [docs/ops-device-management.md](docs/ops-device-management.md)
+- [X] Attempt to pair iWatch to iPhone
+
+</details>
+
+<details>
+<summary><strong>Task: LLC gsheets cleanup</strong> <span>@type:task @priority:medium @project:cat9-acct-LLC</span></summary>
+
+**Phase 3:**
+- [ ] na? FlechMC 2026 create [FlechMCLLC-Accounting-2026]()
+- [ ] na? FlechMC 2025 cleanup [FlechMCLLC-Accounting-2025]()
+- [ ] na? THTwig 2026 create [THTwigLLC-Accounting-2026]()
+- [ ] na? THTwig 2025 cleanup [THTwigLLC-Accounting-2025]()
+
+**Phase 2:**
+- [ ] CAT9 2026 create [CAT9LLC-Accounting-2026]()
+- [ ] CAT9 2025 cleanup [CAT9LLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1-JSVuIgwLdqyJs1N5Co8EABvRcEyNK3avZG6N4Oxrjs/edit?gid=470966959#gid=470966959)
+
+**Phase 1:**
+- [X] TreesAES 2026 create [TreesAESLLC-Accounting-2026](https://docs.google.com/spreadsheets/d/1jQFp9TBkADWO40x1NXBxhLt9_yZ8cfXzuP3DgbaITfE/edit?gid=1395902795#gid=1395902795)
+- [X] TreesAES IA Realestate payment check [IATreasureTreesAES](https://www.iowatreasurers.org/)
+- [X] TreesAES 2025 cleanup [TreesAESLLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1P_gTkphjka2Ot6EkZBj5sjvvH7BHfbs4gyb83QGWYZE/edit?gid=1395902795#gid=1395902795)
+- [X] FHKlopFarms 2026 create [FHKlopFarmsLLC-Accounting-2026](https://docs.google.com/spreadsheets/d/1NBTwY7Qd5-BmPGZgRS51klU9UxsD8G9m2myGSfcHviY/edit?gid=1395902795#gid=1395902795)
+- [X] FHKlopFarms IA Realestate payment check [IATreasureFHKlopFarms](https://www.iowatreasurers.org/)
+- [X] FHKlopFarms 2025 cleanup [FHKlopFarmsLLC-Accounting-2025](https://docs.google.com/spreadsheets/d/1wJSD83kC6PMi4bHzpzOU1yWbvvmjuEfGdlxIgHqtC9A/edit?gid=1395902795#gid=1395902795)
+
+</details>
+
+<details>
 <summary><strong>Task: Move LLC Priceline charges to related LLC</strong> <span>@type:task @priority:low @project:cat9-acct-LLC</span></summary>
 
 **Definition of Done:**
