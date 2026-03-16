@@ -3,7 +3,9 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 16 days | **Last Check-In:** 2026-03-15
+**Current Streak:** 17 days | **Last Check-In:** 2026-03-16
+
+- **2026-03-16 (Mon):** 🎯 Monday in Cedar Falls: Snow removal + QBOL work after
 
 ---
 
@@ -92,9 +94,8 @@
 ---
 
 # Yesterday
-✓ Snow removal in Cedar Falls
-✓ QBOL route-ticket-printing development
-✓ Sunday Evening Review completed
+✓ Sunday Evening Review completed - week planned
+✓ Snow storm arrived in Cedar Falls
 
 ---
 
