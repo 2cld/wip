@@ -3,33 +3,20 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 17 days | **Last Check-In:** 2026-03-16
+**Current Streak:** 18 days | **Last Check-In:** 2026-03-17
 
-- **2026-03-16 (Mon):** 🎯 Monday in Cedar Falls: Snow removal + QBOL work after
+- **2026-03-17 (Tue):** 🎯 Tuesday in Cedar Falls
+- **2026-03-16 (Mon):** ✓ QBOL route-ticket-printing DONE + christrees.com/resume DONE + LLC Land Tax paid + BFletch 1040 sent + snow shoveled
 
 ---
 
 # Today
-**Top 3 Priorities for Monday, March 16:**
-1. [X] QBOL route-ticket-printing development
-2. [X] LLC Land Tax prep - review FHKlopFarms and TreesAES payments
-3. [X] Process inbox items
-4. [X] Shovel snow
-
-**Tonight:** Sunday Evening Review
+**Top 3 Priorities for Tuesday, March 17:**
+1. QBOL - Route Print with Invoice import (next phase)
+2. Process inbox items (cf TV network, iPhone storage, iWatch, remote storage)
+3. BHay 1040 + CTrees 1040 prep (April 14 deadline - 28 days)
 
 ## Current Tasks details
-
-<details>
-<summary>[X] <strong>Task: QBOL route-ticket-printing</strong> <span>@type:task @priority:high @project:cat9-hwpc-qbol</span></summary>
-
-**Definition of Done:** → [wip-detail/hwpc-qbol-notes.md](./wip-detail/hwpc-qbol-notes.md)
-- [X] Define route ticket format and fields
-- [X] Build printing workflow
-- [X] Test with HWPC field service team
-- [X] Integrate with qb_migration data pipeline
-
-</details>
 
 <details>
 <summary><strong>Task: Create Route Print for HWPC with Invoice import</strong> <span>@type:task @priority:high @project:cat9-hwpc-qbol</span></summary>
@@ -66,28 +53,14 @@
 
 </details>
 
-<details>
-<summary>[X] <strong>Task: Update christrees.com / resume</strong> <span>@type:task @priority:medium @project:personal</span></summary>
-
-**Definition of Done:**
-- [X] christrees.com updated with current info
-- [X] Resume reviewed and refreshed
-- [X] Ready to send to headhunter
-
-</details>
-
 ---
 
 # Due Soon
 **Format:** YYYY-MM-DD - Task Description
 
-- [X] **2026-03-31** - FHKlopFarms LLC Land Tax [FHKlopFarms](https://docs.google.com/spreadsheets/d/1wJSD83kC6PMi4bHzpzOU1yWbvvmjuEfGdlxIgHqtC9A/edit?gid=1395902795#gid=1395902795) and [IA Rev AutoPay](https://filings.sos.iowa.gov/Account/Login?ReturnUrl=%2fDashboard) @type:task @project:accounting @priority:high
-- [X] **2026-03-31** - TreesAES LLC Land Tax [TreesAES](https://docs.google.com/spreadsheets/d/1jQFp9TBkADWO40x1NXBxhLt9_yZ8cfXzuP3DgbaITfE/edit?gid=1395902795#gid=1395902795) and [IA Rev AutoPay](https://filings.sos.iowa.gov/Account/Login?ReturnUrl=%2fDashboard) @type:task @project:accounting @priority:high
----
-- [X] **2026-04-14** - 1040 2025 BFletch Send @type:task @priority:high @project:accounting
 - **2026-04-14** - 1040 2025 BHay Send @type:task @priority:high @project:accounting
 - **2026-04-14** - 1040 2025 CTrees Send @type:task @priority:high @project:accounting
----
+
 - **2026-04-30** - IA 1065 manual file [googleai instructions](https://share.google/aimode/wgpBIcMB9nfwryieG) @type:link @project:accounting
 - **2026-04-30** - IA 1065 no income or expense [Googleai](https://share.google/aimode/NtFvRnACVfHpMpn8Q) @type:link @project:accounting
 - **2026-09-30** - IA auto-extension if no tax payment - Cheaper eTax forms [olt.com](https://www.olt.com/main/oltstateff/ia.php) @type:link @project:accounting
@@ -95,23 +68,24 @@
 ---
 
 # Yesterday
-✓ Sunday Evening Review completed - week planned
-✓ Snow storm arrived in Cedar Falls
+✓ QBOL route-ticket-printing completed
+✓ christrees.com updated + resume sent to headhunter
+✓ LLC Land Tax paid (FHKlopFarms + TreesAES)
+✓ 1040 BFletch sent
+✓ Rental roof checked
+✓ Snow shoveled
 
 ---
 
 # Inbox
 **Items to be processed and tagged during morning routine**
-- Fix cf TV network at BFletch
-- Fix iPhone storage
-- Fix iWatch connection
-- Setup remote storage cf wf sl
+- Fix cf TV network at BFletch @type:task @project:personal
+- Fix iPhone storage @type:task @project:personal
+- Fix iWatch connection @type:task @project:personal
+- Setup remote storage cf wf sl @type:task @project:nsadmin
 - Document workstation setups @type:task @project:personal
 - Check Insurance payments @type:task @project:accounting
 - Make list of Rental jobs @type:task @project:property
-- [X] Check Rental roof @type:task @project:property
-- [X] Run Resume stuff → merged with christrees.com update above
-- [X] Headhunter asked for resume → christrees.com update @type:task @priority:medium @project:personal
 
 **Processed 2026-03-02 through 2026-03-06:**
 - [Archived to logs/inbox-archive-2026-03.md](./logs/inbox-archive-2026-03.md)
