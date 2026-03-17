@@ -11,22 +11,23 @@
 
 # Today
 **Top 3 Priorities for Monday, March 16:**
-1. QBOL route-ticket-printing development
-2. LLC Land Tax prep - review FHKlopFarms and TreesAES payments
-3. Process inbox items
+1. [X] QBOL route-ticket-printing development
+2. [X] LLC Land Tax prep - review FHKlopFarms and TreesAES payments
+3. [X] Process inbox items
+4. [X] Shovel snow
 
 **Tonight:** Sunday Evening Review
 
 ## Current Tasks details
 
 <details>
-<summary><strong>Task: QBOL route-ticket-printing</strong> <span>@type:task @priority:high @project:cat9-hwpc-qbol</span></summary>
+<summary>[X] <strong>Task: QBOL route-ticket-printing</strong> <span>@type:task @priority:high @project:cat9-hwpc-qbol</span></summary>
 
 **Definition of Done:** → [wip-detail/hwpc-qbol-notes.md](./wip-detail/hwpc-qbol-notes.md)
-- [ ] Define route ticket format and fields
-- [ ] Build printing workflow
-- [ ] Test with HWPC field service team
-- [ ] Integrate with qb_migration data pipeline
+- [X] Define route ticket format and fields
+- [X] Build printing workflow
+- [X] Test with HWPC field service team
+- [X] Integrate with qb_migration data pipeline
 
 </details>
 
@@ -66,12 +67,12 @@
 </details>
 
 <details>
-<summary><strong>Task: Update christrees.com / resume</strong> <span>@type:task @priority:medium @project:personal</span></summary>
+<summary>[X] <strong>Task: Update christrees.com / resume</strong> <span>@type:task @priority:medium @project:personal</span></summary>
 
 **Definition of Done:**
-- [ ] christrees.com updated with current info
-- [ ] Resume reviewed and refreshed
-- [ ] Ready to send to headhunter
+- [X] christrees.com updated with current info
+- [X] Resume reviewed and refreshed
+- [X] Ready to send to headhunter
 
 </details>
 
@@ -81,11 +82,11 @@
 # Due Soon
 **Format:** YYYY-MM-DD - Task Description
 
-- **2026-04-14** - 1040 2025 BFletch Send @type:task @priority:high @project:accounting
+- [X] **2026-04-14** - 1040 2025 BFletch Send @type:task @priority:high @project:accounting
 - **2026-04-14** - 1040 2025 BHay Send @type:task @priority:high @project:accounting
 - **2026-04-14** - 1040 2025 CTrees Send @type:task @priority:high @project:accounting
-- **2026-03-31** - FHKlopFarms LLC Land Tax [FHKlopFarms](https://docs.google.com/spreadsheets/d/1wJSD83kC6PMi4bHzpzOU1yWbvvmjuEfGdlxIgHqtC9A/edit?gid=1395902795#gid=1395902795) and [IA Rev AutoPay](https://filings.sos.iowa.gov/Account/Login?ReturnUrl=%2fDashboard) @type:task @project:accounting @priority:high
-- **2026-03-31** - TreesAES LLC Land Tax [TreesAES](https://docs.google.com/spreadsheets/d/1jQFp9TBkADWO40x1NXBxhLt9_yZ8cfXzuP3DgbaITfE/edit?gid=1395902795#gid=1395902795) and [IA Rev AutoPay](https://filings.sos.iowa.gov/Account/Login?ReturnUrl=%2fDashboard) @type:task @project:accounting @priority:high
+- [X] **2026-03-31** - FHKlopFarms LLC Land Tax [FHKlopFarms](https://docs.google.com/spreadsheets/d/1wJSD83kC6PMi4bHzpzOU1yWbvvmjuEfGdlxIgHqtC9A/edit?gid=1395902795#gid=1395902795) and [IA Rev AutoPay](https://filings.sos.iowa.gov/Account/Login?ReturnUrl=%2fDashboard) @type:task @project:accounting @priority:high
+- [X] **2026-03-31** - TreesAES LLC Land Tax [TreesAES](https://docs.google.com/spreadsheets/d/1jQFp9TBkADWO40x1NXBxhLt9_yZ8cfXzuP3DgbaITfE/edit?gid=1395902795#gid=1395902795) and [IA Rev AutoPay](https://filings.sos.iowa.gov/Account/Login?ReturnUrl=%2fDashboard) @type:task @project:accounting @priority:high
 
 - **2026-04-30** - IA 1065 manual file [googleai instructions](https://share.google/aimode/wgpBIcMB9nfwryieG) @type:link @project:accounting
 - **2026-04-30** - IA 1065 no income or expense [Googleai](https://share.google/aimode/NtFvRnACVfHpMpn8Q) @type:link @project:accounting
@@ -101,12 +102,16 @@
 
 # Inbox
 **Items to be processed and tagged during morning routine**
-- Headhunter asked for resume → christrees.com update @type:task @priority:medium @project:personal
+- Fix cf TV network at BFletch
+- Fix iPhone storage
+- Fix iWatch connection
+- Setup remote storage cf wf sl
 - Document workstation setups @type:task @project:personal
 - Check Insurance payments @type:task @project:accounting
-- Check Rental roof @type:task @project:property
 - Make list of Rental jobs @type:task @project:property
-- Run Resume stuff → merged with christrees.com update above
+- [X] Check Rental roof @type:task @project:property
+- [X] Run Resume stuff → merged with christrees.com update above
+- [X] Headhunter asked for resume → christrees.com update @type:task @priority:medium @project:personal
 
 **Processed 2026-03-02 through 2026-03-06:**
 - [Archived to logs/inbox-archive-2026-03.md](./logs/inbox-archive-2026-03.md)
