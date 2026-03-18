@@ -3,18 +3,19 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 18 days | **Last Check-In:** 2026-03-17
+**Current Streak:** 19 days | **Last Check-In:** 2026-03-18
 
-- **2026-03-17 (Tue):** 🎯 Tuesday in Cedar Falls
+- **2026-03-18 (Wed):** 🎯 Wednesday in Cedar Falls
+- **2026-03-17 (Tue):** ✓ QBOL Route Print + Invoice import progress + Netstack/site cleanup
 - **2026-03-16 (Mon):** ✓ QBOL route-ticket-printing DONE + christrees.com/resume DONE + LLC Land Tax paid + BFletch 1040 sent + snow shoveled
 
 ---
 
 # Today
-**Top 3 Priorities for Tuesday, March 17:**
-1. QBOL - Route Print with Invoice import (next phase)
+**Top 3 Priorities for Wednesday, March 18:**
+1. LLC payments - IA Rev AutoPay setup (per schedule)
 2. Process inbox items (cf TV network, iPhone storage, iWatch, remote storage)
-3. BHay 1040 + CTrees 1040 prep (April 14 deadline - 28 days)
+3. BHay 1040 + CTrees 1040 prep (April 14 deadline - 27 days)
 
 ## Current Tasks details
 
@@ -68,12 +69,8 @@
 ---
 
 # Yesterday
-✓ QBOL route-ticket-printing completed
-✓ christrees.com updated + resume sent to headhunter
-✓ LLC Land Tax paid (FHKlopFarms + TreesAES)
-✓ 1040 BFletch sent
-✓ Rental roof checked
-✓ Snow shoveled
+✓ QBOL Route Print with Invoice import work
+✓ Netstack and sl, cf site cleanup
 
 ---
 
