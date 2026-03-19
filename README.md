@@ -3,22 +3,20 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 19 days | **Last Check-In:** 2026-03-18
+**Current Streak:** 20 days | **Last Check-In:** 2026-03-19
 
-- **2026-03-18 (Wed):** 🎯 Wednesday in Cedar Falls
+- **2026-03-19 (Thu):** 🎯 Thursday in Cedar Falls
+- **2026-03-18 (Wed):** ✓ LLC AutoPay setup + QBOL HWPC-Routes demo + cleared driveway tree at Andi's + netstack updates
 - **2026-03-17 (Tue):** ✓ QBOL Route Print + Invoice import progress + Netstack/site cleanup
 - **2026-03-16 (Mon):** ✓ QBOL route-ticket-printing DONE + christrees.com/resume DONE + LLC Land Tax paid + BFletch 1040 sent + snow shoveled
 
 ---
 
 # Today
-**Top 3 Priorities for Wednesday, March 18:**
-1. [X] LLC payments - IA Rev AutoPay setup (per schedule)
-2. Process inbox items (cf TV network, iPhone storage, iWatch, remote storage)
-3. BHay 1040 + CTrees 1040 prep (April 14 deadline - 27 days)
-4. [X] Cleared driveway tree on Andi's house with neighbor Doug 11am - 12:30pm
-5. [X] QBOL HWPC-Routes website Demo
-6. [X] Update netstack sl and cf
+**Top 3 Priorities for Thursday, March 19:**
+1. QBOL - Looney Tunes example data + lifecycle demo
+2. BHay 1040 + CTrees 1040 prep (April 14 deadline - 26 days)
+3. Process inbox (Andi's furnace + remaining items)
 
 ## Current Tasks details
 
@@ -90,8 +88,10 @@
 ---
 
 # Yesterday
-✓ QBOL Route Print with Invoice import work
-✓ Netstack and sl, cf site cleanup
+✓ LLC payments IA Rev AutoPay setup
+✓ QBOL HWPC-Routes website demo
+✓ Cleared driveway tree at Andi's with neighbor Doug
+✓ Updated netstack sl and cf sites
 
 ---
 
