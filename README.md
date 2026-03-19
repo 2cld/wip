@@ -13,24 +13,43 @@
 
 # Today
 **Top 3 Priorities for Wednesday, March 18:**
-1. LLC payments - IA Rev AutoPay setup (per schedule)
+1. [X] LLC payments - IA Rev AutoPay setup (per schedule)
 2. Process inbox items (cf TV network, iPhone storage, iWatch, remote storage)
 3. BHay 1040 + CTrees 1040 prep (April 14 deadline - 27 days)
+4. [X] Cleared driveway tree on Andi's house with neighbor Doug 11am - 12:30pm
+5. [X] QBOL HWPC-Routes website Demo
+6. [X] Update netstack sl and cf
 
 ## Current Tasks details
 
 <details>
-<summary><strong>Task: Create Route Print for HWPC with Invoice import</strong> <span>@type:task @priority:high @project:cat9-hwpc-qbol</span></summary>
+<summary><strong>Task: QBOL HWPC Route Print with Invoice import / export</strong> </summary>
+
+<span>@type:task @priority:high @project:[cat9-hwpc-qbol](./wip-detail/hwpc-qbol-notes.md)</span>
 
 **Definition of Done:**
-- [ ] Route print functionality created
-- [ ] Invoice import working
-- [ ] Tested with sample data
+- [X] Route print functionality created
+- [ ] Create Looney Tunes (LT) example Data
+- [ ] Work out lifecycle demo
+  - [ ] LT Route ID import
+  - [ ] LT customer import
+  - [ ] LT customer service location import
+  - [ ] LT customer invoice import
+- [ ] Looney Tunes (LT) demo
+  - [ ] LT docs/explain
+  - [ ] LT docs/stepbystep
+  - [ ] LT Video Demo
+  - [ ] Post LT demo
+  - [ ] remote access demo server
+- [ ] Test Route Print with old QB2024
+- [ ] Test Route Print with new QBOL
 
 </details>
 
 <details>
-<summary><strong>Task: Setup LLC payments</strong> <span>@type:task @priority:medium @project:cat9-acct-LLC</span></summary>
+<summary><strong>Task: Setup LLC payments</strong> </summary>
+
+<span>@type:task @priority:medium @project:[cat9-acct-LLC](./wip-detail/LLC-EOY.md)</span>
 
 **Definition of Done:**
 - [ ] FHKlopFarms Utilites
@@ -44,7 +63,9 @@
 </details>
 
 <details>
-<summary><strong>Task: MediaVolume cleanup old data</strong> <span>@type:task @priority:medium @project:personal</span></summary>
+<summary><strong>Task: MediaVolume cleanup old data</strong> </summary>
+
+<span>@type:task @priority:medium @project:[ops-storage-management](./docs/ops-storage-management.md)</span>
 
 **Definition of Done:**
 - [ ] Document storage
@@ -76,6 +97,12 @@
 
 # Inbox
 **Items to be processed and tagged during morning routine**
+- Clean out Andi's furnace
+- Make travel case for catpi
+- setup for iPhone in catpi travel
+- Entry desk setup for catpi
+- separtate Account data from qb_migration
+- manual backup of Tax data
 - Fix cf TV network at BFletch @type:task @project:personal
 - Fix iPhone storage @type:task @project:personal
 - Fix iWatch connection @type:task @project:personal
