@@ -3,9 +3,10 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 20 days | **Last Check-In:** 2026-03-19
+**Current Streak:** 21 days | **Last Check-In:** 2026-03-20
 
-- **2026-03-19 (Thu):** 🎯 Thursday in Cedar Falls
+- **2026-03-20 (Fri):** 🎯 Friday in Cedar Falls
+- **2026-03-19 (Thu):** ✓ QBOL LT demo TRAINING-DEMO.md + garage cleanup + checked in with Brad (wet tile saw)
 - **2026-03-18 (Wed):** ✓ LLC AutoPay setup + QBOL HWPC-Routes demo + cleared driveway tree at Andi's + netstack updates
 - **2026-03-17 (Tue):** ✓ QBOL Route Print + Invoice import progress + Netstack/site cleanup
 - **2026-03-16 (Mon):** ✓ QBOL route-ticket-printing DONE + christrees.com/resume DONE + LLC Land Tax paid + BFletch 1040 sent + snow shoveled
@@ -13,9 +14,9 @@
 ---
 
 # Today
-**Top 3 Priorities for Thursday, March 19:**
-1. QBOL - Looney Tunes example data + lifecycle demo
-2. BHay 1040 + CTrees 1040 prep (April 14 deadline - 26 days)
+**Top 3 Priorities for Friday, March 20:**
+1. BHay 1040 + CTrees 1040 prep (April 14 deadline - 25 days)
+2. QBOL - continue LT lifecycle demo
 3. Process inbox (Andi's furnace + remaining items)
 
 ## Current Tasks details
@@ -27,15 +28,16 @@
 
 **Definition of Done:**
 - [X] Route print functionality created
-- [ ] Create Looney Tunes (LT) example Data
+- [X] Create Looney Tunes (LT) example Data
 - [ ] Work out lifecycle demo
   - [ ] LT Route ID import
   - [ ] LT customer import
   - [ ] LT customer service location import
   - [ ] LT customer invoice import
+- [X] Create LT smoke demo TRAINING-DEMO.md
 - [ ] Looney Tunes (LT) demo
-  - [ ] LT docs/explain
-  - [ ] LT docs/stepbystep
+  - [X] LT docs/explain
+  - [X] LT docs/stepbystep
   - [ ] LT Video Demo
   - [ ] Post LT demo
   - [ ] remote access demo server
@@ -69,6 +71,8 @@
 - [ ] Document storage
 - [ ] tar CATPhotos
 - [ ] Document proceedure in [docs/ops-storage-management.md](docs/ops-storage-management.md)
+- [X] git commit Account
+- [X] Backup Account
 - [X] tar CATMusic 13G
 
 </details>
