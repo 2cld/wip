@@ -3,21 +3,23 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 21 days | **Last Check-In:** 2026-03-20
+**Current Streak:** 22 days | **Last Check-In:** 2026-03-21
 
-- **2026-03-20 (Fri):** 🎯 Friday in Cedar Falls
+- **2026-03-21 (Sat):** 🎯 Saturday in Cedar Falls
+- **2026-03-20 (Fri):** ✓ QBOL LT lifecycle demo + QBOL production integration planning + River Place + CF Library + Trink sync
 - **2026-03-19 (Thu):** ✓ QBOL LT demo TRAINING-DEMO.md + garage cleanup + checked in with Brad (wet tile saw)
 - **2026-03-18 (Wed):** ✓ LLC AutoPay setup + QBOL HWPC-Routes demo + cleared driveway tree at Andi's + netstack updates
 - **2026-03-17 (Tue):** ✓ QBOL Route Print + Invoice import progress + Netstack/site cleanup
-- **2026-03-16 (Mon):** ✓ QBOL route-ticket-printing DONE + christrees.com/resume DONE + LLC Land Tax paid + BFletch 1040 sent + snow shoveled
 
 ---
 
 # Today
-**Top 3 Priorities for Friday, March 20:**
-1. BHay 1040 + CTrees 1040 prep (April 14 deadline - 25 days)
-2. QBOL - continue LT lifecycle demo
+**Top 3 Priorities for Saturday, March 21:**
+1. BHay 1040 + CTrees 1040 prep (April 14 deadline - 24 days)
+2. QBOL - production integration next steps
 3. Process inbox (Andi's furnace + remaining items)
+
+**Tonight:** Sunday Evening Review prep
 
 ## Current Tasks details
 
@@ -26,14 +28,12 @@
 
 <span>@type:task @priority:high @project:[cat9-hwpc-qbol](./wip-detail/hwpc-qbol-notes.md)</span>
 
+- [cat9-hwpc-qbol wip-detail](./wip-detail/hwpc-qbol-notes.md)
+- [ns-account gitea](https://gitea.cat9.me/nsadmin/ns-account)
+
 **Definition of Done:**
 - [X] Route print functionality created
 - [X] Create Looney Tunes (LT) example Data
-- [ ] Work out lifecycle demo
-  - [ ] LT Route ID import
-  - [ ] LT customer import
-  - [ ] LT customer service location import
-  - [ ] LT customer invoice import
 - [X] Create LT smoke demo TRAINING-DEMO.md
 - [ ] Looney Tunes (LT) demo
   - [X] LT docs/explain
@@ -41,6 +41,21 @@
   - [ ] LT Video Demo
   - [ ] Post LT demo
   - [ ] remote access demo server
+- [ ] Imports cvs 
+  - [ ] Route ID import
+  - [ ] customer import
+  - [ ] customer service location import
+  - [ ] customer invoice import
+- [ ] Export cvs 
+  - [ ] Route ID export
+  - [ ] customer export
+  - [ ] customer service location export
+  - [ ] customer invoice export
+- [ ] Work out lifecycle demo
+  - [ ] LT Route ID import
+  - [ ] LT customer import
+  - [ ] LT customer service location import
+  - [ ] LT customer invoice import
 - [ ] Test Route Print with old QB2024
 - [ ] Test Route Print with new QBOL
 
