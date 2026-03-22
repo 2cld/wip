@@ -3,23 +3,36 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 22 days | **Last Check-In:** 2026-03-21
+**Current Streak:** 23 days | **Last Check-In:** 2026-03-22
 
-- **2026-03-21 (Sat):** 🎯 Saturday in Cedar Falls
+- **2026-03-22 (Sun):** 🎯 Sunday in Cedar Falls: MacMini setup + 1040s + QBOL invoice import + weekly review
+- **2026-03-21 (Sat):** ✓ QBOL production import working! Customers/routes imported + full month auto-scheduled + travel kit cleanup + laundry + MacMini proxmox pulled out
 - **2026-03-20 (Fri):** ✓ QBOL LT lifecycle demo + QBOL production integration planning + River Place + CF Library + Trink sync
 - **2026-03-19 (Thu):** ✓ QBOL LT demo TRAINING-DEMO.md + garage cleanup + checked in with Brad (wet tile saw)
 - **2026-03-18 (Wed):** ✓ LLC AutoPay setup + QBOL HWPC-Routes demo + cleared driveway tree at Andi's + netstack updates
-- **2026-03-17 (Tue):** ✓ QBOL Route Print + Invoice import progress + Netstack/site cleanup
 
 ---
 
 # Today
-**Top 3 Priorities for Saturday, March 21:**
-1. BHay 1040 + CTrees 1040 prep (April 14 deadline - 24 days)
-2. QBOL - production integration next steps
-3. Process inbox (Andi's furnace + remaining items)
+**Top 3 Priorities for Sunday, March 22:**
+1. MacMini setup at Andi's - get online, access old info, start ns-site-template + federation project
+2. 1040s - find and resolve IRA issue (finally got info back)
+3. QBOL invoice import attempt
 
-**Tonight:** Sunday Evening Review prep
+**Tonight:** Sunday Evening Review
+
+## Current Tasks details
+
+<details>
+<summary><strong>Task: Fire up MacMinis at Andi's</strong> <span>@type:task @priority:high @project:nsadmin</span></summary>
+
+**Definition of Done:**
+- [ ] MacMinis online and accessible
+- [ ] Access old info confirmed
+- [ ] ns-site-template project started
+- [ ] Federation project started
+
+</details>
 
 ## Current Tasks details
 
@@ -107,16 +120,16 @@
 ---
 
 # Yesterday
-✓ LLC payments IA Rev AutoPay setup
-✓ QBOL HWPC-Routes website demo
-✓ Cleared driveway tree at Andi's with neighbor Doug
-✓ Updated netstack sl and cf sites
+✓ QBOL production import working - customers/routes imported + full month auto-scheduled
+✓ Travel kit cleanup + laundry
+✓ MacMini proxmox pulled out and prepped
 
 ---
 
 # Inbox
 **Items to be processed and tagged during morning routine**
-- Clean out Andi's furnace
+- Connect Wip to Google Calendar @type:task @priority:low @project:cat9-dev-wip
+- Clean out Andi's furnace @type:task @project:personal
 - Make travel case for catpi
 - setup for iPhone in catpi travel
 - Entry desk setup for catpi
