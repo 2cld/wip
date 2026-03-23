@@ -3,33 +3,23 @@
 [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 23 days | **Last Check-In:** 2026-03-22
+**Current Streak:** 24 days | **Last Check-In:** 2026-03-23
 
-- **2026-03-22 (Sun):** 🎯 Sunday in Cedar Falls: MacMini setup + 1040s + QBOL invoice import + weekly review
-- **2026-03-21 (Sat):** ✓ QBOL production import working! Customers/routes imported + full month auto-scheduled + travel kit cleanup + laundry + MacMini proxmox pulled out
-- **2026-03-20 (Fri):** ✓ QBOL LT lifecycle demo + QBOL production integration planning + River Place + CF Library + Trink sync
-- **2026-03-19 (Thu):** ✓ QBOL LT demo TRAINING-DEMO.md + garage cleanup + checked in with Brad (wet tile saw)
-- **2026-03-18 (Wed):** ✓ LLC AutoPay setup + QBOL HWPC-Routes demo + cleared driveway tree at Andi's + netstack updates
+- **2026-03-23 (Mon):** 🎯 Monday in Cedar Falls: Weekly review + QBOL + 1040 follow-up
+- **2026-03-22 (Sun):** ✓ MacMinis up at Andi's + 1040 IRA issue resolved + HWPC work with Mark + QB2024→QBOL migration (Mar 22 backup) + route print template updates + Iowa/Iowa State Sweet Sixteen! 🏀
+- **2026-03-21 (Sat):** ✓ QBOL production import working! Customers/routes imported + full month auto-scheduled + travel kit cleanup + MacMini proxmox pulled out
+- **2026-03-20 (Fri):** ✓ QBOL LT lifecycle demo + production integration planning + River Place + CF Library + Trink sync
+- **2026-03-19 (Thu):** ✓ QBOL LT demo TRAINING-DEMO.md + garage cleanup + checked in with Brad
 
 ---
 
 # Today
-**Top 3 Priorities for Sunday, March 22:**
-1. MacMini setup at Andi's - get online, access old info, start ns-site-template + federation project
-2. 1040s - find and resolve IRA issue (finally got info back)
-3. QBOL invoice import attempt
+**Top 3 Priorities for Monday, March 23:**
+1. QBOL - invoice import + continue QB2024→QBOL migration
+2. 1040 follow-up - BHay + CTrees (April 14 deadline - 22 days)
+3. Weekly review (didn't get to it last night)
 
-**Tonight:** Sunday Evening Review
-
-## Current Tasks details
-
-<details>
-<summary><strong>Task: Fire up MacMinis at Andi's</strong> <span>@type:task @priority:high @project:nsadmin</span></summary>
-
-**Definition of Done:**
-- [ ] MacMinis online and accessible
-- [ ] Access old info confirmed
-- [ ] ns-site-template project started
+**Tonight:** Sunday Evening Review (delayed)ite-template project started
 - [ ] Federation project started
 
 </details>
@@ -129,10 +119,13 @@
 # Inbox
 **Items to be processed and tagged during morning routine**
 - Connect Wip to Google Calendar @type:task @priority:low @project:cat9-dev-wip
-- Clean out Andi's furnace @type:task @project:personal
-- Make travel case for catpi
-- setup for iPhone in catpi travel
-- Entry desk setup for catpi
+# Yesterday
+✓ MacMinis up at Andi's - old info accessible
+✓ 1040 IRA issue resolved
+✓ HWPC work with Mark
+✓ QB2024→QBOL migration started (Mar 22 backup)
+✓ Route print template updates
+✓ Iowa AND Iowa State Sweet Sixteen! 🏀🏀
 - separtate Account data from qb_migration
 - manual backup of Tax data
 - Fix cf TV network at BFletch @type:task @project:personal
