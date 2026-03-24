@@ -2,6 +2,26 @@
 
 ## Weekly Metrics
 
+### Week of 2026-03-16 to 2026-03-22
+
+*   **Tasks Completed:** 10+ items across multiple projects
+*   **Completion Rate:** ~75% (big week, Sunday review skipped for Iowa/Iowa State Sweet Sixteen)
+*   **Key Accomplishments:**
+    *   QBOL production import working - customers/routes imported, full month auto-scheduled
+    *   QB2024→QBOL migration started (Mar 22 backup)
+    *   Route print template updates completed
+    *   MacMinis up at Andi's - old data accessible
+    *   1040 IRA issue resolved, BFletch 1040 sent
+    *   HWPC work with Mark (weekend)
+    *   Travel kit cleanup + MacMini proxmox setup pulled out
+    *   Iowa AND Iowa State both advance to Sweet Sixteen 🏀🏀
+    *   Maintained 25-day daily check-in streak
+*   **Blockers Identified:**
+    *   Sunday Evening Review skipped (basketball)
+    *   BHay + CTrees 1040s still pending (April 14 deadline)
+    *   QBOL invoice import not yet started
+    *   Weekly review carried into next week
+
 ### Week of 2026-03-09 to 2026-03-15
 
 *   **Tasks Completed:** 10+ items across multiple projects

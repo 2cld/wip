@@ -1,5 +1,37 @@
 # Weekly Schedule
 
+## Week of 2026-03-23 to 2026-03-29
+
+**Week Focus:** QBOL invoice import + 1040 BHay/CTrees + weekly review catch-up + MacMini ns-site-template
+
+*   **Monday (Mar 23):**
+    *   README reorganization + inbox cleanup
+    
+*   **Tuesday (Mar 24):**
+    *   Morning: QBOL invoice import (CSV) + QB2024→QBOL migration
+    *   Afternoon: 1040 BHay + CTrees push
+    *   Evening: Weekly review (overdue from Sun Mar 22)
+    
+*   **Wednesday (Mar 25):**
+    *   Morning: QBOL continued / LT video demo prep
+    *   Afternoon: 1040 follow-up / send if ready
+    
+*   **Thursday (Mar 26):**
+    *   Morning: ns-site-template + federation project start
+    *   Afternoon: HWPC QBOL integration prep (weekend target)
+    
+*   **Friday (Mar 27):**
+    *   Morning: QBOL integration with Mark (weekend prep)
+    *   Afternoon: Review week, plan next steps
+
+**Weekend Buffer:** March 28-29 - QBOL integration attempt with Mark
+
+**Key Deadlines:**
+- April 1-25 - Gus visit and appointments
+- April 14 - 1040 BHay Send
+- April 14 - 1040 CTrees Send
+- April 30 - IA 1065 manual file
+
 ## Week of 2026-03-16 to 2026-03-22
 
 **Week Focus:** QBOL route-ticket-printing + LLC Land Tax prep (March 31) + O'Fallon trip + christrees.com/resume

@@ -1,33 +1,35 @@
 [edit](https://github.com/2cld/wip/edit/main/README.md)
 
-[Meeting Link](https://meet.google.com/dov-vkev-tzm)
+Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 24 days | **Last Check-In:** 2026-03-23
+**Current Streak:** 25 days | **Last Check-In:** 2026-03-24
 
-- **2026-03-23 (Mon):** 🎯 Monday in Cedar Falls: Weekly review + QBOL + 1040 follow-up
+## Today
+**Top 3 Priorities for Tuesday, March 24:**
+1. QBOL - invoice import + QB2024→QBOL migration
+2. 1040 BHay + CTrees (April 14 deadline - 21 days)
+3. Weekly review (overdue - do tonight!)
+
+##### History
+
+<details>
+<summary><strong>This Week</strong> </summary>
+
+- **2026-03-24 (Tue):** 🎯 Tuesday in Cedar Falls: QBOL + 1040s + weekly review
+- **2026-03-23 (Mon):** ✓ README reorganization + inbox cleanup
 - **2026-03-22 (Sun):** ✓ MacMinis up at Andi's + 1040 IRA issue resolved + HWPC work with Mark + QB2024→QBOL migration (Mar 22 backup) + route print template updates + Iowa/Iowa State Sweet Sixteen! 🏀
 - **2026-03-21 (Sat):** ✓ QBOL production import working! Customers/routes imported + full month auto-scheduled + travel kit cleanup + MacMini proxmox pulled out
 - **2026-03-20 (Fri):** ✓ QBOL LT lifecycle demo + production integration planning + River Place + CF Library + Trink sync
-- **2026-03-19 (Thu):** ✓ QBOL LT demo TRAINING-DEMO.md + garage cleanup + checked in with Brad
-
----
-
-# Today
-**Top 3 Priorities for Monday, March 23:**
-1. QBOL - invoice import + continue QB2024→QBOL migration
-2. 1040 follow-up - BHay + CTrees (April 14 deadline - 22 days)
-3. Weekly review (didn't get to it last night)
-
-**Tonight:** Sunday Evening Review (delayed)ite-template project started
-- [ ] Federation project started
 
 </details>
 
-## Current Tasks details
+---
+
+##### Current Epics
 
 <details>
-<summary><strong>Task: QBOL HWPC Route Print with Invoice import / export</strong> </summary>
+<summary><strong>EPIC: QBOL HWPC Route Print with Invoice import / export</strong> </summary>
 
 <span>@type:task @priority:high @project:[cat9-hwpc-qbol](./wip-detail/hwpc-qbol-notes.md)</span>
 
@@ -61,11 +63,13 @@
   - [ ] LT customer invoice import
 - [ ] Test Route Print with old QB2024
 - [ ] Test Route Print with new QBOL
+- Connect Wip to Google Calendar
+- separtate Account data from qb_migration
 
 </details>
 
 <details>
-<summary><strong>Task: Setup LLC payments</strong> </summary>
+<summary><strong>EPIC: Setup LLC payments</strong> </summary>
 
 <span>@type:task @priority:medium @project:[cat9-acct-LLC](./wip-detail/LLC-EOY.md)</span>
 
@@ -77,11 +81,13 @@
 - [ ] TreesAES ACI*Windstream
 - [ ] TH Twig ACI*WINDSTREAM
 - [ ] TH Twig USCELL
+- Check Insurance payments @type:task @project:accounting
+- Make list of Rental jobs @type:task @project:property
 
 </details>
 
 <details>
-<summary><strong>Task: MediaVolume cleanup old data</strong> </summary>
+<summary><strong>EPIC: MediaVolume cleanup old data</strong> </summary>
 
 <span>@type:task @priority:medium @project:[ops-storage-management](./docs/ops-storage-management.md)</span>
 
@@ -92,56 +98,66 @@
 - [X] git commit Account
 - [X] Backup Account
 - [X] tar CATMusic 13G
+- Fix cf TV network at BFletch @type:task @project:personal
+- Fix iPhone storage @type:task @project:personal
+- Fix iWatch connection @type:task @project:personal
+- Setup remote storage cf wf sl @type:task @project:nsadmin
+- video monitors online @type:task @project:personal
+- ha frigit @type:task @project:personal
+- ha tivo @type:task @project:personal
+- Review sl.2cld.net network and storage stuff @type:task @project:nsadmin
 
 </details>
 
 ---
 
-# Due Soon
+# Inbox
+**Items to be processed and tagged during morning routine**
+
+- Document workstation setups @type:task @project:personal
+
+- ping 1x linkedin @type:task @project:personal
+  - https://github.com/elggem?tab=repositories - 1X VP SW personal
+  - https://www.linkedin.com/in/ralfmayet/
+
+---
+
+###### Other
+
+<details>
+<summary><strong>Calendar Event Monitor</strong> </summary>
+
+# Calendar Event Monitor
 **Format:** YYYY-MM-DD - Task Description
+
+- **2026-04-01:25** - Gus visit and appointments @type:event @priority:high @project:gus
 
 - **2026-04-14** - 1040 2025 BHay Send @type:task @priority:high @project:accounting
 - **2026-04-14** - 1040 2025 CTrees Send @type:task @priority:high @project:accounting
 
 - **2026-04-30** - IA 1065 manual file [googleai instructions](https://share.google/aimode/wgpBIcMB9nfwryieG) @type:link @project:accounting
 - **2026-04-30** - IA 1065 no income or expense [Googleai](https://share.google/aimode/NtFvRnACVfHpMpn8Q) @type:link @project:accounting
+
 - **2026-09-30** - IA auto-extension if no tax payment - Cheaper eTax forms [olt.com](https://www.olt.com/main/oltstateff/ia.php) @type:link @project:accounting
 
----
-
-# Yesterday
-✓ QBOL production import working - customers/routes imported + full month auto-scheduled
-✓ Travel kit cleanup + laundry
-✓ MacMini proxmox pulled out and prepped
+</details>
 
 ---
 
-# Inbox
-**Items to be processed and tagged during morning routine**
-- Connect Wip to Google Calendar @type:task @priority:low @project:cat9-dev-wip
-# Yesterday
-✓ MacMinis up at Andi's - old info accessible
-✓ 1040 IRA issue resolved
-✓ HWPC work with Mark
-✓ QB2024→QBOL migration started (Mar 22 backup)
-✓ Route print template updates
-✓ Iowa AND Iowa State Sweet Sixteen! 🏀🏀
-- separtate Account data from qb_migration
-- manual backup of Tax data
-- Fix cf TV network at BFletch @type:task @project:personal
-- Fix iPhone storage @type:task @project:personal
-- Fix iWatch connection @type:task @project:personal
-- Setup remote storage cf wf sl @type:task @project:nsadmin
-- Document workstation setups @type:task @project:personal
-- Check Insurance payments @type:task @project:accounting
-- Make list of Rental jobs @type:task @project:property
+<details>
+<summary><strong>Yesterday tasks</strong> </summary>
 
-**Processed 2026-03-02 through 2026-03-06:**
-- [Archived to logs/inbox-archive-2026-03.md](./logs/inbox-archive-2026-03.md)
+# Yesterday (Mon Mar 23)
+✓ README reorganization + inbox cleanup
+✓ Context transfer / Wip session setup
+
+</details>
 
 ---
 
-# Open code Projects
+<details>
+<summary><strong>Open code Projects</strong> </summary>
+
 **Projects getting active attention**
 
 ## nsadmin [https://gitea.cat9.me/nsadmin](https://gitea.cat9.me/nsadmin)
@@ -192,33 +208,22 @@
 - [cat9llc](https://gitea.cat9.me/cat/cat9llc)
 - need to arch [Account]()
 
+</details>
 
 ---
 
-# Backlog
-**Items that need attention but not urgent**
+##### Reference
 
-## Cleanup Projects
-- cleanup gdrive @type:task @project:personal
-  - hwpc has 180GB each user
+<details>
+<summary><strong>Projects</strong> </summary>
 
-## Random Items
-- ping 1x linkedin @type:task @project:personal
-  - https://github.com/elggem?tab=repositories - 1X VP SW personal
-  - https://www.linkedin.com/in/ralfmayet/
-- video monitors online @type:task @project:personal
-- ha frigit @type:task @project:personal
-- ha tivo @type:task @project:personal
-- Review sl.2cld.net network and storage stuff @type:task @project:nsadmin
+**Project reference links getting active attention**
 
----
+- [Wip-detail](./wip-detail/)
+- [tasks](./tasks)
+- [notes](./docs/)
+  - [docs/random-links.md](./docs/random-links.md)
+  - [docs/ai-cli-research](./docs/ai-cli-research)
+- [tbd]()
 
-# Reference
-**Static reference information**
-
-## Ponder [wip-detail](./wip-detail/) and [tasks](./tasks)
-
-## [notes](./docs/)
-- [docs/random-links.md](./docs/random-links.md)
-- [docs/ai-cli-research](./docs/ai-cli-research)
-
+</details>
