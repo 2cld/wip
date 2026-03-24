@@ -233,7 +233,12 @@ This is your weekly planning session to set yourself up for success.
 3. **Clean Due Soon:** Remove completed or past-due items from `# Due Soon`
 4. **Declutter Open Projects:** Archive stale notes/links to appropriate docs/ files
 5. **Clear Daily Check-In history:** Keep only the current week (Mon-Sun) in the Daily Check-In section - older entries are preserved in git history
-6. Goal: Start the week with a clean, focused README.md
+6. **Epic/Task checklist audit:** For each Epic in README.md, reconcile the checklist against actual work done during the week:
+   - Mark completed subtasks `[X]`
+   - Update `wip-detail/` notes with progress, decisions, and next steps
+   - Link any relevant repo issues or PRs (e.g., gitea issue URLs) into the Epic
+   - Move Epics with no activity this week back to `tasks.md`
+7. Goal: Start the week with a clean, focused README.md and accurate Epic checklists
 
 ### Step 5: Reset and Commit (5 min)
 1. Archive completed items from `# Yesterday`
