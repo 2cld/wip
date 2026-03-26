@@ -6,17 +6,18 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 **Current Streak:** 25 days | **Last Check-In:** 2026-03-24
 
 ## Today
-**Top 3 Priorities for Wednesday, March 25:**
-1. QBOL - invoice import (ns-account dev machine)
-2. 1040 BHay + CTrees (April 14 deadline - 20 days)
-3. Weekly review (still overdue!)
+**Top 3 Priorities for Thursday, March 26:**
+1. QBOL Route Print Invoice forms (River Place tech center)
+2. Vehicle maintenance review with Brad
+3. Plan Winfield → O'Fallon trip (target Monday)
 
 ##### History
 
 <details>
 <summary><strong>This Week</strong> </summary>
 
-- **2026-03-25 (Wed):** 🎯 QBOL invoice import + 1040 push
+- **2026-03-26 (Thu):** 🎯 QBOL invoice forms @ River Place + vehicle maintenance review with Brad + Winfield/O'Fallon trip planning
+- **2026-03-25 (Wed):** ✓ 1040-X identified (need signatures in Winfield) + QBOL continued
 - **2026-03-24 (Tue):** ✓ QBOL continued + Intuit Lic/Payroll/authority with Mark + garage door auto stops adjusted + gutters cleared + yard cleanup + house heater dust cleanup
 - **2026-03-23 (Mon):** ✓ README reorganization + inbox cleanup
 - **2026-03-22 (Sun):** ✓ MacMinis up at Andi's + 1040 IRA issue resolved + HWPC work with Mark + QB2024→QBOL migration (Mar 22 backup) + route print template updates + Iowa/Iowa State Sweet Sixteen! 🏀
@@ -135,6 +136,8 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 - **2026-04-14** - 1040 2025 BHay Send @type:task @priority:high @project:accounting
 - **2026-04-14** - 1040 2025 CTrees Send @type:task @priority:high @project:accounting
+- **2026-03-29** - 1040-X signatures in Winfield (Saturday) @type:task @priority:high @project:accounting
+- **2026-03-31** - Head to O'Fallon (target Monday Mar 30) @type:task @priority:medium @project:personal
 
 - **2026-04-30** - IA 1065 manual file [googleai instructions](https://share.google/aimode/wgpBIcMB9nfwryieG) @type:link @project:accounting
 - **2026-04-30** - IA 1065 no income or expense [Googleai](https://share.google/aimode/NtFvRnACVfHpMpn8Q) @type:link @project:accounting
@@ -148,13 +151,9 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 <details>
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Tue Mar 24)
-✓ QBOL continued on ns-account dev machine
-✓ Intuit Lic + Payroll + change authority sorted with Mark + Intuit support
-✓ Garage door auto stops adjusted
-✓ Gutters cleared
-✓ Yard cleanup
-✓ House heater dust cleanup
+# Yesterday (Wed Mar 25)
+✓ 1040-X identified - need signatures in Winfield, filing Saturday
+✓ QBOL continued
 
 </details>
 
