@@ -6,17 +6,18 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 **Current Streak:** 25 days | **Last Check-In:** 2026-03-24
 
 ## Today
-**Top 3 Priorities for Tuesday, March 24:**
-1. QBOL - invoice import + QB2024→QBOL migration
-2. 1040 BHay + CTrees (April 14 deadline - 21 days)
-3. Weekly review (overdue - do tonight!)
+**Top 3 Priorities for Wednesday, March 25:**
+1. QBOL - invoice import (ns-account dev machine)
+2. 1040 BHay + CTrees (April 14 deadline - 20 days)
+3. Weekly review (still overdue!)
 
 ##### History
 
 <details>
 <summary><strong>This Week</strong> </summary>
 
-- **2026-03-24 (Tue):** 🎯 Tuesday in Cedar Falls: QBOL + 1040s + weekly review
+- **2026-03-25 (Wed):** 🎯 QBOL invoice import + 1040 push
+- **2026-03-24 (Tue):** ✓ QBOL continued + Intuit Lic/Payroll/authority with Mark + garage door auto stops adjusted + gutters cleared + yard cleanup + house heater dust cleanup
 - **2026-03-23 (Mon):** ✓ README reorganization + inbox cleanup
 - **2026-03-22 (Sun):** ✓ MacMinis up at Andi's + 1040 IRA issue resolved + HWPC work with Mark + QB2024→QBOL migration (Mar 22 backup) + route print template updates + Iowa/Iowa State Sweet Sixteen! 🏀
 - **2026-03-21 (Sat):** ✓ QBOL production import working! Customers/routes imported + full month auto-scheduled + travel kit cleanup + MacMini proxmox pulled out
@@ -147,9 +148,13 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 <details>
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Mon Mar 23)
-✓ README reorganization + inbox cleanup
-✓ Context transfer / Wip session setup
+# Yesterday (Tue Mar 24)
+✓ QBOL continued on ns-account dev machine
+✓ Intuit Lic + Payroll + change authority sorted with Mark + Intuit support
+✓ Garage door auto stops adjusted
+✓ Gutters cleared
+✓ Yard cleanup
+✓ House heater dust cleanup
 
 </details>
 
