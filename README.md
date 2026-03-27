@@ -3,21 +3,25 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 25 days | **Last Check-In:** 2026-03-24
+**Current Streak:** 28 days | **Last Check-In:** 2026-03-27
 
 ## Today
-**Top 3 Priorities for Thursday, March 26:**
-1. QBOL Route Print Invoice forms (River Place tech center)
+**Top 3 Priorities for Friday, March 27:**
+1. QBOL Route Print Invoice forms @ River Place
 2. Vehicle maintenance review with Brad
-3. Plan Winfield → O'Fallon trip (target Monday)
+ - [ ] Batteries
+ - [ ] Furnace
+ - [ ] Yard
+ - [ ] iPhone
+3. Plan Winfield run Saturday (1040-X signatures)
 
 ##### History
 
 <details>
 <summary><strong>This Week</strong> </summary>
 
-- **2026-03-26 (Thu):** 🎯 QBOL invoice forms @ River Place + vehicle maintenance review with Brad + Winfield/O'Fallon trip planning
-- **2026-03-25 (Wed):** ✓ 1040-X identified (need signatures in Winfield) + QBOL continued
+- **2026-03-27 (Fri):** 🎯 QBOL @ River Place + vehicle maintenance with Brad + Winfield trip planning
+- **2026-03-26 (Thu):** ✓ QBOL all day (at home) + reviewed NVidia new AI releases
 - **2026-03-24 (Tue):** ✓ QBOL continued + Intuit Lic/Payroll/authority with Mark + garage door auto stops adjusted + gutters cleared + yard cleanup + house heater dust cleanup
 - **2026-03-23 (Mon):** ✓ README reorganization + inbox cleanup
 - **2026-03-22 (Sun):** ✓ MacMinis up at Andi's + 1040 IRA issue resolved + HWPC work with Mark + QB2024→QBOL migration (Mar 22 backup) + route print template updates + Iowa/Iowa State Sweet Sixteen! 🏀
@@ -116,6 +120,8 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 # Inbox
 **Items to be processed and tagged during morning routine**
 
+- NVidia new AI releases review (Mar 26) @type:note @project:nsclai - route to docs/ai-cli-research.md
+
 - Document workstation setups @type:task @project:personal
 
 - ping 1x linkedin @type:task @project:personal
@@ -151,9 +157,10 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 <details>
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Wed Mar 25)
-✓ 1040-X identified - need signatures in Winfield, filing Saturday
-✓ QBOL continued
+# Yesterday (Thu Mar 26)
+✓ QBOL all day at home
+✓ Reviewed NVidia new AI releases
+- Vehicle maintenance with Brad (pushed to today)
 
 </details>
 
