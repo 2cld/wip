@@ -3,33 +3,26 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 28 days | **Last Check-In:** 2026-03-27
+**Current Streak:** 29 days | **Last Check-In:** 2026-03-28
 
 ## Today
-**Top 3 Priorities for Friday, March 27:**
-1. QBOL Route Print Invoice forms @ River Place
-2. Vehicle maintenance review with Brad
- - [ ] Batteries
- - [ ] Furnace
- - [ ] Yard
- - [ ] iPhone
-3. Plan Winfield run Saturday (1040-X signatures)
-
-##### History
-
-<details>
+**Top 3 Priorities for Saturday, March 28:**
+1. Research QBOL migration alternatives (Intuit 8hr import failure)
+2. Pack + travel to Winfield
+3. 1040-X signatures in Winfield
 <summary><strong>This Week</strong> </summary>
 
 - **2026-03-27 (Fri):** 🎯 QBOL @ River Place + vehicle maintenance with Brad + Winfield trip planning
 - **2026-03-26 (Thu):** ✓ QBOL all day (at home) + reviewed NVidia new AI releases
 - **2026-03-24 (Tue):** ✓ QBOL continued + Intuit Lic/Payroll/authority with Mark + garage door auto stops adjusted + gutters cleared + yard cleanup + house heater dust cleanup
 - **2026-03-23 (Mon):** ✓ README reorganization + inbox cleanup
-- **2026-03-22 (Sun):** ✓ MacMinis up at Andi's + 1040 IRA issue resolved + HWPC work with Mark + QB2024→QBOL migration (Mar 22 backup) + route print template updates + Iowa/Iowa State Sweet Sixteen! 🏀
-- **2026-03-21 (Sat):** ✓ QBOL production import working! Customers/routes imported + full month auto-scheduled + travel kit cleanup + MacMini proxmox pulled out
+- **2026-03-28 (Sat):** 🎯 QBOL migration alternatives research + pack for Winfield + 1040-X signatures
+- **2026-03-27 (Fri):** ✓ QBOL invoice forms @ River Place + vehicle maintenance with Brad ✓ + Mark ran routes for week (good till 4/7) + QBOL final migration attempted - FAILED (8hr import timeout, Intuit support useless) + Iowa wins, Iowa State out 🏀😬d + full month auto-scheduled + travel kit cleanup + MacMini proxmox pulled out
 - **2026-03-20 (Fri):** ✓ QBOL LT lifecycle demo + production integration planning + River Place + CF Library + Trink sync
 
-</details>
-
+- **2026-03-28 (Sat):** 🎯 QBOL migration alternatives + pack for Winfield + 1040-X signatures
+- **2026-03-27 (Fri):** ✓ QBOL invoice forms @ River Place + vehicle maintenance with Brad ✓ + Mark ran routes (good till 4/7) + QBOL final migration FAILED (8hr timeout, Intuit useless) + Iowa wins 🏀 Iowa State out 😬
+- **2026-03-26 (Thu):** ✓ QBOL all day (at home) + reviewed NVidia new AI releases
 ---
 
 ##### Current Epics
@@ -38,16 +31,20 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 <summary><strong>EPIC: QBOL HWPC Route Print with Invoice import / export</strong> </summary>
 
 <span>@type:task @priority:high @project:[cat9-hwpc-qbol](./wip-detail/hwpc-qbol-notes.md)</span>
+<details>
+<summary><strong>EPIC: QBOL HWPC Route Print with Invoice import / export</strong> </summary>
+
+<span>@type:task @priority:high @project:[cat9-hwpc-qbol](./wip-detail/hwpc-qbol-notes.md)</span>
 
 - [cat9-hwpc-qbol wip-detail](./wip-detail/hwpc-qbol-notes.md)
 - [ns-account gitea](https://gitea.cat9.me/nsadmin/ns-account)
 
+**⚠️ BLOCKER (2026-03-27):** Final QBOL migration failed - 8hr import timeout. Intuit support unhelpful. Researching alternatives. Mark ran routes manually, good till 4/7.
+- [ns-account gitea](https://gitea.cat9.me/nsadmin/ns-account)
+
+**⚠️ BLOCKER (2026-03-27):** Final QBOL migration failed - 8hr import timeout. Intuit support unhelpful. Researching alternatives. Mark ran routes manually, good till 4/7.
+
 **Definition of Done:**
-- [X] Route print functionality created
-- [X] Create Looney Tunes (LT) example Data
-- [X] Create LT smoke demo TRAINING-DEMO.md
-- [ ] Looney Tunes (LT) demo
-  - [X] LT docs/explain
   - [X] LT docs/stepbystep
   - [ ] LT Video Demo
   - [ ] Post LT demo
@@ -158,15 +155,19 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 <summary><strong>Yesterday tasks</strong> </summary>
 
 # Yesterday (Thu Mar 26)
-✓ QBOL all day at home
-✓ Reviewed NVidia new AI releases
-- Vehicle maintenance with Brad (pushed to today)
+<details>
+<details>
+<summary><strong>Yesterday tasks</strong> </summary>
+
+# Yesterday (Fri Mar 27)
+✓ QBOL invoice forms @ River Place
+✓ Vehicle maintenance with Brad
+✓ Mark ran routes for week - good till 4/7
+- QBOL final migration FAILED (8hr import timeout, Intuit support useless)
+✓ Iowa wins 🏀 / Iowa State out 😬
 
 </details>
-
----
-
-<details>
+</details>
 <summary><strong>Open code Projects</strong> </summary>
 
 **Projects getting active attention**
