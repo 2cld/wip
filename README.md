@@ -12,17 +12,13 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 3. 1040-X signatures in Winfield
 <summary><strong>This Week</strong> </summary>
 
-- **2026-03-27 (Fri):** 🎯 QBOL @ River Place + vehicle maintenance with Brad + Winfield trip planning
+- **2026-03-28 (Sat):** 🎯 QBOL migration alternatives + pack for Winfield + 1040-X signatures
+- **2026-03-27 (Fri):** ✓ QBOL invoice forms @ River Place + vehicle maintenance with Brad ✓ + Mark ran routes for week (good till 4/7) + QBOL final migration attempted - FAILED (8hr import timeout, Intuit support useless) + Iowa wins, Iowa State out 🏀😬d + full month auto-scheduled + travel kit cleanup + MacMini proxmox pulled out
 - **2026-03-26 (Thu):** ✓ QBOL all day (at home) + reviewed NVidia new AI releases
+- **2026-03-25 (Wed):** ✓ QBOL ??? need wip nuked some stuff
 - **2026-03-24 (Tue):** ✓ QBOL continued + Intuit Lic/Payroll/authority with Mark + garage door auto stops adjusted + gutters cleared + yard cleanup + house heater dust cleanup
 - **2026-03-23 (Mon):** ✓ README reorganization + inbox cleanup
-- **2026-03-28 (Sat):** 🎯 QBOL migration alternatives research + pack for Winfield + 1040-X signatures
-- **2026-03-27 (Fri):** ✓ QBOL invoice forms @ River Place + vehicle maintenance with Brad ✓ + Mark ran routes for week (good till 4/7) + QBOL final migration attempted - FAILED (8hr import timeout, Intuit support useless) + Iowa wins, Iowa State out 🏀😬d + full month auto-scheduled + travel kit cleanup + MacMini proxmox pulled out
-- **2026-03-20 (Fri):** ✓ QBOL LT lifecycle demo + production integration planning + River Place + CF Library + Trink sync
 
-- **2026-03-28 (Sat):** 🎯 QBOL migration alternatives + pack for Winfield + 1040-X signatures
-- **2026-03-27 (Fri):** ✓ QBOL invoice forms @ River Place + vehicle maintenance with Brad ✓ + Mark ran routes (good till 4/7) + QBOL final migration FAILED (8hr timeout, Intuit useless) + Iowa wins 🏀 Iowa State out 😬
-- **2026-03-26 (Thu):** ✓ QBOL all day (at home) + reviewed NVidia new AI releases
 ---
 
 ##### Current Epics
@@ -31,18 +27,12 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 <summary><strong>EPIC: QBOL HWPC Route Print with Invoice import / export</strong> </summary>
 
 <span>@type:task @priority:high @project:[cat9-hwpc-qbol](./wip-detail/hwpc-qbol-notes.md)</span>
-<details>
-<summary><strong>EPIC: QBOL HWPC Route Print with Invoice import / export</strong> </summary>
-
-<span>@type:task @priority:high @project:[cat9-hwpc-qbol](./wip-detail/hwpc-qbol-notes.md)</span>
 
 - [cat9-hwpc-qbol wip-detail](./wip-detail/hwpc-qbol-notes.md)
 - [ns-account gitea](https://gitea.cat9.me/nsadmin/ns-account)
-
-**⚠️ BLOCKER (2026-03-27):** Final QBOL migration failed - 8hr import timeout. Intuit support unhelpful. Researching alternatives. Mark ran routes manually, good till 4/7.
 - [ns-account gitea](https://gitea.cat9.me/nsadmin/ns-account)
 
-**⚠️ BLOCKER (2026-03-27):** Final QBOL migration failed - 8hr import timeout. Intuit support unhelpful. Researching alternatives. Mark ran routes manually, good till 4/7.
+- **⚠️ BLOCKER (2026-03-27):** Final QBOL migration failed - 8hr import timeout. Intuit support unhelpful. Researching alternatives. Mark ran routes manually, good till 4/7.
 
 **Definition of Done:**
   - [X] LT docs/stepbystep
@@ -151,11 +141,8 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 ---
 
-<details>
-<summary><strong>Yesterday tasks</strong> </summary>
-
 # Yesterday (Thu Mar 26)
-<details>
+
 <details>
 <summary><strong>Yesterday tasks</strong> </summary>
 
@@ -167,7 +154,8 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 ✓ Iowa wins 🏀 / Iowa State out 😬
 
 </details>
-</details>
+
+<details>
 <summary><strong>Open code Projects</strong> </summary>
 
 **Projects getting active attention**
