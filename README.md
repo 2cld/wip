@@ -3,21 +3,28 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 29 days | **Last Check-In:** 2026-03-28
+**Current Streak:** 30 days | **Last Check-In:** 2026-03-29
 
 ## Today
-**Top 3 Priorities for Saturday, March 28:**
-1. Research QBOL migration alternatives (Intuit 8hr import failure)
-2. Pack + travel to Winfield
-3. 1040-X signatures in Winfield
+**Top 3 Priorities for Sunday, March 29:**
+1. 1040-X signatures with Brian + Carla (this morning)
+2. QB2024 downgrade attempt + QB2020 customers imported ✓
+3. ReportPrint + gReportPrint (python + google docs)
+
+##### History
+
+<details>
 <summary><strong>This Week</strong> </summary>
 
-- **2026-03-28 (Sat):** 🎯 QBOL migration alternatives + pack for Winfield + 1040-X signatures
-- **2026-03-27 (Fri):** ✓ QBOL invoice forms @ River Place + vehicle maintenance with Brad ✓ + Mark ran routes for week (good till 4/7) + QBOL final migration attempted - FAILED (8hr import timeout, Intuit support useless) + Iowa wins, Iowa State out 🏀😬d + full month auto-scheduled + travel kit cleanup + MacMini proxmox pulled out
+- **2026-03-29 (Sun):** 🎯 1040-X signatures + QB2024 downgrade + ReportPrint/gReportPrint + Sunday Evening Review tonight
+- **2026-03-28 (Sat):** ✓ Traveled to Winfield + QB2020 up + customers imported
+- **2026-03-27 (Fri):** ✓ QBOL invoice forms @ River Place + vehicle maintenance with Brad ✓ + Mark ran routes (good till 4/7) + QBOL final migration FAILED (8hr timeout) + Iowa wins 🏀 Iowa State out 😬
 - **2026-03-26 (Thu):** ✓ QBOL all day (at home) + reviewed NVidia new AI releases
-- **2026-03-25 (Wed):** ✓ QBOL ??? need wip nuked some stuff
-- **2026-03-24 (Tue):** ✓ QBOL continued + Intuit Lic/Payroll/authority with Mark + garage door auto stops adjusted + gutters cleared + yard cleanup + house heater dust cleanup
+- **2026-03-25 (Wed):** ✓ QBOL continued + 1040-X identified (need signatures in Winfield)
+- **2026-03-24 (Tue):** ✓ QBOL continued + Intuit Lic/Payroll/authority with Mark + garage door auto stops + gutters + yard cleanup + house heater dust cleanup
 - **2026-03-23 (Mon):** ✓ README reorganization + inbox cleanup
+
+</details>
 
 ---
 
@@ -30,21 +37,25 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 - [cat9-hwpc-qbol wip-detail](./wip-detail/hwpc-qbol-notes.md)
 - [ns-account gitea](https://gitea.cat9.me/nsadmin/ns-account)
-- [ns-account gitea](https://gitea.cat9.me/nsadmin/ns-account)
 
-- **⚠️ BLOCKER (2026-03-27):** Final QBOL migration failed - 8hr import timeout. Intuit support unhelpful. Researching alternatives. Mark ran routes manually, good till 4/7.
+**⚠️ BLOCKER (2026-03-27):** Final QBOL migration failed - 8hr import timeout. Intuit support unhelpful. Alternatives: QB2020 up + customers imported, attempting QB2024 downgrade. Mark ran routes manually, good till 4/7.
 
 **Definition of Done:**
+- [X] Route print functionality created
+- [X] Create Looney Tunes (LT) example Data
+- [X] Create LT smoke demo TRAINING-DEMO.md
+- [ ] Looney Tunes (LT) demo
+  - [X] LT docs/explain
   - [X] LT docs/stepbystep
   - [ ] LT Video Demo
   - [ ] Post LT demo
   - [ ] remote access demo server
-- [ ] Imports cvs 
+- [ ] Imports cvs
   - [ ] Route ID import
   - [ ] customer import
   - [ ] customer service location import
   - [ ] customer invoice import
-- [ ] Export cvs 
+- [ ] Export cvs
   - [ ] Route ID export
   - [ ] customer export
   - [ ] customer service location export
@@ -57,7 +68,7 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 - [ ] Test Route Print with old QB2024
 - [ ] Test Route Print with new QBOL
 - Connect Wip to Google Calendar
-- separtate Account data from qb_migration
+- separate Account data from qb_migration
 
 </details>
 
@@ -129,7 +140,6 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 - **2026-04-14** - 1040 2025 BHay Send @type:task @priority:high @project:accounting
 - **2026-04-14** - 1040 2025 CTrees Send @type:task @priority:high @project:accounting
-- **2026-03-29** - 1040-X signatures in Winfield (Saturday) @type:task @priority:high @project:accounting
 - **2026-03-31** - Head to O'Fallon (target Monday Mar 30) @type:task @priority:medium @project:personal
 
 - **2026-04-30** - IA 1065 manual file [googleai instructions](https://share.google/aimode/wgpBIcMB9nfwryieG) @type:link @project:accounting
@@ -141,19 +151,17 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 ---
 
-# Yesterday (Thu Mar 26)
-
 <details>
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Fri Mar 27)
-✓ QBOL invoice forms @ River Place
-✓ Vehicle maintenance with Brad
-✓ Mark ran routes for week - good till 4/7
-- QBOL final migration FAILED (8hr import timeout, Intuit support useless)
-✓ Iowa wins 🏀 / Iowa State out 😬
+# Yesterday (Sat Mar 28)
+✓ Traveled to Winfield
+✓ QB2020 up + customers imported
+- 1040-X signatures (Brian + Carla had event, signing this morning)
 
 </details>
+
+---
 
 <details>
 <summary><strong>Open code Projects</strong> </summary>
