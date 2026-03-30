@@ -74,6 +74,23 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 </details>
 
 <details>
+<summary><strong>EPIC: Wip repo + issue integration</strong> </summary>
+
+<span>@type:task @priority:medium @project:[nsadmin](https://gitea.cat9.me/nsadmin)</span>
+
+Connect Wip to project repos so it can monitor issue status, PRs, and project health during daily/weekly reviews.
+
+**Definition of Done:**
+- [ ] Gitea API access from Wip context (ns-account, nsclai, nspwa, etc.)
+- [ ] GitHub API access from Wip context (2cld/wip)
+- [ ] Google Calendar API access from Wip context
+- [ ] Daily check-in can surface open issues / blockers from active Epics
+- [ ] Weekly review can pull repo activity summary per Epic
+- [ ] Document integration pattern in PROCESS.md
+
+</details>
+
+<details>
 <summary><strong>EPIC: Setup LLC payments</strong> </summary>
 
 <span>@type:task @priority:medium @project:[cat9-acct-LLC](./wip-detail/LLC-EOY.md)</span>

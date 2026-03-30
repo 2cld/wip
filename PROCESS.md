@@ -235,6 +235,7 @@ This is your weekly planning session to set yourself up for success.
 5. **Clear Daily Check-In history:** Keep only the current week (Mon-Sun) in the Daily Check-In section - older entries are preserved in git history
 6. **Epic/Task checklist audit:** For each Epic in README.md, reconcile the checklist against actual work done during the week:
    - Mark completed subtasks `[X]`
+   - Verify each Epic has a link to its corresponding project repo (gitea, github, gdrive, etc.)
    - Update `wip-detail/` notes with progress, decisions, and next steps
    - Link any relevant repo issues or PRs (e.g., gitea issue URLs) into the Epic
    - Move Epics with no activity this week back to `tasks.md`
