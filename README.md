@@ -7,17 +7,17 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 ## Today
 **Top 3 Priorities for Monday, March 30:**
-1. QBOL ReportPrint + gReportPrint continued
-2. Head to O'Fallon (Steve Jennings - called last night)
-3. 1040 BHay + CTrees (April 14 - 15 days)
+1. ⚠️ CTrees 1040 - file and send (April 14 deadline - 15 days)
+2. Mail 1040-X package (signed ✓)
+3. Check in with Kenton, SJen, MaRay, Aunt Carol before O'Fallon (Tue)
 
 ##### History
 
 <details>
 <summary><strong>This Week</strong> </summary>
 
-- **2026-03-30 (Mon):** 🎯 QBOL ReportPrint/gReportPrint + O'Fallon trip + 1040 push
-- **2026-03-29 (Sun):** ✓ 1040-X signed + QB2020 up + ReportPrint/gReportPrint work + Steve Jennings call
+- **2026-03-30 (Mon):** 🎯 CTrees 1040 + mail 1040-X + check-ins before O'Fallon (Tue)
+- **2026-03-29 (Sun):** ✓ 1040-X package completed + signed ✓ BHay 1040 FILED ✓ + ReportPrint/gReportPrint started + Steve Jennings call
 - **2026-03-28 (Sat):** ✓ Traveled to Winfield + QB2020 up + customers imported
 - **2026-03-27 (Fri):** ✓ QBOL invoice forms @ River Place + vehicle maintenance with Brad ✓ + Mark ran routes (good till 4/7) + QBOL final migration FAILED (8hr timeout) + Iowa wins 🏀 Iowa State out 😬
 - **2026-03-26 (Thu):** ✓ QBOL all day (at home) + reviewed NVidia new AI releases
@@ -148,9 +148,11 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 
 - **2026-04-01:25** - Gus visit and appointments @type:event @priority:high @project:gus
 
-- **2026-04-14** - 1040 2025 BHay Send @type:task @priority:high @project:accounting
-- **2026-04-14** - 1040 2025 CTrees Send @type:task @priority:high @project:accounting
-- **2026-03-30** - O'Fallon trip (Steve Jennings) @type:task @priority:high @project:personal
+- **2026-04-14** - ~~1040 2025 BHay Send~~ ✓ FILED 2026-03-29 @project:accounting
+- **2026-04-14** - ⚠️ 1040 2025 CTrees Send @type:task @priority:high @project:accounting
+- **2026-03-30** - Mail 1040-X package @type:task @priority:high @project:accounting
+- **2026-03-30** - Check in: Kenton, SJen, MaRay, Aunt Carol (before O'Fallon Tue) @type:task @priority:high @project:personal
+- **2026-03-31** - O'Fallon trip (Steve Jennings) @type:task @priority:high @project:personal
 
 - **2026-04-30** - IA 1065 manual file [googleai instructions](https://share.google/aimode/wgpBIcMB9nfwryieG) @type:link @project:accounting
 - **2026-04-30** - IA 1065 no income or expense [Googleai](https://share.google/aimode/NtFvRnACVfHpMpn8Q) @type:link @project:accounting
