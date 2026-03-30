@@ -8,10 +8,10 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 ## Today
 **Top 3 Priorities for Monday, March 30:**
 1. ⚠️ CTrees 1040 - file and send (April 14 deadline - 15 days)
-2. Mail 1040-X package (signed ✓)
+2. Mail 1040-X package (signed ✓) + check insurance payments + validate property tax autopay for 3/31
 3. Check in with Kenton, SJen, MaRay, Aunt Carol before O'Fallon (Tue)
 
-##### History
+### History
 
 <details>
 <summary><strong>This Week</strong> </summary>
@@ -152,6 +152,9 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 - **2026-04-14** - ⚠️ 1040 2025 CTrees Send @type:task @priority:high @project:accounting
 - **2026-03-30** - Mail 1040-X package @type:task @priority:high @project:accounting
 - **2026-03-30** - Check in: Kenton, SJen, MaRay, Aunt Carol (before O'Fallon Tue) @type:task @priority:high @project:personal
+- **2026-03-31** - ⚠️ FHKlopFarms IA Land Tax - validate autopay goes through @type:task @priority:high @project:accounting
+- **2026-03-31** - ⚠️ TreesAES IA Land Tax - validate autopay goes through @type:task @priority:high @project:accounting
+- **2026-03-31** - Check insurance payments (FHKlop, TreesAES, TH Twig) @type:task @priority:high @project:accounting
 - **2026-03-31** - O'Fallon trip (Steve Jennings) @type:task @priority:high @project:personal
 
 - **2026-04-30** - IA 1065 manual file [googleai instructions](https://share.google/aimode/wgpBIcMB9nfwryieG) @type:link @project:accounting
