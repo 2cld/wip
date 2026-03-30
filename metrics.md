@@ -2,6 +2,27 @@
 
 ## Weekly Metrics
 
+### Week of 2026-03-23 to 2026-03-29
+
+*   **Tasks Completed:** 10+ items across multiple projects
+*   **Completion Rate:** ~70% (heavy QBOL focus, travel disruptions, Sunday review skipped twice)
+*   **Key Accomplishments:**
+    *   QBOL invoice forms @ River Place
+    *   Vehicle maintenance with Brad
+    *   Intuit Lic/Payroll/change authority resolved with Mark
+    *   Mark ran routes manually - good till 4/7
+    *   QB2020 up + customers imported (migration alternative)
+    *   ReportPrint + gReportPrint started (python + google docs)
+    *   1040-X identified + signed with Brian + Carla
+    *   Garage door auto stops adjusted + gutters cleared + yard cleanup
+    *   Reviewed NVidia new AI releases
+    *   Maintained 31-day daily check-in streak
+*   **Blockers Identified:**
+    *   QBOL final migration FAILED - 8hr import timeout, Intuit support useless
+    *   BHay + CTrees 1040s still pending (April 14 deadline - 15 days)
+    *   Sunday Evening Review skipped again (Steve Jennings call)
+    *   O'Fallon trip delayed to Monday Mar 30
+
 ### Week of 2026-03-16 to 2026-03-22
 
 *   **Tasks Completed:** 10+ items across multiple projects

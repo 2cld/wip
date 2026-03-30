@@ -1,5 +1,37 @@
 # Weekly Schedule
 
+## Week of 2026-03-30 to 2026-04-05
+
+**Week Focus:** O'Fallon trip + QBOL ReportPrint/gReportPrint + 1040 BHay/CTrees push (April 14 deadline)
+
+*   **Monday (Mar 30):**
+    *   Morning: Weekly review + check-in
+    *   Afternoon: Travel to O'Fallon (Steve Jennings)
+
+*   **Tuesday (Mar 31):**
+    *   Morning: QBOL ReportPrint + gReportPrint @ O'Fallon
+    *   Afternoon: 1040 BHay push
+
+*   **Wednesday (Apr 1):**
+    *   Morning: QBOL continued
+    *   Afternoon: 1040 CTrees push + Gus visit prep (Apr 1-25)
+
+*   **Thursday (Apr 2):**
+    *   Morning: QBOL ReportPrint finalize
+    *   Afternoon: 1040 review + send if ready
+
+*   **Friday (Apr 3):**
+    *   Morning: QBOL wrap-up / Mark sync
+    *   Afternoon: Review week, plan next steps
+
+**Weekend Buffer:** April 4-5 - catch-up + Gus visit ongoing
+
+**Key Deadlines:**
+- April 1-25 - Gus visit and appointments
+- April 14 - 1040 BHay Send
+- April 14 - 1040 CTrees Send
+- April 30 - IA 1065 manual file
+
 ## Week of 2026-03-23 to 2026-03-29
 
 **Week Focus:** QBOL invoice import + 1040 BHay/CTrees + weekly review catch-up + MacMini ns-site-template

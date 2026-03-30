@@ -3,20 +3,21 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 30 days | **Last Check-In:** 2026-03-29
+**Current Streak:** 31 days | **Last Check-In:** 2026-03-30
 
 ## Today
-**Top 3 Priorities for Sunday, March 29:**
-1. 1040-X signatures with Brian + Carla (this morning)
-2. QB2024 downgrade attempt + QB2020 customers imported ✓
-3. ReportPrint + gReportPrint (python + google docs)
+**Top 3 Priorities for Monday, March 30:**
+1. QBOL ReportPrint + gReportPrint continued
+2. Head to O'Fallon (Steve Jennings - called last night)
+3. 1040 BHay + CTrees (April 14 - 15 days)
 
 ##### History
 
 <details>
 <summary><strong>This Week</strong> </summary>
 
-- **2026-03-29 (Sun):** 🎯 1040-X signatures + QB2024 downgrade + ReportPrint/gReportPrint + Sunday Evening Review tonight
+- **2026-03-30 (Mon):** 🎯 QBOL ReportPrint/gReportPrint + O'Fallon trip + 1040 push
+- **2026-03-29 (Sun):** ✓ 1040-X signed + QB2020 up + ReportPrint/gReportPrint work + Steve Jennings call
 - **2026-03-28 (Sat):** ✓ Traveled to Winfield + QB2020 up + customers imported
 - **2026-03-27 (Fri):** ✓ QBOL invoice forms @ River Place + vehicle maintenance with Brad ✓ + Mark ran routes (good till 4/7) + QBOL final migration FAILED (8hr timeout) + Iowa wins 🏀 Iowa State out 😬
 - **2026-03-26 (Thu):** ✓ QBOL all day (at home) + reviewed NVidia new AI releases
@@ -118,14 +119,6 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 # Inbox
 **Items to be processed and tagged during morning routine**
 
-- NVidia new AI releases review (Mar 26) @type:note @project:nsclai - route to docs/ai-cli-research.md
-
-- Document workstation setups @type:task @project:personal
-
-- ping 1x linkedin @type:task @project:personal
-  - https://github.com/elggem?tab=repositories - 1X VP SW personal
-  - https://www.linkedin.com/in/ralfmayet/
-
 ---
 
 ###### Other
@@ -140,7 +133,7 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 - **2026-04-14** - 1040 2025 BHay Send @type:task @priority:high @project:accounting
 - **2026-04-14** - 1040 2025 CTrees Send @type:task @priority:high @project:accounting
-- **2026-03-31** - Head to O'Fallon (target Monday Mar 30) @type:task @priority:medium @project:personal
+- **2026-03-30** - O'Fallon trip (Steve Jennings) @type:task @priority:high @project:personal
 
 - **2026-04-30** - IA 1065 manual file [googleai instructions](https://share.google/aimode/wgpBIcMB9nfwryieG) @type:link @project:accounting
 - **2026-04-30** - IA 1065 no income or expense [Googleai](https://share.google/aimode/NtFvRnACVfHpMpn8Q) @type:link @project:accounting
@@ -154,10 +147,12 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 <details>
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Sat Mar 28)
-✓ Traveled to Winfield
+# Yesterday (Sun Mar 29)
+✓ 1040-X signatures with Brian + Carla
 ✓ QB2020 up + customers imported
-- 1040-X signatures (Brian + Carla had event, signing this morning)
+✓ ReportPrint + gReportPrint work started
+- Steve Jennings call (O'Fallon trip - heading today)
+- Sunday Evening Review (doing now Monday morning)
 
 </details>
 

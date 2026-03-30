@@ -42,3 +42,8 @@
 
 ## Processed 2026-03-04:
 - Dental Apt March 5 → [Moved to Today](./README.md#today)
+
+## Processed 2026-03-30 (Weekly Review):
+- NVidia new AI releases review (Mar 26) → [Route to docs/ai-cli-research.md](./docs/ai-cli-research.md) @project:nsclai
+- Document workstation setups → [Moved to tasks.md](./tasks.md) @project:personal
+- ping 1x linkedin (ralfmayet) → [Moved to tasks.md](./tasks.md) @project:personal
