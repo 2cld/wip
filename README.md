@@ -13,7 +13,7 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 ### History
 
-<details>
+<details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
 This has new format
@@ -30,7 +30,7 @@ This has new format
 
 ##### Current Epics
 
-<details>
+<details markdown="1">
 <summary><strong>EPIC: QBOL HWPC Route Print with Invoice import / export</strong> </summary>
 
 <span>@type:task @priority:high @project:[cat9-hwpc-qbol](./wip-detail/hwpc-qbol-notes.md)</span>
@@ -72,7 +72,7 @@ This has new format
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>EPIC: Netstack federation deployments</strong> </summary>
 
 <span>@type:task @priority:high @project:[ns-site-template](https://gitea.cat9.me/nsadmin/ns-site-template)</span>
@@ -93,7 +93,7 @@ Working with Trink from O'Fallon through April on federation deployments.
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>EPIC: Wip repo + issue integration</strong> </summary>
 
 <span>@type:task @priority:medium @project:[nsadmin](https://gitea.cat9.me/nsadmin)</span>
@@ -110,7 +110,7 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>EPIC: Setup LLC payments</strong> </summary>
 
 <span>@type:task @priority:medium @project:[cat9-acct-LLC](./wip-detail/LLC-EOY.md)</span>
@@ -128,7 +128,7 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>EPIC: MediaVolume cleanup old data</strong> </summary>
 
 <span>@type:task @priority:medium @project:[ops-storage-management](./docs/ops-storage-management.md)</span>
@@ -168,7 +168,7 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 
 ###### Other
 
-<details>
+<details markdown="1">
 <summary><strong>Calendar Event Monitor</strong> </summary>
 
 # Calendar Event Monitor
@@ -191,7 +191,7 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 
 ---
 
-<details>
+<details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
 # Yesterday (Mon Mar 30)
@@ -206,7 +206,7 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 
 ---
 
-<details>
+<details markdown="1">
 <summary><strong>Open code Projects</strong> </summary>
 
 **Projects getting active attention**
@@ -265,7 +265,7 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 
 ##### Reference
 
-<details>
+<details markdown="1">
 <summary><strong>Projects</strong> </summary>
 
 **Project reference links getting active attention**
