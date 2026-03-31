@@ -3,27 +3,24 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 31 days | **Last Check-In:** 2026-03-30
+**Current Streak:** 32 days | **Last Check-In:** 2026-03-31
 
 ## Today
-**Top 3 Priorities for Monday, March 30:**
-1. ⚠️ CTrees 1040 - file and send (April 14 deadline - 15 days)
-2. Mail 1040-X package (signed ✓) + check insurance payments + validate property tax autopay for 3/31
-3. Check in with Kenton, SJen, MaRay, Aunt Carol before O'Fallon (Tue)
+**Top 3 Priorities for Tuesday, March 31:**
+1. ⚠️ CTrees 1040 - file and send (April 14 deadline - 14 days)
+2. Validate property tax autopay went through (FHKlop + TreesAES)
+3. Trink + netstack federation deployments kickoff
 
 ### History
 
 <details>
 <summary><strong>This Week</strong> </summary>
 
-- **2026-03-30 (Mon):** 🎯 CTrees 1040 + mail 1040-X + check-ins before O'Fallon (Tue)
-- **2026-03-29 (Sun):** ✓ 1040-X package completed + signed ✓ BHay 1040 FILED ✓ + ReportPrint/gReportPrint started + Steve Jennings call
+- **2026-03-31 (Tue):** 🎯 CTrees 1040 + property tax validation + netstack federation with Trink
+- **2026-03-30 (Mon):** ✓ Arrived O'Fallon + setup ✓ 1040-X mailed ✓ insurance checked ✓ Kenton + SJen check-ins ✓ packed kit
+- **2026-03-29 (Sun):** ✓ 1040-X signed + BHay 1040 FILED ✓ + ReportPrint/gReportPrint started + Steve Jennings call
 - **2026-03-28 (Sat):** ✓ Traveled to Winfield + QB2020 up + customers imported
 - **2026-03-27 (Fri):** ✓ QBOL invoice forms @ River Place + vehicle maintenance with Brad ✓ + Mark ran routes (good till 4/7) + QBOL final migration FAILED (8hr timeout) + Iowa wins 🏀 Iowa State out 😬
-- **2026-03-26 (Thu):** ✓ QBOL all day (at home) + reviewed NVidia new AI releases
-- **2026-03-25 (Wed):** ✓ QBOL continued + 1040-X identified (need signatures in Winfield)
-- **2026-03-24 (Tue):** ✓ QBOL continued + Intuit Lic/Payroll/authority with Mark + garage door auto stops + gutters + yard cleanup + house heater dust cleanup
-- **2026-03-23 (Mon):** ✓ README reorganization + inbox cleanup
 
 </details>
 
@@ -74,6 +71,27 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 </details>
 
 <details>
+<summary><strong>EPIC: Netstack federation deployments</strong> </summary>
+
+<span>@type:task @priority:high @project:[ns-site-template](https://gitea.cat9.me/nsadmin/ns-site-template)</span>
+
+- [trinknotes wip-detail](./wip-detail/trinknotes202503.md)
+- [ns-site-template gitea](https://gitea.cat9.me/nsadmin/ns-site-template)
+- [docker-compose gitea](https://gitea.cat9.me/nsadmin/docker-compose)
+
+Working with Trink from O'Fallon through April on federation deployments.
+
+**Definition of Done:**
+- [ ] Kickoff sync with Trink
+- [ ] Document target sites + federation topology
+- [ ] ns-site-template deployment plan
+- [ ] First site deployed + validated
+- [ ] Federation between sites working
+- [ ] Document deployment procedure
+
+</details>
+
+<details>
 <summary><strong>EPIC: Wip repo + issue integration</strong> </summary>
 
 <span>@type:task @priority:medium @project:[nsadmin](https://gitea.cat9.me/nsadmin)</span>
@@ -103,8 +121,8 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 - [ ] TreesAES ACI*Windstream
 - [ ] TH Twig ACI*WINDSTREAM
 - [ ] TH Twig USCELL
-- Check Insurance payments @type:task @project:accounting
-- Make list of Rental jobs @type:task @project:property
+- [ ] Checkk Insurance payments @type:task @project:accounting
+- [ ] Make list of Rental jobs @type:task @project:property
 
 </details>
 
@@ -150,12 +168,9 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 
 - **2026-04-14** - ~~1040 2025 BHay Send~~ ✓ FILED 2026-03-29 @project:accounting
 - **2026-04-14** - ⚠️ 1040 2025 CTrees Send @type:task @priority:high @project:accounting
-- **2026-03-30** - Mail 1040-X package @type:task @priority:high @project:accounting
-- **2026-03-30** - Check in: Kenton, SJen, MaRay, Aunt Carol (before O'Fallon Tue) @type:task @priority:high @project:personal
-- **2026-03-31** - ⚠️ FHKlopFarms IA Land Tax - validate autopay goes through @type:task @priority:high @project:accounting
-- **2026-03-31** - ⚠️ TreesAES IA Land Tax - validate autopay goes through @type:task @priority:high @project:accounting
-- **2026-03-31** - Check insurance payments (FHKlop, TreesAES, TH Twig) @type:task @priority:high @project:accounting
-- **2026-03-31** - O'Fallon trip (Steve Jennings) @type:task @priority:high @project:personal
+
+- **2026-05-01** - Wendell Sanders honored @ ISU Ames @type:event @priority:high @project:personal
+- **2026-05-01** - Touch base MaRay + Aunt Carol (en route to Ames) @type:task @priority:medium @project:personal
 
 - **2026-04-30** - IA 1065 manual file [googleai instructions](https://share.google/aimode/wgpBIcMB9nfwryieG) @type:link @project:accounting
 - **2026-04-30** - IA 1065 no income or expense [Googleai](https://share.google/aimode/NtFvRnACVfHpMpn8Q) @type:link @project:accounting
@@ -169,12 +184,13 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details>
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Sun Mar 29)
-✓ 1040-X signatures with Brian + Carla
-✓ QB2020 up + customers imported
-✓ ReportPrint + gReportPrint work started
-- Steve Jennings call (O'Fallon trip - heading today)
-- Sunday Evening Review (doing now Monday morning)
+# Yesterday (Mon Mar 30)
+✓ Arrived O'Fallon + setup at Steve's
+✓ 1040-X package mailed
+✓ Insurance payments checked
+✓ Kenton + SJen check-ins done
+- MaRay + Aunt Carol (will touch base at Wendell's event May 1)
+- Property tax autopay - validating today (3/31)
 
 </details>
 
