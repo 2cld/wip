@@ -16,9 +16,11 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 <details>
 <summary><strong>This Week</strong> </summary>
 
-- **2026-03-31 (Tue):** 🎯 CTrees 1040 + property tax validation + netstack federation with Trink
-- **2026-03-30 (Mon):** ✓ Arrived O'Fallon + setup ✓ 1040-X mailed ✓ insurance checked ✓ Kenton + SJen check-ins ✓ packed kit
+ - **2026-03-31 (Tue):** 🎯 CTrees 1040 + property tax validation + netstack federation with Trink
+ - **2026-03-30 (Mon):** ✓ Arrived O'Fallon + setup ✓ 1040-X mailed ✓ insurance checked ✓ Kenton + SJen check-ins ✓ packed kit
+
 - **2026-03-29 (Sun):** ✓ 1040-X signed + BHay 1040 FILED ✓ + ReportPrint/gReportPrint started + Steve Jennings call
+
 - **2026-03-28 (Sat):** ✓ Traveled to Winfield + QB2020 up + customers imported
 - **2026-03-27 (Fri):** ✓ QBOL invoice forms @ River Place + vehicle maintenance with Brad ✓ + Mark ran routes (good till 4/7) + QBOL final migration FAILED (8hr timeout) + Iowa wins 🏀 Iowa State out 😬
 
