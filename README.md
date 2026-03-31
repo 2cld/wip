@@ -154,6 +154,14 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 # Inbox
 **Items to be processed and tagged during morning routine**
 
+ - Wip: Notice the details format change.  Github render needs the space at the front of an item for some reasson.
+ - Gus: Plex UI file organization for movies and music
+ - Trink: Proxmox NAS rebuild results. need to tie into netstack.org properly
+ - hwpc: Check if QBOL has Payroll (tomporrow)
+ - hwpc: Check if QB2024 can accept entries
+ - hwpc: WTF is Data Protection
+ - tbd
+   
 ---
 
 ###### Other
