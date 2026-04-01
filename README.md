@@ -3,13 +3,13 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 32 days | **Last Check-In:** 2026-03-31
+**Current Streak:** 33 days | **Last Check-In:** 2026-04-01
 
 ## Today
-**Top 3 Priorities for Tuesday, March 31:**
-1. ⚠️ CTrees 1040 - file and send (April 14 deadline - 14 days)
-2. Validate property tax autopay went through (FHKlop + TreesAES)
-3. Trink + netstack federation deployments kickoff
+**Top 3 Priorities for Wednesday, April 1:**
+1. ⚠️ CTrees 1040 - file and send (April 14 deadline - 13 days)
+2. RoutePrint invoice import to QBOL (target: before next weekend)
+3. Validate property tax autopay + insurance posted
 
 ### History
 
@@ -18,7 +18,8 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 This has new format
 
- - **2026-03-31 (Tue):** 🎯 CTrees 1040 + property tax validation + netstack federation with Trink
+ - **2026-04-01 (Wed):** 🎯 CTrees 1040 + RoutePrint invoice import + property tax/insurance validation
+ - **2026-03-31 (Tue):** ✓ HWPC migration to QBOL complete + paycheck issued ✓ + Trink proxmox auto-config started + netstack.org/2cld.net docs dig started
  - **2026-03-30 (Mon):** ✓ Arrived O'Fallon + setup ✓ 1040-X mailed ✓ insurance checked ✓ Kenton + SJen check-ins ✓ packed kit
 - **2026-03-29 (Sun):** ✓ 1040-X signed + BHay 1040 FILED ✓ + ReportPrint/gReportPrint started + Steve Jennings call
 - **2026-03-28 (Sat):** ✓ Traveled to Winfield + QB2020 up + customers imported
@@ -38,7 +39,9 @@ This has new format
  - [cat9-hwpc-qbol wip-detail](./wip-detail/hwpc-qbol-notes.md)
  - [ns-account gitea](https://gitea.cat9.me/nsadmin/ns-account)
 
-**⚠️ BLOCKER (2026-03-27):** Final QBOL migration failed - 8hr import timeout. Intuit support unhelpful. Alternatives: QB2020 up + customers imported, attempting QB2024 downgrade. Mark ran routes manually, good till 4/7.
+**✅ RESOLVED (2026-04-01):** HWPC migration to QBOL complete - paycheck issued! QB2020 used as migration path.
+
+**⚠️ NEXT:** RoutePrint invoice import to QBOL - target before Apr 5 weekend.
 
 **Definition of Done:**
  - [X] Route print functionality created
@@ -156,13 +159,10 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 # Inbox
 **Items to be processed and tagged during morning routine**
 
- - Wip: Notice the details format change.  Github render needs the space at the front of an item for some reasson.
- - Gus: Plex UI file organization for movies and music
- - Trink: Proxmox NAS rebuild results. need to tie into netstack.org properly
- - hwpc: Check if QBOL has Payroll (tomporrow)
- - hwpc: Check if QB2024 can accept entries
- - hwpc: WTF is Data Protection
- - tbd
+ - Gus: Plex UI file organization for movies and music @type:task @project:gus @priority:medium
+ - Trink: Proxmox NAS rebuild - tie into netstack.org properly @type:task @project:nsadmin @priority:high
+ - hwpc: Check if QB2024 can accept entries @type:task @project:cat9-hwpc-qbol @priority:medium
+ - hwpc: WTF is Data Protection (QBOL) @type:task @project:cat9-hwpc-qbol @priority:medium
    
 ---
 
@@ -194,13 +194,14 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Mon Mar 30)
- ✓ Arrived O'Fallon + setup at Steve's
- ✓ 1040-X package mailed
- ✓ Insurance payments checked
- ✓ Kenton + SJen check-ins done
- - MaRay + Aunt Carol (will touch base at Wendell's event May 1)
- - Property tax autopay - validating today (3/31)
+# Yesterday (Tue Mar 31)
+✓ HWPC migration to QBOL complete
+✓ Paycheck issued in QBOL 🎉
+✓ Trink proxmox auto-config started
+✓ netstack.org + 2cld.net docs research started
+- CTrees 1040 (carrying to today)
+- Property tax autopay pending (expect today/tomorrow)
+- Insurance payment pending (expect today/tomorrow)
 
 </details>
 
