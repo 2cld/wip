@@ -91,35 +91,37 @@ For tasks with multiple subtasks or long checklists in `README.md`, use HTML `<d
 
 **Format:**
 ```html
-<details>
+<details markdown="1">
 <summary><strong>Task: Task Name Here</strong> <span>@type:task @priority:high @project:project-name</span></summary>
 
 **Definition of Done:**
-- [ ] Subtask 1
-- [ ] Subtask 2
-- [ ] Subtask 3
+ - [ ] Subtask 1
+ - [ ] Subtask 2
+ - [ ] Subtask 3
 
 </details>
 ```
 
 **Example:**
 ```html
-<details>
+<details markdown="1">
 <summary><strong>Task: Setup LLC payments</strong> <span>@type:task @priority:medium @project:cat9-acct-LLC</span></summary>
 
 **Definition of Done:**
-- [ ] FHKlopFarms Utilities
-- [ ] FHKlopFarms IA Land Tax
-- [ ] TreesAES Utilities
-- [ ] TreesAES IA Land Tax
+ - [ ] FHKlopFarms Utilities
+ - [ ] FHKlopFarms IA Land Tax
+ - [ ] TreesAES Utilities
+ - [ ] TreesAES IA Land Tax
 
 </details>
 ```
 
 **Key formatting rules:**
+- Use `<details markdown="1">` - required for GitHub to render markdown inside the block
 - Use `<strong>` tags instead of `**` inside HTML elements
 - Put `<span>` with tags inside the `<summary>` element
 - Use standard markdown lists (not `<ol>` or `<li>`) inside `<details>`
+- **Prefix list items with a space** (` - [ ]` not `- [ ]`) - GitHub requires this inside `<details>` blocks
 - Add blank line after opening `<summary>` and before closing `</details>`
 - No `<hr/>` separators between tasks - they add visual clutter
 
