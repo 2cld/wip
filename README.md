@@ -37,6 +37,7 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
  - [cat9-hwpc-qbol wip-detail](./wip-detail/hwpc-qbol-notes.md)
  - [ns-account gitea](https://gitea.cat9.me/nsadmin/ns-account)
+ - [hwpc.2cld.net](https://hwpc.2cld.net/) - operational docs, procedures, ToDo
 
 **✅ RESOLVED (2026-04-01):** HWPC migration to QBOL complete - paycheck issued! QB2020 used as migration path.
 
@@ -160,10 +161,10 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 
  - Gus: Plex UI file organization for movies and music @type:task @project:gus @priority:medium
  - Trink: Proxmox NAS rebuild - tie into netstack.org properly @type:task @project:nsadmin @priority:high
- - hwpc: Check if QB2024 can accept entries @type:task @project:cat9-hwpc-qbol @priority:medium
- - hwpc: WTF is Data Protection (QBOL) @type:task @project:cat9-hwpc-qbol @priority:medium
- - hwpc: start gcode to QBOL project + test on developer.intuit.com @type:task @project:cat9-hwpc-qbol @priority:high
- - hwpc: review all options and update hwpc.2cld.net @type:task @project:cat9-hwpc-qbol @priority:medium
+ - hwpc: gcode to QBOL project + test on developer.intuit.com → track on [hwpc.2cld.net](https://hwpc.2cld.net/) @type:task @project:cat9-hwpc-qbol @priority:high
+ - hwpc: review all options + update [hwpc.2cld.net](https://hwpc.2cld.net/) @type:task @project:cat9-hwpc-qbol @priority:medium
+ - hwpc: Check if QB2024 can accept entries → track on [hwpc.2cld.net](https://hwpc.2cld.net/) @type:task @project:cat9-hwpc-qbol @priority:medium
+ - hwpc: WTF is Data Protection (QBOL) → track on [hwpc.2cld.net](https://hwpc.2cld.net/) @type:task @project:cat9-hwpc-qbol @priority:medium
  - wip: link [X] items to project task/commit in repo @type:task @project:wip-integration @priority:medium
  - wip: setup daily cleanup task for wip maintenance @type:task @project:wip-integration @priority:low
  - wip: link wip info to actual project repos so contributors edit actual project @type:task @project:wip-integration @priority:medium
@@ -254,7 +255,11 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
    - ?? 
 
 ## hwpc
- - [hwpc.2cld.net](https://hwpc.2cld.net) 
+ - [hwpc.2cld.net](https://hwpc.2cld.net) - primary ops site
+ - [ns-account gitea](https://gitea.cat9.me/nsadmin/ns-account) - dev repo
+ - [hwpc github](https://github.com/2cld/hwpc)
+ - [hwpc-gs](https://github.com/grasshorse/hwpc-gs)
+ - [hwpc-bug](https://github.com/grasshorse/hwpc-bug)
 
 ## Account https://gitea.cat9.me/cat
  - [catnotes](https://gitea.cat9.me/cat/catnotes)
