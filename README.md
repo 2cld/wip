@@ -16,8 +16,6 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
-This has new format
-
  - **2026-04-01 (Wed):** 🎯 CTrees 1040 + RoutePrint invoice import + property tax/insurance validation
  - **2026-03-31 (Tue):** ✓ HWPC migration to QBOL complete + paycheck issued ✓ + Trink proxmox auto-config started + netstack.org/2cld.net docs dig started
  - **2026-03-30 (Mon):** ✓ Arrived O'Fallon + setup ✓ 1040-X mailed ✓ insurance checked ✓ Kenton + SJen check-ins ✓ packed kit
@@ -163,7 +161,14 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
  - Trink: Proxmox NAS rebuild - tie into netstack.org properly @type:task @project:nsadmin @priority:high
  - hwpc: Check if QB2024 can accept entries @type:task @project:cat9-hwpc-qbol @priority:medium
  - hwpc: WTF is Data Protection (QBOL) @type:task @project:cat9-hwpc-qbol @priority:medium
-   
+ - ghadmin: added to wip.2cld.net
+ - cat: need to link wip info to actual project repo so contributors are directed to edit actual project
+ - cat: maybe [X] should contain a link to project task change in repo
+ - cat: setup a daily task effort to cleanup something in wip
+ - hwpc: need to start a gcode to qbol project and test on developer.intuit.com
+ - hwpc: review all options and update hwpc.2cld.net
+ - tbd
+
 ---
 
 ###### Other
