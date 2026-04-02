@@ -3,20 +3,21 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 33 days | **Last Check-In:** 2026-04-01
+**Current Streak:** 34 days | **Last Check-In:** 2026-04-02
 
 ## Today
-**Top 3 Priorities for Wednesday, April 1:**
-1. ⚠️ CTrees 1040 - file and send (April 14 deadline - 13 days)
-2. RoutePrint invoice import to QBOL (target: before next weekend)
-3. Validate property tax autopay + insurance posted
+**Top 3 Priorities for Thursday, April 2:**
+1. ⚠️ CTrees 1040 - file and send (April 14 deadline - 12 days)
+2. RoutePrint invoice import to QBOL (target: before weekend)
+3. Validate property tax cleared bank
 
 ### History
 
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-01 (Wed):** 🎯 CTrees 1040 + RoutePrint invoice import + property tax/insurance validation
+ - **2026-04-02 (Thu):** 🎯 CTrees 1040 + RoutePrint invoice import + property tax bank check
+ - **2026-04-01 (Wed):** ✓ RoutePrint research + notes captured + ghadmin added to wip.2cld.net
  - **2026-03-31 (Tue):** ✓ HWPC migration to QBOL complete + paycheck issued ✓ + Trink proxmox auto-config started + netstack.org/2cld.net docs dig started
  - **2026-03-30 (Mon):** ✓ Arrived O'Fallon + setup ✓ 1040-X mailed ✓ insurance checked ✓ Kenton + SJen check-ins ✓ packed kit
 - **2026-03-29 (Sun):** ✓ 1040-X signed + BHay 1040 FILED ✓ + ReportPrint/gReportPrint started + Steve Jennings call
@@ -161,13 +162,11 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
  - Trink: Proxmox NAS rebuild - tie into netstack.org properly @type:task @project:nsadmin @priority:high
  - hwpc: Check if QB2024 can accept entries @type:task @project:cat9-hwpc-qbol @priority:medium
  - hwpc: WTF is Data Protection (QBOL) @type:task @project:cat9-hwpc-qbol @priority:medium
- - ghadmin: added to wip.2cld.net
- - cat: need to link wip info to actual project repo so contributors are directed to edit actual project
- - cat: maybe [X] should contain a link to project task change in repo
- - cat: setup a daily task effort to cleanup something in wip
- - hwpc: need to start a gcode to qbol project and test on developer.intuit.com
- - hwpc: review all options and update hwpc.2cld.net
- - tbd
+ - hwpc: start gcode to QBOL project + test on developer.intuit.com @type:task @project:cat9-hwpc-qbol @priority:high
+ - hwpc: review all options and update hwpc.2cld.net @type:task @project:cat9-hwpc-qbol @priority:medium
+ - wip: link [X] items to project task/commit in repo @type:task @project:wip-integration @priority:medium
+ - wip: setup daily cleanup task for wip maintenance @type:task @project:wip-integration @priority:low
+ - wip: link wip info to actual project repos so contributors edit actual project @type:task @project:wip-integration @priority:medium
 
 ---
 
@@ -199,14 +198,11 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Tue Mar 31)
-✓ HWPC migration to QBOL complete
-✓ Paycheck issued in QBOL 🎉
-✓ Trink proxmox auto-config started
-✓ netstack.org + 2cld.net docs research started
-- CTrees 1040 (carrying to today)
-- Property tax autopay pending (expect today/tomorrow)
-- Insurance payment pending (expect today/tomorrow)
+# Yesterday (Wed Apr 1)
+✓ RoutePrint research + notes
+✓ ghadmin added to wip.2cld.net
+- CTrees 1040 (carrying again ⚠️)
+- Property tax autopay still pending
 
 </details>
 
