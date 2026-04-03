@@ -3,12 +3,12 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 34 days | **Last Check-In:** 2026-04-02
+**Current Streak:** 35 days | **Last Check-In:** 2026-04-03
 
 ## Today
-**Top 3 Priorities for Thursday, April 2:**
-1. ⚠️ CTrees 1040 - file and send (April 14 deadline - 12 days)
-2. RoutePrint invoice import to QBOL (target: before weekend)
+**Top 3 Priorities for Friday, April 3:**
+1. HWPC RoutePrint + route tickets working with QBOL
+2. ⚠️ CTrees 1040 (April 14 deadline - 11 days)
 3. Validate property tax cleared bank
 
 ### History
@@ -16,7 +16,8 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-02 (Thu):** 🎯 CTrees 1040 + RoutePrint invoice import + property tax bank check
+ - **2026-04-03 (Fri):** 🎯 HWPC RoutePrint + QBOL route tickets continued
+ - **2026-04-02 (Thu):** ✓ HWPC RoutePrint + QBOL route ticket work all day
  - **2026-04-01 (Wed):** ✓ RoutePrint research + notes captured + ghadmin added to wip.2cld.net
  - **2026-03-31 (Tue):** ✓ HWPC migration to QBOL complete + paycheck issued ✓ + Trink proxmox auto-config started + netstack.org/2cld.net docs dig started
  - **2026-03-30 (Mon):** ✓ Arrived O'Fallon + setup ✓ 1040-X mailed ✓ insurance checked ✓ Kenton + SJen check-ins ✓ packed kit
@@ -199,11 +200,10 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Wed Apr 1)
-✓ RoutePrint research + notes
-✓ ghadmin added to wip.2cld.net
-- CTrees 1040 (carrying again ⚠️)
-- Property tax autopay still pending
+# Yesterday (Thu Apr 2)
+✓ HWPC RoutePrint + QBOL route ticket work all day
+- CTrees 1040 (carrying ⚠️ 11 days)
+- Property tax bank clear (still watching)
 
 </details>
 
