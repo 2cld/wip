@@ -3,20 +3,21 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 1 day | **Last Check-In:** 2026-04-05
+**Current Streak:** 2 days | **Last Check-In:** 2026-04-06
 
 ## Today
-**Top 3 Priorities for Sunday, April 5:**
-1. ⚠️ CTrees 1040 (April 14 deadline - 9 days) - poke at it today
-2. Sunday Evening Review ✓
-3. QBOL RoutePrint - get ready for Mark Monday
+**Top 3 Priorities for Monday, April 6:**
+1. Gus dentist (morning)
+2. QBOL - extract history via report for RoutePrint validation
+3. ⚠️ CTrees 1040 (April 14 deadline - 8 days)
 
 ### History
 
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-05 (Sun):** 🎯 CTrees 1040 + Sunday Evening Review + QBOL continued
+ - **2026-04-06 (Mon):** 🎯 Gus dentist + QBOL history extraction via report + CTrees 1040
+ - **2026-04-05 (Sun):** ✓ Sunday Evening Review done + QBOL RoutePrint continued
  - **2026-04-04 (Sat):** ✓ QBOL RoutePrint + calendar entries + repo updates (missed wip check-in)
  - **2026-04-03 (Fri):** ✓ HWPC RoutePrint + QBOL route tickets all day
  - **2026-04-01 (Wed):** ✓ RoutePrint research + notes captured + ghadmin added to wip.2cld.net
@@ -194,10 +195,9 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Sat Apr 4)
-✓ QBOL RoutePrint work continued
-✓ Calendar entries + repo updates
-- Missed wip check-in (streak reset from 35 → 1)
+# Yesterday (Sun Apr 5)
+✓ Sunday Evening Review completed
+✓ QBOL RoutePrint continued
 
 </details>
 
