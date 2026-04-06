@@ -7,9 +7,9 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 ## Today
 **Top 3 Priorities for Sunday, April 5:**
-1. ⚠️ CTrees 1040 (April 14 deadline - 9 days)
-2. Sunday Evening Review
-3. QBOL RoutePrint continued
+1. ⚠️ CTrees 1040 (April 14 deadline - 9 days) - poke at it today
+2. Sunday Evening Review ✓
+3. QBOL RoutePrint - get ready for Mark Monday
 
 ### History
 
@@ -43,7 +43,7 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 **✅ RESOLVED (2026-04-01):** HWPC migration to QBOL complete - paycheck issued! QB2020 used as migration path.
 
-**⚠️ NEXT:** RoutePrint invoice import to QBOL - target before Apr 5 weekend.
+**⚠️ NEXT:** RoutePrint invoice import to QBOL - Mark routes expire 4/7, must work by Monday.
 
 **Definition of Done:**
  - [X] Route print functionality created
@@ -163,13 +163,6 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 
  - Gus: Plex UI file organization for movies and music @type:task @project:gus @priority:medium
  - Trink: Proxmox NAS rebuild - tie into netstack.org properly @type:task @project:nsadmin @priority:high
- - hwpc: gcode to QBOL project + test on developer.intuit.com → track on [hwpc.2cld.net](https://hwpc.2cld.net/) @type:task @project:cat9-hwpc-qbol @priority:high
- - hwpc: review all options + update [hwpc.2cld.net](https://hwpc.2cld.net/) @type:task @project:cat9-hwpc-qbol @priority:medium
- - hwpc: Check if QB2024 can accept entries → track on [hwpc.2cld.net](https://hwpc.2cld.net/) @type:task @project:cat9-hwpc-qbol @priority:medium
- - hwpc: WTF is Data Protection (QBOL) → track on [hwpc.2cld.net](https://hwpc.2cld.net/) @type:task @project:cat9-hwpc-qbol @priority:medium
- - wip: link [X] items to project task/commit in repo @type:task @project:wip-integration @priority:medium
- - wip: setup daily cleanup task for wip maintenance @type:task @project:wip-integration @priority:low
- - wip: link wip info to actual project repos so contributors edit actual project @type:task @project:wip-integration @priority:medium
 
 ---
 

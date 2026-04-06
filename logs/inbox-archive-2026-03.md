@@ -47,3 +47,12 @@
 - NVidia new AI releases review (Mar 26) → [Route to docs/ai-cli-research.md](./docs/ai-cli-research.md) @project:nsclai
 - Document workstation setups → [Moved to tasks.md](./tasks.md) @project:personal
 - ping 1x linkedin (ralfmayet) → [Moved to tasks.md](./tasks.md) @project:personal
+
+## Processed 2026-04-05 (Weekly Review):
+- hwpc: gcode to QBOL project + test on developer.intuit.com → tracked on [hwpc.2cld.net](https://hwpc.2cld.net/) @project:cat9-hwpc-qbol
+- hwpc: review all options + update hwpc.2cld.net → tracked on [hwpc.2cld.net](https://hwpc.2cld.net/) @project:cat9-hwpc-qbol
+- hwpc: Check if QB2024 can accept entries → tracked on [hwpc.2cld.net](https://hwpc.2cld.net/) @project:cat9-hwpc-qbol
+- hwpc: WTF is Data Protection (QBOL) → tracked on [hwpc.2cld.net](https://hwpc.2cld.net/) @project:cat9-hwpc-qbol
+- wip: link [X] items to project task/commit → added to Wip integration Epic
+- wip: setup daily cleanup task → added to Wip integration Epic
+- wip: link wip info to actual project repos → added to Wip integration Epic

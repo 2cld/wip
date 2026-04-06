@@ -2,6 +2,29 @@
 
 ## Weekly Metrics
 
+### Week of 2026-03-30 to 2026-04-05
+
+*   **Tasks Completed:** 8+ items, heavily QBOL focused
+*   **Completion Rate:** ~60% (single-track QBOL week, CTrees 1040 slipping)
+*   **Key Accomplishments:**
+    *   HWPC migration to QBOL complete - paycheck issued (Mar 31) 🎉
+    *   RoutePrint + QBOL route ticket work all week
+    *   Arrived O'Fallon + setup at Steve's
+    *   1040-X package mailed
+    *   BHay 1040 FILED (Mar 29)
+    *   Insurance checked, property tax autopay initiated
+    *   Kenton + SJen check-ins done
+    *   ghadmin added to wip.2cld.net
+    *   HWPC wip cleanup - pointed operational detail to hwpc.2cld.net
+    *   Trink proxmox auto-config started + netstack.org docs dig
+    *   Wip process improvements: markdown="1" format, Epic repo-link audit added to weekly review
+*   **Blockers Identified:**
+    *   CTrees 1040 still not filed (April 14 - 9 days) ⚠️
+    *   RoutePrint invoice import to QBOL still in progress (Mark needs routes by 4/7)
+    *   Property tax bank clear not confirmed
+    *   Daily check-in streak broken (missed Apr 4)
+    *   MaRay + Aunt Carol check-ins missed (deferred to Wendell event May 1)
+
 ### Week of 2026-03-23 to 2026-03-29
 
 *   **Tasks Completed:** 10+ items across multiple projects

@@ -1,5 +1,38 @@
 # Weekly Schedule
 
+## Week of 2026-04-06 to 2026-04-12
+
+**Week Focus:** CTrees 1040 (MUST FILE), QBOL RoutePrint finalize for Mark, netstack federation with Trink
+
+*   **Monday (Apr 6):**
+    *   Morning: QBOL RoutePrint - get invoice import working for Mark (routes expire 4/7)
+    *   Afternoon: CTrees 1040 push
+
+*   **Tuesday (Apr 7):**
+    *   Morning: Mark route day - validate RoutePrint works in production
+    *   Afternoon: CTrees 1040 - file or decide on extension
+
+*   **Wednesday (Apr 8):**
+    *   Morning: Netstack federation with Trink
+    *   Afternoon: CTrees 1040 finalize
+
+*   **Thursday (Apr 9):**
+    *   Morning: Netstack federation continued
+    *   Afternoon: Wip cleanup / inbox processing
+
+*   **Friday (Apr 10):**
+    *   Morning: QBOL wrap-up / Mark sync
+    *   Afternoon: Review week, plan next steps
+
+**Weekend Buffer:** April 11-12 - catch-up
+
+**Key Deadlines:**
+- April 7 - Mark routes expire (QBOL RoutePrint must work)
+- April 14 - ⚠️ CTrees 1040 Send (or file extension)
+- April 1-25 - Gus visit and appointments
+- April 30 - IA 1065 manual file
+- May 1 - Wendell Sanders @ ISU Ames + MaRay/Aunt Carol
+
 ## Week of 2026-03-30 to 2026-04-05
 
 **Week Focus:** O'Fallon trip + QBOL ReportPrint/gReportPrint + 1040 BHay/CTrees push (April 14 deadline)
