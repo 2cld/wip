@@ -3,20 +3,21 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 2 days | **Last Check-In:** 2026-04-06
+**Current Streak:** 3 days | **Last Check-In:** 2026-04-07
 
 ## Today
-**Top 3 Priorities for Monday, April 6:**
-1. Gus dentist (morning)
-2. QBOL - extract history via report for RoutePrint validation
-3. ⚠️ CTrees 1040 (April 14 deadline - 8 days)
+**Top 3 Priorities for Tuesday, April 7:**
+1. HWPC - RoutePrint + QBOL work with Mark
+2. ⚠️ CTrees 1040 (April 14 deadline - 7 days)
+3. Mark route day - validate routes working
 
 ### History
 
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-06 (Mon):** 🎯 Gus dentist + QBOL history extraction via report + CTrees 1040
+ - **2026-04-07 (Tue):** 🎯 HWPC + Mark meeting + CTrees 1040
+ - **2026-04-06 (Mon):** ✓ Gus dentist + HWPC work + Mark meeting
  - **2026-04-05 (Sun):** ✓ Sunday Evening Review done + QBOL RoutePrint continued
  - **2026-04-04 (Sat):** ✓ QBOL RoutePrint + calendar entries + repo updates (missed wip check-in)
  - **2026-04-03 (Fri):** ✓ HWPC RoutePrint + QBOL route tickets all day
@@ -195,9 +196,10 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Sun Apr 5)
-✓ Sunday Evening Review completed
-✓ QBOL RoutePrint continued
+# Yesterday (Mon Apr 6)
+✓ Gus to dentist
+✓ HWPC work
+✓ Mark meeting
 
 </details>
 
