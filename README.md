@@ -3,20 +3,21 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 3 days | **Last Check-In:** 2026-04-07
+**Current Streak:** 4 days | **Last Check-In:** 2026-04-08
 
 ## Today
-**Top 3 Priorities for Tuesday, April 7:**
-1. HWPC - RoutePrint + QBOL work with Mark
-2. ⚠️ CTrees 1040 (April 14 deadline - 7 days)
-3. Mark route day - validate routes working
+**Top 3 Priorities for Wednesday, April 8:**
+1. QBOL data cleansing + UI workflow for Mark (phone goal)
+2. ⚠️ CTrees 1040 (April 14 deadline - 6 days)
+3. Netstack federation with Trink
 
 ### History
 
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-07 (Tue):** 🎯 HWPC + Mark meeting + CTrees 1040
+ - **2026-04-08 (Wed):** 🎯 QBOL data cleansing + UI workflow + CTrees 1040 + netstack
+ - **2026-04-07 (Tue):** ✓ HWPC all day + printed more routes for Mark (covered through week) + MaRay + Aunt Carol check-ins ✓
  - **2026-04-06 (Mon):** ✓ Gus dentist + HWPC work + Mark meeting
  - **2026-04-05 (Sun):** ✓ Sunday Evening Review done + QBOL RoutePrint continued
  - **2026-04-04 (Sat):** ✓ QBOL RoutePrint + calendar entries + repo updates (missed wip check-in)
@@ -183,6 +184,8 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 
  - **2026-05-01** - Wendell Sanders honored @ ISU Ames @type:event @priority:high @project:personal
  - **2026-05-01** - Touch base MaRay + Aunt Carol (en route to Ames) @type:task @priority:medium @project:personal
+ - **2026-05-01** - Cousin Neil at Aunt Carol's + Wendell + Brian in area @type:note @project:personal
+ - **TBD** - Tell MaRay when in Mt. Pleasant (visit him + his mom) @type:task @priority:medium @project:personal
 
  - **2026-04-30** - IA 1065 manual file [googleai instructions](https://share.google/aimode/wgpBIcMB9nfwryieG) @type:link @project:accounting
  - **2026-04-30** - IA 1065 no income or expense [Googleai](https://share.google/aimode/NtFvRnACVfHpMpn8Q) @type:link @project:accounting
@@ -196,10 +199,11 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Mon Apr 6)
-✓ Gus to dentist
-✓ HWPC work
-✓ Mark meeting
+# Yesterday (Tue Apr 7)
+✓ HWPC all day - printed more routes for Mark (covered through week)
+✓ MaRay + Aunt Carol check-ins done
+- Mark's tech on absence, he's busy rest of week
+- Cousin Neil at Aunt Carol's week of May 1
 
 </details>
 
