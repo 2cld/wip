@@ -3,20 +3,21 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 4 days | **Last Check-In:** 2026-04-08
+**Current Streak:** 5 days | **Last Check-In:** 2026-04-09
 
 ## Today
-**Top 3 Priorities for Wednesday, April 8:**
-1. QBOL data cleansing + UI workflow for Mark (phone goal)
-2. ⚠️ CTrees 1040 (April 14 deadline - 6 days)
-3. Netstack federation with Trink
+**Top 3 Priorities for Thursday, April 9:**
+1. HWPC RoutePrint - A/R sync + monthly QBOL reconciliation approach
+2. ⚠️ CTrees 1040 (April 14 deadline - 5 days)
+3. QBOL data cleansing continued
 
 ### History
 
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-08 (Wed):** 🎯 QBOL data cleansing + UI workflow + CTrees 1040 + netstack
+ - **2026-04-09 (Thu):** 🎯 HWPC RoutePrint A/R sync + CTrees 1040 + QBOL data cleansing
+ - **2026-04-08 (Wed):** ✓ HWPC RoutePrint - decided on A/R sync approach (monthly QBOL reconciliation vs real-time)
  - **2026-04-07 (Tue):** ✓ HWPC all day + printed more routes for Mark (covered through week) + MaRay + Aunt Carol check-ins ✓
  - **2026-04-06 (Mon):** ✓ Gus dentist + HWPC work + Mark meeting
  - **2026-04-05 (Sun):** ✓ Sunday Evening Review done + QBOL RoutePrint continued
@@ -199,11 +200,8 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Tue Apr 7)
-✓ HWPC all day - printed more routes for Mark (covered through week)
-✓ MaRay + Aunt Carol check-ins done
-- Mark's tech on absence, he's busy rest of week
-- Cousin Neil at Aunt Carol's week of May 1
+# Yesterday (Wed Apr 8)
+✓ HWPC RoutePrint - A/R sync approach decided (monthly QBOL reconciliation, track customer totals between syncs)
 
 </details>
 
