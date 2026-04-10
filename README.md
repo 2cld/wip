@@ -8,7 +8,7 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 ## Today
 **Top 3 Priorities for Friday, April 10:**
 1. HWPC - SEED + initial sync to QBOL, fix data issues
-2. ⚠️⚠️ CTrees 1040 (April 14 deadline - 4 days) - FILE or EXTEND today
+2. CTrees 1040 extension filed ✓ (auto-file test via Account tools, deadline → Oct 15)
 3. Mark sync tonight/weekend - goal: run tickets next week
 
 ### History
@@ -16,7 +16,7 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-10 (Fri):** 🎯 HWPC SEED + QBOL sync + ⚠️⚠️ CTrees 1040 decision day + Mark sync tonight
+ - **2026-04-10 (Fri):** 🎯 HWPC SEED + QBOL sync + CTrees extension filed + Mark sync tonight
  - **2026-04-09 (Thu):** ✓ HWPC all day + grocery run with Steve + AR + Tax sync implemented + working SEED process for QBOL initial sync (service location vs customer data issues exposed)
  - **2026-04-08 (Wed):** ✓ HWPC RoutePrint - decided on A/R sync approach (monthly QBOL reconciliation vs real-time)
  - **2026-04-07 (Tue):** ✓ HWPC all day + printed more routes for Mark (covered through week) + MaRay + Aunt Carol check-ins ✓
@@ -182,7 +182,8 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
  - **2026-04-01:25** - Gus visit and appointments @type:event @priority:high @project:gus
 
  - **2026-04-14** - ~~1040 2025 BHay Send~~ ✓ FILED 2026-03-29 @project:accounting
- - **2026-04-14** - ⚠️ 1040 2025 CTrees Send @type:task @priority:high @project:accounting
+ - **2026-04-14** - 1040 2025 CTrees - EXTENSION FILED (auto-file test via Account tools) @type:task @priority:medium @project:accounting
+ - **2026-10-15** - ⚠️ 1040 2025 CTrees Send (extended deadline) @type:task @priority:high @project:accounting - tickler: Sun + Thu
 
  - **2026-05-01** - Wendell Sanders honored @ ISU Ames @type:event @priority:high @project:personal
  - **2026-05-01** - Touch base MaRay + Aunt Carol (en route to Ames) @type:task @priority:medium @project:personal

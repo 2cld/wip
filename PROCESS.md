@@ -2,6 +2,13 @@
 
 This document outlines the process for managing tasks in this repository.
 
+## Tickler Schedule
+Recurring reminders that Wip should surface during daily check-ins:
+
+| Item | Frequency | Days | Deadline |
+|------|-----------|------|----------|
+| CTrees 1040 (auto-file test via Account tools) | 2x/week | Sun + Thu | Oct 15, 2026 |
+
 ## Task Management Workflow: The Inbox Method
 
 Our workflow starts with `README.md` as the central "inbox" for all incoming information. The goal is to process this inbox regularly, so it remains current and serves as a historical log.
