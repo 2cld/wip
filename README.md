@@ -3,20 +3,21 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 5 days | **Last Check-In:** 2026-04-09
+**Current Streak:** 6 days | **Last Check-In:** 2026-04-10
 
 ## Today
-**Top 3 Priorities for Thursday, April 9:**
-1. HWPC RoutePrint - A/R sync + monthly QBOL reconciliation approach
-2. ⚠️ CTrees 1040 (April 14 deadline - 5 days)
-3. QBOL data cleansing continued
+**Top 3 Priorities for Friday, April 10:**
+1. HWPC - SEED + initial sync to QBOL, fix data issues
+2. ⚠️⚠️ CTrees 1040 (April 14 deadline - 4 days) - FILE or EXTEND today
+3. Mark sync tonight/weekend - goal: run tickets next week
 
 ### History
 
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-09 (Thu):** 🎯 HWPC RoutePrint A/R sync + CTrees 1040 + QBOL data cleansing
+ - **2026-04-10 (Fri):** 🎯 HWPC SEED + QBOL sync + ⚠️⚠️ CTrees 1040 decision day + Mark sync tonight
+ - **2026-04-09 (Thu):** ✓ HWPC all day + grocery run with Steve + AR + Tax sync implemented + working SEED process for QBOL initial sync (service location vs customer data issues exposed)
  - **2026-04-08 (Wed):** ✓ HWPC RoutePrint - decided on A/R sync approach (monthly QBOL reconciliation vs real-time)
  - **2026-04-07 (Tue):** ✓ HWPC all day + printed more routes for Mark (covered through week) + MaRay + Aunt Carol check-ins ✓
  - **2026-04-06 (Mon):** ✓ Gus dentist + HWPC work + Mark meeting
@@ -200,8 +201,13 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Wed Apr 8)
-✓ HWPC RoutePrint - A/R sync approach decided (monthly QBOL reconciliation, track customer totals between syncs)
+# Yesterday (Thu Apr 9)
+✓ HWPC all day
+✓ AR + Tax sync implemented
+✓ Working SEED process for initial QBOL sync
+✓ Grocery run with Steve
+- Service location vs customer data mismatch exposed (legacy QB issue)
+- Plan: sync with Mark tonight/weekend, goal tickets next week
 
 </details>
 
