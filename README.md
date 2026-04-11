@@ -3,20 +3,21 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 6 days | **Last Check-In:** 2026-04-10
+**Current Streak:** 7 days | **Last Check-In:** 2026-04-11
 
 ## Today
-**Top 3 Priorities for Friday, April 10:**
-1. HWPC - SEED + initial sync to QBOL, fix data issues
-2. CTrees 1040 extension filed ✓ (auto-file test via Account tools, deadline → Oct 15)
-3. Mark sync tonight/weekend - goal: run tickets next week
+**Top 3 Priorities for Saturday, April 11:**
+1. HWPC - SEED + QBOL sync continued, data cleansing
+2. Mark sync - get him running tickets from hwpc-rp
+3. CTrees 1040 extension filed ✓
 
 ### History
 
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-10 (Fri):** 🎯 HWPC SEED + QBOL sync + CTrees extension filed + Mark sync tonight
+ - **2026-04-11 (Sat):** 🎯 HWPC SEED + QBOL sync + Mark ticket testing
+ - **2026-04-10 (Fri):** ✓ CTrees extension filed ✓ + hwpc-rp ONLINE + Mark can access directly + phone tested ✓
  - **2026-04-09 (Thu):** ✓ HWPC all day + grocery run with Steve + AR + Tax sync implemented + working SEED process for QBOL initial sync (service location vs customer data issues exposed)
  - **2026-04-08 (Wed):** ✓ HWPC RoutePrint - decided on A/R sync approach (monthly QBOL reconciliation vs real-time)
  - **2026-04-07 (Tue):** ✓ HWPC all day + printed more routes for Mark (covered through week) + MaRay + Aunt Carol check-ins ✓
@@ -202,13 +203,10 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Thu Apr 9)
-✓ HWPC all day
-✓ AR + Tax sync implemented
-✓ Working SEED process for initial QBOL sync
-✓ Grocery run with Steve
-- Service location vs customer data mismatch exposed (legacy QB issue)
-- Plan: sync with Mark tonight/weekend, goal tickets next week
+# Yesterday (Fri Apr 10)
+✓ CTrees 1040 extension filed (deadline → Oct 15)
+✓ hwpc-rp ONLINE - Mark can access directly
+✓ Phone tested - works on mobile 📱
 
 </details>
 
