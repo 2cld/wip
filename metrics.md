@@ -2,6 +2,28 @@
 
 ## Weekly Metrics
 
+### Week of 2026-04-06 to 2026-04-12
+
+*   **Tasks Completed:** 10+ items, massive HWPC week
+*   **Completion Rate:** ~80% (focused execution on HWPC, good progress)
+*   **Key Accomplishments:**
+    *   hwpc-rp ONLINE - Mark can access directly, phone tested 📱
+    *   Mobile-first UI work started
+    *   AR + Tax sync implemented
+    *   SEED process for QBOL initial sync working
+    *   A/R sync approach decided (monthly QBOL reconciliation)
+    *   Printed more routes for Mark (covered through week)
+    *   CTrees 1040 extension filed (deadline → Oct 15)
+    *   MaRay + Aunt Carol check-ins done
+    *   Gus dentist appointment
+    *   Started media data cleanup + netstack federation work
+    *   Maintained 7-day check-in streak (rebuilding)
+*   **Blockers Identified:**
+    *   NAS died (Synology DS-411+II) - needs CR1220 coin battery, possibly more
+    *   Service location vs customer data mismatch in QBOL (legacy QB issue)
+    *   Mark's tech on absence - limited testing capacity
+    *   Netstack federation + media cleanup barely started (HWPC consuming all cycles)
+
 ### Week of 2026-03-30 to 2026-04-05
 
 *   **Tasks Completed:** 8+ items, heavily QBOL focused

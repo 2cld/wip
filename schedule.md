@@ -1,5 +1,37 @@
 # Weekly Schedule
 
+## Week of 2026-04-13 to 2026-04-19
+
+**Week Focus:** HWPC mobile-first + Mark running tickets, NAS repair, netstack federation with Trink
+
+*   **Monday (Apr 13):**
+    *   Morning: HWPC - Mark ticket testing + mobile workflow validation
+    *   Afternoon: NAS repair - source CR1220 battery, diagnose DS-411+II
+
+*   **Tuesday (Apr 14):**
+    *   Morning: HWPC SEED + QBOL data sync with Mark
+    *   Afternoon: Netstack federation with Trink
+
+*   **Wednesday (Apr 15):**
+    *   Morning: HWPC continued / Mark support
+    *   Afternoon: Netstack federation continued
+
+*   **Thursday (Apr 16):**
+    *   Morning: HWPC wrap-up for week
+    *   Afternoon: CTrees 1040 auto-file test (tickler day)
+
+*   **Friday (Apr 17):**
+    *   Morning: Media data cleanup
+    *   Afternoon: Review week, plan next steps
+
+**Weekend Buffer:** April 18-19 - catch-up
+
+**Key Deadlines:**
+- April 1-25 - Gus visit and appointments
+- April 30 - IA 1065 manual file
+- May 1 - Wendell Sanders @ ISU Ames + family gathering
+- Oct 15 - CTrees 1040 (extended, tickler Sun+Thu)
+
 ## Week of 2026-04-06 to 2026-04-12
 
 **Week Focus:** CTrees 1040 (MUST FILE), QBOL RoutePrint finalize for Mark, netstack federation with Trink

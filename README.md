@@ -3,34 +3,26 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 7 days | **Last Check-In:** 2026-04-11
+**Current Streak:** 8 days | **Last Check-In:** 2026-04-12
 
 ## Today
-**Top 3 Priorities for Saturday, April 11:**
-1. HWPC - SEED + QBOL sync continued, data cleansing
-2. Mark sync - get him running tickets from hwpc-rp
-3. CTrees 1040 extension filed ✓
+**Top 3 Priorities for Sunday, April 12:**
+1. Sunday Evening Review ✓
+2. NAS repair - Synology DS-411+II (CR1220 battery + diagnose)
+3. HWPC mobile-first continued
 
 ### History
 
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-11 (Sat):** 🎯 HWPC SEED + QBOL sync + Mark ticket testing
- - **2026-04-10 (Fri):** ✓ CTrees extension filed ✓ + hwpc-rp ONLINE + Mark can access directly + phone tested ✓
- - **2026-04-09 (Thu):** ✓ HWPC all day + grocery run with Steve + AR + Tax sync implemented + working SEED process for QBOL initial sync (service location vs customer data issues exposed)
- - **2026-04-08 (Wed):** ✓ HWPC RoutePrint - decided on A/R sync approach (monthly QBOL reconciliation vs real-time)
- - **2026-04-07 (Tue):** ✓ HWPC all day + printed more routes for Mark (covered through week) + MaRay + Aunt Carol check-ins ✓
- - **2026-04-06 (Mon):** ✓ Gus dentist + HWPC work + Mark meeting
- - **2026-04-05 (Sun):** ✓ Sunday Evening Review done + QBOL RoutePrint continued
- - **2026-04-04 (Sat):** ✓ QBOL RoutePrint + calendar entries + repo updates (missed wip check-in)
- - **2026-04-03 (Fri):** ✓ HWPC RoutePrint + QBOL route tickets all day
- - **2026-04-01 (Wed):** ✓ RoutePrint research + notes captured + ghadmin added to wip.2cld.net
- - **2026-03-31 (Tue):** ✓ HWPC migration to QBOL complete + paycheck issued ✓ + Trink proxmox auto-config started + netstack.org/2cld.net docs dig started
- - **2026-03-30 (Mon):** ✓ Arrived O'Fallon + setup ✓ 1040-X mailed ✓ insurance checked ✓ Kenton + SJen check-ins ✓ packed kit
-- **2026-03-29 (Sun):** ✓ 1040-X signed + BHay 1040 FILED ✓ + ReportPrint/gReportPrint started + Steve Jennings call
-- **2026-03-28 (Sat):** ✓ Traveled to Winfield + QB2020 up + customers imported
-- **2026-03-27 (Fri):** ✓ QBOL invoice forms @ River Place + vehicle maintenance with Brad ✓ + Mark ran routes (good till 4/7) + QBOL final migration FAILED (8hr timeout) + Iowa wins 🏀 Iowa State out 😬
+ - **2026-04-12 (Sun):** 🎯 Sunday Evening Review + NAS repair + HWPC continued
+ - **2026-04-11 (Sat):** ✓ HWPC mobile-first UI + media data cleanup started + netstack federation started + NAS died (DS-411+II)
+ - **2026-04-10 (Fri):** ✓ CTrees extension filed ✓ + hwpc-rp ONLINE + phone tested ✓
+ - **2026-04-09 (Thu):** ✓ HWPC all day + AR + Tax sync implemented + SEED process working
+ - **2026-04-08 (Wed):** ✓ HWPC - A/R sync approach decided (monthly QBOL reconciliation)
+ - **2026-04-07 (Tue):** ✓ HWPC + routes for Mark + MaRay + Aunt Carol check-ins ✓
+ - **2026-04-06 (Mon):** ✓ Gus dentist + HWPC + Mark meeting
 
 </details>
 
@@ -167,6 +159,7 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 # Inbox
 **Items to be processed and tagged during morning routine**
 
+ - NAS repair: Synology DS-411+II - CR1220 coin battery + diagnose @type:task @project:nsadmin @priority:high
  - Gus: Plex UI file organization for movies and music @type:task @project:gus @priority:medium
  - Trink: Proxmox NAS rebuild - tie into netstack.org properly @type:task @project:nsadmin @priority:high
 
@@ -203,10 +196,11 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Fri Apr 10)
-✓ CTrees 1040 extension filed (deadline → Oct 15)
-✓ hwpc-rp ONLINE - Mark can access directly
-✓ Phone tested - works on mobile 📱
+# Yesterday (Sat Apr 11)
+✓ HWPC mobile-first UI work
+✓ Media data cleanup started
+✓ Netstack federation work started
+- NAS died this morning (Synology DS-411+II, needs CR1220 coin battery + diagnosis)
 
 </details>
 
