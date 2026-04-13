@@ -3,20 +3,21 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 8 days | **Last Check-In:** 2026-04-12
+**Current Streak:** 9 days | **Last Check-In:** 2026-04-13
 
 ## Today
-**Top 3 Priorities for Sunday, April 12:**
-1. Sunday Evening Review ✓
-2. NAS repair - Synology DS-411+II (CR1220 battery + diagnose)
-3. HWPC mobile-first continued
+**Top 3 Priorities for Monday, April 13:**
+1. HWPC - cleanup list + UI changes + multi-location override fixes
+2. Mark meeting tonight - process rest of routes + print more
+3. Call Brad Nordyke about trip to see Steve (this week)
 
 ### History
 
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-12 (Sun):** 🎯 Sunday Evening Review + NAS repair + HWPC continued
+ - **2026-04-13 (Mon):** 🎯 HWPC cleanup + UI + multi-location fixes + Mark tonight
+ - **2026-04-12 (Sun):** ✓ Sunday Evening Review + Mark review - first batch of routes processed ✓
  - **2026-04-11 (Sat):** ✓ HWPC mobile-first UI + media data cleanup started + netstack federation started + NAS died (DS-411+II)
  - **2026-04-10 (Fri):** ✓ CTrees extension filed ✓ + hwpc-rp ONLINE + phone tested ✓
  - **2026-04-09 (Thu):** ✓ HWPC all day + AR + Tax sync implemented + SEED process working
@@ -197,11 +198,10 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Sat Apr 11)
-✓ HWPC mobile-first UI work
-✓ Media data cleanup started
-✓ Netstack federation work started
-- NAS died this morning (Synology DS-411+II, needs CR1220 coin battery + diagnosis)
+# Yesterday (Sun Apr 12)
+✓ Sunday Evening Review done
+✓ Mark review - first batch of routes processed in hwpc-rp
+- Cleanup list, UI changes, multi-location override issues identified
 
 </details>
 
