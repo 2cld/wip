@@ -3,20 +3,21 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 9 days | **Last Check-In:** 2026-04-13
+**Current Streak:** 10 days | **Last Check-In:** 2026-04-14
 
 ## Today
-**Top 3 Priorities for Monday, April 13:**
-1. HWPC - cleanup list + UI changes + multi-location override fixes
-2. Mark meeting tonight - process rest of routes + print more
-3. Call Brad Nordyke about trip to see Steve (this week)
+**Top 3 Priorities for Tuesday, April 14:**
+1. HWPC - continue field session triage + UI fixes
+2. Call Brad Nordyke about trip to see Steve (this week)
+3. Netstack federation with Trink
 
 ### History
 
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-13 (Mon):** 🎯 HWPC cleanup + UI + multi-location fixes + Mark tonight
+ - **2026-04-14 (Tue):** 🎯 HWPC field triage continued + Brad Nordyke call + netstack
+ - **2026-04-13 (Mon):** ✓ HWPC all day + new dentist check with Steve + FIELD-SESSIONS.md triage T1-21 + Mark meeting 5-6 more routes printed
  - **2026-04-12 (Sun):** ✓ Sunday Evening Review + Mark review - first batch of routes processed ✓
  - **2026-04-11 (Sat):** ✓ HWPC mobile-first UI + media data cleanup started + netstack federation started + NAS died (DS-411+II)
  - **2026-04-10 (Fri):** ✓ CTrees extension filed ✓ + hwpc-rp ONLINE + phone tested ✓
@@ -198,10 +199,11 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Sun Apr 12)
-✓ Sunday Evening Review done
-✓ Mark review - first batch of routes processed in hwpc-rp
-- Cleanup list, UI changes, multi-location override issues identified
+# Yesterday (Mon Apr 13)
+✓ HWPC most of day
+✓ New dentist check with Steve
+✓ hwpc-rp FIELD-SESSIONS.md triage T1-21
+✓ Mark meeting 5-6pm - more routes printed
 
 </details>
 
