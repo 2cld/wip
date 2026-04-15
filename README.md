@@ -3,20 +3,21 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 10 days | **Last Check-In:** 2026-04-14
+**Current Streak:** 11 days | **Last Check-In:** 2026-04-15
 
 ## Today
-**Top 3 Priorities for Tuesday, April 14:**
-1. HWPC - continue field session triage + UI fixes
-2. Call Brad Nordyke about trip to see Steve (this week)
-3. Netstack federation with Trink
+**Top 3 Priorities for Wednesday, April 15:**
+1. HWPC reconciles + Mark review tonight
+2. Plan Winfield trip (pending Mark review)
+3. Email MaRay re Winfield timing
 
 ### History
 
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-14 (Tue):** 🎯 HWPC field triage continued + Brad Nordyke call + netstack
+ - **2026-04-15 (Wed):** 🎯 HWPC reconciles + Mark review tonight + Winfield trip planning + email MaRay
+ - **2026-04-14 (Tue):** ✓ HWPC (few hrs) + NS template deployment test for sl.2cld.net (github push issues cf vs sl repo)
  - **2026-04-13 (Mon):** ✓ HWPC all day + new dentist check with Steve + FIELD-SESSIONS.md triage T1-21 + Mark meeting 5-6 more routes printed
  - **2026-04-12 (Sun):** ✓ Sunday Evening Review + Mark review - first batch of routes processed ✓
  - **2026-04-11 (Sat):** ✓ HWPC mobile-first UI + media data cleanup started + netstack federation started + NAS died (DS-411+II)
@@ -161,7 +162,8 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 # Inbox
 **Items to be processed and tagged during morning routine**
 
- - Call Brad Nordyke about trip to see Steve before he leaves @type:task @project:personal @priority:medium (next week)
+ - Call Brad Nordyke about trip to see Steve before he leaves @type:task @project:personal @priority:medium (this week)
+ - Email MaRay when heading to Winfield (visit him + his mom) @type:task @project:personal @priority:medium
  - NAS repair: Synology DS-411+II - CR1220 coin battery + diagnose @type:task @project:nsadmin @priority:high
  - Gus: Plex UI file organization for movies and music @type:task @project:gus @priority:medium
  - Trink: Proxmox NAS rebuild - tie into netstack.org properly @type:task @project:nsadmin @priority:high
@@ -199,11 +201,10 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Mon Apr 13)
-✓ HWPC most of day
-✓ New dentist check with Steve
-✓ hwpc-rp FIELD-SESSIONS.md triage T1-21
-✓ Mark meeting 5-6pm - more routes printed
+# Yesterday (Tue Apr 14)
+✓ HWPC (few hrs)
+✓ NS template deployment test for sl.2cld.net
+- GitHub push issues (cf repo vs sl repo mix-up)
 
 </details>
 
