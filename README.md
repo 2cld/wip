@@ -3,20 +3,21 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 11 days | **Last Check-In:** 2026-04-15
+**Current Streak:** 12 days | **Last Check-In:** 2026-04-16
 
 ## Today
-**Top 3 Priorities for Wednesday, April 15:**
-1. HWPC reconciles + Mark review tonight
-2. Plan Winfield trip (pending Mark review)
-3. Email MaRay re Winfield timing
+**Top 3 Priorities for Thursday, April 16:**
+1. Pack + travel O'Fallon → Winfield
+2. Visit Bev and Tim
+3. Setup in Winfield
 
 ### History
 
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-15 (Wed):** 🎯 HWPC reconciles + Mark review tonight + Winfield trip planning + email MaRay
+ - **2026-04-16 (Thu):** 🎯 Travel to Winfield + visit Bev + Tim + setup
+ - **2026-04-15 (Wed):** ✓ HWPC reconciles + Mark review ✓ + emailed MaRay ✓
  - **2026-04-14 (Tue):** ✓ HWPC (few hrs) + NS template deployment test for sl.2cld.net (github push issues cf vs sl repo)
  - **2026-04-13 (Mon):** ✓ HWPC all day + new dentist check with Steve + FIELD-SESSIONS.md triage T1-21 + Mark meeting 5-6 more routes printed
  - **2026-04-12 (Sun):** ✓ Sunday Evening Review + Mark review - first batch of routes processed ✓
@@ -163,7 +164,6 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 **Items to be processed and tagged during morning routine**
 
  - Call Brad Nordyke about trip to see Steve before he leaves @type:task @project:personal @priority:medium (this week)
- - Email MaRay when heading to Winfield (visit him + his mom) @type:task @project:personal @priority:medium
  - NAS repair: Synology DS-411+II - CR1220 coin battery + diagnose @type:task @project:nsadmin @priority:high
  - Gus: Plex UI file organization for movies and music @type:task @project:gus @priority:medium
  - Trink: Proxmox NAS rebuild - tie into netstack.org properly @type:task @project:nsadmin @priority:high
@@ -201,10 +201,10 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Tue Apr 14)
-✓ HWPC (few hrs)
-✓ NS template deployment test for sl.2cld.net
-- GitHub push issues (cf repo vs sl repo mix-up)
+# Yesterday (Wed Apr 15)
+✓ HWPC reconciles
+✓ Mark review - went as expected
+✓ Emailed MaRay re Winfield timing
 
 </details>
 
