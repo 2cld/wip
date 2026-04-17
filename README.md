@@ -3,20 +3,21 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 12 days | **Last Check-In:** 2026-04-16
+**Current Streak:** 13 days | **Last Check-In:** 2026-04-17
 
 ## Today
-**Top 3 Priorities for Thursday, April 16:**
-1. Pack + travel O'Fallon → Winfield
-2. Visit Bev and Tim
-3. Setup in Winfield
+**Top 3 Priorities for Friday, April 17:**
+1. HWPC continued from Winfield
+2. Call Brad Nordyke about trip to see Steve
+3. Netstack / media cleanup
 
 ### History
 
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-16 (Thu):** 🎯 Travel to Winfield + visit Bev + Tim + setup
+ - **2026-04-17 (Fri):** 🎯 HWPC from Winfield + Brad Nordyke call + netstack
+ - **2026-04-16 (Thu):** ✓ Arrived Winfield + setup + long visit with Bev and Tim
  - **2026-04-15 (Wed):** ✓ HWPC reconciles + Mark review ✓ + emailed MaRay ✓
  - **2026-04-14 (Tue):** ✓ HWPC (few hrs) + NS template deployment test for sl.2cld.net (github push issues cf vs sl repo)
  - **2026-04-13 (Mon):** ✓ HWPC all day + new dentist check with Steve + FIELD-SESSIONS.md triage T1-21 + Mark meeting 5-6 more routes printed
@@ -201,10 +202,9 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Wed Apr 15)
-✓ HWPC reconciles
-✓ Mark review - went as expected
-✓ Emailed MaRay re Winfield timing
+# Yesterday (Thu Apr 16)
+✓ Arrived Winfield + setup
+✓ Long visit with Bev and Tim
 
 </details>
 
