@@ -3,20 +3,21 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 13 days | **Last Check-In:** 2026-04-17
+**Current Streak:** 14 days | **Last Check-In:** 2026-04-18
 
 ## Today
-**Top 3 Priorities for Friday, April 17:**
-1. HWPC continued from Winfield
-2. Call Brad Nordyke about trip to see Steve
-3. Netstack / media cleanup
+**Top 3 Priorities for Saturday, April 18:**
+1. HWPC triage tasks
+2. Winfield rental issues
+3. CTrees 1040 auto-file test (Sunday tickler tomorrow)
 
 ### History
 
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-17 (Fri):** 🎯 HWPC from Winfield + Brad Nordyke call + netstack
+ - **2026-04-18 (Sat):** 🎯 HWPC triage + Winfield rental issues
+ - **2026-04-17 (Fri):** ✓ HWPC all day + found Mark's missing tickets + more triage + pinged Brad (no response) + mobile node setup
  - **2026-04-16 (Thu):** ✓ Arrived Winfield + setup + long visit with Bev and Tim
  - **2026-04-15 (Wed):** ✓ HWPC reconciles + Mark review ✓ + emailed MaRay ✓
  - **2026-04-14 (Tue):** ✓ HWPC (few hrs) + NS template deployment test for sl.2cld.net (github push issues cf vs sl repo)
@@ -170,9 +171,11 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Thu Apr 16)
-✓ Arrived Winfield + setup
-✓ Long visit with Bev and Tim
+# Yesterday (Fri Apr 17)
+✓ HWPC all day - found Mark's missing tickets, cleanup
+✓ More triage completed
+✓ Pinged Brad Nordyke (no response yet)
+✓ Mobile node setup (netstack)
 
 </details>
 
