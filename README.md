@@ -42,41 +42,9 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
  - [cat9-hwpc-qbol wip-detail](./wip-detail/hwpc-qbol-notes.md)
  - [ns-account gitea](https://gitea.cat9.me/nsadmin/ns-account)
- - [hwpc.2cld.net](https://hwpc.2cld.net/) - operational docs, procedures, ToDo
-
-**✅ RESOLVED (2026-04-01):** HWPC migration to QBOL complete - paycheck issued! QB2020 used as migration path.
-
-**⚠️ NEXT:** RoutePrint invoice import to QBOL - Mark routes expire 4/7, must work by Monday.
-
-**Definition of Done:**
- - [X] Route print functionality created
- - [X] Create Looney Tunes (LT) example Data
- - [X] Create LT smoke demo TRAINING-DEMO.md
- - [ ] Looney Tunes (LT) demo
-   - [X] LT docs/explain
-   - [X] LT docs/stepbystep
-   - [ ] LT Video Demo
-   - [ ] Post LT demo
-   - [ ] remote access demo server
- - [ ] Imports cvs
-   - [ ] Route ID import
-   - [ ] customer import
-   - [ ] customer service location import
-   - [ ] customer invoice import
- - [ ] Export cvs
-   - [ ] Route ID export
-   - [ ] customer export
-   - [ ] customer service location export
-   - [ ] customer invoice export
- - [ ] Work out lifecycle demo
-   - [ ] LT Route ID import
-   - [ ] LT customer import
-   - [ ] LT customer service location import
-   - [ ] LT customer invoice import
- - [ ] Test Route Print with old QB2024
- - [ ] Test Route Print with new QBOL
- - Connect Wip to Google Calendar
- - separate Account data from qb_migration
+ - [hwpc-rp production](http://rp.hwpc.net:5005/routes/monthly-dashboard) http://10.147.17.218:5005/routes
+ - [FIELD-SESSIONS](tbd) in cat2fin C:\cat9finshare\Account\hwpc-rp\docs\FIELD-SESSIONS.md
+ - [hwpc.2cld.net prod](https://hwpc.2cld.net:5005/routes) - operational docs, procedures, ToDo
 
 </details>
 
