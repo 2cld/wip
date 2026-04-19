@@ -3,20 +3,21 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 14 days | **Last Check-In:** 2026-04-18
+**Current Streak:** 15 days | **Last Check-In:** 2026-04-19
 
 ## Today
-**Top 3 Priorities for Saturday, April 18:**
-1. HWPC triage tasks
-2. Winfield rental issues
-3. CTrees 1040 auto-file test (Sunday tickler tomorrow)
+**Top 3 Priorities for Sunday, April 19:**
+1. HWPC Weekly with Mark - clear remaining backlog
+2. Temp patch roof
+3. Sunday Evening Review tonight
 
 ### History
 
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-18 (Sat):** 🎯 HWPC triage + Winfield rental issues
+ - **2026-04-19 (Sun):** 🎯 HWPC Weekly with Mark + roof patch + Sunday Evening Review
+ - **2026-04-18 (Sat):** ✓ HWPC backlog through 4/7 ✓ + TreesAES end loader + hail/wind damage + FHKlopFarms AgLeader auto-steer planter
  - **2026-04-17 (Fri):** ✓ HWPC all day + found Mark's missing tickets + more triage + pinged Brad (no response) + mobile node setup
  - **2026-04-16 (Thu):** ✓ Arrived Winfield + setup + long visit with Bev and Tim
  - **2026-04-15 (Wed):** ✓ HWPC reconciles + Mark review ✓ + emailed MaRay ✓
@@ -46,6 +47,8 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
  - [hwpc-rp production](http://rp.hwpc.net:5005/routes/monthly-dashboard) http://10.147.17.218:5005/routes
  - [FIELD-SESSIONS](tbd) in cat2fin C:\cat9finshare\Account\hwpc-rp\docs\FIELD-SESSIONS.md
  - [hwpc.2cld.net prod](https://hwpc.2cld.net:5005/routes) - operational docs, procedures, ToDo
+
+**🎯 MAY GOAL:** Mark running Route Print with minimal support by end of April.
 
 </details>
 
@@ -171,11 +174,10 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Fri Apr 17)
-✓ HWPC all day - found Mark's missing tickets, cleanup
-✓ More triage completed
-✓ Pinged Brad Nordyke (no response yet)
-✓ Mobile node setup (netstack)
+# Yesterday (Sat Apr 18)
+✓ HWPC backlog cleared through 4/7
+✓ TreesAES - end loader progress + hail/wind damage work with Brian
+✓ FHKlopFarms - AgLeader auto-steer on planter with Kenton
 
 </details>
 
