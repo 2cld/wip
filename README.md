@@ -6,30 +6,23 @@ Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 **Current Streak:** 15 days | **Last Check-In:** 2026-04-19
 
 ## Today
-**Top 3 Priorities for Sunday, April 19:**
-1. HWPC Weekly with Mark - clear remaining backlog
-2. Temp patch roof
-3. Sunday Evening Review tonight
+**Top 3 Priorities for Monday, April 20:**
+1. HWPC Route Print - triage + UI fixes toward Mark solo
+2. Winfield property / rental work
+3. IA 1065 manual file coming up (Apr 30 - 10 days)
 
 ### History
 
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-19 (Sun):** 🎯 HWPC Weekly with Mark + roof patch + Sunday Evening Review
+ - **2026-04-19 (Sun):** ✓ Roof patched ✓ + Mark got R5 printed ✓ + Route Print UI progress + basement cleared + lawn mowed + Sunday Evening Review
  - **2026-04-18 (Sat):** ✓ HWPC backlog through 4/7 ✓ + TreesAES end loader + hail/wind damage + FHKlopFarms AgLeader auto-steer planter
  - **2026-04-17 (Fri):** ✓ HWPC all day + found Mark's missing tickets + more triage + pinged Brad (no response) + mobile node setup
  - **2026-04-16 (Thu):** ✓ Arrived Winfield + setup + long visit with Bev and Tim
  - **2026-04-15 (Wed):** ✓ HWPC reconciles + Mark review ✓ + emailed MaRay ✓
- - **2026-04-14 (Tue):** ✓ HWPC (few hrs) + NS template deployment test for sl.2cld.net (github push issues cf vs sl repo)
- - **2026-04-13 (Mon):** ✓ HWPC all day + new dentist check with Steve + FIELD-SESSIONS.md triage T1-21 + Mark meeting 5-6 more routes printed
- - **2026-04-12 (Sun):** ✓ Sunday Evening Review + Mark review - first batch of routes processed ✓
- - **2026-04-11 (Sat):** ✓ HWPC mobile-first UI + media data cleanup started + netstack federation started + NAS died (DS-411+II)
- - **2026-04-10 (Fri):** ✓ CTrees extension filed ✓ + hwpc-rp ONLINE + phone tested ✓
- - **2026-04-09 (Thu):** ✓ HWPC all day + AR + Tax sync implemented + SEED process working
- - **2026-04-08 (Wed):** ✓ HWPC - A/R sync approach decided (monthly QBOL reconciliation)
- - **2026-04-07 (Tue):** ✓ HWPC + routes for Mark + MaRay + Aunt Carol check-ins ✓
- - **2026-04-06 (Mon):** ✓ Gus dentist + HWPC + Mark meeting
+ - **2026-04-14 (Tue):** ✓ HWPC + NS template deployment test for sl.2cld.net
+ - **2026-04-13 (Mon):** ✓ HWPC + dentist check with Steve + FIELD-SESSIONS triage T1-21 + Mark meeting
 
 </details>
 
@@ -136,8 +129,8 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 # Inbox
 **Items to be processed and tagged during morning routine**
 
- - Call Brad Nordyke about trip to see Steve before he leaves @type:task @project:personal @priority:medium (this week)
  - NAS repair: Synology DS-411+II - CR1220 coin battery + diagnose @type:task @project:nsadmin @priority:high
+ - Brad Nordyke: trip to see Steve before he leaves (pinged, no response) @type:task @project:personal @priority:medium
  - Gus: Plex UI file organization for movies and music @type:task @project:gus @priority:medium
  - Trink: Proxmox NAS rebuild - tie into netstack.org properly @type:task @project:nsadmin @priority:high
 
@@ -174,10 +167,12 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Sat Apr 18)
-✓ HWPC backlog cleared through 4/7
-✓ TreesAES - end loader progress + hail/wind damage work with Brian
-✓ FHKlopFarms - AgLeader auto-steer on planter with Kenton
+# Yesterday (Sun Apr 19)
+✓ Roof patched
+✓ Mark got R5 printed
+✓ Route Print UI progress
+✓ Basement cleared + lawn mowed
+✓ Sunday Evening Review
 
 </details>
 

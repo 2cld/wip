@@ -1,5 +1,38 @@
 # Weekly Schedule
 
+## Week of 2026-04-20 to 2026-04-26
+
+**Week Focus:** HWPC Route Print → Mark solo readiness + Winfield property + prep for Wendell event May 1
+
+*   **Monday (Apr 20):**
+    *   Morning: HWPC Route Print - continue triage + UI fixes
+    *   Afternoon: Winfield property / rental work
+
+*   **Tuesday (Apr 21):**
+    *   Morning: HWPC - Mark workflow testing
+    *   Afternoon: Netstack federation with Trink
+
+*   **Wednesday (Apr 22):**
+    *   Morning: HWPC continued
+    *   Afternoon: Property maintenance (TreesAES / FHKlopFarms)
+
+*   **Thursday (Apr 23):**
+    *   Morning: HWPC - push toward Mark solo readiness
+    *   Afternoon: CTrees 1040 auto-file test (tickler day)
+
+*   **Friday (Apr 24):**
+    *   Morning: HWPC wrap-up / Mark sync
+    *   Afternoon: Review week, plan Wendell event logistics
+
+**Weekend Buffer:** April 25-26 - Gus visit wrapping up, prep for May 1
+
+**Key Deadlines:**
+- April 25 - Gus visit ends
+- April 30 - IA 1065 manual file
+- May 1 - Wendell Sanders @ ISU Ames + Neil/Carol/Brian gathering
+- End of April - 🎯 Mark running Route Print with min support
+- Oct 15 - CTrees 1040 (extended, tickler Sun+Thu)
+
 ## Week of 2026-04-13 to 2026-04-19
 
 **Week Focus:** HWPC mobile-first + Mark running tickets, NAS repair, netstack federation with Trink

@@ -2,6 +2,32 @@
 
 ## Weekly Metrics
 
+### Week of 2026-04-13 to 2026-04-19
+
+*   **Tasks Completed:** 12+ items, HWPC + property maintenance
+*   **Completion Rate:** ~85% (strong focused week)
+*   **Key Accomplishments:**
+    *   HWPC backlog cleared through 4/7
+    *   Mark got R5 printed - Route Print getting close to production
+    *   More Route Print UI progress
+    *   FIELD-SESSIONS.md triage continued with Mark
+    *   Found + fixed Mark's missing tickets
+    *   Mobile node setup (netstack)
+    *   Traveled O'Fallon → Winfield, setup
+    *   Long visit with Bev and Tim
+    *   TreesAES - end loader progress + hail/wind damage with Brian
+    *   FHKlopFarms - AgLeader auto-steer planter with Kenton
+    *   Roof patched ✓
+    *   Basement cleared + lawn mowed
+    *   Pinged Brad Nordyke (no response)
+    *   Emailed MaRay re Winfield timing ✓
+    *   Maintained 15-day check-in streak
+*   **Blockers Identified:**
+    *   NAS still down (Synology DS-411+II - CR1220 battery)
+    *   Brad Nordyke not responding
+    *   Netstack federation getting minimal time (HWPC consuming cycles)
+    *   May goal: Mark running RoutePrint solo - 12 days to go
+
 ### Week of 2026-04-06 to 2026-04-12
 
 *   **Tasks Completed:** 10+ items, massive HWPC week
