@@ -3,20 +3,21 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 16 days | **Last Check-In:** 2026-04-20
+**Current Streak:** 17 days | **Last Check-In:** 2026-04-21
 
 ## Today
-**Top 3 Priorities for Monday, April 20:**
-1. HWPC Route Print - triage + UI fixes toward Mark solo
-2. Winfield property / rental work
-3. IA 1065 manual file coming up (Apr 30 - 10 days)
+**Top 3 Priorities for Tuesday, April 21:**
+1. HWPC RP with Mark (early start ✓)
+2. Jennings land bid (FHKlopFarms)
+3. Pack + head to St. Louis (Steve's)
 
 ### History
 
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-19 (Sun):** ✓ Roof patched ✓ + Mark got R5 printed ✓ + Route Print UI progress + basement cleared + lawn mowed + Sunday Evening Review
+ - **2026-04-21 (Tue):** 🎯 HWPC RP with Mark + Jennings land bid + travel to St. Louis
+ - **2026-04-20 (Mon):** ✓ HWPC RP + lawn mowed + TreesAES crap moved
  - **2026-04-18 (Sat):** ✓ HWPC backlog through 4/7 ✓ + TreesAES end loader + hail/wind damage + FHKlopFarms AgLeader auto-steer planter
  - **2026-04-17 (Fri):** ✓ HWPC all day + found Mark's missing tickets + more triage + pinged Brad (no response) + mobile node setup
  - **2026-04-16 (Thu):** ✓ Arrived Winfield + setup + long visit with Bev and Tim
@@ -129,6 +130,7 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 # Inbox
 **Items to be processed and tagged during morning routine**
 
+ - Jennings land bid [ai link](https://share.google/aimode/BzV39SQFQNlans0xa) @type:task @project:FHKlopFarms @priority:medium
  - NAS repair: Synology DS-411+II - CR1220 coin battery + diagnose @type:task @project:nsadmin @priority:high
  - Brad Nordyke: trip to see Steve before he leaves (pinged, no response) @type:task @project:personal @priority:medium
  - Gus: Plex UI file organization for movies and music @type:task @project:gus @priority:medium
@@ -167,12 +169,10 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Sun Apr 19)
-✓ Roof patched
-✓ Mark got R5 printed
-✓ Route Print UI progress
-✓ Basement cleared + lawn mowed
-✓ Sunday Evening Review
+# Yesterday (Mon Apr 20)
+✓ HWPC RP work
+✓ More lawn mowed
+✓ Moved more crap for TreesAES
 
 </details>
 
