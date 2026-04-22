@@ -3,20 +3,21 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 17 days | **Last Check-In:** 2026-04-21
+**Current Streak:** 18 days | **Last Check-In:** 2026-04-22
 
 ## Today
-**Top 3 Priorities for Tuesday, April 21:**
-1. HWPC RP with Mark (early start ✓)
+**Top 3 Priorities for Wednesday, April 22:**
+1. HWPC RP continued
 2. Jennings land bid (FHKlopFarms)
-3. Pack + head to St. Louis (Steve's)
+3. IA 1065 manual file (Apr 30 - 8 days)
 
 ### History
 
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-21 (Tue):** 🎯 HWPC RP with Mark + Jennings land bid + travel to St. Louis
+ - **2026-04-22 (Wed):** 🎯 HWPC RP + Jennings bid + IA 1065 prep
+ - **2026-04-21 (Tue):** ✓ HWPC RP with Mark + Jennings land bid + traveled to St. Louis
  - **2026-04-20 (Mon):** ✓ HWPC RP + lawn mowed + TreesAES crap moved
  - **2026-04-18 (Sat):** ✓ HWPC backlog through 4/7 ✓ + TreesAES end loader + hail/wind damage + FHKlopFarms AgLeader auto-steer planter
  - **2026-04-17 (Fri):** ✓ HWPC all day + found Mark's missing tickets + more triage + pinged Brad (no response) + mobile node setup
@@ -169,10 +170,10 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Mon Apr 20)
-✓ HWPC RP work
-✓ More lawn mowed
-✓ Moved more crap for TreesAES
+# Yesterday (Tue Apr 21)
+✓ HWPC RP with Mark
+✓ Jennings land bid work
+✓ Traveled to St. Louis (Steve's)
 
 </details>
 
