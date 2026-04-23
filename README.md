@@ -3,20 +3,21 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 18 days | **Last Check-In:** 2026-04-22
+**Current Streak:** 19 days | **Last Check-In:** 2026-04-23
 
 ## Today
-**Top 3 Priorities for Wednesday, April 22:**
-1. HWPC RP continued
-2. Jennings land bid (FHKlopFarms)
-3. IA 1065 manual file (Apr 30 - 8 days)
+**Top 3 Priorities for Thursday, April 23:**
+1. ⚠️ TreesAES insurance - call Jason, get new policy, add Brian + Carla's house
+2. HWPC RP continued
+3. CTrees 1040 auto-file test (Thursday tickler)
 
 ### History
 
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-22 (Wed):** 🎯 HWPC RP + Jennings bid + IA 1065 prep
+ - **2026-04-23 (Thu):** 🎯 TreesAES insurance ⚠️ + HWPC RP + CTrees tickler
+ - **2026-04-22 (Wed):** ✓ HWPC full tilt + discovered TreesAES insurance cancelled
  - **2026-04-21 (Tue):** ✓ HWPC RP with Mark + Jennings land bid + traveled to St. Louis
  - **2026-04-20 (Mon):** ✓ HWPC RP + lawn mowed + TreesAES crap moved
  - **2026-04-18 (Sat):** ✓ HWPC backlog through 4/7 ✓ + TreesAES end loader + hail/wind damage + FHKlopFarms AgLeader auto-steer planter
@@ -131,6 +132,8 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 # Inbox
 **Items to be processed and tagged during morning routine**
 
+ - ⚠️ TreesAES insurance cancelled - call Jason, get new policy, add Brian + Carla's house @type:task @project:TreesAES @priority:high
+ - ⚠️ LLC State tax filing (IA 1065 - Apr 30 deadline) @type:task @project:accounting @priority:high
  - Jennings land bid [ai link](https://share.google/aimode/BzV39SQFQNlans0xa) @type:task @project:FHKlopFarms @priority:medium
  - NAS repair: Synology DS-411+II - CR1220 coin battery + diagnose @type:task @project:nsadmin @priority:high
  - Brad Nordyke: trip to see Steve before he leaves (pinged, no response) @type:task @project:personal @priority:medium
@@ -170,10 +173,9 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Tue Apr 21)
-✓ HWPC RP with Mark
-✓ Jennings land bid work
-✓ Traveled to St. Louis (Steve's)
+# Yesterday (Wed Apr 22)
+✓ HWPC full tilt all day
+- TreesAES insurance cancelled ⚠️ (need Jason, new policy, add Brian + Carla's house)
 
 </details>
 
