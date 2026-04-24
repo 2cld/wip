@@ -3,20 +3,21 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 19 days | **Last Check-In:** 2026-04-23
+**Current Streak:** 20 days | **Last Check-In:** 2026-04-24
 
 ## Today
-**Top 3 Priorities for Thursday, April 23:**
-1. ⚠️ TreesAES insurance - call Jason, get new policy, add Brian + Carla's house
-2. HWPC RP continued
-3. CTrees 1040 auto-file test (Thursday tickler)
+**Top 3 Priorities for Friday, April 24:**
+1. HWPC RP continued
+2. ⚠️ LLC State tax filing (IA 1065 - Apr 30 - 6 days)
+3. Steve dentist follow-up
 
 ### History
 
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-23 (Thu):** 🎯 TreesAES insurance ⚠️ + HWPC RP + CTrees tickler
+ - **2026-04-24 (Fri):** 🎯 HWPC RP + IA 1065 prep + Steve dentist
+ - **2026-04-23 (Thu):** ✓ Steve dentist + HWPC RP + Mark work + Jason called re TreesAES insurance (looking into it) + Brad reached (visiting East Coast)
  - **2026-04-22 (Wed):** ✓ HWPC full tilt + discovered TreesAES insurance cancelled
  - **2026-04-21 (Tue):** ✓ HWPC RP with Mark + Jennings land bid + traveled to St. Louis
  - **2026-04-20 (Mon):** ✓ HWPC RP + lawn mowed + TreesAES crap moved
@@ -136,7 +137,8 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
  - ⚠️ LLC State tax filing (IA 1065 - Apr 30 deadline) @type:task @project:accounting @priority:high
  - Jennings land bid [ai link](https://share.google/aimode/BzV39SQFQNlans0xa) @type:task @project:FHKlopFarms @priority:medium
  - NAS repair: Synology DS-411+II - CR1220 coin battery + diagnose @type:task @project:nsadmin @priority:high
- - Brad Nordyke: trip to see Steve before he leaves (pinged, no response) @type:task @project:personal @priority:medium
+ - ⚠️ TreesAES insurance cancelled - Jason looking into it, add Brian + Carla's house @type:task @project:TreesAES @priority:high
+ - Brad Nordyke: reached ✓ visiting East Coast @type:task @project:personal @priority:low
  - Gus: Plex UI file organization for movies and music @type:task @project:gus @priority:medium
  - Trink: Proxmox NAS rebuild - tie into netstack.org properly @type:task @project:nsadmin @priority:high
 
@@ -173,9 +175,11 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Wed Apr 22)
-✓ HWPC full tilt all day
-- TreesAES insurance cancelled ⚠️ (need Jason, new policy, add Brian + Carla's house)
+# Yesterday (Thu Apr 23)
+✓ Steve to dentist (tooth issue)
+✓ HWPC RP + Mark work
+✓ Jason called re TreesAES insurance - looking into it
+✓ Brad Nordyke reached - visiting East Coast
 
 </details>
 
