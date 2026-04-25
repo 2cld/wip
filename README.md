@@ -77,15 +77,22 @@ Working with Trink from O'Fallon through April on federation deployments.
 <span>@type:task @priority:medium @project:[nsadmin](https://gitea.cat9.me/nsadmin)</span>
 
  - [docs/wip-integration.md](./docs/wip-integration.md) - project doc
+ - [docs/ops-account-management.md](./docs/ops-account-management.md) - persona map
  - [2cld/wip GitHub](https://github.com/2cld/wip)
- - [gitea.cat9.me](https://gitea.cat9.me)
+ - [ho-wip GitHub](https://github.com/ho-wip) - Wip's GitHub identity
+ - [gitea.cat9.me/wip](https://gitea.cat9.me/wip) - Wip's Gitea identity
+ - [nsgctime gitea](https://gitea.cat9.me/nsadmin/nsgctime) - Google Calendar API
 
 Connect Wip to project repos so it can monitor issue status, PRs, and project health during daily/weekly reviews. Wip gets its own accounts (GitHub, Gitea, Google) for audit trail.
 
+**Open Issues:**
+ - [#1 Integrate nsgctime calendar reads into daily check-in](https://github.com/2cld/wip/issues/1)
+ - [#2 Review nsgctime scope: extract calendar API vs keep full project](https://github.com/2cld/wip/issues/2)
+
 **Definition of Done:**
- - [ ] Wip GitHub account + MCP configured
- - [ ] Wip Gitea account + API access configured
- - [ ] Wip Google account + Calendar API configured
+ - [X] Wip GitHub account + MCP configured (ho-wip)
+ - [X] Wip Gitea account + API access configured (wip@horseoff.com)
+ - [X] Wip Google account + Calendar API configured (nsgctime OAuth2 working)
  - [ ] Daily check-in surfaces open issues / blockers from active Epics
  - [ ] Weekly review pulls repo activity summary per Epic
  - [ ] Multi-identity coordination (cat@, ghadmin@, wip@, etc.)
