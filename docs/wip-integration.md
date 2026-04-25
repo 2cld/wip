@@ -20,7 +20,7 @@ Connect Wip (the AI assistant) to project repos, calendar, and communication cha
  - **Primary email:** wip@horseoff.com ✅ (Google Workspace - created 2026-04-25)
  - **Future alias:** wip@2cld.net (via Cloudflare email routing, not Google - avoid paid upgrade)
  - **Chrome profile name:** ho-wip ✅ (horseoff wip user, sync on)
- - **GitHub:** TBD (creating now with wip@horseoff.com)
+ - **GitHub:** [ho-wip](https://github.com/ho-wip) ✅ (Google sign-in, collaborator on 2cld/wip)
  - **Gitea:** TBD (create on gitea.cat9.me with wip@horseoff.com)
  - **Purpose:** AI assistant identity - "persona brain" for managing and coordinating across all projects
 
@@ -188,8 +188,8 @@ Connect Wip (the AI assistant) to project repos, calendar, and communication cha
  - [ ] Add wip@2cld.net alias (deferred - Cloudflare later)
  - [X] Setup Chrome profile (ho-wip)
  - [ ] Update cat2net + ops-account-management.md
- - [ ] Create GitHub account (wip@horseoff.com) ← DOING NOW
- - [ ] Add as collaborator on 2cld/wip
+ - [X] Create GitHub account (wip@horseoff.com) → [ho-wip](https://github.com/ho-wip)
+ - [X] Add as collaborator on 2cld/wip
  - [ ] Create Gitea account (wip@horseoff.com)
 
 ### Phase 1: GitHub (2cld/wip)
