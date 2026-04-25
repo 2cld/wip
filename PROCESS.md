@@ -2,6 +2,31 @@
 
 This document outlines the process for managing tasks in this repository.
 
+## Repo Lifecycle Management
+
+To prevent repo sprawl and "little piles of poop", follow this process:
+
+**Active → Merge Candidate → Archived**
+
+1. **Flag for merge/archive:** Create an issue on the repo titled "Consider merge into [target-repo] and archive"
+   - Describe what the repo does and why it could merge
+   - Tag with `lifecycle` or `cleanup`
+   - This creates a paper trail
+
+2. **Review during Weekly Review:** Step 6 (Epic/Task checklist audit) includes checking repo inventory
+   - Wip surfaces stale repos (no commits in 90+ days) during weekly review
+   - Decision: keep active, merge, or archive
+
+3. **Merge:** Move relevant code/docs into the target repo
+   - Create a final commit noting the merge source
+   - Update any references in wip docs
+
+4. **Archive:** In Gitea/GitHub repo settings → Archive repository
+   - Repo becomes read-only, stays accessible for history
+   - Remove from active inventory in wip-integration.md
+
+**Repo inventory lives in:** [docs/wip-integration.md](docs/wip-integration.md) - Gitea Repo Inventory table
+
 ## Tickler Schedule
 Recurring reminders that Wip should surface during daily check-ins:
 

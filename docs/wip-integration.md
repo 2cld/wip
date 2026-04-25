@@ -206,9 +206,28 @@ Connect Wip (the AI assistant) to project repos, calendar, and communication cha
  - [X] Generate API token
  - [X] Test: API access works (curl with token)
  - [X] Test: wip has push+pull on nsadmin/ns-account ✅
- - [ ] Add wip to other nsadmin repos/teams as needed (nsclai, nspwa, etc.)
- - [ ] Documented in this file
+ - [X] Add wip to nsadmin repos (14 repos accessible)
+ - [X] Documented in this file
  - **Note:** Using direct REST API (curl/webFetch) instead of MCP server - no Go/extra tooling needed
+
+#### Gitea Repo Inventory (as of 2026-04-25)
+
+| Repo | Last Updated | Relevant To | Status |
+|------|-------------|-------------|--------|
+| ns-account | Apr 22 | HWPC QBOL Epic | Active |
+| ns-site-template | Jan 23 | Netstack federation Epic | Active |
+| docker-compose | Feb 27 | Netstack federation Epic | Active |
+| nsclai | Jan 23 | AI CLI research | Active |
+| nspwa | Mar 12 | PWA template | Active |
+| nspwa-test | Mar 12 | PWA testing | Active |
+| nsqbooks | Feb 24 | HWPC QBOL (QB reverse audit) | Active |
+| nsgctime | Jan 3 | Wip integration Phase 3 (gcal) | Active |
+| nscallbot | Jan 26 | HWPC candybot | Lower priority |
+| nsmedia | Jan 15 | Media cleanup Epic | Lower priority |
+| nstrade | Feb 25 | Trading | Lower priority |
+| 2cld | Dec 14 | 2cld private data | Reference |
+| gitea-to-github | Jan 1 | Repo mirroring / shadow | Relevant |
+| trink/test | Sep 05 | Trink | Stale - candidate for archive |
 
 ### Phase 3: Google Calendar
  - [ ] Share calendars with wip@horseoff.com
