@@ -37,14 +37,19 @@ Connect Wip (the AI assistant) to project repos, calendar, and communication cha
  - "Send mail as" option for admin@2cld.net NOT found in Gmail settings
  - 2cld.net NOT visible in admin.google.com → Manage domains
  - horseoff.com is likely a legacy free Google Apps account with restricted domain management
+ - Cloudflare only has 2cld.com, NOT 2cld.net
+ - **Squarespace manages 2cld.net email** - has "Manage Google Workspace" and "Manage MX Records" buttons
+ - Squarespace set up the MX records and Google Workspace connection for 2cld.net
+ - klopfenstein.org uses Cloudflare email routing (different pattern)
 
 **Investigation steps:**
+ - [X] Check Squarespace for email forwarding → **FOUND: Squarespace manages Google Workspace for 2cld.net**
+ - [X] Check Cloudflare → only has 2cld.com, not 2cld.net
+ - [ ] Click "Manage Google Workspace" button in Squarespace 2cld.net settings - may expose domain admin
  - [ ] Check `admin.google.com/ac/domains` (direct link, may show more than new UI)
  - [ ] Check `admin.google.com/ac/owl/domainlist` (older admin page)
  - [ ] Run `dig MX 2cld.net +short` to confirm MX records
  - [ ] Check Apps → Google Workspace → Gmail → Routing for recipient address maps
- - [ ] Check if Squarespace or Cloudflare has email forwarding rules for 2cld.net
- - [ ] Consider: is this a domain alias that Google grandfathered but won't let you manage?
 
 **Decision needed:**
  - If 2cld.net alias can be restored/managed → wip@2cld.net alias works as planned
