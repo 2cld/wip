@@ -193,13 +193,13 @@ Connect Wip (the AI assistant) to project repos, calendar, and communication cha
  - [X] Add as collaborator on 2cld/wip
  - [ ] Create Gitea account (wip@horseoff.com)
 
-### Phase 1: GitHub (2cld/wip)
- - [ ] Generate GitHub personal access token
- - [ ] Add wip as collaborator on 2cld/wip
- - [ ] Configure GitHub MCP server in `.kiro/settings/mcp.json`
- - [ ] Test: pull recent commits during daily check-in
- - [ ] Test: list open issues
- - [ ] Document results in this file
+### Phase 1: GitHub (2cld/wip) ✅ COMPLETE
+ - [X] Generate GitHub personal access token (classic, repo scope)
+ - [X] Add wip as collaborator on 2cld/wip
+ - [X] Configure GitHub MCP server in `.kiro/settings/mcp.json` (npx @modelcontextprotocol/server-github)
+ - [X] Test: pull recent commits during daily check-in ✅
+ - [X] Test: list open issues
+ - [X] Documented in this file
 
 ### Phase 2: Gitea (cat9.me)
  - [ ] Generate Gitea API token
