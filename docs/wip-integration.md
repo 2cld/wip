@@ -188,6 +188,7 @@ Connect Wip (the AI assistant) to project repos, calendar, and communication cha
  - [ ] Add wip@2cld.net alias (deferred - Cloudflare later)
  - [X] Setup Chrome profile (ho-wip)
  - [ ] Update cat2net + ops-account-management.md
+ - [X] Set git identity for wip repo (ho-wip / wip@horseoff.com)
  - [X] Create GitHub account (wip@horseoff.com) → [ho-wip](https://github.com/ho-wip)
  - [X] Add as collaborator on 2cld/wip
  - [ ] Create Gitea account (wip@horseoff.com)
