@@ -229,12 +229,17 @@ Connect Wip (the AI assistant) to project repos, calendar, and communication cha
 | gitea-to-github | Jan 1 | Repo mirroring / shadow | Relevant |
 | trink/test | Sep 05 | Trink | Stale - candidate for archive |
 
-### Phase 3: Google Calendar
- - [ ] Share calendars with wip@horseoff.com
- - [ ] Configure Google Calendar API / MCP access
- - [ ] Test: pull today's events during morning check-in
- - [ ] Test: auto-detect missed check-ins from calendar activity
+### Phase 3: Google Calendar ✅ API WORKING
+ - [X] Create wip Google Cloud project (wip-calendar) under wip@horseoff.com
+ - [X] Enable Google Calendar API
+ - [X] Configure OAuth consent screen + credentials
+ - [X] Complete OAuth2 flow - tokens saved to nsgctime/data/calendar-token.json
+ - [X] Test: connection, calendar list, availability, time slots, event creation ✅
+ - [ ] Share your main calendars with wip@horseoff.com (so wip sees your schedule)
+ - [ ] Integrate calendar reads into daily check-in workflow
  - [ ] Document results in this file
+ - **Note:** Using existing nsgctime project (~/code/nsgctime) - Node.js CLI, no extra tooling needed
+ - **Cloud project:** wip-calendar under wip@horseoff.com (console.cloud.google.com)
 
 ### Phase 4: Multi-Identity Coordination
  - [ ] Map project personas to accounts (see ops-account-management.md)
