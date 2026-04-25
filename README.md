@@ -147,6 +147,7 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
  - Brad Nordyke: reached ✓ visiting East Coast @type:task @project:personal @priority:low
  - Gus: Plex UI file organization for movies and music @type:task @project:gus @priority:medium
  - Trink: Proxmox NAS rebuild - tie into netstack.org properly @type:task @project:nsadmin @priority:high
+ - Bitcoin early mining keys - check old arch/VM images from mining setup @type:task @project:personal @priority:medium
 
 ---
 
