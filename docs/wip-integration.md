@@ -26,6 +26,37 @@ Connect Wip (the AI assistant) to project repos, calendar, and communication cha
 
 ### Step-by-Step: Create Wip Google Account
 
+**⚠️ BLOCKER: 2cld.net domain alias investigation (2026-04-25)**
+
+2cld.net is NOT showing in Google Admin → Manage domains for horseoff.com, but email to admin@2cld.net DOES deliver to admin@horseoff.com. Suspicion: legacy free Google Apps account (pre-2012) had 2cld.net added as domain alias when it was allowed, now hidden from modern admin UI.
+
+**What we know:**
+ - MX records for 2cld.net point to Google
+ - Email sent to admin@2cld.net arrives at admin@horseoff.com inbox
+ - Reply goes out as admin@horseoff.com (not admin@2cld.net)
+ - "Send mail as" option for admin@2cld.net NOT found in Gmail settings
+ - 2cld.net NOT visible in admin.google.com → Manage domains
+ - horseoff.com is likely a legacy free Google Apps account with restricted domain management
+
+**Investigation steps:**
+ - [ ] Check `admin.google.com/ac/domains` (direct link, may show more than new UI)
+ - [ ] Check `admin.google.com/ac/owl/domainlist` (older admin page)
+ - [ ] Run `dig MX 2cld.net +short` to confirm MX records
+ - [ ] Check Apps → Google Workspace → Gmail → Routing for recipient address maps
+ - [ ] Check if Squarespace or Cloudflare has email forwarding rules for 2cld.net
+ - [ ] Consider: is this a domain alias that Google grandfathered but won't let you manage?
+
+**Decision needed:**
+ - If 2cld.net alias can be restored/managed → wip@2cld.net alias works as planned
+ - If legacy account blocks it → options:
+   - Upgrade horseoff.com to paid Workspace (adds domain management)
+   - Use wip@horseoff.com directly (skip 2cld.net alias)
+   - Route wip@2cld.net via Cloudflare/Squarespace email forwarding to wip@horseoff.com
+
+---
+
+**Once the domain alias issue is resolved, proceed with these steps:**
+
 1. **Login to Google Admin**
    - Go to [admin.google.com](https://admin.google.com)
    - Login as cat@horseoff.com (Workspace admin)
