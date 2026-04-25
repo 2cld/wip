@@ -18,10 +18,10 @@ Connect Wip (the AI assistant) to project repos, calendar, and communication cha
 
 ### Wip Persona
  - **Primary email:** wip@horseoff.com (Google Workspace mailbox)
- - **Public alias:** wip@2cld.net
+ - **Future alias:** wip@2cld.net (via Cloudflare email routing, not Google - avoid paid upgrade)
  - **Chrome profile name:** 2cld-wip
- - **GitHub:** TBD (create with wip@2cld.net)
- - **Gitea:** TBD (create on gitea.cat9.me with wip@2cld.net)
+ - **GitHub:** TBD (create with wip@horseoff.com)
+ - **Gitea:** TBD (create on gitea.cat9.me with wip@horseoff.com)
  - **Purpose:** AI assistant identity for audit trail across all projects
 
 ### Step-by-Step: Create Wip Google Account
@@ -51,12 +51,11 @@ Connect Wip (the AI assistant) to project repos, calendar, and communication cha
  - [ ] Run `dig MX 2cld.net +short` to confirm MX records
  - [ ] Check Apps → Google Workspace → Gmail → Routing for recipient address maps
 
-**Decision needed:**
- - If 2cld.net alias can be restored/managed → wip@2cld.net alias works as planned
- - If legacy account blocks it → options:
-   - Upgrade horseoff.com to paid Workspace (adds domain management)
-   - Use wip@horseoff.com directly (skip 2cld.net alias)
-   - Route wip@2cld.net via Cloudflare/Squarespace email forwarding to wip@horseoff.com
+**Decision:**
+ - Use **wip@horseoff.com** as the primary identity for all services (GitHub, Gitea, Google)
+ - Optionally add **wip@2cld.net** later as receive-only alias via Cloudflare email routing (like klopfenstein.org pattern)
+ - Do NOT upgrade Google Workspace to paid - not worth it for a bot account
+ - Move 2cld.net DNS to Cloudflare when ready for the alias
 
 ---
 
@@ -102,7 +101,7 @@ Connect Wip (the AI assistant) to project repos, calendar, and communication cha
 
 1. **Create account**
    - Go to [github.com/signup](https://github.com/signup)
-   - Use email: wip@2cld.net
+   - Use email: wip@horseoff.com
    - Username suggestion: `wip-2cld` or `2cld-wip`
 
 2. **Generate personal access token**
@@ -148,7 +147,7 @@ Connect Wip (the AI assistant) to project repos, calendar, and communication cha
 
 1. **Create account**
    - Go to [gitea.cat9.me](https://gitea.cat9.me)
-   - Register with email: wip@2cld.net
+   - Register with email: wip@horseoff.com
    - Username: `wip`
 
 2. **Generate API token**
