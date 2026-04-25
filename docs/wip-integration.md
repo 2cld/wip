@@ -17,12 +17,12 @@ Connect Wip (the AI assistant) to project repos, calendar, and communication cha
 ## Wip Identity Setup
 
 ### Wip Persona
- - **Primary email:** wip@horseoff.com (Google Workspace mailbox)
+ - **Primary email:** wip@horseoff.com ✅ (Google Workspace - created 2026-04-25)
  - **Future alias:** wip@2cld.net (via Cloudflare email routing, not Google - avoid paid upgrade)
- - **Chrome profile name:** 2cld-wip
- - **GitHub:** TBD (create with wip@horseoff.com)
+ - **Chrome profile name:** ho-wip ✅ (horseoff wip user, sync on)
+ - **GitHub:** TBD (creating now with wip@horseoff.com)
  - **Gitea:** TBD (create on gitea.cat9.me with wip@horseoff.com)
- - **Purpose:** AI assistant identity for audit trail across all projects
+ - **Purpose:** AI assistant identity - "persona brain" for managing and coordinating across all projects
 
 ### Step-by-Step: Create Wip Google Account
 
@@ -183,13 +183,14 @@ Connect Wip (the AI assistant) to project repos, calendar, and communication cha
 
 ## Integration Phases
 
-### Phase 0: Identity Setup ← WE ARE HERE
- - [ ] Create wip@horseoff.com in Google Workspace
- - [ ] Add wip@2cld.net alias
- - [ ] Setup Chrome profile (2cld-wip)
+### Phase 0: Identity Setup ← IN PROGRESS
+ - [X] Create wip@horseoff.com in Google Workspace
+ - [ ] Add wip@2cld.net alias (deferred - Cloudflare later)
+ - [X] Setup Chrome profile (ho-wip)
  - [ ] Update cat2net + ops-account-management.md
- - [ ] Create GitHub account (wip@2cld.net)
- - [ ] Create Gitea account (wip@2cld.net)
+ - [ ] Create GitHub account (wip@horseoff.com) ← DOING NOW
+ - [ ] Add as collaborator on 2cld/wip
+ - [ ] Create Gitea account (wip@horseoff.com)
 
 ### Phase 1: GitHub (2cld/wip)
  - [ ] Generate GitHub personal access token

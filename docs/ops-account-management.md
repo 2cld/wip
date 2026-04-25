@@ -26,7 +26,7 @@ This doc was because I got frustrated finding the proper chrome profile to selec
 | cat9llc | cat9llc@gmail.com | cat9 LLC | |
 | alktrees | alktrees@gmail.com | Klopfenstein / Trees family | |
 | altrees | altrees@yahoo.com | Alan Trees personal | |
-| **wip** (planned) | **TBD** | **Wip AI assistant** | **TBD** |
+| **ho-wip** | **wip@horseoff.com** | **Wip AI assistant** | **TBD** |
 
 ## cat2net Sheets Available
  - Overview - network management summary
