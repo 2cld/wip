@@ -201,13 +201,14 @@ Connect Wip (the AI assistant) to project repos, calendar, and communication cha
  - [X] Test: list open issues
  - [X] Documented in this file
 
-### Phase 2: Gitea (cat9.me)
- - [ ] Generate Gitea API token
- - [ ] Add wip to nsadmin org
- - [ ] Configure Gitea MCP server or API access
- - [ ] Test: pull ns-account, nsclai, nspwa activity
- - [ ] Test: surface open issues per Epic
- - [ ] Document results in this file
+### Phase 2: Gitea (cat9.me) ✅ FUNCTIONAL
+ - [X] Create Wip Gitea account (wip@horseoff.com) on gitea.cat9.me
+ - [X] Generate API token
+ - [X] Test: API access works (curl with token)
+ - [X] Test: wip has push+pull on nsadmin/ns-account ✅
+ - [ ] Add wip to other nsadmin repos/teams as needed (nsclai, nspwa, etc.)
+ - [ ] Documented in this file
+ - **Note:** Using direct REST API (curl/webFetch) instead of MCP server - no Go/extra tooling needed
 
 ### Phase 3: Google Calendar
  - [ ] Share calendars with wip@horseoff.com
