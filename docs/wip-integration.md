@@ -2,6 +2,8 @@
 
 **Epic:** [README.md Current Epics](../README.md) - Wip repo + issue integration
 **Status:** Starting - April 2026
+**Persona doc:** [docs/ops-account-management.md](./ops-account-management.md)
+**Source of truth:** [cat2net Google Sheet](https://docs.google.com/spreadsheets/d/1LdyZlFieSd_1APTbG0QahfwZgqBaA9PigO9_5SPSkmk/edit?gid=1959043129#gid=1959043129)
 
 ## Goal
 Connect Wip (the AI assistant) to project repos, calendar, and communication channels so it can:
@@ -10,76 +12,192 @@ Connect Wip (the AI assistant) to project repos, calendar, and communication cha
  - Coordinate across multiple project identities
  - Eventually auto-log check-ins from calendar/repo activity
 
+---
+
 ## Wip Identity Setup
-Wip gets its own accounts to maintain audit trail (who did what):
 
- - [ ] GitHub account for Wip (wip-bot or similar)
- - [ ] Gitea account for Wip on cat9.me
- - [ ] Google account for Wip (calendar, email)
- - [ ] Document account credentials securely
+### Wip Persona
+ - **Primary email:** wip@horseoff.com (Google Workspace mailbox)
+ - **Public alias:** wip@2cld.net
+ - **Chrome profile name:** 2cld-wip
+ - **GitHub:** TBD (create with wip@2cld.net)
+ - **Gitea:** TBD (create on gitea.cat9.me with wip@2cld.net)
+ - **Purpose:** AI assistant identity for audit trail across all projects
 
-### Identity Pattern
-Each "project persona" has its own email/account for tracking:
- - **wip@** - the AI assistant identity
- - **cat@** - personal/cat9 work
- - **ghadmin@** - hwpc/grasshorse work
- - etc.
+### Step-by-Step: Create Wip Google Account
 
-This lets you see in commit history and email threads exactly which context was active.
+1. **Login to Google Admin**
+   - Go to [admin.google.com](https://admin.google.com)
+   - Login as cat@horseoff.com (Workspace admin)
+
+2. **Create the user**
+   - Directory → Users → Add new user
+   - First name: `wip`
+   - Last name: `2cld`
+   - Primary email: `wip@horseoff.com`
+   - Set a strong password, store in your password manager
+
+3. **Add 2cld.net alias**
+   - Click on the new wip@horseoff.com user
+   - User information → Alternate email addresses (aliases)
+   - Add: `wip@2cld.net`
+   - (This works because 2cld.net is already a secondary domain on the horseoff.com Workspace)
+
+4. **Verify email works**
+   - Send a test email to wip@2cld.net
+   - Confirm it arrives at wip@horseoff.com inbox
+
+5. **Setup Chrome profile**
+   - chrome://settings/manageProfile
+   - Profile name: `2cld-wip`
+   - Sign in with wip@horseoff.com
+   - Following the sorting pattern:
+     - FirstName: `2cld-wip`
+     - LastName: `2cld`
+     - DisplayName: `2cld-wip 2cld`
+   - Verify Sync is on
+
+6. **Update cat2net**
+   - Add wip@horseoff.com row to EmailMaintenance sheet
+   - Add wip@2cld.net alias note
+   - Update ops-account-management.md persona table
+
+### Step-by-Step: Create Wip GitHub Account
+
+1. **Create account**
+   - Go to [github.com/signup](https://github.com/signup)
+   - Use email: wip@2cld.net
+   - Username suggestion: `wip-2cld` or `2cld-wip`
+
+2. **Generate personal access token**
+   - Settings → Developer settings → Personal access tokens → Fine-grained tokens
+   - Token name: `kiro-mcp`
+   - Repository access: select `2cld/wip` (and any other repos Wip should read)
+   - Permissions: Contents (read), Issues (read/write), Pull requests (read)
+   - Copy token, store securely
+
+3. **Add as collaborator to 2cld/wip**
+   - Login as your main GitHub account (cat@horseoff.com / admin@2cld.net)
+   - Go to github.com/2cld/wip → Settings → Collaborators
+   - Invite the new wip account
+   - Accept invite from wip account
+
+4. **Configure Kiro MCP**
+   - Store token in `.local/.env` (gitignored):
+     ```
+     GITHUB_PERSONAL_ACCESS_TOKEN=ghp_xxxxxxxxxxxxx
+     ```
+   - Add to `.kiro/settings/mcp.json`:
+     ```json
+     {
+       "mcpServers": {
+         "github": {
+           "command": "uvx",
+           "args": ["mcp-server-github"],
+           "env": {
+             "GITHUB_PERSONAL_ACCESS_TOKEN": "${GITHUB_PERSONAL_ACCESS_TOKEN}"
+           }
+         }
+       }
+     }
+     ```
+   - Restart Kiro / reconnect MCP
+
+5. **Test**
+   - Ask Wip to list recent commits on 2cld/wip
+   - Ask Wip to list open issues
+   - Verify commits show as wip-2cld in git log
+
+### Step-by-Step: Create Wip Gitea Account
+
+1. **Create account**
+   - Go to [gitea.cat9.me](https://gitea.cat9.me)
+   - Register with email: wip@2cld.net
+   - Username: `wip`
+
+2. **Generate API token**
+   - Settings → Applications → Generate New Token
+   - Token name: `kiro-mcp`
+   - Copy token, store in `.local/.env`
+
+3. **Add to relevant orgs/repos**
+   - Login as nsadmin or cat
+   - Add wip user to nsadmin org with read access
+   - Grant access to: ns-account, nsclai, nspwa, ns-site-template, docker-compose
+
+4. **Configure Kiro MCP** (when Gitea MCP server is available)
+   - May need custom API wrapper or generic REST MCP
+   - Document approach once tested
+
+### Step-by-Step: Setup Wip Google Calendar Access
+
+1. **Calendar is already available** via the wip@horseoff.com Google account
+
+2. **Share your calendars with Wip**
+   - Open Google Calendar as your main persona
+   - Settings → calendar → Share with specific people
+   - Add wip@horseoff.com with "See all event details" permission
+   - Repeat for each calendar Wip should see
+
+3. **Configure Google Calendar MCP** (when available)
+   - Will need OAuth2 or service account credentials
+   - Store in `.local/.env`
+   - Document approach once tested
+
+---
 
 ## Integration Phases
 
+### Phase 0: Identity Setup ← WE ARE HERE
+ - [ ] Create wip@horseoff.com in Google Workspace
+ - [ ] Add wip@2cld.net alias
+ - [ ] Setup Chrome profile (2cld-wip)
+ - [ ] Update cat2net + ops-account-management.md
+ - [ ] Create GitHub account (wip@2cld.net)
+ - [ ] Create Gitea account (wip@2cld.net)
+
 ### Phase 1: GitHub (2cld/wip)
- - [ ] Create Wip GitHub account
- - [ ] Generate personal access token
+ - [ ] Generate GitHub personal access token
+ - [ ] Add wip as collaborator on 2cld/wip
  - [ ] Configure GitHub MCP server in `.kiro/settings/mcp.json`
  - [ ] Test: pull recent commits during daily check-in
  - [ ] Test: list open issues
- - [ ] Document setup in this file
+ - [ ] Document results in this file
 
 ### Phase 2: Gitea (cat9.me)
- - [ ] Create Wip Gitea account on gitea.cat9.me
- - [ ] Generate API token
+ - [ ] Generate Gitea API token
+ - [ ] Add wip to nsadmin org
  - [ ] Configure Gitea MCP server or API access
  - [ ] Test: pull ns-account, nsclai, nspwa activity
  - [ ] Test: surface open issues per Epic
- - [ ] Document setup in this file
+ - [ ] Document results in this file
 
 ### Phase 3: Google Calendar
- - [ ] Create Wip Google account
- - [ ] Configure Google Calendar API access
+ - [ ] Share calendars with wip@horseoff.com
+ - [ ] Configure Google Calendar API / MCP access
  - [ ] Test: pull today's events during morning check-in
  - [ ] Test: auto-detect missed check-ins from calendar activity
- - [ ] Document setup in this file
+ - [ ] Document results in this file
 
 ### Phase 4: Multi-Identity Coordination
- - [ ] Map project personas to accounts (cat@, ghadmin@, wip@, etc.)
+ - [ ] Map project personas to accounts (see ops-account-management.md)
  - [ ] Wip can check email/notifications across personas
  - [ ] Wip can coordinate "other me's" across projects
  - [ ] Document identity patterns in PROCESS.md
 
-## MCP Configuration Pattern
-```json
-{
-  "mcpServers": {
-    "github": {
-      "command": "uvx",
-      "args": ["mcp-server-github"],
-      "env": {
-        "GITHUB_PERSONAL_ACCESS_TOKEN": "<wip-bot-token>"
-      }
-    }
-  }
-}
-```
+---
 
 ## Links
  - [2cld/wip GitHub](https://github.com/2cld/wip)
  - [gitea.cat9.me](https://gitea.cat9.me)
- - [Kiro MCP docs](https://kiro.dev/docs/mcp)
+ - [Google Admin](https://admin.google.com) (login as cat@horseoff.com)
+ - [ops-account-management.md](./ops-account-management.md) - persona map
+ - [cat2net Google Sheet](https://docs.google.com/spreadsheets/d/1LdyZlFieSd_1APTbG0QahfwZgqBaA9PigO9_5SPSkmk/edit?gid=1959043129#gid=1959043129)
 
 ## Notes
+ - wip@horseoff.com is the mailbox, wip@2cld.net is the public-facing alias
  - Start with GitHub since wip repo is already there
- - Gitea needs MCP server or custom API wrapper
+ - Gitea may need custom API wrapper or generic REST MCP
  - Google Calendar is hardest but most impactful for daily planning
- - Wip identity accounts let you audit AI vs human activity
+ - All credentials go in `.local/.env` (gitignored)
+ - Wip identity accounts let you audit AI vs human activity in git log
