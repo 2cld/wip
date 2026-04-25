@@ -3,20 +3,21 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 20 days | **Last Check-In:** 2026-04-24
+**Current Streak:** 21 days | **Last Check-In:** 2026-04-25
 
 ## Today
-**Top 3 Priorities for Friday, April 24:**
-1. HWPC RP continued
-2. ⚠️ LLC State tax filing (IA 1065 - Apr 30 - 6 days)
-3. Steve dentist follow-up
+**Top 3 Priorities for Saturday, April 25:**
+1. Something NOT HWPC - netstack federation / media cleanup / wip integration
+2. HWPC RP (lighter touch today)
+3. Wendell event logistics (May 1 - 6 days)
 
 ### History
 
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-24 (Fri):** 🎯 HWPC RP + IA 1065 prep + Steve dentist
+ - **2026-04-25 (Sat):** 🎯 Non-HWPC focus day + Wendell event prep
+ - **2026-04-24 (Fri):** ✓ Attempted IA 1065 state filing - TurboTax $55 waste (can't print/e-file state) + auto-extension applies (no tax owed) + HWPC RP continued
  - **2026-04-23 (Thu):** ✓ Steve dentist + HWPC RP + Mark work + Jason called re TreesAES insurance (looking into it) + Brad reached (visiting East Coast)
  - **2026-04-22 (Wed):** ✓ HWPC full tilt + discovered TreesAES insurance cancelled
  - **2026-04-21 (Tue):** ✓ HWPC RP with Mark + Jennings land bid + traveled to St. Louis
@@ -134,7 +135,7 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 **Items to be processed and tagged during morning routine**
 
  - ⚠️ TreesAES insurance cancelled - call Jason, get new policy, add Brian + Carla's house @type:task @project:TreesAES @priority:high
- - ⚠️ LLC State tax filing (IA 1065 - Apr 30 deadline) @type:task @project:accounting @priority:high
+ - ⚠️ LLC State tax filing - auto-extended to Sep 30 (confirm no tax owed assumption) @type:task @project:accounting @priority:medium
  - Jennings land bid [ai link](https://share.google/aimode/BzV39SQFQNlans0xa) @type:task @project:FHKlopFarms @priority:medium
  - NAS repair: Synology DS-411+II - CR1220 coin battery + diagnose @type:task @project:nsadmin @priority:high
  - ⚠️ TreesAES insurance cancelled - Jason looking into it, add Brian + Carla's house @type:task @project:TreesAES @priority:high
@@ -163,8 +164,9 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
  - **2026-05-01** - Cousin Neil at Aunt Carol's + Wendell + Brian in area @type:note @project:personal
  - **TBD** - Tell MaRay when in Mt. Pleasant (visit him + his mom) @type:task @priority:medium @project:personal
 
- - **2026-04-30** - IA 1065 manual file [googleai instructions](https://share.google/aimode/wgpBIcMB9nfwryieG) @type:link @project:accounting
- - **2026-04-30** - IA 1065 no income or expense [Googleai](https://share.google/aimode/NtFvRnACVfHpMpn8Q) @type:link @project:accounting
+ - **2026-04-30** - ~~IA 1065 manual file~~ auto-extension (no tax owed) → Sep 30 [googleai instructions](https://share.google/aimode/wgpBIcMB9nfwryieG) @type:link @project:accounting
+ - **2026-04-30** - ~~IA 1065 no income or expense~~ auto-extended [Googleai](https://share.google/aimode/NtFvRnACVfHpMpn8Q) @type:link @project:accounting
+ - **2026-09-30** - ⚠️ IA 1065 state filing (auto-extended from Apr 30) @type:task @priority:high @project:accounting
 
  - **2026-09-30** - IA auto-extension if no tax payment - Cheaper eTax forms [olt.com](https://www.olt.com/main/oltstateff/ia.php) @type:link @project:accounting
 
@@ -175,11 +177,12 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Thu Apr 23)
-✓ Steve to dentist (tooth issue)
-✓ HWPC RP + Mark work
-✓ Jason called re TreesAES insurance - looking into it
-✓ Brad Nordyke reached - visiting East Coast
+# Yesterday (Fri Apr 24)
+✓ Attempted IA 1065 state filing
+- TurboTax State $55 - couldn't print or e-file (Intuit 🤬)
+- Auto-extension applies if no tax owed (6 months → Sep 30)
+- Flow-through LLC tax question: confirm with accountant
+✓ HWPC RP continued
 
 </details>
 
