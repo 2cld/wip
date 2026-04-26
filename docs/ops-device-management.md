@@ -152,16 +152,16 @@ Track all managed devices in [cat2net users](https://docs.google.com/spreadsheet
 
 ### Phone Inventory (2026-04-26)
 
-| # | Device | OS | Name | Status | Account | Target Use | Network |
-|---|--------|-----|------|--------|---------|------------|---------|
-| 1 | iPhone 11 Pro | iOS | Alice's iPhone | Active - on Brad's family plan | Brad's iCloud | Personal / Wip voice input - NEEDS CLEANUP | USCellular TreesAES |
-| 2 | iPhone 6 | iOS 12.5.5 | Chris Trees iPhone6 | Powers up, cracked screen | christrees | Parts / archive | ?? na |
-| 3 | iPhone 8 | iOS 15.6.1 | Alice's iPhone (2) | Powers up, lock code known | Alice's iCloud | Cleanup candidate | ?? na |
-| 4 | iPhone 8 | iOS 15.5 | CATiPhone8 | Working, Ting Wi-Fi carrier | cat | Best candidate - has carrier | Ting |
-| 5 | iPhone 8 | iOS ?? | Andrea's iPhone 8 | Locked - passcode unknown | Andrea's iCloud | Need passcode or reset | ?? na |
-| 6 | iPhone 8 | iOS ?? | Unknown | Dead screen, vibrates on home button | Unknown | Parts / screen swap | ?? na |
-| 7 | Essential PH-1 | Android | PH-1 (Chris Trees) | Working, cracked bottom screen | christrees | HWPC field service test | ?? na |
-| 8 | Alcatel | Windows Phone | TBD | Charging | TBD | Curiosity / archive | Ting |
+| # | Device | OS | Name | Status | Account | Target Use | Network | Number |
+|---|--------|-----|------|--------|---------|------------|---------|---------|
+| at1 | iPhone 11 Pro | iOS | Alice's iPhone | Active - on Brad's family plan | Brad's iCloud | Personal / Wip voice input - NEEDS CLEANUP | USCellular | 319-330-1491 |
+| at2 | iPhone 8 | iOS 15.6.1 | Alice's iPhone (2) | Powers up, lock code known | Alice's iCloud | Cleanup candidate | uscell | 319-330-1128 |
+| ct1 | Alcatel | Windows Phone | TBD | Charging | TBD | Curiosity / archive | Ting | 319-461-5171 |
+| ct2 | iPhone 8 | iOS 15.5 | CATiPhone8 | Working, Ting Wi-Fi carrier | cat | Best candidate - has carrier | Ting | 319-461-5172 |
+| ct3 | Essential PH-1 | Android | PH-1 (Chris Trees) | Working, cracked bottom screen | christrees | HWPC field service test | ?? na | xxx-xxx-xxxx |
+| s1 | iPhone 8 | iOS ?? | Andrea's iPhone 8 | Locked - passcode unknown | Andrea's iCloud | Need passcode or reset | ?? na | xxx-xxx-xxxx |
+| s2 | iPhone 6 | iOS 12.5.5 | Chris Trees iPhone6 | Powers up, cracked screen | christrees | Parts / archive | ?? na | xxx-xxx-xxxx |
+| s3 | iPhone 8 | iOS ?? | Unknown | Dead screen, vibrates on home button | Unknown | Parts / screen swap | ?? na | xxx-xxx-xxxx |
 
 ### Phone Cleanup Process (per device)
  - [ ] Power on, check current state
