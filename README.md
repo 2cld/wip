@@ -90,6 +90,8 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 **Open Issues:**
  - [#1 Integrate nsgctime calendar reads into daily check-in](https://github.com/2cld/wip/issues/1)
  - [#2 Review nsgctime scope: extract calendar API vs keep full project](https://github.com/2cld/wip/issues/2)
+ - [#3 Mobile voice input to Wip (iPhone + Android)](https://github.com/2cld/wip/issues/3)
+ - [#4 Wip as orchestrator: capture → triage → distribute → schedule](https://github.com/2cld/wip/issues/4)
 
 **Definition of Done:**
  - [X] Wip GitHub account + MCP configured (ho-wip)
