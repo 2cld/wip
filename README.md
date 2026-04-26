@@ -3,20 +3,22 @@
 Click for [Meeting Link](https://meet.google.com/dov-vkev-tzm)
 
 # Daily Check-In
-**Current Streak:** 21 days | **Last Check-In:** 2026-04-25
+**Current Streak:** 22 days | **Last Check-In:** 2026-04-26
 
 ## Today
-**Top 3 Priorities for Saturday, April 25:**
-1. Something NOT HWPC - netstack federation / media cleanup / wip integration
-2. HWPC RP (lighter touch today)
-3. Wendell event logistics (May 1 - 6 days)
+**Top 3 Priorities for Sunday, April 26:**
+1. iPhone cleanup - found old phones, transfer auth apps, clear iPhoto sync
+2. HWPC - April tickets catch-up + Customer Audit run-through
+3. Federation Node - backup setup + cleanup during iPhone work
+4. Sunday Evening Review tonight
 
 ### History
 
 <details markdown="1">
 <summary><strong>This Week</strong> </summary>
 
- - **2026-04-25 (Sat):** 🎯 Non-HWPC focus day + Wendell event prep
+ - **2026-04-26 (Sun):** 🎯 iPhone cleanup + HWPC April tickets + Customer Audit + Fed Node + Sunday Review
+ - **2026-04-25 (Sat):** ✓ Wip integration MASSIVE day: GitHub MCP + Gitea API + Google Calendar all live + persona brain (ho-wip) + Customer Audit function built for HWPC RP
  - **2026-04-24 (Fri):** ✓ Attempted IA 1065 state filing - TurboTax $55 waste (can't print/e-file state) + auto-extension applies (no tax owed) + HWPC RP continued
  - **2026-04-23 (Thu):** ✓ Steve dentist + HWPC RP + Mark work + Jason called re TreesAES insurance (looking into it) + Brad reached (visiting East Coast)
  - **2026-04-22 (Wed):** ✓ HWPC full tilt + discovered TreesAES insurance cancelled
@@ -190,12 +192,13 @@ Connect Wip to project repos so it can monitor issue status, PRs, and project he
 <details markdown="1">
 <summary><strong>Yesterday tasks</strong> </summary>
 
-# Yesterday (Fri Apr 24)
-✓ Attempted IA 1065 state filing
-- TurboTax State $55 - couldn't print or e-file (Intuit 🤬)
-- Auto-extension applies if no tax owed (6 months → Sep 30)
-- Flow-through LLC tax question: confirm with accountant
-✓ HWPC RP continued
+# Yesterday (Sat Apr 25)
+✓ Wip integration: GitHub MCP, Gitea API, Google Calendar all connected
+✓ ho-wip identity: Google account, Chrome profile, GitHub, Gitea
+✓ Persona brain: ops-account-management.md, cat2net symlink, repo inventory
+✓ HWPC Customer Audit function built (read-only)
+✓ 3 GitHub issues created for wip-integration
+✓ Repo lifecycle management process added to PROCESS.md
 
 </details>
 
