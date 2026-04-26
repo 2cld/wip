@@ -82,3 +82,38 @@ Track all managed devices in [cat2net users](https://docs.google.com/spreadsheet
 - Macs
 - Windows PCs
 - Android devices
+
+### Phone Inventory (2026-04-26)
+
+| # | Device | OS | Status | Current Account | Target Use |
+|---|--------|-----|--------|----------------|------------|
+| 1 | iPhone (mom's old) | iOS | On Brad's account - needs cleanup | Brad's family plan | Personal / Wip voice input |
+| 2 | iPhone | iOS | Unknown | TBD | TBD |
+| 3 | iPhone | iOS | Unknown | TBD | TBD |
+| 4 | iPhone | iOS | Unknown | TBD | TBD |
+| 5 | iPhone | iOS | Unknown | TBD | TBD |
+| 6 | iPhone | iOS | Unknown | TBD | TBD |
+| 7 | Android (Essential PH-1) | Android | Unknown | TBD | HWPC field service test |
+| 8 | Alcatel | Windows Phone | Unknown | TBD | Curiosity / archive |
+
+### Phone Cleanup Process (per device)
+ - [ ] Power on, check current state
+ - [ ] Document: model, iOS/Android version, storage, current account
+ - [ ] Backup any needed data
+ - [ ] Sign out of all accounts (iCloud, Google, etc.)
+ - [ ] Factory reset
+ - [ ] Setup with appropriate account (personal, HWPC, or test)
+ - [ ] Test: web browsing works
+ - [ ] Test: Google Calendar access (for Wip voice input)
+ - [ ] Test: HWPC RP web access (for field service suitability)
+ - [ ] Update inventory table above
+ - [ ] Update cat2net
+
+### Multi-Purpose Testing Goals
+ - **Personal/Wip:** Can this phone do voice → Google Calendar for Wip check-ins?
+ - **HWPC Field Service:** Can Mark use this for hwpc-rp ticket management? (nspwa offline-first)
+ - **Federation Node:** Document as client device in netstack federation topology
+ - Results go to:
+   - This doc (inventory + status)
+   - [hwpc.2cld.net](https://hwpc.2cld.net) (HWPC field test results)
+   - ns-site-template / federation docs (client portal management)
