@@ -32,6 +32,64 @@ Context: When inheriting or repurposing an iPhone (like mom's old phone) - need 
 **Current Tasks:**
 - [ ] Mom's iPhone cleanup - [Task in README](../README.md#inbox)
 
+### iPhone 11 Pro Cleanup (Device #1 - "Alice's iPhone")
+
+**Context:** This is the daily driver. Was Alice's (mom), on Brad's family plan. After Pixel 7 broke in Hawaii, lots of Chris's Google stuff migrated here (Google Auth, MS Auth, airline tickets, etc.). Need to extract everything before removing from Brad's account.
+
+**⚠️ DO NOT factory reset until all steps are complete.**
+
+#### Phase 1: Document what's on the phone
+ - [ ] List all signed-in accounts (Settings → top of screen, Mail, etc.)
+ - [ ] Screenshot Google Authenticator codes (or export to another device first)
+ - [ ] Screenshot Microsoft Authenticator accounts
+ - [ ] Note any airline apps with active tickets/loyalty accounts
+ - [ ] Check for any other 2FA apps (Authy, etc.)
+ - [ ] Document which phone numbers are tied to this device for SMS 2FA
+
+#### Phase 2: Move authenticator apps FIRST (before anything else)
+ - [ ] Google Authenticator: export/transfer to another device (#4 CATiPhone8 or #7 PH-1)
+   - Open Google Auth → menu → Transfer accounts → Export
+   - Scan QR on target device
+ - [ ] Microsoft Authenticator: backup to cloud / transfer
+   - Settings → Backup → ensure cloud backup is on
+   - Restore on target device
+ - [ ] Any other 2FA: document and transfer
+
+#### Phase 3: Extract data
+ - [ ] Photos: check what's in iCloud (Brad's plan) vs local
+   - Download all photos from iCloud before removing from Brad's plan
+   - Move to Google Photos (christrees@gmail.com) or local backup
+ - [ ] Google Timeline data: check if accessible via Google Maps → Timeline
+   - Export from [timeline.google.com](https://timeline.google.com) if available
+ - [ ] Contacts: verify synced to Google (christrees@gmail.com)
+ - [ ] Notes: check for any Apple Notes that need saving
+ - [ ] Voicemail: save any important voicemails
+ - [ ] Text messages: any important threads to archive?
+
+#### Phase 4: Broken Pixel 7 data recovery
+ - [ ] Check if Pixel 7 powers on at all (even with cracked screen)
+ - [ ] If screen works partially: connect to Wi-Fi, verify Google backup
+ - [ ] Google Timeline: should be in Google account already (cloud-synced)
+ - [ ] Photos: check Google Photos (christrees@gmail.com) for auto-backup
+ - [ ] If screen dead: try USB-C to HDMI adapter for screen output
+ - [ ] Last resort: professional data recovery
+
+#### Phase 5: Remove from Brad's account
+ - [ ] Confirm all photos are off iCloud
+ - [ ] Sign out of Brad's iCloud (Settings → [name] → Sign Out)
+ - [ ] Remove from Brad's Family Sharing
+ - [ ] Remove from Find My (Brad may need to do this from his end)
+ - [ ] Factory reset
+ - [ ] Setup fresh with christrees@gmail.com / c9t@me.com
+
+#### Phase 6: Setup as personal device
+ - [ ] Sign in with own iCloud (c9t@me.com)
+ - [ ] Add Google account (christrees@gmail.com) for Calendar, Mail, Contacts
+ - [ ] Configure Siri → Google Calendar (for Wip voice input)
+ - [ ] Install: Google Auth, MS Auth, Google Maps, GitHub mobile
+ - [ ] Test: voice → Google Calendar event with #cat9-wip code
+ - [ ] Update inventory table above
+
 ---
 
 ## Apple Watch Management
