@@ -235,10 +235,14 @@ Connect Wip (the AI assistant) to project repos, calendar, and communication cha
  - [X] Configure OAuth consent screen + credentials
  - [X] Complete OAuth2 flow - tokens saved to nsgctime/data/calendar-token.json
  - [X] Test: connection, calendar list, availability, time slots, event creation ✅
- - [ ] Share your main calendars with wip@horseoff.com (so wip sees your schedule)
+ - [X] Share christrees@gmail.com calendar with wip@horseoff.com (reader) ✅
+ - [X] Test: read christrees@gmail.com events ✅
+ - [X] Test: write to wip@horseoff.com calendar + invite christrees@gmail.com ✅
  - [ ] Integrate calendar reads into daily check-in workflow
- - [ ] Document results in this file
- - **Note:** Using existing nsgctime project (~/code/nsgctime) - Node.js CLI, no extra tooling needed
+ - [ ] Use project codes from [docs/cat-project-codes.md](./docs/cat-project-codes.md) for event naming
+ - **Note:** Using existing nsgctime project (~/.local/nsgctime symlink) - Node.js CLI
+ - **Pattern:** Wip writes to wip@horseoff.com calendar, invites christrees@gmail.com
+ - **Project codes:** `#cat9-wip`, `#cat9-hwpc`, `#cat9-llc`, etc. - see [cat-project-codes.md](./docs/cat-project-codes.md)
  - **Cloud project:** wip-calendar under wip@horseoff.com (console.cloud.google.com)
 
 ### Phase 4: Multi-Identity Coordination
